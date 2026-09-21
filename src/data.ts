@@ -8,10 +8,10 @@ export async function loadState():Promise<UserState>{try {const row=await db.sta
 let saveQueue=Promise.resolve();
 export function saveState(value:UserState){saveQueue=saveQueue.catch(()=>{}).then(()=>db.state.put({key:'user',value})).then(()=>{});return saveQueue;}
 export async function loadContent(onProgress?:(posts:Post[])=>void):Promise<Post[]>{
- const response=await fetch(`${BASE}content/index.json`); if(!response.ok)throw new Error('İçerik listesi yüklenemedi.');
+ const response=await fetch(`${BASE}content/index.json`,{cache:'no-cache'}); if(!response.ok)throw new Error('İçerik listesi yüklenemedi.');
  const manifest=await response.json(); const posts:Post[]=[];
  // Packs stay separate. Progressive delivery makes later additions inexpensive.
- for(const pack of manifest.packs){const r=await fetch(`${BASE}content/${pack.file}`);if(!r.ok)throw new Error('Bir içerik paketi yüklenemedi.');const data=await r.json();posts.push(...data.posts);onProgress?.([...posts]);}
+ for(const pack of manifest.packs){const r=await fetch(`${BASE}content/${pack.file}`,{cache:'no-cache'});if(!r.ok)throw new Error('Bir içerik paketi yüklenemedi.');const data=await r.json();posts.push(...data.posts);onProgress?.([...posts]);}
  return posts;
 }
 export function parseBackup(raw:string):UserState {

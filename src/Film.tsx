@@ -3,7 +3,7 @@ import {AbsoluteFill,Img,interpolate,useCurrentFrame} from 'remotion';
 import {Player,type PlayerRef} from '@remotion/player';
 import {Swiper,SwiperSlide} from 'swiper/react';
 import {Virtual,Mousewheel,Keyboard,A11y} from 'swiper/modules';
-import {Bookmark,ChevronDown,ChevronLeft,ChevronRight,Heart,Pause,Play,Send,X,BookOpen,Focus,Settings2,Volume2,VolumeX,Music2,RotateCcw} from 'lucide-react';
+import {Bookmark,ChevronDown,ChevronLeft,ChevronRight,Heart,Pause,Play,Send,X,BookOpen,Focus,Volume2,VolumeX,Music2} from 'lucide-react';
 import {Avatar,IconButton} from './components';
 import {FocusSettings,usePreferences,type Preferences} from './Preferences';
 import {createScenes,revealUnits,visibleUnitCount} from './preferences.mjs';
