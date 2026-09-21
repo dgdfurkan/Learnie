@@ -60,3 +60,13 @@ PWA yükleme, tarayıcı desteğine bağlıdır. iOS'ta Safari paylaş menüsü,
 ## Bağımlılık lisansları
 
 React, Motion, Swiper, TanStack Virtual ve Dexie kendi lisanslarına tabidir. Remotion özel lisanslıdır; kurumsal kullanıma geçmeden ilgili sürümün koşullarını inceleyin: https://github.com/remotion-dev/remotion/blob/main/LICENSE.md . Görsel lisansları ve atıfları her içerikte ayrıca bulunur.
+
+## Odak, koyu tema ve kişisel arşiv
+
+- Açık / koyu / sistem teması; ilk çizimden önce uygulanan tercih ve PWA tema rengi.
+- Anlatımın sağ üstündeki odak düğmesinden kelime/harf akışı, hız ve yazı boyutu. Ayarlar `learnie-preferences-v1` anahtarında yerel saklanır.
+- Hareketli fotoğraflar, konuya özel SVG sahneleri ve kısa metin parçaları; azaltılmış hareket tercihi gözetilir.
+- İsteğe bağlı Türkçe cihaz seslendirmesi ve uygulamanın kendi ürettiği hafif ambient tonlar. Tarayıcı kısıtları nedeniyle ses, kullanıcının dokunuşuyla başlar. Ses kalitesi ve Türkçe ses bulunması cihaza bağlıdır.
+- Kaydedilenlerde ızgara/liste, arama, sonra okunacaklar ve okunanlar. Okundu işareti kullanıcıya aittir; sadece ekranda görünmek okuma sayılmaz.
+- Eski kişisel veriler korunur; yeni yedekler görünüm ve odak tercihlerini de içerir.
+- Toplam 22 kaynaklı gönderi; 9 otomatik kontrol.

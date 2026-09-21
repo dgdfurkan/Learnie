@@ -45,3 +45,11 @@ Her pakette `version: 1`, `title` ve `posts` dizisi bulunur. Her gönderinin ger
 20–100 gönderilik paketler pratik bir başlangıçtır. Arayüzden bütün görseller bir anda yüklenmez; akış sanallaştırılır. Şu an metin paketleri oturum başında okunur. Binlerce içerik eklendiğinde metin indeksini/gövde paketlerini ayrı yükleme yaklaşımıyla genişletmek mümkündür. Bu ölçeğe geçişte gerçek cihaz belleği, başlangıç yükü ve arama süresi ayrıca ölçülmelidir.
 
 Statik gönderi sayfaları build sırasında otomatik üretilir. Her gönderi için ayrı HTML düzenlemek gerekmez. Dış görsel adreslerinin çalışması otomatik şema doğrulamasının kapsamı dışındadır; yayından önce kontrol edilmelidir.
+
+## Hareketli anlatım ve yeni konular
+
+`motion` alanı isteğe bağlıdır: `tennis`, `football`, `bottle`, `orbit`, `geometry`, `art`, `particles`. Sahne çizimleri Remotion içinde kareye göre hareket eder. Bunlar ölçekli bilimsel simülasyonlar değil, anlatıma eşlik eden şemalardır. Alan verilmezse kategoriye uygun varsayılan seçilir.
+
+Yeni kategoriler: `Spor`, `Gündelik`, `Sağlık`, `Soru`. `discoveries-002.json` farklı konulardan 9 örnek içerir. Her pakette ana fikir, kısa açıklama, kaynak ve açıklamalı soru düzenini koru. Sağlık metinlerinde mekanizma ile kişiye özel kullanım önerisini ayır; dinî metinlerde meal/rivayet ile editoryal yorumu açıkça ayır. Televizyonda sorulduğu doğrulanmayan soruları belirli bir programa atfetme.
+
+Uzun paragraflar anlatımda sözcükler kaybolmadan kısa sahnelere bölünür. Odak modunda kelime/harf hızı ve yazı boyutu izleyicinin genel tercihidir. Seslendirme cihazın Türkçe Web Speech sesine bağlıdır; ses yoksa kontrol açıklamayla pasif olur. Seslendirme bu Türkçe açıklamaları okur, Kur’an tilaveti değildir. Arka plan müziği Web Audio ile oluşturulan özgün sinüs tonlarıdır; dış müzik kaydı veya sample içermez. Dış fotoğraflar ve kredileri JSON içinde kalır.

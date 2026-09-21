@@ -5,6 +5,11 @@
       "file": "starter-001.json",
       "title": "İlk meraklar",
       "count": 13
+    },
+    {
+      "file": "discoveries-002.json",
+      "title": "Oyundan gündelik hayata",
+      "count": 9
     }
   ]
 }

@@ -5,7 +5,7 @@ export function validatePost(p,ids=new Set()){
  if(!p||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(p.id))fail('id küçük Latin harf, rakam ve tire içermeli.');
  if(ids.has(p.id))fail('Tekrarlanan içerik kimliği.');ids.add(p.id);
  for(const key of ['title','subtitle','account','handle','category','updatedAt'])if(typeof p[key]!=='string'||!p[key].trim())fail(`${key} zorunlu.`);
- if(!['Bilim','Uzay','Sanat','Tarih','Coğrafya','Felsefe','İnanç','Doğa','Teknoloji'].includes(p.category))fail('Kategori geçersiz.');
+ if(!['Bilim','Uzay','Sanat','Tarih','Coğrafya','Felsefe','İnanç','Doğa','Teknoloji','Spor','Gündelik','Sağlık','Soru'].includes(p.category))fail('Kategori geçersiz.');
  if(!['carousel','story','experiment','perspective','reel'].includes(p.format))fail('Biçim geçersiz.');
  if(!Number.isFinite(p.minutes)||p.minutes<=0)fail('Okuma süresi geçersiz.');
  if(!/^#[a-f\d]{6}$/i.test(p.accent))fail('Vurgu rengi geçersiz.');
@@ -16,6 +16,7 @@ export function validatePost(p,ids=new Set()){
  if(!p.sources?.length||p.sources.some(s=>!s.label||!https(s.url)))fail('Geçerli bilgi kaynağı gerekli.');
  if(!Array.isArray(p.comments)||p.comments.some(c=>!c.name||!c.text))fail('Örnek yorum biçimi geçersiz.');
  if(p.quiz&&(!p.quiz.question||!p.quiz.explanation||p.quiz.options.length<2||!Number.isInteger(p.quiz.answer)||p.quiz.answer<0||p.quiz.answer>=p.quiz.options.length))fail('Soru yanıtı geçersiz.');
+ if(p.motion&&!['tennis','football','bottle','orbit','geometry','art','particles'].includes(p.motion))fail('Animasyon türü geçersiz.');
  if(p.experiment&&!['pressure','light'].includes(p.experiment))fail('Deney türü geçersiz.');
  if(p.video&&(!['youtube','file'].includes(p.video.kind)||(p.video.kind==='youtube'?!/^[a-zA-Z0-9_-]{11}$/.test(p.video.url):!https(p.video.url))))fail('Video kaynağı geçersiz.');
  return true;

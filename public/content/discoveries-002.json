@@ -1,0 +1,606 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "id": "spor-tenis-ralli",
+      "category": "Spor",
+      "title": "O uzun rallide neler oluyor?",
+      "subtitle": "Top gidip geliyor; her vuruşta yeni bir karar var.",
+      "account": "Oyunun İçinden",
+      "handle": "oyununicinden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tennis_ball_on_tennis_court_20170619.jpg/960px-Tennis_ball_on_tennis_court_20170619.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_tennis_court_20170619.jpg",
+        "alt": "Kırmızı kort üzerinde sarı bir tenis topu",
+        "credit": "Santeri Viinamäki",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "motion": "tennis",
+      "format": "reel",
+      "minutes": 2,
+      "accent": "#5b8464",
+      "slides": [
+        {
+          "title": "Ralli dediğimiz şey",
+          "text": "Ralli, topun oyuncular arasında geçerli vuruşlarla gidip geldiği seridir. Bazen birkaç vuruşta biter, bazen tribünleri ayağa kaldıracak kadar uzar.",
+          "kicker": "OYUNUN DİLİ"
+        },
+        {
+          "title": "Her vuruş bir puan değil",
+          "text": "Top fileye takılırsa, oyun alanının dışına düşerse veya oyuncu topu ikinci kez sekmeden karşılayamazsa puanı kaybedebilir. Uzun bir rallinin sonunda da yalnızca bir puan kazanılır.",
+          "kicker": "BİR PUAN"
+        },
+        {
+          "title": "Vole ile yer vuruşu",
+          "text": "Top yere değmeden yapılan vuruş vole olarak adlandırılır. Top sektikten sonra yapılan vuruş ise yer vuruşudur. Maç izlerken bu ayrımı takip etmek, ralliyi anlamanın iyi bir başlangıcıdır.",
+          "kicker": "GÖZÜN TOPTA"
+        }
+      ],
+      "sources": [
+        {
+          "label": "ITF · Tenis sözlüğü",
+          "url": "https://www.itftennis.com/en/about-us/organisation/tennis-glossary/"
+        },
+        {
+          "label": "USTA · Ralli ve vuruş terimleri",
+          "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+        }
+      ],
+      "updatedAt": "2026-09-21",
+      "quiz": {
+        "question": "Yirmi vuruşluk bir ralli kazanıldığında kaç puan alınır?",
+        "options": [
+          "1",
+          "10",
+          "20",
+          "Vuruş sayısına göre değişir"
+        ],
+        "answer": 0,
+        "explanation": "Ralli kaç vuruş sürerse sürsün sonuç bir puandır."
+      },
+      "comments": [
+        {
+          "name": "Deniz",
+          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
+        },
+        {
+          "name": "Ece",
+          "text": "Kısa anlatımla daha kolay aklımda kaldı."
+        }
+      ]
+    },
+    {
+      "id": "spor-tenis-skor",
+      "category": "Spor",
+      "title": "15, 30… Neden 40?",
+      "subtitle": "Tenis tabelasını okumak, oyuna girmek için yeterli.",
+      "account": "Oyunun İçinden",
+      "handle": "oyununicinden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Tennis_ball_on_ground.jpg/960px-Tennis_ball_on_ground.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_ground.jpg",
+        "alt": "Zeminde duran sarı tenis topunun yakın görünümü",
+        "credit": "Santeri Viinamäki",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "motion": "tennis",
+      "format": "reel",
+      "minutes": 2,
+      "accent": "#5b8464",
+      "slides": [
+        {
+          "title": "Puanlar böyle sayılıyor",
+          "text": "Standart bir oyunda puanlar 0, 15, 30 ve 40 olarak söylenir. İngilizcede sıfır için love kullanılır. Skor anonsunda servis atan oyuncunun puanı önce gelir.",
+          "kicker": "TABELAYI OKU"
+        },
+        {
+          "title": "İş burada uzayabilir",
+          "text": "Standart avantajlı oyunda 40–40 eşitliğine deuce denir. Sonraki puan avantaj getirir. Avantajlı oyuncu bir puan daha alırsa oyunu kazanır; rakibi alırsa yeniden eşitlik olur.",
+          "kicker": "40–40"
+        },
+        {
+          "title": "Tie-break ayrı bir bölüm",
+          "text": "Tie-break içinde puanlar 1, 2, 3 diye sayılır. Hedef puan ve set kuralları formatına göre değişebilir. Bu yüzden maçın hangi formatta oynandığına bakmak gerekir.",
+          "kicker": "BAŞKA BİR SAYIM"
+        }
+      ],
+      "sources": [
+        {
+          "label": "USTA · Puan, oyun ve set kuralları",
+          "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-scoring-rules.html"
+        }
+      ],
+      "updatedAt": "2026-09-21",
+      "quiz": {
+        "question": "Standart avantajlı oyunda deuce hangi skordur?",
+        "options": [
+          "15–15",
+          "30–30",
+          "40–40",
+          "6–6"
+        ],
+        "answer": 2,
+        "explanation": "Deuce 40–40 eşitliğidir. 6–6 ise puan değil, set içindeki oyun sayısını anlatabilir."
+      },
+      "comments": [
+        {
+          "name": "Deniz",
+          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
+        },
+        {
+          "name": "Ece",
+          "text": "Kısa anlatımla daha kolay aklımda kaldı."
+        }
+      ]
+    },
+    {
+      "id": "spor-futbol-on-numara",
+      "category": "Spor",
+      "title": "Bir forma numarasından fazlası: 10",
+      "subtitle": "Bazen bir rakam, bütün bir futbol anlayışını taşır.",
+      "account": "Oyunun İçinden",
+      "handle": "oyununicinden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg/960px-Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg",
+        "alt": "Çim saha üzerindeki futbol topu",
+        "credit": "Peter Glaser",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "motion": "football",
+      "format": "reel",
+      "minutes": 2,
+      "accent": "#5b8464",
+      "slides": [
+        {
+          "title": "Bir sayı nasıl simge olur?",
+          "text": "FIFA Müzesi, 10 numarayı yaratıcılık ve oyun görüşüyle ilişkilendirilen bir futbol simgesi olarak ele alıyor. Yıllar içinde o formayı giyen oyuncular, rakama kendi hikâyelerini ekledi.",
+          "kicker": "FUTBOL KÜLTÜRÜ"
+        },
+        {
+          "title": "Oyunu birbirine bağlayan oyuncu",
+          "text": "Gündelik futbol dilinde on numara denince çoğu zaman hücumun bağlantılarını kuran, boşluk gören ve son pası düşünen oyuncu akla gelir. Bu bir rol tarifidir; sırtındaki rakam tek başına görevini belirlemez.",
+          "kicker": "SAHANIN İÇİNDE"
+        },
+        {
+          "title": "Formada bir hatıra taşımak",
+          "text": "Bir çocuk sevdiği oyuncunun numarasını seçtiğinde yalnızca sayı seçmez. Onun oyununu, sevincini ve hatırasını da taşımak ister. Formaların kültürel gücü biraz da buradan gelir.",
+          "kicker": "ORTAK HAFIZA"
+        }
+      ],
+      "sources": [
+        {
+          "label": "FIFA Müzesi · The Magic 10",
+          "url": "https://www.fifamuseum.com/en/the-magic-10/the-magic-10-digital-exhibition"
+        }
+      ],
+      "updatedAt": "2026-09-21",
+      "quiz": {
+        "question": "On numara ifadesi futbol kültüründe en çok neyi çağrıştırır?",
+        "options": [
+          "Yalnızca kaleciliği",
+          "Yaratıcılık ve oyun kurmayı",
+          "Her maç on golü",
+          "Yalnızca savunmayı"
+        ],
+        "answer": 1,
+        "explanation": "Bu ifade kültürel olarak yaratıcılık ve oyun kuruculukla özdeşleşmiştir; zorunlu bir pozisyon kuralı değildir."
+      },
+      "comments": [
+        {
+          "name": "Deniz",
+          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
+        },
+        {
+          "name": "Ece",
+          "text": "Kısa anlatımla daha kolay aklımda kaldı."
+        }
+      ]
+    },
+    {
+      "id": "soru-venus-gun",
+      "category": "Soru",
+      "title": "Bir dönüş, bir yıldan uzun olabilir mi?",
+      "subtitle": "Yarışma tadında bir soru. Cevabın arkasında iki farklı hareket var.",
+      "account": "Bir Soru Bir Keşif",
+      "handle": "birsorubirkesif",
+      "cover": {
+        "url": "https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2-16x9-1.jpg",
+        "source": "https://science.nasa.gov/venus/venus-facts/",
+        "alt": "Venüs gezegeninin Mariner 10 verilerinden elde edilmiş görüntüsü",
+        "credit": "NASA/JPL-Caltech",
+        "license": "NASA görsel kullanım ilkeleri",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+      },
+      "motion": "orbit",
+      "format": "reel",
+      "minutes": 2,
+      "accent": "#a084b0",
+      "slides": [
+        {
+          "title": "İki farklı saat",
+          "text": "Bir gezegen kendi ekseninde döner; aynı zamanda Güneş çevresinde dolanır. Bu iki hareketin süresi birbirine eşit olmak zorunda değildir.",
+          "kicker": "TAHMİN ET"
+        },
+        {
+          "title": "243 ile 225",
+          "text": "Venüs kendi ekseninde bir dönüşünü yaklaşık 243 Dünya gününde tamamlar. Güneş çevresindeki bir turu, yani yılı ise yaklaşık 225 Dünya günü sürer.",
+          "kicker": "CEVAP VENÜS"
+        },
+        {
+          "title": "Gün derken neyi kastediyoruz?",
+          "text": "Buradaki 243 gün, yıldızlara göre dönüş süresidir. Venüs’te bir gün doğumundan sonraki gün doğumuna kadar geçen güneş günü yaklaşık 117 Dünya günüdür. Sorunun nasıl kurulduğu önemlidir.",
+          "kicker": "İNCE AYRINTI"
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA · Venüs gerçekleri",
+          "url": "https://science.nasa.gov/venus/venus-facts/"
+        },
+        {
+          "label": "NASA · Venüs bilgi föyü",
+          "url": "https://www.nasa.gov/wp-content/uploads/2009/12/Venus_Lithograph_h.pdf"
+        }
+      ],
+      "updatedAt": "2026-09-21",
+      "quiz": {
+        "question": "Hangi gezegenin ekseni çevresindeki dönüşü, kendi yılından daha uzundur?",
+        "options": [
+          "Dünya",
+          "Mars",
+          "Venüs",
+          "Jüpiter"
+        ],
+        "answer": 2,
+        "explanation": "Venüs: eksen dönüşü yaklaşık 243, yılı yaklaşık 225 Dünya günü. Bu Learnie için hazırlanmış özgün bir sorudur; bir TV programından alınmamıştır."
+      },
+      "comments": [
+        {
+          "name": "Deniz",
+          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
+        },
+        {
+          "name": "Ece",
+          "text": "Kısa anlatımla daha kolay aklımda kaldı."
+        }
+      ]
+    },
+    {
+      "id": "inanc-alak-oku",
+      "category": "İnanç",
+      "title": "Oku: öğrenmeye açılan bir kapı",
+      "subtitle": "Alak sûresinin ilk ayetlerine, bağlamını koruyarak bakalım.",
+      "account": "Anlamın İzinde",
+      "handle": "anlaminizinde",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Holy_Quran.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Holy_Quran.jpg",
+        "alt": "Açık Kur’an-ı Kerim sayfaları",
+        "credit": "Syed Hussaini",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "motion": "geometry",
+      "format": "reel",
+      "minutes": 2,
+      "accent": "#a68b54",
+      "slides": [
+        {
+          "title": "Başlangıçta bir çağrı",
+          "text": "Alak sûresinin ilk beş ayeti okuma, yaratılış, kalem ve öğrenme etrafında ilerler. Diyanet’in Kur’an Yolu tefsirinde bu bölüm, ilk vahiy olarak kabul edilen ayetler arasında açıklanır.",
+          "kicker": "ALAK 96:1–5"
+        },
+        {
+          "title": "Öğrenmek ve aktarmak",
+          "text": "Ayetlerde kalemle öğretmeye ve insanın bilmediğini öğrenmesine dikkat çekilir. Diyanet tefsiri, kalemin bilgiyi yazıya geçirme ve sonraki kuşaklara aktarma işlevini de ele alır.",
+          "kicker": "KALEM VE BİLGİ"
+        },
+        {
+          "title": "Bağlamla birlikte",
+          "text": "Bu kartlar ayetlerin birebir meali değil, kısa bir açıklamasıdır. Ayet metnini, mealini ve tefsirini birlikte okumak için aşağıdaki Diyanet kaynağına geçebilirsin.",
+          "kicker": "BİR OKUMA NOTU"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Diyanet · Alak sûresi 1–5, meal ve tefsir",
+          "url": "https://kuran.diyanet.gov.tr/tefsir/Alak-suresi/6107/1-5-ayet-tefsiri"
+        }
+      ],
+      "updatedAt": "2026-09-21",
+      "quiz": {
+        "question": "Alak sûresinin ilk beş ayetinde hangi araçla öğretmeye değinilir?",
+        "options": [
+          "Pusula",
+          "Kalem",
+          "Terazi",
+          "Teleskop"
+        ],
+        "answer": 1,
+        "explanation": "Kalemle öğretmeye değinilir. Açıklama için Alak 96:4–5 ve Kur’an Yolu tefsirine bakabilirsin."
+      },
+      "comments": [
+        {
+          "name": "Deniz",
+          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
+        },
+        {
+          "name": "Ece",
+          "text": "Kısa anlatımla daha kolay aklımda kaldı."
+        }
+      ]
+    },
+    {
+      "id": "inanc-hayirli-soz",
+      "category": "İnanç",
+      "title": "Göndermeden önce bir nefes",
+      "subtitle": "Peygamber Efendimiz’in söz ahlakına dair bir hatırlatması.",
+      "account": "Anlamın İzinde",
+      "handle": "anlaminizinde",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Holy_Quran.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Holy_Quran.jpg",
+        "alt": "Kur’an sayfaları; söz ve ahlak konusuna eşlik eden görsel",
+        "credit": "Syed Hussaini",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "motion": "geometry",
+      "format": "reel",
+      "minutes": 2,
+      "accent": "#a68b54",
+      "slides": [
+        {
+          "title": "Sözün de bir sorumluluğu var",
+          "text": "Buhârî’de aktarılan bir hadiste, Allah’a ve ahiret gününe iman eden kişinin iyi söz söylemesi veya susması öğütlenir. Aynı rivayette komşuya zarar vermemek ve misafire ikram etmek de yer alır.",
+          "kicker": "SÜNNETTEN HAYATA"
+        },
+        {
+          "title": "Bir mesaj da sözdür",
+          "text": "Bir yorumu göndermeden önce durup şu soruya bakabiliriz: Bu cümle bir şeyi açıklıyor mu, yoksa sadece birini incitmek için mi yazılıyor? Bu, hadisten hareketle gündelik hayata kurduğumuz bir bağlantıdır.",
+          "kicker": "BUGÜNE BAKALIM"
+        },
+        {
+          "title": "Rivayet ile yorum ayrı",
+          "text": "Hadisin kaynağı Sahîh-i Buhârî, 6018’dir. Buradaki sosyal medya örneği hadisin bir parçası değildir; öğretisini düşünmek için verilen güncel bir örnektir.",
+          "kicker": "KAYNAĞIYLA"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Sahîh-i Buhârî · 6018, Kitâbü’l-Edeb",
+          "url": "https://sunnah.com/bukhari:6018"
+        }
+      ],
+      "updatedAt": "2026-09-21",
+      "quiz": {
+        "question": "Bu hadiste söz konusunda hangi ilke öne çıkar?",
+        "options": [
+          "Her tartışmaya katılmak",
+          "Son sözü mutlaka söylemek",
+          "İyi söz söylemek veya susmak",
+          "En hızlı yanıtı vermek"
+        ],
+        "answer": 2,
+        "explanation": "Rivayet, iyi söz söylemeyi veya susmayı öğütler. Komşuluk ve misafirperverlik de aynı rivayette anılır."
+      },
+      "comments": [
+        {
+          "name": "Deniz",
+          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
+        },
+        {
+          "name": "Ece",
+          "text": "Kısa anlatımla daha kolay aklımda kaldı."
+        }
+      ]
+    },
+    {
+      "id": "gundelik-sise-kapagi",
+      "category": "Gündelik",
+      "title": "Şişe kapağı nasıl doğuyor?",
+      "subtitle": "İki parmağımızla çevirdiğimiz küçücük bir üretim hikâyesi.",
+      "account": "Nasıl Oluyor?",
+      "handle": "nasiloluyor",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Plastic_screw_caps.jpg/960px-Plastic_screw_caps.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Plastic_screw_caps.jpg",
+        "alt": "Farklı renklerde plastik şişe kapakları",
+        "credit": "Basilicofresco",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "motion": "bottle",
+      "format": "reel",
+      "minutes": 2,
+      "accent": "#ba7855",
+      "slides": [
+        {
+          "title": "Önce küçücük plastik taneleri",
+          "text": "Kapak üretiminde HDPE veya PP gibi termoplastikler kullanılabilir. Termoplastik, ısıtılınca şekil verilebilen plastik ailesidir. Malzeme, kapağın tasarımına ve kullanımına göre seçilir.",
+          "kicker": "HAM MADDE"
+        },
+        {
+          "title": "Kalıbın içinde birkaç adım",
+          "text": "Sıkıştırma kalıplamada yumuşatılmış plastikten ölçülü bir parça kalıba bırakılır. Kalıp kapanır ve parçaya kapağın biçimini verir. Soğutma, bu biçimin korunmasını sağlar.",
+          "kicker": "ŞEKİL VERME"
+        },
+        {
+          "title": "Küçük parçada büyük hassasiyet",
+          "text": "Enjeksiyon kalıplama da kapak üretiminde kullanılan başka bir yöntemdir. Kapağın boyutu ve sızdırmazlığı kontrol edilir. Şişeyi kapatan bu küçük parça, seri üretimde çok kez aynı ölçüde yapılmalıdır.",
+          "kicker": "TEK YÖNTEM YOK"
+        }
+      ],
+      "sources": [
+        {
+          "label": "SACMI · Sıkıştırma kalıplama süreci",
+          "url": "https://sacmi.com/en-US/closures-preforms-containers/compression-moulding"
+        },
+        {
+          "label": "SACMI · Kapaklarda HDPE seçimi",
+          "url": "https://sacmi.com/en-US/selection-of-alternative-hdpe-for-caps"
+        }
+      ],
+      "updatedAt": "2026-09-21",
+      "quiz": {
+        "question": "Sıkıştırma kalıplamada kapağın biçimini ne belirler?",
+        "options": [
+          "Etiketin rengi",
+          "Kalıbın iç yüzeyi",
+          "Şişedeki suyun sıcaklığı",
+          "Nakliye kutusu"
+        ],
+        "answer": 1,
+        "explanation": "Yumuşatılmış plastik, kalıp içinde şekil alır; soğuyunca bu şekli korur."
+      },
+      "comments": [
+        {
+          "name": "Deniz",
+          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
+        },
+        {
+          "name": "Ece",
+          "text": "Kısa anlatımla daha kolay aklımda kaldı."
+        }
+      ]
+    },
+    {
+      "id": "saglik-deodorant",
+      "category": "Sağlık",
+      "title": "Deodorant teri durdurur mu?",
+      "subtitle": "Kokuyu azaltmak ile terlemeyi azaltmak aynı iş değil.",
+      "account": "Vücudun Hikâyesi",
+      "handle": "vucudunhikayesi",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Deoroller.JPG/330px-Deoroller.JPG",
+        "source": "https://commons.wikimedia.org/wiki/File:Deoroller.JPG",
+        "alt": "Bir roll-on ürünün yakın görünümü; marka önerisi değildir",
+        "credit": "Joho345",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "motion": "particles",
+      "format": "reel",
+      "minutes": 2,
+      "accent": "#638f91",
+      "slides": [
+        {
+          "title": "Etiketteki küçük ayrım",
+          "text": "Deodorant, vücut kokusunu gidermek veya maskelemek için kullanılır. Antiperspirant ise uygulandığı bölgedeki terlemeyi azaltmayı hedefler. Bir ürün ikisini bir arada sunabilir.",
+          "kicker": "İKİ FARKLI İŞ"
+        },
+        {
+          "title": "Geçici bir tıkaç",
+          "text": "Antiperspirantlardaki alüminyum bazlı bileşikler ter kanalında geçici bir tıkaç oluşturabilir. Böylece cilt yüzeyine ulaşan ter azalır. Bu, deodorantın kokuyu hedefleyen etkisinden farklıdır.",
+          "kicker": "NASIL ETKİLER?"
+        },
+        {
+          "title": "Şişenin adı her şeyi söylemez",
+          "text": "Sprey veya roll-on, ürünün uygulama biçimidir; tek başına işlevini açıklamaz. Ne yaptığını anlamak için etikette deodorant mı, antiperspirant mı yazdığına bakılır. Bu açıklama ürün ya da tedavi önerisi değildir.",
+          "kicker": "GÜNDELİK MERAK"
+        }
+      ],
+      "sources": [
+        {
+          "label": "FDA · Kozmetik ve ilaç ürünleri",
+          "url": "https://www.fda.gov/cosmetics/resources-consumers-cosmetics/cosmetics-safety-qa-personal-care-products"
+        },
+        {
+          "label": "NCI · Antiperspirantların çalışma biçimi",
+          "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths/antiperspirants-fact-sheet"
+        }
+      ],
+      "updatedAt": "2026-09-21",
+      "quiz": {
+        "question": "Terlemeyi azaltmak için tasarlanan ürün grubu hangisidir?",
+        "options": [
+          "Her parfüm",
+          "Her roll-on",
+          "Antiperspirant",
+          "Her deodorant"
+        ],
+        "answer": 2,
+        "explanation": "Antiperspirant terlemeyi azaltır. Roll-on ise yalnızca bir uygulama biçiminin adıdır."
+      },
+      "comments": [
+        {
+          "name": "Deniz",
+          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
+        },
+        {
+          "name": "Ece",
+          "text": "Kısa anlatımla daha kolay aklımda kaldı."
+        }
+      ]
+    },
+    {
+      "id": "saglik-agri-kesici",
+      "category": "Sağlık",
+      "title": "Ağrı kesici ağrının yerini nasıl bulur?",
+      "subtitle": "İlaç bir adresi aramaz. Vücutta bir süreci etkiler.",
+      "account": "Vücudun Hikâyesi",
+      "handle": "vucudunhikayesi",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Bottle_of_Ibuprofen_tablets_with_cap_removed_and_tablets_in_front.jpg/500px-Bottle_of_Ibuprofen_tablets_with_cap_removed_and_tablets_in_front.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Bottle_of_Ibuprofen_tablets_with_cap_removed_and_tablets_in_front.jpg",
+        "alt": "İbuprofen tabletleri ve ambalajı; kullanım önerisi değildir",
+        "credit": "Derrick Coetzee",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "motion": "particles",
+      "format": "reel",
+      "minutes": 2,
+      "accent": "#638f91",
+      "slides": [
+        {
+          "title": "Hepsi aynı biçimde çalışmaz",
+          "text": "Ağrı kesiciler tek bir ilaç türü değildir. Burada örnek olarak ibuprofene bakıyoruz. İbuprofen, steroid olmayan iltihap giderici ilaçlar grubundadır; kısaca NSAİİ denir.",
+          "kicker": "BİR ÖRNEK"
+        },
+        {
+          "title": "Ağrıya katkı veren maddeler",
+          "text": "İbuprofen, ağrı, ateş ve iltihaplanmaya katkı veren maddelerin üretimini azaltarak etki eder. Ağrıyan yere bilinçli olarak gitmez; vücuttaki kimyasal süreçleri etkiler.",
+          "kicker": "SİNYALİ AZALTMAK"
+        },
+        {
+          "title": "Rahatlama, nedenin çözülmesi değildir",
+          "text": "Ağrının azalması, ağrıya yol açan sorunun mutlaka giderildiği anlamına gelmez. İbuprofen herkes için uygun değildir ve ciddi yan etkileri olabilir. İlaç seçimi veya doz için değil, çalışma mantığını anlamak için okuyorsun; kullanım kararını hekim veya eczacıyla değerlendir.",
+          "kicker": "ÖNEMLİ AYRIM"
+        }
+      ],
+      "sources": [
+        {
+          "label": "MedlinePlus · İbuprofen bilgisi",
+          "url": "https://medlineplus.gov/druginfo/meds/a682159.html"
+        }
+      ],
+      "updatedAt": "2026-09-21",
+      "quiz": {
+        "question": "İbuprofen için hangi açıklama daha doğrudur?",
+        "options": [
+          "Ağrıyan yeri düşünerek bulur",
+          "Bazı kimyasal maddelerin üretimini azaltır",
+          "Her ağrının nedenini ortadan kaldırır",
+          "Bütün ağrı kesicilerle aynı biçimde çalışır"
+        ],
+        "answer": 1,
+        "explanation": "Vücuttaki kimyasal süreçlere etki eder. Farklı ağrı kesici gruplarının mekanizmaları ve riskleri farklı olabilir."
+      },
+      "comments": [
+        {
+          "name": "Deniz",
+          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
+        },
+        {
+          "name": "Ece",
+          "text": "Kısa anlatımla daha kolay aklımda kaldı."
+        }
+      ]
+    }
+  ]
+}
