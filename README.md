@@ -25,7 +25,7 @@ Node.js 24 önerilir. Yayın dizini `dist/`, repo tabanı `/Learnie/`.
 - JSON yedek indirme / geri yükleme.
 - PWA manifesti, build sırasında üretilen yükleme simgeleri, sürümlenmiş service worker ve çevrimdışı uygulama kabuğu.
 - Her gönderi için `/Learnie/p/<id>/` statik sayfası; Open Graph etiketleri ve kart numarasıyla paylaşım.
-- Kaynak, görsel kredisi ve kullanım bilgisini içeren 13 başlangıç gönderisi.
+- Kaynak, görsel kredisi ve kullanım bilgisini içeren 22 gönderi (13 başlangıç + 9 yeni keşif).
 
 ## GitHub Pages
 
@@ -55,7 +55,7 @@ PWA yükleme, tarayıcı desteğine bağlıdır. iOS'ta Safari paylaş menüsü,
 - `scripts/validate-content.mjs`: içerik şemasının ve benzersiz kimliklerin kontrolü.
 - `scripts/postbuild.mjs`: gönderi sayfaları, uygulama simgeleri ve service worker üretimi.
 
-İçerik havuzu tükenince akış devam eder; tekrar eden kartlar “Yeniden keşif” etiketi taşır. Görüntülenme öğrenme başarısı sayılmaz. Başlangıç arşivi 13 gönderidir; 10.000 kayda yönelik test yalnızca sıra motorunun benzersizlik davranışını doğrular.
+İçerik havuzu tükenince akış devam eder; tekrar eden kartlar “Yeniden keşif” etiketi taşır. Görüntülenme öğrenme başarısı sayılmaz. Mevcut arşiv 22 gönderidir; 10.000 kayda yönelik test yalnızca sıra motorunun benzersizlik davranışını doğrular.
 
 ## Bağımlılık lisansları
 

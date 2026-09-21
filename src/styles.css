@@ -34,3 +34,5 @@ body,.sidebar,.topbar{background:var(--canvas);color:var(--text)}.theme-toggle{f
 @media(max-width:370px){.saved-copy h2{font-size:14px}.saved-item-actions>button:first-child{font-size:10px;gap:4px}.saved-image img{height:135px}.saved-copy p{display:none}.mobile-brand{font-size:27px}.film-settings-scroll{padding:15px}.film-header{gap:5px}}
 
 [data-theme=dark] .reel-actions .icon-button{background:var(--surface);color:var(--text)}[data-theme=dark] .reel-actions .icon-button.active{color:var(--accent)}
+
+.film-player.film-dark{background:#161918}.film-player.film-light{background:#eeeae1}
