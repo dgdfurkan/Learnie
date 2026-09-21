@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "file": "starter-001.json",
+      "title": "İlk meraklar",
+      "count": 13
+    }
+  ]
+}

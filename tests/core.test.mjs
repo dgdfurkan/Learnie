@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {nextBatch,sharePath,normalize,shuffle,seedNumber} from '../src/engine.mjs';
+import {readAllContent,validatePost} from '../scripts/validate-content.mjs';
+test('10,000-item archive never queues a seen or duplicate ID before exhaustion',()=>{const posts=Array.from({length:10000},(_,i)=>({id:`p-${i}`,category:`cat-${i%9}`}));let queued=[];const seen=posts.slice(0,321).map(p=>p.id);while(queued.length<9679){const batch=nextBatch(posts,seen,queued,100);assert.ok(batch.length>0);queued.push(...batch);}assert.equal(new Set(queued).size,9679);assert.ok(queued.every(id=>!seen.includes(id)));assert.deepEqual(nextBatch(posts,seen,queued),[]);});
+test('batch alternates categories when choices exist',()=>{const items=[{id:'a',category:'A'},{id:'b',category:'A'},{id:'c',category:'B'},{id:'d',category:'B'}];const ids=nextBatch(items,[],[],4,()=>.5);for(let i=1;i<ids.length;i++)assert.notEqual(items.find(p=>p.id===ids[i]).category,items.find(p=>p.id===ids[i-1]).category);});
+test('share paths identify immutable content and card index',()=>{assert.equal(sharePath('uzay-001',2),'/Learnie/p/uzay-001/?slide=3');assert.equal(sharePath('uzay-001'),'/Learnie/p/uzay-001/');});
+test('Turkish search normalizes dotted and dotless I',()=>{assert.equal(normalize('IŞIK'),'isik');assert.equal(normalize('İnanç'),'inanc');});
+test('simulation counts are stable and shuffle does not mutate',()=>{assert.equal(seedNumber('a'),seedNumber('a'));const a=[1,2,3];shuffle(a);assert.deepEqual(a,[1,2,3]);});
+test('all starter content passes schema and duplicate IDs are rejected',()=>{const posts=readAllContent();assert.ok(posts.length>=12);const ids=new Set();validatePost(posts[0],ids);assert.throws(()=>validatePost(posts[0],ids));assert.throws(()=>validatePost({...posts[0],cover:{...posts[0].cover,url:'javascript:alert(1)'}}));});
