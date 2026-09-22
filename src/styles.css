@@ -63,3 +63,6 @@ body,.sidebar,.topbar{background:var(--canvas);color:var(--text)}.theme-toggle{f
 @media(max-width:600px){.explore-card{min-height:230px;aspect-ratio:.64}.explore-copy strong{font-size:16px;line-height:1.35}.explore-copy{left:12px;right:12px;bottom:15px}.explore-label{font-size:10px}.topic-browser{padding-inline:1px}.topic-browser select{color:var(--text,#29392f)}}
 
 .explore-gradient{background:linear-gradient(180deg,#12251b55 0%,#12251b70 20%,#102017df 70%,#0b1610ed 100%)}.explore-label{background:#102019a6}.explore-copy{filter:drop-shadow(0 1px 3px #0005)}
+/* A minimum card height must not impose an intrinsic width on a narrow grid. */
+.explore-card{min-width:0;width:100%}
+@media(max-width:600px){.explore-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.explore-card{aspect-ratio:auto;height:240px;min-height:240px}}
