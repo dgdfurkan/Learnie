@@ -40,7 +40,7 @@ export default function App(){
  const feedOrder=useMemo(()=>order.filter(id=>feedPosts.has(id)),[order,feedPosts]);
  const activePost=route?posts.find(p=>p.id===route.id):undefined;
  const stories=useMemo(()=>shuffle(posts).sort((a,b)=>Number(user.storySeen.includes(a.id))-Number(user.storySeen.includes(b.id))).slice(0,9),[posts]);
- const loadMore=useCallback(()=>{setOrder(current=>{let next=nextBatch(filtered,[],current,8);if(!next.length)next=shuffle(filtered).slice(0,8).map(p=>p.id);return [...current,...next];});},[filtered]);
+ const loadMore=useCallback(()=>{setOrder(current=>{let next=nextBatch(filtered,userRef.current.seen,current,8);if(!next.length)next=nextBatch(filtered,[],current,8);if(!next.length)next=shuffle(filtered).slice(0,8).map(p=>p.id);return [...current,...next];});},[filtered]);
  const selectCategory=(c:Category)=>{setCategory(c);setOrder(shuffle(posts.filter(p=>c==='Tümü'||p.category===c)).sort((a,b)=>Number(userRef.current.seen.includes(a.id))-Number(userRef.current.seen.includes(b.id))).map(p=>p.id));};
  const searchChange=(text:string)=>{setQuery(text);if(view!=='explore')switchView('explore');};
  const refresh=()=>{setOrder(shuffle(filtered).sort((a,b)=>Number(userRef.current.seen.includes(a.id))-Number(userRef.current.seen.includes(b.id))).map(p=>p.id));window.scrollTo({top:0,behavior:'smooth'});notify('Akışına yeni bir sıra verdik.');};
