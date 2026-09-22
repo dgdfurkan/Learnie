@@ -1,0 +1,1474 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "id": "kesif-merkur-buz",
+      "topic": "Merkür",
+      "layout": "reveal",
+      "category": "Uzay",
+      "title": "Güneş’in dibinde buz saklanabilir mi?",
+      "subtitle": "Merkür’ün gölgeleri başka bir dünya.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg",
+        "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Merkür, uzay aracı görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "orbit",
+      "slides": [
+        {
+          "title": "Güneş hiç değmezse",
+          "text": "Merkür’ün kutuplarındaki bazı derin kraterlerin tabanı sürekli gölgede kalır. Bu bölgelerde su buzunun korunabileceğine ilişkin bulgular vardır."
+        },
+        {
+          "title": "Mesafe tek başına yetmez",
+          "text": "Bir gezegenin Güneş’e yakın olması, yüzeyinin her noktasının sürekli sıcak olduğu anlamına gelmez. Gölge ve ısının tutulması da önemlidir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Mercury",
+          "url": "https://science.nasa.gov/mercury/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-merkur-gece",
+      "topic": "Merkür",
+      "layout": "number",
+      "category": "Uzay",
+      "title": "Merkür geceleri fena soğuyor.",
+      "subtitle": "Gündüz fırın, gece dondurucu benzetmesi boşuna değil.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg",
+        "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Merkür, uzay aracı görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "orbit",
+      "slides": [
+        {
+          "title": "Geniş sıcaklık farkı",
+          "text": "Güneş alan bölgelerde sıcaklık yaklaşık 430 °C’ye çıkabilirken gece yaklaşık −180 °C’ye düşebilir."
+        },
+        {
+          "title": "Isıyı tutamıyor",
+          "text": "Merkür’ün Dünya’daki gibi kalın bir atmosferi yoktur. Gündüz alınan ısıyı gece boyunca koruma koşulları bu yüzden çok farklıdır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Mercury",
+          "url": "https://science.nasa.gov/mercury/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "berk.b",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "duru.not",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        }
+      ]
+    },
+    {
+      "id": "kesif-merkur-ekzosfer",
+      "topic": "Merkür",
+      "layout": "glossary",
+      "category": "Uzay",
+      "title": "Merkür’ün çevresindeki gaz, bildiğin hava değil.",
+      "subtitle": "Çok seyrek bir dış örtü.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg",
+        "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Merkür, uzay aracı görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "orbit",
+      "slides": [
+        {
+          "title": "Ekzosfer",
+          "text": "Yüzeyden kopan atomlar gezegenin çevresinde ince bir ekzosfer oluşturur. Güneş rüzgârı ve göktaşı çarpmaları bu atomların kaynağı olabilir."
+        },
+        {
+          "title": "Neler var?",
+          "text": "Oksijen, sodyum, hidrojen, helyum ve potasyum bulunur. Oksijen kelimesini görmek, orada nefes alınabileceği anlamına gelmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Mercury",
+          "url": "https://science.nasa.gov/mercury/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "nisa.defter",
+          "text": "Gezegen isimlerini biliyoruz da gerisini pek bilmiyormuşuz."
+        },
+        {
+          "name": "mert.y",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "keremca",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        }
+      ]
+    },
+    {
+      "id": "kesif-mars-pas",
+      "topic": "Mars",
+      "layout": "poster",
+      "category": "Uzay",
+      "title": "Mars’ın kırmızısında tanıdık bir kimya var.",
+      "subtitle": "Pas rengi demek pek de yanlış değil.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/960px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+        "credit": "Kevin Gill from Los Angeles, CA, United States",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Mars gezegeninin işlenmiş teleskop görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "Demirli toprak",
+          "text": "Mars yüzeyindeki demir minerallerinin oksitlenmesi, gezegene kırmızımsı görünümünü veren nedenlerden biridir."
+        },
+        {
+          "title": "Her yeri aynı ton değil",
+          "text": "Toz, kayalar ve yüzey biçimleri farklı görünebilir. “Kızıl gezegen” adı bütün zeminin tek renk boyalı olduğu anlamına gelmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Mars",
+          "url": "https://science.nasa.gov/mars/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "birseda",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "umutburada",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "elif.k",
+          "text": "Son cümle önemli bence."
+        }
+      ]
+    },
+    {
+      "id": "kesif-olympos",
+      "topic": "Mars",
+      "layout": "newspaper",
+      "category": "Uzay",
+      "title": "Mars’taki yanardağı mahalleye sığdıramazsın.",
+      "subtitle": "Olympus Mons dev bir kalkan volkanı.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/960px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+        "credit": "Kevin Gill from Los Angeles, CA, United States",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Mars gezegeninin işlenmiş teleskop görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "Yüksek ve çok geniş",
+          "text": "Olympus Mons, Güneş Sistemi’nin en büyük yanardağıdır. Yalnız zirvesiyle değil, çok geniş bir alana yayılan tabanıyla da dikkat çeker."
+        },
+        {
+          "title": "Cetvelin başlangıcı önemli",
+          "text": "Dağ yükseklikleri yerel tabana veya seçilen referans düzeyine göre değişebilir. Farklı ölçümleri yan yana koyarken başlangıç noktasını kontrol etmek gerekir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Mars",
+          "url": "https://science.nasa.gov/mars/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "iremce",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Şuraya bir yer imi bırakayım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-mars-uydular",
+      "topic": "Mars",
+      "layout": "gallery",
+      "category": "Uzay",
+      "title": "Mars’ın iki uydusu patatese benziyor.",
+      "subtitle": "Yuvarlak olmak zorunda değiller.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/960px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+        "credit": "Kevin Gill from Los Angeles, CA, United States",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Mars gezegeninin işlenmiş teleskop görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "Phobos ve Deimos",
+          "text": "Mars’ın iki küçük doğal uydusu vardır. Biçimleri Dünya’nın Ay’ı kadar küresel değildir."
+        },
+        {
+          "title": "Kütlenin etkisi",
+          "text": "Küçük cisimlerde yerçekimi, kayalık yapıyı düzgün bir küreye çekecek kadar güçlü olmayabilir. Şekil, cismin boyutu ve geçmişiyle ilişkilidir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Mars",
+          "url": "https://science.nasa.gov/mars/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "cemden",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "keremca",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        }
+      ]
+    },
+    {
+      "id": "kesif-jupiter-leke",
+      "topic": "Jüpiter",
+      "layout": "profile",
+      "category": "Uzay",
+      "title": "Jüpiter’deki leke bir fırtına.",
+      "subtitle": "Üstelik Dünya’dan daha geniş.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Jupiter_OPAL_2024.png/960px-Jupiter_OPAL_2024.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Jupiter_OPAL_2024.png",
+        "credit": "NASA/STSCI (S.T.A.R.S)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Jüpiter ve bulut kuşakları · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Katı bir iz değil",
+          "text": "Büyük Kırmızı Leke, Jüpiter’in atmosferinde uzun zamandır gözlenen dev bir fırtına sistemidir."
+        },
+        {
+          "title": "Fotoğrafta donmuş görünüyor",
+          "text": "Bulutların biçimi ve fırtınanın boyutu zamanla değişir. Gezegen fotoğrafındaki desenleri sabit bir harita gibi düşünmemek gerekir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Jupiter",
+          "url": "https://science.nasa.gov/jupiter/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "nisa.defter",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "iremce",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "keremca",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Fotoğrafı yakınlaştırıp kaldım."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "duru.not",
+          "text": "Bu ayrımı unutmayayım."
+        },
+        {
+          "name": "umutburada",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "mert.y",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "birseda",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Şuraya bir yer imi bırakayım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-metalik-hidrojen",
+      "topic": "Jüpiter",
+      "layout": "cutaway",
+      "category": "Uzay",
+      "title": "Jüpiter’in içinde metal gibi davranan hidrojen.",
+      "subtitle": "Demir okyanusu demedik.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Jupiter_OPAL_2024.png/960px-Jupiter_OPAL_2024.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Jupiter_OPAL_2024.png",
+        "credit": "NASA/STSCI (S.T.A.R.S)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Jüpiter ve bulut kuşakları · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Basınç işi değiştirir",
+          "text": "Jüpiter’in derinlerinde çok yüksek basınç altında hidrojenin elektrik ileten, metalik davranış gösteren bir sıvı hâlinde bulunduğu düşünülür."
+        },
+        {
+          "title": "Manyetik alanla bağlantı",
+          "text": "Bu iletken bölgedeki hareketler, gezegenin güçlü manyetik alanını açıklayan modellerde önemli bir yer tutar."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Jupiter",
+          "url": "https://science.nasa.gov/jupiter/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ardabirbak",
+          "text": "Fotoğrafı yakınlaştırıp kaldım."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "elif.k",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-jupiter-on-saat",
+      "topic": "Jüpiter",
+      "layout": "number",
+      "category": "Uzay",
+      "title": "Koca Jüpiter, yaklaşık on saatte dönüyor.",
+      "subtitle": "Boyuna bakıp ağır sanmıştık.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Jupiter_OPAL_2024.png/960px-Jupiter_OPAL_2024.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Jupiter_OPAL_2024.png",
+        "credit": "NASA/STSCI (S.T.A.R.S)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Jüpiter ve bulut kuşakları · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Hızlı dönüş",
+          "text": "Jüpiter kendi ekseninde bir turunu yaklaşık on Dünya saatinde tamamlar. Güneş Sistemi’nin en kısa gezegen günü ondadır."
+        },
+        {
+          "title": "Kuşaklar hareketli",
+          "text": "Hızlı dönüş ve atmosfer dolaşımı, gezegenin belirgin bulut kuşaklarıyla ilişkilidir. Yan yana kuşaklar farklı yönlerde akabilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Jupiter",
+          "url": "https://science.nasa.gov/jupiter/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "aliokuyor",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "birseda",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "umutburada",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "duru.not",
+          "text": "Ölçekleri hayal etmek zor."
+        },
+        {
+          "name": "mert.y",
+          "text": "Bu ayrımı unutmayayım."
+        },
+        {
+          "name": "iremce",
+          "text": "Kısa ama tekrar okumalık."
+        }
+      ]
+    },
+    {
+      "id": "kesif-saturn-halka",
+      "topic": "Satürn",
+      "layout": "cutaway",
+      "category": "Uzay",
+      "title": "Satürn’ün halkası tek parça bilezik değil.",
+      "subtitle": "Uzaktan düzgün görünmesine aldanma.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png/960px-Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png",
+        "credit": "NASA / JPL-Caltech / SSI / color composite by Gordan Ugarkovic",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Satürn ve halkaları, Cassini görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "orbit",
+      "slides": [
+        {
+          "title": "Sayısız parça",
+          "text": "Halkalar, büyük ölçüde buz içeren ve boyutları değişen çok sayıda parçadan oluşur. Her parça gezegenin çevresinde dolanır."
+        },
+        {
+          "title": "Boşluklar da var",
+          "text": "Halka sistemi birçok bölüm ve aralık içerir. Fotoğraftaki tek bir çizgi, yakından karmaşık bir parçacık topluluğudur."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Saturn",
+          "url": "https://science.nasa.gov/saturn/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "iremce",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Fotoğrafı yakınlaştırıp kaldım."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Uzayı düşününce gündelik dertler küçülüyor biraz."
+        },
+        {
+          "name": "keremca",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "berk.b",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "gokce",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        }
+      ]
+    },
+    {
+      "id": "kesif-saturn-yogunluk",
+      "topic": "Satürn",
+      "layout": "punchline",
+      "category": "Uzay",
+      "title": "Satürn sudan hafif mi? Cümleyi düzeltelim.",
+      "subtitle": "Hafif olan toplam ağırlığı değil.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png/960px-Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png",
+        "credit": "NASA / JPL-Caltech / SSI / color composite by Gordan Ugarkovic",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Satürn ve halkaları, Cassini görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "orbit",
+      "slides": [
+        {
+          "title": "Ortalama yoğunluk",
+          "text": "Satürn’ün ortalama yoğunluğu suyun yoğunluğundan küçüktür. Yoğunluk, belli bir hacimde ne kadar kütle bulunduğunu anlatır."
+        },
+        {
+          "title": "Dev küvet şakası",
+          "text": "“Suda yüzerdi” benzetmesi bunu anlatmak içindir. Gerçekte bir gaz devini dev bir küvete koyabileceğimiz fiziksel bir deney tarif etmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Saturn",
+          "url": "https://science.nasa.gov/saturn/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "onurdefter",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "cemden",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bu ayrımı unutmayayım."
+        },
+        {
+          "name": "keremca",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-saturn-altigen",
+      "topic": "Satürn",
+      "layout": "mosaic",
+      "category": "Uzay",
+      "title": "Bir gezegenin tepesinde altıgen var.",
+      "subtitle": "Çizilmiş bir yol tabelası değil.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png/960px-Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png",
+        "credit": "NASA / JPL-Caltech / SSI / color composite by Gordan Ugarkovic",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Satürn ve halkaları, Cassini görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "orbit",
+      "slides": [
+        {
+          "title": "Atmosferde desen",
+          "text": "Satürn’ün kuzey kutbundaki altıgen, atmosferdeki güçlü bir jet akımıyla bağlantılı dalga desenidir."
+        },
+        {
+          "title": "Katı kenar arama",
+          "text": "Altı köşeli bir kaya veya duvar değildir. Akışkanların hareketi de beklenmedik derecede düzenli biçimler oluşturabilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Saturn",
+          "url": "https://science.nasa.gov/saturn/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ardabirbak",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        }
+      ]
+    },
+    {
+      "id": "kesif-uranus-egim",
+      "topic": "Uranüs",
+      "layout": "postcard",
+      "category": "Uzay",
+      "title": "Uranüs neredeyse yan yatmış dönüyor.",
+      "subtitle": "Gezegenlerin duruşu da farklı.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Uranus_Voyager2_color_calibrated.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Uranus_Voyager2_color_calibrated.png",
+        "credit": "Ardenau4",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Uranüs, renkleri kalibre edilmiş Voyager görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "orbit",
+      "slides": [
+        {
+          "title": "Yaklaşık 98 derece",
+          "text": "Uranüs’ün dönme ekseni, yörüngesine göre alışılmadık ölçüde eğiktir. Bu yüzden yuvarlanarak ilerliyormuş gibi betimlenir."
+        },
+        {
+          "title": "Uzayan mevsimler",
+          "text": "Bu eğiklik, kutuplarda çok uzun aydınlık ve karanlık dönemler yaratır. Dünya’daki günlük deneyimimizi doğrudan buraya taşıyamayız."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Uranus",
+          "url": "https://science.nasa.gov/uranus/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "keremca",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "umutburada",
+          "text": "Uzayı düşününce gündelik dertler küçülüyor biraz."
+        },
+        {
+          "name": "birseda",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "cemden",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "duru.not",
+          "text": "Fotoğrafı yakınlaştırıp kaldım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-uranus-renk",
+      "topic": "Uranüs",
+      "layout": "prism",
+      "category": "Uzay",
+      "title": "Uranüs’ün mavisinde metanın payı var.",
+      "subtitle": "Gezegen boyası diye bir şey yok.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Uranus_Voyager2_color_calibrated.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Uranus_Voyager2_color_calibrated.png",
+        "credit": "Ardenau4",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Uranüs, renkleri kalibre edilmiş Voyager görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "orbit",
+      "slides": [
+        {
+          "title": "Kırmızı ışık azalır",
+          "text": "Atmosferdeki metan, gelen ışığın kırmızı bölümünü soğurur. Geriye kalan ışık mavi-yeşil görünümün oluşmasına katkı verir."
+        },
+        {
+          "title": "Gördüğümüz dış katman",
+          "text": "Fotoğrafta gördüğümüz renk, atmosferle ışığın etkileşimidir. Gezegenin tüm içinin aynı renkte olduğu sonucu çıkmaz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Uranus",
+          "url": "https://science.nasa.gov/uranus/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ayse.tr",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "mert.y",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        },
+        {
+          "name": "berk.b",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        }
+      ]
+    },
+    {
+      "id": "kesif-uranus-halka",
+      "topic": "Uranüs",
+      "layout": "reveal",
+      "category": "Uzay",
+      "title": "Halka deyince hep Satürn geliyor ama…",
+      "subtitle": "Uranüs’ün de halkaları var.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Uranus_Voyager2_color_calibrated.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Uranus_Voyager2_color_calibrated.png",
+        "credit": "Ardenau4",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Uranüs, renkleri kalibre edilmiş Voyager görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "orbit",
+      "slides": [
+        {
+          "title": "Daha sönük bir sistem",
+          "text": "Uranüs çevresinde dar ve koyu halkalar bulunur. Bunlar Satürn’ün parlak, geniş halkaları kadar kolay fark edilmez."
+        },
+        {
+          "title": "Görünmemek, yokluk değil",
+          "text": "Bir yapının belirginliği; boyutuna, yansıttığı ışığa ve gözlem koşullarına bağlıdır. İlk bakışta seçemediğimiz şeyler orada olabilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Uranus",
+          "url": "https://science.nasa.gov/uranus/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "zeynepce",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "iremce",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        }
+      ]
+    },
+    {
+      "id": "kesif-neptun-hesap",
+      "topic": "Neptün",
+      "layout": "timeline",
+      "category": "Uzay",
+      "title": "Neptün önce hesapta yakalandı.",
+      "subtitle": "Teleskop doğru adrese çevrildi.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Neptune_Voyager2_color_calibrated.png/960px-Neptune_Voyager2_color_calibrated.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Neptune_Voyager2_color_calibrated.png",
+        "credit": "NASA / Voyager 2 / PDS / OPUS / Ardenau4",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Neptün, renkleri kalibre edilmiş Voyager görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "wave",
+      "slides": [
+        {
+          "title": "Yörüngedeki ipucu",
+          "text": "Uranüs’ün gözlenen hareketindeki sapmalar, başka bir gezegenin etkisi olabileceğini düşündürdü. Le Verrier olası konumu hesapladı."
+        },
+        {
+          "title": "Sonra gözlem",
+          "text": "Galle, 1846’da bu tahminin yakınında Neptün’ü gözledi. Burada matematik, gökyüzünde nereye bakılacağını söylemişti."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Neptune",
+          "url": "https://science.nasa.gov/neptune/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "deniz.k",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "elif.k",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        }
+      ]
+    },
+    {
+      "id": "kesif-neptun-ruzgar",
+      "topic": "Neptün",
+      "layout": "number",
+      "category": "Uzay",
+      "title": "Güneş’ten uzak ama rüzgârı sert.",
+      "subtitle": "Neptün sakin bir buz topu değil.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Neptune_Voyager2_color_calibrated.png/960px-Neptune_Voyager2_color_calibrated.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Neptune_Voyager2_color_calibrated.png",
+        "credit": "NASA / Voyager 2 / PDS / OPUS / Ardenau4",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Neptün, renkleri kalibre edilmiş Voyager görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "wave",
+      "slides": [
+        {
+          "title": "Çok hızlı akımlar",
+          "text": "Neptün atmosferindeki rüzgârlar saatte yaklaşık 2.000 kilometreyi aşabilir. Soğuk ve uzak olması, atmosferinin hareketsiz olduğu anlamına gelmez."
+        },
+        {
+          "title": "Neyi ölçüyoruz?",
+          "text": "Gezegenin bulut hareketleri, atmosferdeki akımları incelemenin yollarından biridir. Bu hızlar yürüyebileceğimiz katı bir zeminin hava durumu değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Neptune",
+          "url": "https://science.nasa.gov/neptune/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-triton-ters",
+      "topic": "Neptün",
+      "layout": "route",
+      "category": "Uzay",
+      "title": "Triton ters yönde dolanıyor.",
+      "subtitle": "Büyük uydular arasında sıra dışı.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Neptune_Voyager2_color_calibrated.png/960px-Neptune_Voyager2_color_calibrated.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Neptune_Voyager2_color_calibrated.png",
+        "credit": "NASA / Voyager 2 / PDS / OPUS / Ardenau4",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Neptün, renkleri kalibre edilmiş Voyager görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "wave",
+      "slides": [
+        {
+          "title": "Neptün’e karşı yön",
+          "text": "Triton, Neptün’ün kendi dönüş yönünün tersinde dolanan büyük bir uydudur. Buna geriye doğru, yani retrograd yörünge denir."
+        },
+        {
+          "title": "Geçmişten bir iz",
+          "text": "Bu özellik, Triton’un Neptün tarafından sonradan yakalanmış olabileceği görüşünü destekler. Tek gözlem, bütün geçmişi ayrıntısıyla anlatmaz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Neptune",
+          "url": "https://science.nasa.gov/neptune/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "berk.b",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "keremca",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "cemden",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "duru.not",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        }
+      ]
+    },
+    {
+      "id": "kesif-pluton-kalp",
+      "topic": "Plüton",
+      "layout": "gallery",
+      "category": "Uzay",
+      "title": "Plüton’un kalbi fotoğraftan ibaret değil.",
+      "subtitle": "Biçimi kalbe benzeyen bir yüzey bölgesi.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Pluto_in_True_Color_-_High-Res.png/960px-Pluto_in_True_Color_-_High-Res.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Pluto_in_True_Color_-_High-Res.png",
+        "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute/Alex Parker",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Plüton, New Horizons görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "orbit",
+      "slides": [
+        {
+          "title": "Tombaugh Regio",
+          "text": "New Horizons görüntülerinde belirginleşen açık renkli kalp biçimli bölgeye Tombaugh Regio adı verildi."
+        },
+        {
+          "title": "Bir kısmı buz ovası",
+          "text": "Bölgenin batı kısmındaki Sputnik Planitia, azot buzuyla kaplı geniş bir havzadır. Buradaki buz, yalnız donmuş su demek değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Dwarf-Planets",
+          "url": "https://science.nasa.gov/dwarf-planets/pluto/facts/"
+        },
+        {
+          "label": "NASA · Plüton ve Charon ortak merkezde",
+          "url": "https://science.nasa.gov/photojournal/pluto-and-charon-in-color-barycentric-view-animation/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "berk.b",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "keremca",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "duru.not",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "mert.y",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "iremce",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        }
+      ]
+    },
+    {
+      "id": "kesif-charon",
+      "topic": "Plüton",
+      "layout": "diagram",
+      "category": "Uzay",
+      "title": "Plüton’un uydusu ona göre epey büyük.",
+      "subtitle": "Charon küçük bir eşlikçi sayılmaz.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Pluto_in_True_Color_-_High-Res.png/960px-Pluto_in_True_Color_-_High-Res.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Pluto_in_True_Color_-_High-Res.png",
+        "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute/Alex Parker",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Plüton, New Horizons görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "orbit",
+      "slides": [
+        {
+          "title": "Boyut oranı",
+          "text": "Charon’un çapı Plüton’un yaklaşık yarısıdır. Gezegen-uydu ilişkilerini düşünürken alıştığımız boyut farkı burada küçülür."
+        },
+        {
+          "title": "Ortak merkez",
+          "text": "İkisi, Plüton’un dışında kalan ortak bir kütle merkezi çevresinde dolanır. Bu yüzden bazen çift sistem olarak anlatılırlar."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Dwarf-Planets",
+          "url": "https://science.nasa.gov/dwarf-planets/pluto/facts/"
+        },
+        {
+          "label": "NASA · Plüton ve Charon ortak merkezde",
+          "url": "https://science.nasa.gov/photojournal/pluto-and-charon-in-color-barycentric-view-animation/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ecebirnot",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Gezegen isimlerini biliyoruz da gerisini pek bilmiyormuşuz."
+        },
+        {
+          "name": "birseda",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "mert.y",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "keremca",
+          "text": "Uzayı düşününce gündelik dertler küçülüyor biraz."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "cemden",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        }
+      ]
+    },
+    {
+      "id": "kesif-pluton-sinif",
+      "topic": "Plüton",
+      "layout": "myth",
+      "category": "Uzay",
+      "title": "Plüton kaybolmadı. Etiketi değişti.",
+      "subtitle": "Cüce gezegen de bir gök cismi.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Pluto_in_True_Color_-_High-Res.png/960px-Pluto_in_True_Color_-_High-Res.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Pluto_in_True_Color_-_High-Res.png",
+        "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute/Alex Parker",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Plüton, New Horizons görüntüsü · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "orbit",
+      "slides": [
+        {
+          "title": "Sınıflandırma meselesi",
+          "text": "2006’da kabul edilen tanımda gezegen olmak için Güneş çevresindeki yörünge bölgesine kütleçekimsel olarak hâkim olmak da gerekir."
+        },
+        {
+          "title": "Neden farklı grupta?",
+          "text": "Plüton, benzer cisimlerle paylaştığı Kuiper Kuşağı’nda bu koşulu sağlamaz. Küçük olduğu için tek başına listeden çıkarılmış değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Dwarf-Planets",
+          "url": "https://science.nasa.gov/dwarf-planets/pluto/facts/"
+        },
+        {
+          "label": "NASA · Plüton ve Charon ortak merkezde",
+          "url": "https://science.nasa.gov/photojournal/pluto-and-charon-in-color-barycentric-view-animation/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "duru.not",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "keremca",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "deniz.k",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "umutburada",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kuyruk-yon",
+      "topic": "Kuyrukluyıldızlar",
+      "layout": "punchline",
+      "category": "Uzay",
+      "title": "Kuyrukluyıldızın kuyruğu hep arkasında değil.",
+      "subtitle": "Yönü belirleyen yalnız hareketi değil.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Comet_Hale-Bopp_1995O1.jpg/960px-Comet_Hale-Bopp_1995O1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Comet_Hale-Bopp_1995O1.jpg",
+        "credit": "E. Kolmhofer, H. Raab; Johannes-Kepler-Observatory, Linz, Austria ( https://sternwarte.at )",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Hale–Bopp kuyruklu yıldızı · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Güneş etkisi",
+          "text": "Güneş ışığının basıncı ve Güneş rüzgârı, kuyrukluyıldızdan çıkan maddeleri Güneş’ten uzaklaştırır."
+        },
+        {
+          "title": "İki farklı kuyruk",
+          "text": "Toz kuyruğu eğrilebilir; iyon kuyruğu genellikle Güneş’in tersine yönelir. “Arabanın egzozu gibi arkada kalır” benzetmesi burada yanıltır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Solar-System",
+          "url": "https://science.nasa.gov/solar-system/comets/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-kuyruk-cekirdek",
+      "topic": "Kuyrukluyıldızlar",
+      "layout": "cutaway",
+      "category": "Uzay",
+      "title": "Kocaman bulutun ortası küçücük olabilir.",
+      "subtitle": "Görünen boyut, katı cismin boyutu değil.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Comet_Hale-Bopp_1995O1.jpg/960px-Comet_Hale-Bopp_1995O1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Comet_Hale-Bopp_1995O1.jpg",
+        "credit": "E. Kolmhofer, H. Raab; Johannes-Kepler-Observatory, Linz, Austria ( https://sternwarte.at )",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Hale–Bopp kuyruklu yıldızı · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Donmuş çekirdek",
+          "text": "Kuyrukluyıldızın çekirdeğinde buzlar, donmuş gazlar ve toz bulunur. Güneş’e yaklaştıkça bazı buzlar gaz hâline geçer."
+        },
+        {
+          "title": "Çevresinde koma",
+          "text": "Çıkan maddeler çekirdeğin çevresinde geniş bir gaz ve toz bulutu oluşturur. Bu örtüye koma denir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Solar-System",
+          "url": "https://science.nasa.gov/solar-system/comets/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ardabirbak",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kuyruk-arsiv",
+      "topic": "Kuyrukluyıldızlar",
+      "layout": "notebook",
+      "category": "Uzay",
+      "title": "Eski gökyüzü notları hâlâ işe yarıyor.",
+      "subtitle": "Kuyrukluyıldız gözlemleri bir zaman arşivi.",
+      "account": "Yukarı Bak",
+      "handle": "yukaribak",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Comet_Hale-Bopp_1995O1.jpg/960px-Comet_Hale-Bopp_1995O1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Comet_Hale-Bopp_1995O1.jpg",
+        "credit": "E. Kolmhofer, H. Raab; Johannes-Kepler-Observatory, Linz, Austria ( https://sternwarte.at )",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Hale–Bopp kuyruklu yıldızı · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Gözlem kaydı",
+          "text": "Çinli gökbilimciler yüzyıllar boyunca kuyrukluyıldızların görünüşlerini, konumlarını ve görülme zamanlarını kaydetti."
+        },
+        {
+          "title": "Bugüne kalan bilgi",
+          "text": "Bu kayıtlar daha sonraki gökbilimcilere tarihsel gözlemleri karşılaştırma olanağı verdi. Bilim yalnız yeni cihazdan değil, iyi tutulmuş eski nottan da beslenir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Solar-System",
+          "url": "https://science.nasa.gov/solar-system/comets/facts/"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "selin.jpg",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "cemden",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "keremca",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "umutburada",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "gokce",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        }
+      ]
+    }
+  ]
+}

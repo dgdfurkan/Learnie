@@ -1,0 +1,1488 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "id": "kesif-london-kuvveti",
+      "topic": "Moleküller arası çekim",
+      "layout": "myth",
+      "category": "Bilim",
+      "title": "Yüksüz moleküller de birbirini çekebilir.",
+      "subtitle": "Kalıcı kutup şart değil.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Quartz_28.jpg/960px-Quartz_28.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Quartz_28.jpg",
+        "credit": "Géry PARENT",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Kuvars kristali · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "Anlık dağılım",
+          "text": "Elektronların dağılımı sürekli değişir. Oluşan geçici yük dengesizlikleri, komşu tanecikler arasında London dağılma kuvvetlerine yol açabilir."
+        },
+        {
+          "title": "Zayıf ama yaygın",
+          "text": "Bu etkileşimler bütün atom ve moleküllerde bulunur. “Apolar” demek, moleküller arasında hiçbir çekim olmadığı anlamına gelmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 10-1",
+          "url": "https://openstax.org/books/chemistry-2e/pages/10-1-intermolecular-forces"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "nisa.defter",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "gokce",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "keremca",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "umutburada",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "birseda",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "berk.b",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "mert.y",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "iremce",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "cemden",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        }
+      ]
+    },
+    {
+      "id": "kesif-hidrojen-bagi",
+      "topic": "Moleküller arası çekim",
+      "layout": "split",
+      "category": "Bilim",
+      "title": "Hidrojen bağı, suyun içindeki bağla aynı değil.",
+      "subtitle": "Molekül içiyle moleküller arasını ayıralım.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Quartz_28.jpg/960px-Quartz_28.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Quartz_28.jpg",
+        "credit": "Géry PARENT",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Kuvars kristali · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "Suyun kendi yapısı",
+          "text": "Bir su molekülünde oksijenle hidrojen arasındaki bağ kovalenttir. Elektronlar atomlar arasında paylaşılır."
+        },
+        {
+          "title": "Komşuya tutunmak",
+          "text": "Hidrojen bağı ise uygun moleküller arasında oluşabilen başka bir çekim türüdür. Aynı sözcük, farklı düzeylerdeki bağları eşitlemez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 10-1",
+          "url": "https://openstax.org/books/chemistry-2e/pages/10-1-intermolecular-forces"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "iremce",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kaynama-kutle",
+      "topic": "Moleküller arası çekim",
+      "layout": "comparison",
+      "category": "Bilim",
+      "title": "Ağır molekül mutlaka geç mi kaynar?",
+      "subtitle": "Tartı tek başına cevabı vermez.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Quartz_28.jpg/960px-Quartz_28.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Quartz_28.jpg",
+        "credit": "Géry PARENT",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Kuvars kristali · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "Çekim de belirler",
+          "text": "Kaynama davranışı yalnız molekül kütlesine değil, moleküller arası etkileşimlere de bağlıdır. Güçlü çekimleri aşmak daha fazla enerji gerektirebilir."
+        },
+        {
+          "title": "Suyun sürprizi",
+          "text": "Suyun hidrojen bağları, benzer boyuttaki bazı moleküllere göre beklenmedik ölçüde yüksek kaynama sıcaklığı göstermesine katkı yapar."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 10-1",
+          "url": "https://openstax.org/books/chemistry-2e/pages/10-1-intermolecular-forces"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ayse.tr",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "elif.k",
+          "text": "Formülden önce mantığını bilmek iyi geldi."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "cemden",
+          "text": "Son cümle önemli bence."
+        }
+      ]
+    },
+    {
+      "id": "kesif-bal-akisi",
+      "topic": "Sıvıların huyları",
+      "layout": "number",
+      "category": "Gündelik",
+      "title": "Bal neden sudan ağır ağır akar?",
+      "subtitle": "Yoğunlukla aynı soruyu sormuyoruz.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg",
+        "credit": "Bex Walton",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Kahve fincanları · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Akışa direnç",
+          "text": "Bir sıvının akmaya gösterdiği dirence viskozite denir. Balın viskozitesi sudan yüksektir; bu yüzden aynı koşullarda daha zor akar."
+        },
+        {
+          "title": "Sıcaklık etkisi",
+          "text": "Birçok sıvı ısındığında daha kolay akar. Bu değişim, moleküllerin birbirlerinin yanından geçmesiyle ilgili etkileşimlere bağlıdır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 10-2",
+          "url": "https://openstax.org/books/chemistry-2e/pages/10-2-properties-of-liquids"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "zeynepce",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "elif.k",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "mert.y",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "duru.not",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        }
+      ]
+    },
+    {
+      "id": "kesif-meniskus",
+      "topic": "Sıvıların huyları",
+      "layout": "cutaway",
+      "category": "Gündelik",
+      "title": "Ölçü kabındaki suyun yüzeyi niye eğri?",
+      "subtitle": "Camın kenarında küçük bir tırmanış.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg",
+        "credit": "Bex Walton",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Kahve fincanları · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Yüzeye tutunmak",
+          "text": "Suyun cama tutunması, kenarlarda yükselen içbükey bir yüzey oluşturabilir. Bu eğri yüzeye menisküs denir."
+        },
+        {
+          "title": "Her sıvı aynı değil",
+          "text": "Sıvının kendi iç çekimiyle kaba tutunması arasındaki denge şekli değiştirir. Bu yüzden bütün sıvı yüzeylerini aynı biçimde okuyamayız."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 10-2",
+          "url": "https://openstax.org/books/chemistry-2e/pages/10-2-properties-of-liquids"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "deniz.k",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Her gün gözümün önündeymiş."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Gündelik şeylerin arkasını okumak hoşuma gidiyor."
+        },
+        {
+          "name": "umutburada",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        },
+        {
+          "name": "mert.y",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Bu ayrımı unutmayayım."
+        },
+        {
+          "name": "duru.not",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "cemden",
+          "text": "Böyle düşünmemiştim hiç."
+        }
+      ]
+    },
+    {
+      "id": "kesif-mumlu-yuzey",
+      "topic": "Sıvıların huyları",
+      "layout": "comparison",
+      "category": "Gündelik",
+      "title": "Su camda yayılıyor, mumda boncuk oluyor.",
+      "subtitle": "Aynı su, başka komşu.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg",
+        "credit": "Bex Walton",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Kahve fincanları · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "İki çekim yarışır",
+          "text": "Su moleküllerinin birbirini çekmesine kohezyon, farklı yüzeye tutunmasına adezyon denir. Hangisinin baskın olduğu yayılmayı etkiler."
+        },
+        {
+          "title": "Yüzeyin payı",
+          "text": "Mumlu yüzeylerde su çoğunlukla damlacıklar hâlinde kalır. Islanmak yalnızca suyun özelliği değildir; değdiği yüzey de oyundadır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 10-2",
+          "url": "https://openstax.org/books/chemistry-2e/pages/10-2-properties-of-liquids"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "aliokuyor",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        }
+      ]
+    },
+    {
+      "id": "kesif-buharlasma-kaynama",
+      "topic": "Hâl değişimleri",
+      "layout": "split",
+      "category": "Bilim",
+      "title": "Islak tişört kaynamadan nasıl kuruyor?",
+      "subtitle": "Buharlaşma için 100 derece gerekmez.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/ISS-40_Thunderheads_near_Borneo.jpg/960px-ISS-40_Thunderheads_near_Borneo.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:ISS-40_Thunderheads_near_Borneo.jpg",
+        "credit": "NASA/Expedition 40 crew member",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Borneo yakınlarında fırtına bulutları · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "Yüzeyden ayrılmak",
+          "text": "Sıvıdaki bazı moleküller yüzeyden gaz hâline geçebilir. Buharlaşma, sıvının kaynama sıcaklığının altında da gerçekleşir."
+        },
+        {
+          "title": "Kaynamada başka görüntü",
+          "text": "Kaynama sırasında sıvının içinde buhar kabarcıkları oluşur. Kuruyan çamaşırla fokurdayan çaydanlık aynı süreç görüntüsüne sahip değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 10-3",
+          "url": "https://openstax.org/books/chemistry-2e/pages/10-3-phase-transitions"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "elif.k",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "umutburada",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "mert.y",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "gokce",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "iremce",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "cemden",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "duru.not",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-dagda-cay",
+      "topic": "Hâl değişimleri",
+      "layout": "receipt",
+      "category": "Bilim",
+      "title": "Dağda su daha düşük sıcaklıkta kaynar.",
+      "subtitle": "Rakım mutfak hesabına karışır.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/ISS-40_Thunderheads_near_Borneo.jpg/960px-ISS-40_Thunderheads_near_Borneo.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:ISS-40_Thunderheads_near_Borneo.jpg",
+        "credit": "NASA/Expedition 40 crew member",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Borneo yakınlarında fırtına bulutları · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "Dış basınç azalır",
+          "text": "Sıvı, buhar basıncı çevresindeki basınca ulaştığında kaynar. Yüksek rakımda hava basıncı düşük olduğu için bu daha düşük sıcaklıkta olur."
+        },
+        {
+          "title": "Kaynadı diye aynı sıcaklık değil",
+          "text": "“Su kaynıyor” bilgisi, her ortamda tam 100 °C olduğu anlamına gelmez. Ölçüm koşulu da cümlenin parçasıdır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 10-3",
+          "url": "https://openstax.org/books/chemistry-2e/pages/10-3-phase-transitions"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "selin.jpg",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "berk.b",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "duru.not",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "cemden",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-sublimlesme",
+      "topic": "Hâl değişimleri",
+      "layout": "sequence",
+      "category": "Bilim",
+      "title": "Katı, sıvı olmadan gaza geçebilir.",
+      "subtitle": "Aradaki durağı atlamak mümkün.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/ISS-40_Thunderheads_near_Borneo.jpg/960px-ISS-40_Thunderheads_near_Borneo.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:ISS-40_Thunderheads_near_Borneo.jpg",
+        "credit": "NASA/Expedition 40 crew member",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Borneo yakınlarında fırtına bulutları · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "Süblimleşme",
+          "text": "Katıdan doğrudan gaz hâline geçişe süblimleşme denir. Kuru buz, normal atmosfer basıncında bu davranışı gösterir."
+        },
+        {
+          "title": "Tersi de var",
+          "text": "Gazın doğrudan katıya geçmesi kırağılaşmadır. Soğuk yüzeylerde kırağı oluşması bu sürece örnektir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 10-3",
+          "url": "https://openstax.org/books/chemistry-2e/pages/10-3-phase-transitions"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "nisa.defter",
+          "text": "Kısa ama tekrar okumalık."
+        }
+      ]
+    },
+    {
+      "id": "kesif-gazoz-kapak",
+      "topic": "Çözünürlük",
+      "layout": "comic",
+      "category": "Gündelik",
+      "title": "Gazozun kapağı açılınca niye pıslıyor?",
+      "subtitle": "Şişe basınçlı bir anlaşma yapmıştı.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg",
+        "credit": "Bex Walton",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Kahve fincanları · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Basınç düşünce",
+          "text": "Kapalı şişede yüksek karbondioksit basıncı gazın sıvıda çözünmesini destekler. Kapak açıldığında sıvının üzerindeki basınç azalır."
+        },
+        {
+          "title": "Gaz dışarı çıkar",
+          "text": "Yeni koşullarda sıvı daha az karbondioksit tutabilir. Gaz kabarcıklar oluşturarak ayrılır; içecek zamanla gazını kaybeder."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 11-3",
+          "url": "https://openstax.org/books/chemistry-2e/pages/11-3-solubility"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ayse.tr",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        },
+        {
+          "name": "elif.k",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-sicak-su-oksijen",
+      "topic": "Çözünürlük",
+      "layout": "network",
+      "category": "Gündelik",
+      "title": "Ilık suda oksijen tutmak daha zor.",
+      "subtitle": "Gazların çözünürlüğü farklı davranır.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg",
+        "credit": "Bex Walton",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Kahve fincanları · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Sıcaklık arttığında",
+          "text": "Birçok gazın sudaki çözünürlüğü sıcaklık yükseldikçe azalır. Bu yüzden ısınan doğal suların çözünmüş oksijen kapasitesi düşebilir."
+        },
+        {
+          "title": "Canlılar açısından",
+          "text": "Suyun sıcaklığı yalnız konfor meselesi değildir. Suda yaşayan canlıların kullanabildiği oksijen koşullarını da etkiler."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 11-3",
+          "url": "https://openstax.org/books/chemistry-2e/pages/11-3-solubility"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "berk.b",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Her gün gözümün önündeymiş."
+        },
+        {
+          "name": "elif.k",
+          "text": "Örneği görünce anladım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-asiri-doymus",
+      "topic": "Çözünürlük",
+      "layout": "reveal",
+      "category": "Gündelik",
+      "title": "Çözelti bazen dengesinden fazlasını tutar.",
+      "subtitle": "Bir süreliğine.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg",
+        "credit": "Bex Walton",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Kahve fincanları · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Aşırı doymuş hâl",
+          "text": "Belirli sıcaklıkta denge çözünürlüğünün üzerinde madde içeren çözeltiye aşırı doymuş denir. Bu kararlı denge durumu değildir."
+        },
+        {
+          "title": "Bir değişim tetiklenebilir",
+          "text": "Koşullar uygun olduğunda fazla madde kristalleşerek ayrılabilir. Bir maddenin çözeltide görünmemesi, sonsuza kadar çözünmüş kalacağı anlamına gelmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 11-3",
+          "url": "https://openstax.org/books/chemistry-2e/pages/11-3-solubility"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ecebirnot",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "berk.b",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        },
+        {
+          "name": "gokce",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "duru.not",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "birseda",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "cemden",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-tuz-buz",
+      "topic": "Çözeltilerin ortak özellikleri",
+      "layout": "myth",
+      "category": "Bilim",
+      "title": "Tuz, buza ısı mı veriyor?",
+      "subtitle": "Asıl mesele donma sıcaklığı.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Snowflake_%28lumehelves%29.jpg/960px-Snowflake_%28lumehelves%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Snowflake_(lumehelves).jpg",
+        "credit": "Janek Lass",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "alt": "Bir kar kristali · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "Saf sudan farklı",
+          "text": "Suda çözünen tuz, çözeltinin donma noktasını saf suya göre düşürür. Uygun koşullarda buzun erimesine bu değişim yardım eder."
+        },
+        {
+          "title": "Her soğukta aynı değil",
+          "text": "Etki sıcaklığa ve derişime bağlıdır. Tuz eklemek, sınırsız soğukta bütün buzu eriten sihirli bir yöntem değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 11-4",
+          "url": "https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "birseda",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "umutburada",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "mert.y",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "cemden",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        }
+      ]
+    },
+    {
+      "id": "kesif-koligatif",
+      "topic": "Çözeltilerin ortak özellikleri",
+      "layout": "equation",
+      "category": "Bilim",
+      "title": "Bazen maddenin kimliği değil, tanecik sayısı önemli.",
+      "subtitle": "Çözelti hesabının ilginç tarafı.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Snowflake_%28lumehelves%29.jpg/960px-Snowflake_%28lumehelves%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Snowflake_(lumehelves).jpg",
+        "credit": "Janek Lass",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "alt": "Bir kar kristali · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "Seyreltik ideal yaklaşım",
+          "text": "Donma noktası alçalması gibi bazı özellikler, çözünmüş taneciklerin sayısıyla ilişkilidir. Bunlara koligatif özellikler denir."
+        },
+        {
+          "title": "Tuz neden farklı?",
+          "text": "Tuz suda iyonlarına ayrılabildiği için aynı sayıda formül birimi, şekerden farklı sayıda tanecik oluşturabilir. Gerçek çözeltilerde sapmalar da görülür."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 11-4",
+          "url": "https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "iremce",
+          "text": "Formülden önce mantığını bilmek iyi geldi."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        }
+      ]
+    },
+    {
+      "id": "kesif-makarna-tuz",
+      "topic": "Çözeltilerin ortak özellikleri",
+      "layout": "receipt",
+      "category": "Bilim",
+      "title": "Tuzlu su kaynarken sıcaklığı değişir mi?",
+      "subtitle": "Evet, ama miktar önemli.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Snowflake_%28lumehelves%29.jpg/960px-Snowflake_%28lumehelves%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Snowflake_(lumehelves).jpg",
+        "credit": "Janek Lass",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "alt": "Bir kar kristali · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "Kaynama noktası yükselir",
+          "text": "Uçucu olmayan çözünen bir madde, çözeltinin kaynama noktasını yükseltebilir. Tuzlu suyun davranışı saf suyla tamamen aynı değildir."
+        },
+        {
+          "title": "Mutfaktaki ölçek",
+          "text": "Az miktarda tuzun oluşturduğu sıcaklık farkı da küçüktür. Bilimsel etkinin var olması, günlük ölçekte çok büyük olduğu anlamına gelmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 11-4",
+          "url": "https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "elif.k",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "keremca",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-mayonez",
+      "topic": "Kolloidler ve mutfak",
+      "layout": "process",
+      "category": "Gündelik",
+      "title": "Yağla su küs. Mayonez nasıl oluyor?",
+      "subtitle": "Damlacıkları bir arada tutan düzen.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Woman_baking_bread-E_25213-IMG_4514-gradient.jpg/960px-Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "credit": "Artist anonymous",
+        "license": "CC BY-SA 3.0 fr",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/fr/",
+        "alt": "Ekmek yapan kadını gösteren tarihî heykel · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "Emülsiyon",
+          "text": "Birbirine karışmayan iki sıvıdan biri, diğerinin içinde çok küçük damlalar hâlinde dağılabilir. Buna emülsiyon denir."
+        },
+        {
+          "title": "Yumurta sarısının işi",
+          "text": "Mayonezde yumurta sarısındaki bileşenler damlacıkların birleşip ayrılmasını zorlaştırır. Yağ ortadan kaybolmaz; küçük damlalar hâlinde dağılır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 11-5",
+          "url": "https://openstax.org/books/chemistry-2e/pages/11-5-colloids"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "zeynepce",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "berk.b",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "elif.k",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "gokce",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        }
+      ]
+    },
+    {
+      "id": "kesif-tyndall",
+      "topic": "Kolloidler ve mutfak",
+      "layout": "diagram",
+      "category": "Gündelik",
+      "title": "Sis farın ışığını niye görünür yapıyor?",
+      "subtitle": "Işığın yolunu parçacıklar belli eder.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Woman_baking_bread-E_25213-IMG_4514-gradient.jpg/960px-Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "credit": "Artist anonymous",
+        "license": "CC BY-SA 3.0 fr",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/fr/",
+        "alt": "Ekmek yapan kadını gösteren tarihî heykel · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "Saçılma",
+          "text": "Kolloidal parçacıklar ışığı saçabilir. Bir ışık demetinin karışım içinde görünür hâle gelmesi Tyndall etkisiyle açıklanır."
+        },
+        {
+          "title": "Çözeltiyle farkı",
+          "text": "Şekerin tamamen çözündüğü suyla ince parçacıklar içeren karışım aynı davranmaz. Gözle berrak görünmek ve tanecik yapısı ayrı konulardır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 11-5",
+          "url": "https://openstax.org/books/chemistry-2e/pages/11-5-colloids"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "keremca",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kolloid",
+      "topic": "Kolloidler ve mutfak",
+      "layout": "glossary",
+      "category": "Gündelik",
+      "title": "Her bulanık karışım aynı değil.",
+      "subtitle": "Çözelti, kolloid ve süspansiyon.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Woman_baking_bread-E_25213-IMG_4514-gradient.jpg/960px-Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "credit": "Artist anonymous",
+        "license": "CC BY-SA 3.0 fr",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/fr/",
+        "alt": "Ekmek yapan kadını gösteren tarihî heykel · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "Boyut farkı",
+          "text": "Gerçek çözeltide çözünenler molekül veya iyon düzeyindedir. Kolloidlerde dağılmış parçacıklar daha büyüktür; ışığı belirgin biçimde saçabilirler."
+        },
+        {
+          "title": "Çöken karışım",
+          "text": "Süspansiyonlarda daha iri parçacıklar beklerken dibe çökelebilir. “Karıştırdım, kayboldu” demeden karışımın zaman içindeki davranışına da bakılır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 11-5",
+          "url": "https://openstax.org/books/chemistry-2e/pages/11-5-colloids"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "aliokuyor",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-katalizor",
+      "topic": "Kataliz",
+      "layout": "route",
+      "category": "Bilim",
+      "title": "Tepkimeye kısa yol gösteren madde.",
+      "subtitle": "Başlangıç ve son aynı kalabilir.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Quartz_28.jpg/960px-Quartz_28.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Quartz_28.jpg",
+        "credit": "Géry PARENT",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Kuvars kristali · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Daha kolay bir yol",
+          "text": "Katalizör, tepkimenin daha düşük etkinleşme engeli olan bir mekanizmayla ilerlemesini sağlayabilir. Böylece tepkime hızlanır."
+        },
+        {
+          "title": "Yakıt gibi tüketilmez",
+          "text": "Katalizör ara basamaklara katılabilir ama toplam süreçte yeniden oluşur. “Hiç etkileşmez” demek, “net olarak tüketilmez” demekle aynı değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 12-7",
+          "url": "https://openstax.org/books/chemistry-2e/pages/12-7-catalysis"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-yuzey-katalizi",
+      "topic": "Kataliz",
+      "layout": "cutaway",
+      "category": "Bilim",
+      "title": "Bazen tepkimenin buluşma yeri yüzeydir.",
+      "subtitle": "Metal sadece kap görevi görmez.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Quartz_28.jpg/960px-Quartz_28.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Quartz_28.jpg",
+        "credit": "Géry PARENT",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Kuvars kristali · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Yüzeye tutunmak",
+          "text": "Heterojen katalizde katalizör, tepkimeye giren maddelerden farklı fazdadır. Örneğin gaz molekülleri katı yüzeye tutunarak tepkimeye girebilir."
+        },
+        {
+          "title": "Temasın önemi",
+          "text": "Etkin yüzey, moleküllerin uygun biçimde bir araya gelmesini kolaylaştırır. Bu yüzden yalnız toplam kütle değil, erişilebilir yüzey de önemlidir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 12-7",
+          "url": "https://openstax.org/books/chemistry-2e/pages/12-7-catalysis"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "mert.y",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "keremca",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        }
+      ]
+    },
+    {
+      "id": "kesif-egzoz-katalizor",
+      "topic": "Kataliz",
+      "layout": "newspaper",
+      "category": "Bilim",
+      "title": "Egzozdaki kutunun içinde kimya çalışıyor.",
+      "subtitle": "Sadece sesi kısmıyor.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Quartz_28.jpg/960px-Quartz_28.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Quartz_28.jpg",
+        "credit": "Géry PARENT",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Kuvars kristali · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Dönüşüm görevi",
+          "text": "Katalitik dönüştürücü, egzoz gazlarındaki bazı zararlı bileşiklerin başka maddelere dönüşmesini hızlandıran katalizörler içerir."
+        },
+        {
+          "title": "Her sorunu çözmez",
+          "text": "Bu parça bütün salımları ortadan kaldıran bir filtre değildir. Tepkimeyi hızlandırmakla her maddeyi tutmak farklı işlevlerdir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 12-7",
+          "url": "https://openstax.org/books/chemistry-2e/pages/12-7-catalysis"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ayse.tr",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "mert.y",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        },
+        {
+          "name": "gokce",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "umutburada",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "berk.b",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        }
+      ]
+    },
+    {
+      "id": "kesif-sarj-edilen-pil",
+      "topic": "Piller ve enerji",
+      "layout": "comparison",
+      "category": "Teknoloji",
+      "title": "Her pile şarj kablosu takılmaz.",
+      "subtitle": "Tepkimenin geri çevrilebilmesi önemli.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "pulse",
+      "slides": [
+        {
+          "title": "İki sınıf",
+          "text": "Birincil piller tek kullanımlık süreçler için tasarlanır. İkincil pillerde ise uygun dış elektrik kaynağıyla tepkimeler ters yönde yürütülebilir."
+        },
+        {
+          "title": "Tasarım sınırı",
+          "text": "Şarj edilebilirlik yalnız pilin şekline bağlı değildir. Hücrenin kimyası ve güvenli çalışma düzeni belirleyicidir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 17-5",
+          "url": "https://openstax.org/books/chemistry-2e/pages/17-5-batteries-and-fuel-cells"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "nisa.defter",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-lityum-iyon",
+      "topic": "Piller ve enerji",
+      "layout": "diagram",
+      "category": "Teknoloji",
+      "title": "Pil çalışırken içeride iyonlar da hareket ediyor.",
+      "subtitle": "Elektronların yolu ayrı.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "pulse",
+      "slides": [
+        {
+          "title": "İki farklı yol",
+          "text": "Lityum iyon pillerde iyonlar elektrolit içinde elektrotlar arasında taşınırken, elektronlar dış devreden ilerler."
+        },
+        {
+          "title": "Şarjda yön değişir",
+          "text": "Dışarıdan verilen elektrik enerjisi, hücrenin yeniden enerji verebileceği duruma dönmesine yardım eder. Pil yalnız boş bir elektrik deposu değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 17-5",
+          "url": "https://openstax.org/books/chemistry-2e/pages/17-5-batteries-and-fuel-cells"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "onurdefter",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        }
+      ]
+    },
+    {
+      "id": "kesif-yakit-hucresi",
+      "topic": "Piller ve enerji",
+      "layout": "split",
+      "category": "Teknoloji",
+      "title": "Yakıt hücresiyle pil aynı şey değil.",
+      "subtitle": "Besleme biçimleri farklı.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "pulse",
+      "slides": [
+        {
+          "title": "Dışarıdan sürekli madde",
+          "text": "Yakıt hücresine yakıt ve oksitleyici dışarıdan sağlanır. Elektrik, bu maddelerin elektrokimyasal tepkimesinden elde edilir."
+        },
+        {
+          "title": "Pille karşılaştır",
+          "text": "Geleneksel pil, tepkime maddelerini kendi içinde taşır. İkisinde de kimyasal enerji elektrik enerjisine dönüşür, fakat çalışma düzenleri farklıdır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Chemistry 2E · 17-5",
+          "url": "https://openstax.org/books/chemistry-2e/pages/17-5-batteries-and-fuel-cells"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "deniz.k",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "iremce",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        }
+      ]
+    }
+  ]
+}

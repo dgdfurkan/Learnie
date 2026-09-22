@@ -1,0 +1,1385 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "id": "kesif-saat-modulo",
+      "topic": "Saat aritmetiği",
+      "layout": "equation",
+      "category": "Soru",
+      "title": "Saat 10. Beş saat sonra neden 3?",
+      "subtitle": "Saatte 15 diye bir köşe yok.",
+      "account": "Bir Tahmin",
+      "handle": "birtahmin",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg",
+        "credit": "Christoph Braun",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Tarihî sarkaçlı saat · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Çemberin hesabı",
+          "text": "On ikilik saatte sayılar 12’de bir başa döner. 10 + 5 = 15; 15’in 12’ye bölümünden kalan 3’tür."
+        },
+        {
+          "title": "Modüler aritmetik",
+          "text": "Bu tür hesaplarda tam turdan çok kalan önemlidir. Aynı düşünce döngülü takvim ve numaralandırmalarda da işe yarar."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 3-7",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/3-7-clock-arithmetic"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "keremca",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "cemden",
+          "text": "Örneği görünce anladım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-haftanin-gunu",
+      "topic": "Saat aritmetiği",
+      "layout": "receipt",
+      "category": "Soru",
+      "title": "100 gün sonra hangi gün?",
+      "subtitle": "Takvimi tek tek çevirmene gerek yok.",
+      "account": "Bir Tahmin",
+      "handle": "birtahmin",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg",
+        "credit": "Christoph Braun",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Tarihî sarkaçlı saat · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Yedide bir tekrar",
+          "text": "Bir hafta yedi gündür. 100’ü 7’ye böldüğünde kalan 2 olduğu için, 100 gün sonrası bugünden iki gün sonrasıyla aynı haftanın gününe gelir."
+        },
+        {
+          "title": "Bir örnek",
+          "text": "Bugün pazartesiyse 100 gün sonra çarşambadır. Ayların uzunluğu değişse de haftanın yedi günlük döngüsü bu hesabı bozmaz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 3-7",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/3-7-clock-arithmetic"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "iremce",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "gokce",
+          "text": "Detay sevenlere güzel konu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kontrol-rakami",
+      "topic": "Saat aritmetiği",
+      "layout": "terminal",
+      "category": "Soru",
+      "title": "Uzun numaranın son hanesi bazen bekçi.",
+      "subtitle": "Yanlış yazımı yakalamaya çalışır.",
+      "account": "Bir Tahmin",
+      "handle": "birtahmin",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg",
+        "credit": "Christoph Braun",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Tarihî sarkaçlı saat · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Hesapla eklenen hane",
+          "text": "Bazı kimlik ve ürün numaralarında kontrol rakamı bulunur. Diğer rakamlarla yapılan bir işlemin sonucu numaraya eklenir."
+        },
+        {
+          "title": "Şifreleme değil",
+          "text": "Kontrol rakamı bazı yazım hatalarını saptamaya yarar. Bilgiyi gizlemez ve her türlü hatayı yakalama garantisi vermez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 3-7",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/3-7-clock-arithmetic"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "elif.k",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Detay sevenlere güzel konu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-basamak",
+      "topic": "Sayı yazma sistemleri",
+      "layout": "number",
+      "category": "Bilim",
+      "title": "Aynı 5, bir yerde beş yüz eder.",
+      "subtitle": "Rakamın koltuğu değerini değiştirir.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png",
+        "credit": "Pearson Scott Foresman",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Abaküs çizimi · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "mosaic",
+      "slides": [
+        {
+          "title": "Yer önemli",
+          "text": "505 sayısındaki ilk 5, beş yüzü; son 5, beşi temsil eder. Onluk sistemde her basamak bir öncekinden on kat büyüktür."
+        },
+        {
+          "title": "Kısa yazmanın gücü",
+          "text": "Sınırlı sayıda rakamla çok büyük sayıları yazabilmemiz, bu konumsal düzenden gelir. Her sayı için ayrı simge icat etmeyiz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 4-1",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/4-1-hindu-arabic-positional-system"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "selin.jpg",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "keremca",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "umutburada",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "birseda",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "iremce",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "duru.not",
+          "text": "Okurken durup düşündüm biraz."
+        }
+      ]
+    },
+    {
+      "id": "kesif-sifir-yer",
+      "topic": "Sayı yazma sistemleri",
+      "layout": "sticky",
+      "category": "Bilim",
+      "title": "Sıfır bazen “burada bir şey yok” tabelası.",
+      "subtitle": "Ama yeri çok önemli.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png",
+        "credit": "Pearson Scott Foresman",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Abaküs çizimi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "mosaic",
+      "slides": [
+        {
+          "title": "105 ile 15",
+          "text": "105’te sıfır, onlar basamağında bir değer bulunmadığını gösterir. O işareti silince kalan rakamların temsil ettiği sayı değişir."
+        },
+        {
+          "title": "Boşluğu korur",
+          "text": "Sıfır yalnız hiçbir şeyin sayısı olarak değil, konumsal gösterimde yer tutucu olarak da iş görür."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 4-1",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/4-1-hindu-arabic-positional-system"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ahmet.a",
+          "text": "Bir daha karşılaşınca farklı bakacağım."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "duru.not",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        }
+      ]
+    },
+    {
+      "id": "kesif-rakam-sayi",
+      "topic": "Sayı yazma sistemleri",
+      "layout": "glossary",
+      "category": "Bilim",
+      "title": "“12 bir rakamdır” demeyelim artık.",
+      "subtitle": "Küçük bir kelime farkı.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png",
+        "credit": "Pearson Scott Foresman",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Abaküs çizimi · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "mosaic",
+      "slides": [
+        {
+          "title": "Rakam işaret, sayı fikir",
+          "text": "Onluk sistemin rakamları 0’dan 9’a kadar olan simgelerdir. 12 ise iki rakam kullanılarak yazılan bir sayıdır."
+        },
+        {
+          "title": "Aynı sayı, farklı yazı",
+          "text": "Bir niceliği farklı sayı sistemleriyle gösterebiliriz. Yazdığımız sembolle anlattığımız miktar aynı şey değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 4-1",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/4-1-hindu-arabic-positional-system"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "iremce",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        }
+      ]
+    },
+    {
+      "id": "kesif-zar-kosul",
+      "topic": "Koşullu olasılık",
+      "layout": "reveal",
+      "category": "Soru",
+      "title": "Zar çift geldi. Altı olma şansı şimdi kaç?",
+      "subtitle": "Yeni bilgi, ihtimalleri daraltır.",
+      "account": "Bir Tahmin",
+      "handle": "birtahmin",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg",
+        "credit": "Bubba73 (talk) , Jud McCranie",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Satranç taşları ve tahta · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "probability",
+      "slides": [
+        {
+          "title": "Üç aday kaldı",
+          "text": "Adil zarın çift geldiğini biliyorsan mümkün sonuçlar 2, 4 ve 6’dır. Bu koşul altında 6 gelme olasılığı üçte birdir."
+        },
+        {
+          "title": "Önce altıda birdi",
+          "text": "Koşullu olasılık, elimizdeki bilgiyi hesaba katar. Zar değişmedi; hangi sonuçları değerlendirdiğimiz değişti."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 7-9",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/7-9-conditional-probability-and-the-multiplication-rule"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "selin.jpg",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "mert.y",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "cemden",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        }
+      ]
+    },
+    {
+      "id": "kesif-torba-geri",
+      "topic": "Koşullu olasılık",
+      "layout": "comparison",
+      "category": "Soru",
+      "title": "Bilyeyi torbaya geri koymak hesabı değiştirir.",
+      "subtitle": "İkinci çekiliş ilkinden etkilenebilir.",
+      "account": "Bir Tahmin",
+      "handle": "birtahmin",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg",
+        "credit": "Bubba73 (talk) , Jud McCranie",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Satranç taşları ve tahta · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "probability",
+      "slides": [
+        {
+          "title": "Geri koymazsan",
+          "text": "İki kırmızı, bir mavi bilye bulunan torbadan kırmızı çekilip çıkarılırsa geriye bir kırmızı ve bir mavi kalır."
+        },
+        {
+          "title": "Geri koyarsan",
+          "text": "Bilye geri konup karıştırılırsa torba eski bileşimine döner. İkinci kırmızı olasılığı ilk durumda 1/2, ikinci durumda 2/3’tür."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 7-9",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/7-9-conditional-probability-and-the-multiplication-rule"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "iremce",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "berk.b",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        }
+      ]
+    },
+    {
+      "id": "kesif-olasilik-yon",
+      "topic": "Koşullu olasılık",
+      "layout": "chat",
+      "category": "Soru",
+      "title": "A olunca B, B olunca A demek değil.",
+      "subtitle": "Koşulun yönünü karıştırmak kolay.",
+      "account": "Bir Tahmin",
+      "handle": "birtahmin",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg",
+        "credit": "Bubba73 (talk) , Jud McCranie",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Satranç taşları ve tahta · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "probability",
+      "slides": [
+        {
+          "title": "Bir sınıf düşün",
+          "text": "Sınıftaki bütün gözlüklüler satranç oynuyor olsun. Bu, bütün satranç oynayanların gözlüklü olduğunu göstermez."
+        },
+        {
+          "title": "Payda değişiyor",
+          "text": "“Gözlüklüler arasında” ile “satranç oynayanlar arasında” farklı gruplara bakarız. Koşullu olasılıklarda grubun hangisi olduğunu sormak gerekir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 7-9",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/7-9-conditional-probability-and-the-multiplication-rule"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ahmet.a",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "keremca",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "iremce",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Okurken durup düşündüm biraz."
+        }
+      ]
+    },
+    {
+      "id": "kesif-zar-uc-bucuk",
+      "topic": "Beklenen değer",
+      "layout": "punchline",
+      "category": "Soru",
+      "title": "Zarın ortalaması 3,5. Böyle yüz yok?",
+      "subtitle": "Beklenen değer tek sonucu söylemez.",
+      "account": "Bir Tahmin",
+      "handle": "birtahmin",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png",
+        "credit": "Pearson Scott Foresman",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Abaküs çizimi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "probability",
+      "slides": [
+        {
+          "title": "Uzun vadeli ortalama",
+          "text": "Adil altı yüzlü zarın sonuçlarının ortalaması 3,5’tir. Bu, bir atışta 3,5 geleceği anlamına gelmez."
+        },
+        {
+          "title": "Çok tekrarın hesabı",
+          "text": "Beklenen değer, olası sonuçları olasılıklarıyla ağırlıklandırarak elde edilir. Tek bir denemenin kesin tahmini değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 7-11",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/7-11-expected-value"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "zeynepce",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Detay sevenlere güzel konu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-puan-beklentisi",
+      "topic": "Beklenen değer",
+      "layout": "equation",
+      "category": "Soru",
+      "title": "Büyük ödül, iyi ortalama demek değil.",
+      "subtitle": "Olasılığı da masaya koyalım.",
+      "account": "Bir Tahmin",
+      "handle": "birtahmin",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png",
+        "credit": "Pearson Scott Foresman",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Abaküs çizimi · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "probability",
+      "slides": [
+        {
+          "title": "Kâğıt üstünde oyun",
+          "text": "Bir oyunda yüzde 10 olasılıkla 20 puan, yüzde 90 olasılıkla sıfır puan verilsin. Beklenen puan 2’dir."
+        },
+        {
+          "title": "Sayıya nasıl ulaştık?",
+          "text": "20 × 0,10 + 0 × 0,90 = 2. Ödülün büyüklüğü kadar ne sıklıkta alındığı da önemlidir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 7-11",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/7-11-expected-value"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "nisa.defter",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        }
+      ]
+    },
+    {
+      "id": "kesif-ortalama-risk",
+      "topic": "Beklenen değer",
+      "layout": "split",
+      "category": "Soru",
+      "title": "Ortalaması aynı iki oyun farklı hissettirir.",
+      "subtitle": "Dalgalanma da bir bilgi.",
+      "account": "Bir Tahmin",
+      "handle": "birtahmin",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png",
+        "credit": "Pearson Scott Foresman",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Abaküs çizimi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "probability",
+      "slides": [
+        {
+          "title": "İki puan düzeni",
+          "text": "Bir oyun her tur 5 puan versin. Diğeri eşit olasılıkla 0 veya 10 versin. İkisinin beklenen değeri de 5’tir."
+        },
+        {
+          "title": "Deneyim aynı değil",
+          "text": "İlk oyunda sonuç sabitken ikincisinde değişir. Yalnız ortalamayı bilmek, tek tek sonuçların ne kadar oynadığını söylemez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 7-11",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/7-11-expected-value"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ahmet.a",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "duru.not",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "gokce",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        }
+      ]
+    },
+    {
+      "id": "kesif-ortalama-uc",
+      "topic": "Ortalama tuzakları",
+      "layout": "number",
+      "category": "Bilim",
+      "title": "Bir dev geldi, ortalama değişti.",
+      "subtitle": "Toplamın kişi sayısına bölünmesi.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png",
+        "credit": "Pearson Scott Foresman",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Abaküs çizimi · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "balance",
+      "slides": [
+        {
+          "title": "Küçük liste",
+          "text": "2, 3 ve 4’ün aritmetik ortalaması 3’tür. Listeye 91 eklenirse ortalama 25 olur."
+        },
+        {
+          "title": "Çoğunluğu anlatıyor mu?",
+          "text": "Dört sayıdan üçü hâlâ 2–4 arasındadır. Uç bir değer, ortalamayı grubun çoğundan uzaklaştırabilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 8-3",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/8-3-mean-median-and-mode"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "mert.y",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        }
+      ]
+    },
+    {
+      "id": "kesif-medyan",
+      "topic": "Ortalama tuzakları",
+      "layout": "process",
+      "category": "Bilim",
+      "title": "Ortadakini bul, ama önce sırala.",
+      "subtitle": "Medyanın basit kuralı.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png",
+        "credit": "Pearson Scott Foresman",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Abaküs çizimi · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "balance",
+      "slides": [
+        {
+          "title": "Sıra önemli",
+          "text": "3, 100 ve 4 sayıları sıralanınca 3, 4, 100 olur. Ortadaki değer olan 4, bu listenin medyanıdır."
+        },
+        {
+          "title": "Çift sayıda eleman",
+          "text": "Eleman sayısı çiftse ortadaki iki değerin ortalaması alınır. Medyan, en çok tekrarlanan değerle aynı kavram değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 8-3",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/8-3-mean-median-and-mode"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "onurdefter",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "gokce",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Bu ayrımı unutmayayım."
+        },
+        {
+          "name": "deniz.k",
+          "text": "İkinci kartta anca oturdu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-mod",
+      "topic": "Ortalama tuzakları",
+      "layout": "glossary",
+      "category": "Bilim",
+      "title": "En sık görülen sayı: mod.",
+      "subtitle": "Her listenin tek modu olmak zorunda değil.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png",
+        "credit": "Pearson Scott Foresman",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Abaküs çizimi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "balance",
+      "slides": [
+        {
+          "title": "Tekrara bak",
+          "text": "2, 2, 5, 7 listesinin modu 2’dir. Çünkü diğerlerinden daha sık görülür."
+        },
+        {
+          "title": "Beraberlik olabilir",
+          "text": "2, 2, 5, 5 listesinin iki modu vardır. Ortalama, medyan ve mod verinin farklı özelliklerini özetler."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 8-3",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/8-3-mean-median-and-mode"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ayse.tr",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Bu kısmı okulda hızlı geçmişiz."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "gokce",
+          "text": "Bir daha karşılaşınca farklı bakacağım."
+        },
+        {
+          "name": "keremca",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        }
+      ]
+    },
+    {
+      "id": "kesif-alti-gen",
+      "topic": "Düzlemi kaplayan desenler",
+      "layout": "mosaic",
+      "category": "Sanat",
+      "title": "Altıgen fayansın köşelerinde boşluk kalmıyor.",
+      "subtitle": "Düzenli desenin açı hesabı.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg",
+        "credit": "Laitche",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Kâğıttan origami turnalar · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "mosaic",
+      "slides": [
+        {
+          "title": "Üçü bir araya",
+          "text": "Düzgün altıgenin iç açısı 120 derecedir. Bir köşede üçü buluştuğunda toplam 360 derece olur."
+        },
+        {
+          "title": "Boşluksuz kaplama",
+          "text": "Bu yüzden düzgün altıgenler düzlemi boşluk ve üst üste binme olmadan kaplayabilir. Kareler ve eşkenar üçgenler de bunu yapar."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 10-5",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/10-5-tessellations"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "gokce",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "keremca",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-besgen-fayans",
+      "topic": "Düzlemi kaplayan desenler",
+      "layout": "myth",
+      "category": "Sanat",
+      "title": "Düzgün beşgenle iş neden zor?",
+      "subtitle": "Her güzel şekil aynı döşemeyi yapmaz.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg",
+        "credit": "Laitche",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Kâğıttan origami turnalar · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "mosaic",
+      "slides": [
+        {
+          "title": "108 derecelik köşe",
+          "text": "Düzgün beşgenin iç açısı 108 derecedir. Köşede yalnız bu açılardan tam 360 derece elde edemezsin."
+        },
+        {
+          "title": "Düzgün sözcüğü önemli",
+          "text": "Bazı düzgün olmayan beşgenler düzlemi kaplayabilir. “Hiçbir beşgenle olmaz” demek fazla geniş bir iddia olur."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 10-5",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/10-5-tessellations"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "elif.k",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        },
+        {
+          "name": "umutburada",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Bir esere bakarken artık malzemesini de soracağım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-desen-oteleme",
+      "topic": "Düzlemi kaplayan desenler",
+      "layout": "notebook",
+      "category": "Sanat",
+      "title": "Desen dönebilir, kayabilir, aynalanabilir.",
+      "subtitle": "Tekrarın tek yolu kopyala-yapıştır değil.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg",
+        "credit": "Laitche",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Kâğıttan origami turnalar · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "mosaic",
+      "slides": [
+        {
+          "title": "Aynı parça farklı yerde",
+          "text": "Bir motifi kaydırmak öteleme, çevirmek dönme, ayna görüntüsünü almak yansımadır. Döşemelerde bu dönüşümler birlikte kullanılabilir."
+        },
+        {
+          "title": "Gözüne bir oyun",
+          "text": "Bir duvar deseninde aynı parçayı bul. Sonrakine ulaşmak için onu kaydırman mı, çevirmen mi gerekiyor?"
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 10-5",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/10-5-tessellations"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "keremca",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        },
+        {
+          "name": "elif.k",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "iremce",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        }
+      ]
+    },
+    {
+      "id": "kesif-konigsberg",
+      "topic": "Çizgeler ve yollar",
+      "layout": "route",
+      "category": "Bilim",
+      "title": "Yedi köprüyü birer kez geçmek mümkün mü?",
+      "subtitle": "Harita bir matematik sorusuna dönüştü.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Pont_du_Gard_BLS.jpg/960px-Pont_du_Gard_BLS.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pont_du_Gard_BLS.jpg",
+        "credit": "Benh LIEU SONG ( Flickr )",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Pont du Gard Roma su kemeri · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Adaları nokta yap",
+          "text": "Königsberg probleminde kara parçaları noktalarla, köprüler onları bağlayan çizgilerle temsil edilir. Mesafelerden önce bağlantılar önem kazanır."
+        },
+        {
+          "title": "Yürümek yetmez",
+          "text": "Bu ağın yapısı, bütün köprüleri yalnızca birer kez geçen bir yürüyüşe izin vermez. Daha çok denemek yapısal engeli ortadan kaldırmaz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 12-5",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/12-5-euler-circuits"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "deniz.k",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "cemden",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "umutburada",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "iremce",
+          "text": "Bu kısmı okulda hızlı geçmişiz."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "elif.k",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "keremca",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "birseda",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "duru.not",
+          "text": "Formülden önce mantığını bilmek iyi geldi."
+        },
+        {
+          "name": "berk.b",
+          "text": "Örneği görünce anladım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-cizge-derece",
+      "topic": "Çizgeler ve yollar",
+      "layout": "diagram",
+      "category": "Bilim",
+      "title": "Bir noktaya kaç yol bağlanıyor?",
+      "subtitle": "Çizgede buna derece denir.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Pont_du_Gard_BLS.jpg/960px-Pont_du_Gard_BLS.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pont_du_Gard_BLS.jpg",
+        "credit": "Benh LIEU SONG ( Flickr )",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Pont du Gard Roma su kemeri · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Giriş ve çıkış",
+          "text": "Bir ağdaki noktanın derecesi, ona bağlı kenar uçlarının sayısıdır. Bir düğümü ziyaret ederken giriş ve çıkışlar eşleşir."
+        },
+        {
+          "title": "Çiftlik koşulu",
+          "text": "Bütün kenarları bir kez kullanıp başlangıca dönen Euler turunda, kullanılan bağlantılı ağdaki her noktanın derecesi çift olmalıdır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 12-5",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/12-5-euler-circuits"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "duru.not",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        }
+      ]
+    },
+    {
+      "id": "kesif-harita-baglanti",
+      "topic": "Çizgeler ve yollar",
+      "layout": "beforeafter",
+      "category": "Bilim",
+      "title": "Yolları eğip bükünce ağ değişmeyebilir.",
+      "subtitle": "Şekil başka, bağlantı başka.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Pont_du_Gard_BLS.jpg/960px-Pont_du_Gard_BLS.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pont_du_Gard_BLS.jpg",
+        "credit": "Benh LIEU SONG ( Flickr )",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Pont du Gard Roma su kemeri · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Çizimdeki özgürlük",
+          "text": "Aynı noktalar aynı biçimde bağlı kaldığı sürece çizgeyi farklı yerleşimlerle çizebilirsin. Çizgilerin kâğıttaki uzunluğu her problemde belirleyici değildir."
+        },
+        {
+          "title": "Metroya bakar gibi",
+          "text": "Bağlantı düzenini incelemek için gerçek coğrafi uzaklıkları korumak şart olmayabilir. Önce hangi soruyu sorduğunu belirlemek gerekir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 12-5",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/12-5-euler-circuits"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "mert.y",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "elif.k",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "cemden",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Bu ayrımı unutmayayım."
+        },
+        {
+          "name": "berk.b",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Kısa ama tekrar okumalık."
+        }
+      ]
+    },
+    {
+      "id": "kesif-gezgin-satici",
+      "topic": "Rota planlama",
+      "layout": "route",
+      "category": "Teknoloji",
+      "title": "Bütün adreslere uğra, en kısa yoldan dön.",
+      "subtitle": "Küçük başlayıp hızla zorlaşan soru.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+        "credit": "齐健 from Peking, People's Republic of China",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Bir bisiklet · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Rotalar çoğalır",
+          "text": "Gezgin satıcı problemi, her noktayı ziyaret edip başlangıca dönen en düşük maliyetli turu arar. Nokta sayısı arttıkça olası sıralamalar hızla çoğalır."
+        },
+        {
+          "title": "Maliyet sadece kilometre değil",
+          "text": "Kenarların değeri mesafe, süre veya başka bir maliyet olabilir. En kısa mesafe her zaman en kısa süre anlamına gelmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 12-9",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/12-9-traveling-salesperson-problem"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "duru.not",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        }
+      ]
+    },
+    {
+      "id": "kesif-en-yakin",
+      "topic": "Rota planlama",
+      "layout": "puzzle",
+      "category": "Teknoloji",
+      "title": "Önce en yakına gitmek hep doğru mu?",
+      "subtitle": "O anki iyi seçim turu uzatabilir.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+        "credit": "齐健 from Peking, People's Republic of China",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Bir bisiklet · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Açgözlü yöntem",
+          "text": "En yakın komşu yaklaşımı her adımda henüz gidilmemiş en yakın noktayı seçer. Hızlı bir rota üretmek için kullanılabilir."
+        },
+        {
+          "title": "Garanti vermez",
+          "text": "Sonraki adımları hesaba katmadan yapılan seçim, toplamda en kısa turu vermeyebilir. Yerel olarak iyi olan, bütün için en iyi olmayabilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 12-9",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/12-9-traveling-salesperson-problem"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "duru.not",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "cemden",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        }
+      ]
+    },
+    {
+      "id": "kesif-rota-baslangic",
+      "topic": "Rota planlama",
+      "layout": "sequence",
+      "category": "Teknoloji",
+      "title": "Aynı yöntem, farklı başlangıç, başka sonuç.",
+      "subtitle": "İlk adres de hesabı etkiler.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+        "credit": "齐健 from Peking, People's Republic of China",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Bir bisiklet · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Başlangıcı değiştir",
+          "text": "En yakın komşu yöntemi farklı noktalardan başlatıldığında farklı turlar üretebilir. Çünkü her adım kalan seçenekleri değiştirir."
+        },
+        {
+          "title": "Karşılaştırma şansı",
+          "text": "Birkaç başlangıcı denemek daha iyi bir tur bulabilir. Yine de bütün olasılıklar arasında en iyiyi bulduğunun kanıtı değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 12-9",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/12-9-traveling-salesperson-problem"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "umutburada",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Şuraya bir yer imi bırakayım."
+        }
+      ]
+    }
+  ]
+}

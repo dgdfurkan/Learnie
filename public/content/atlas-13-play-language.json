@@ -1,0 +1,1198 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "id": "kesif-spor-antropoloji",
+      "topic": "Sporun toplumsal yüzü",
+      "layout": "newspaper",
+      "category": "Spor",
+      "title": "Maçta yalnız skor tutulmuyor.",
+      "subtitle": "Antropolog tribüne de bakar.",
+      "account": "Saha Kenarı",
+      "handle": "sahakenari",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+        "credit": "齐健 from Peking, People's Republic of China",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Bir bisiklet · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "football",
+      "slides": [
+        {
+          "title": "Toplumun içinde",
+          "text": "Spor antropolojisi; oyunları, sporcuları ve izleyicileri toplumsal bağlamlarıyla inceler. Kimlerin katılabildiği ve neyin ödüllendirildiği de sorudur."
+        },
+        {
+          "title": "Sahadan fazlası",
+          "text": "Bir sporun anlamı yalnız hareket kurallarından çıkmaz. Taraftarlık, kimlik ve ortak deneyim de oyunun çevresini oluşturur."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 16-3",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/16-3-an-anthropological-view-of-sport-throughout-time"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-spor-yetenek",
+      "topic": "Sporun toplumsal yüzü",
+      "layout": "profile",
+      "category": "Spor",
+      "title": "Yetenek var. Peki sahası, hocası, zamanı var mı?",
+      "subtitle": "Başarı bir çevrenin içinde gelişir.",
+      "account": "Saha Kenarı",
+      "handle": "sahakenari",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+        "credit": "齐健 from Peking, People's Republic of China",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Bir bisiklet · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "football",
+      "slides": [
+        {
+          "title": "Koşulların payı",
+          "text": "Bireysel beceri önemli olsa da spor, eğitim ve toplumsal destek içinde öğrenilir. Yeteneklerin görünür olacağı kurumlar ve fırsatlar gerekir."
+        },
+        {
+          "title": "Tek kişilik açıklama eksik",
+          "text": "Bir şampiyonun hikâyesini yalnız doğuştan gelen özelliklerle anlatmak, bu çevreyi görünmez kılabilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 16-3",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/16-3-an-anthropological-view-of-sport-throughout-time"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ayse.tr",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "duru.not",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "keremca",
+          "text": "Spor deyince sadece oyuncuları düşünüyoruz."
+        },
+        {
+          "name": "zeynepce",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Tribünde anlatılacak bilgi çıktı."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        },
+        {
+          "name": "mert.y",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        },
+        {
+          "name": "gokce",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "berk.b",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        }
+      ]
+    },
+    {
+      "id": "kesif-spor-arkeoloji",
+      "topic": "Sporun toplumsal yüzü",
+      "layout": "casefile",
+      "category": "Spor",
+      "title": "Eski bir oyun aleti de insanlık tarihi anlatır.",
+      "subtitle": "Sporun geçmişine bakmak.",
+      "account": "Saha Kenarı",
+      "handle": "sahakenari",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+        "credit": "齐健 from Peking, People's Republic of China",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Bir bisiklet · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "football",
+      "slides": [
+        {
+          "title": "Nesnelerden iz sürmek",
+          "text": "Arkeolojik spor araştırmaları, oyun alanları ve kullanılan nesneler üzerinden geçmiş pratikleri anlamaya çalışır."
+        },
+        {
+          "title": "Aynısını varsayma",
+          "text": "Bugünkü bir oyuna benzeyen buluntu, bütün kuralların aynı olduğunu göstermez. Nesnenin kullanımını kendi bağlamında değerlendirmek gerekir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 16-3",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/16-3-an-anthropological-view-of-sport-throughout-time"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "mert.y",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "onurdefter",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "birseda",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        }
+      ]
+    },
+    {
+      "id": "kesif-lig-mac-sayisi",
+      "topic": "Turnuvanın matematiği",
+      "layout": "equation",
+      "category": "Spor",
+      "title": "6 takım herkesle bir kez oynasa kaç maç eder?",
+      "subtitle": "Fikstürün küçük hesabı.",
+      "account": "Saha Kenarı",
+      "handle": "sahakenari",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg",
+        "credit": "Bubba73 (talk) , Jud McCranie",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Satranç taşları ve tahta · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "İkişer eşleştir",
+          "text": "Tek devreli ligde her takım diğer beş takımla oynar. 6 × 5 sayınca her maçı iki kez saymış oluruz."
+        },
+        {
+          "title": "İkiye böl",
+          "text": "Toplam 6 × 5 / 2 = 15 maç gerekir. Genel formül n takım için n × (n − 1) / 2'dir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 13-5",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/13-5-math-and-sports"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "duru.not",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Son cümle önemli bence."
+        }
+      ]
+    },
+    {
+      "id": "kesif-eleme-mac",
+      "topic": "Turnuvanın matematiği",
+      "layout": "route",
+      "category": "Spor",
+      "title": "32 takımdan şampiyon çıkarmak için 31 maç yeter.",
+      "subtitle": "Üçüncülük maçı olmayan tek eleme.",
+      "account": "Saha Kenarı",
+      "handle": "sahakenari",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg",
+        "credit": "Bubba73 (talk) , Jud McCranie",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Satranç taşları ve tahta · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Her maç birini eler",
+          "text": "Tek maçlı elemede her karşılaşma bir takımı yarıştan çıkarır. Bir şampiyon kalması için 31 takım elenmelidir."
+        },
+        {
+          "title": "Kısa yolun bedeli",
+          "text": "Bu nedenle 32 − 1 = 31 maç gerekir. Lig düzenine göre az maç oynanır; her takım herkesle karşılaşmaz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 13-5",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/13-5-math-and-sports"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "aliokuyor",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        }
+      ]
+    },
+    {
+      "id": "kesif-spor-veri",
+      "topic": "Turnuvanın matematiği",
+      "layout": "terminal",
+      "category": "Spor",
+      "title": "Gol sayısı tek başına oyuncunun bütün hikâyesi değil.",
+      "subtitle": "Spor analitiği neye bakar?",
+      "account": "Saha Kenarı",
+      "handle": "sahakenari",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg",
+        "credit": "Bubba73 (talk) , Jud McCranie",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Satranç taşları ve tahta · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Örüntü aramak",
+          "text": "Spor verileri; oyuncu değerlendirmesi, rakip analizi ve strateji geliştirmede kullanılabilir. Kararlar yalnız gözle görülen sonuca dayanmak zorunda değildir."
+        },
+        {
+          "title": "Ölçüm de seçimdir",
+          "text": "Hangi verinin soruya uygun olduğunu belirlemek gerekir. Bir tablo çok sayı içeriyor diye otomatik olarak iyi değerlendirme yapmaz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 13-5",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/13-5-math-and-sports"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ardabirbak",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        }
+      ]
+    },
+    {
+      "id": "kesif-hertz",
+      "topic": "Müziğin sayıları",
+      "layout": "comparison",
+      "category": "Sanat",
+      "title": "Sesi açtın. Nota otomatik olarak incelmedi.",
+      "subtitle": "Gürlükle frekans farklı.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/GuitareClassique5.png/500px-GuitareClassique5.png",
+        "source": "https://commons.wikimedia.org/wiki/File:GuitareClassique5.png",
+        "credit": "User:Martin Möller Talk",
+        "license": "CC BY-SA 2.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/",
+        "alt": "Klasik gitar · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "wave",
+      "slides": [
+        {
+          "title": "Titreşim sayısı",
+          "text": "Hertz, saniyedeki titreşim döngüsü sayısını belirtir. Frekans, sesin ince veya kalın algılanmasıyla ilişkilidir."
+        },
+        {
+          "title": "Başka bir özellik",
+          "text": "Ses düzeyini artırmak frekansı aynı oranda artırmak demek değildir. Gürlük ve perdeyi ayrı özellikler olarak düşünmek gerekir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 13-4",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/13-4-math-and-music"
+        },
+        {
+          "label": "Carnegie Mellon · Oktav ve frekans",
+          "url": "https://www.cs.cmu.edu/~15322/book/ch04/01.html"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "gokce",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "elif.k",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Ben renklerine bakıp geçiyordum."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "cemden",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        }
+      ]
+    },
+    {
+      "id": "kesif-oktav",
+      "topic": "Müziğin sayıları",
+      "layout": "number",
+      "category": "Sanat",
+      "title": "Aynı nota adı, farklı yükseklik.",
+      "subtitle": "Oktavın frekans ilişkisi.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/GuitareClassique5.png/500px-GuitareClassique5.png",
+        "source": "https://commons.wikimedia.org/wiki/File:GuitareClassique5.png",
+        "credit": "User:Martin Möller Talk",
+        "license": "CC BY-SA 2.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/",
+        "alt": "Klasik gitar · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "wave",
+      "slides": [
+        {
+          "title": "İki kat",
+          "text": "Bir sesin frekansı iki katına çıktığında bir oktav yukarıya gider. Örneğin 220 Hz ile 440 Hz arasında bir oktav vardır."
+        },
+        {
+          "title": "Oran sabit",
+          "text": "440 Hz'den bir oktav yukarısı 880 Hz olur. Artan miktar aynı kalmaz; korunan şey ikiye bir frekans oranıdır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 13-4",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/13-4-math-and-music"
+        },
+        {
+          "label": "Carnegie Mellon · Oktav ve frekans",
+          "url": "https://www.cs.cmu.edu/~15322/book/ch04/01.html"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "gokce",
+          "text": "Bir esere bakarken artık malzemesini de soracağım."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "iremce",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "cemden",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "elif.k",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "mert.y",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "umutburada",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "keremca",
+          "text": "Bu ayrımı unutmayayım."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "duru.not",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-yarim-adim",
+      "topic": "Müziğin sayıları",
+      "layout": "sequence",
+      "category": "Sanat",
+      "title": "Piyanoda yan tuşa geçmek bazen siyaha basmaktır.",
+      "subtitle": "Yarım sesin küçük haritası.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/GuitareClassique5.png/500px-GuitareClassique5.png",
+        "source": "https://commons.wikimedia.org/wiki/File:GuitareClassique5.png",
+        "credit": "User:Martin Möller Talk",
+        "license": "CC BY-SA 2.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/",
+        "alt": "Klasik gitar · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "wave",
+      "slides": [
+        {
+          "title": "Komşu tuşlar",
+          "text": "Batı müziğindeki standart klavyede, siyahlar dahil yan yana iki tuş arasındaki aralık yarım sestir."
+        },
+        {
+          "title": "Bir oktavlık yol",
+          "text": "On iki yarım ses adımı bir oktavı tamamlar. Yalnız beyaz tuşları saymak bu aralık düzenini göstermeye yetmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Contemporary Mathematics · 13-4",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/13-4-math-and-music"
+        },
+        {
+          "label": "Carnegie Mellon · Oktav ve frekans",
+          "url": "https://www.cs.cmu.edu/~15322/book/ch04/01.html"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "deniz.k",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        },
+        {
+          "name": "elif.k",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "iremce",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "cemden",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Bu ayrımı unutmayayım."
+        },
+        {
+          "name": "umutburada",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "mert.y",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "berk.b",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "birseda",
+          "text": "Ben renklerine bakıp geçiyordum."
+        }
+      ]
+    },
+    {
+      "id": "kesif-etnomuzikoloji",
+      "topic": "Müziği kültürle dinlemek",
+      "layout": "glossary",
+      "category": "Sanat",
+      "title": "Şarkının notasını öğrendin. Nerede söyleniyor?",
+      "subtitle": "Müzik araştırmasının başka kulağı.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Violin_VL100.png/500px-Violin_VL100.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Violin_VL100.png",
+        "credit": "Just plain Bill",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Keman · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "wave",
+      "slides": [
+        {
+          "title": "Bağlamı dinlemek",
+          "text": "Etnomüzikoloji, müziği toplumsal ve kültürel bağlamlarıyla inceler. Kimlerin, hangi ortamda, ne amaçla müzik yaptığıyla ilgilenir."
+        },
+        {
+          "title": "Sesin çevresi",
+          "text": "Aynı ezginin törende veya gündelik eğlencede söylenmesi farklı anlamlar taşıyabilir. Yalnız ses kaydına bakmak her şeyi anlatmaz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 16-2",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/16-2-anthropology-of-music"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "keremca",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        }
+      ]
+    },
+    {
+      "id": "kesif-densmore",
+      "topic": "Müziği kültürle dinlemek",
+      "layout": "profile",
+      "category": "Sanat",
+      "title": "Eski bir ses kaydı tek başına konuşmaz.",
+      "subtitle": "Frances Densmore'un araştırmaları.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Violin_VL100.png/500px-Violin_VL100.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Violin_VL100.png",
+        "credit": "Just plain Bill",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Keman · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "wave",
+      "slides": [
+        {
+          "title": "Kayıt ve yorum",
+          "text": "Densmore, Yerli Amerikan topluluklarının müziklerini kaydeden araştırmacılardandı. Kaydedilen müziğin anlamını öğrenmek için insanlarla da çalıştı."
+        },
+        {
+          "title": "Kimin bilgisi?",
+          "text": "Arşivdeki sesin bağlamını anlamak, o müziği üreten insanların bilgisine dayanır. Kaydı yapan kişi hikâyenin tek sahibi değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 16-2",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/16-2-anthropology-of-music"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "aliokuyor",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "gokce",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "mert.y",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        }
+      ]
+    },
+    {
+      "id": "kesif-muzik-arkeoloji",
+      "topic": "Müziği kültürle dinlemek",
+      "layout": "gallery",
+      "category": "Sanat",
+      "title": "Kırık bir flüt de geçmişten haber verir.",
+      "subtitle": "Müzik nesneleri arkeolojinin içinde.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Violin_VL100.png/500px-Violin_VL100.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Violin_VL100.png",
+        "credit": "Just plain Bill",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Keman · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "wave",
+      "slides": [
+        {
+          "title": "Malzemenin izi",
+          "text": "Eski çalgıların yapısı ve bulundukları yerler, üretim becerileriyle müziğin kullanımına dair ipuçları sağlar."
+        },
+        {
+          "title": "Ses kaydı yoksa",
+          "text": "Bir çalgının bulunması, çalınan her ezgiyi bildiğimiz anlamına gelmez. Maddi kanıtla kaybolmuş performansı ayırmak gerekir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 16-2",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/16-2-anthropology-of-music"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "umutburada",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "birseda",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "keremca",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "cemden",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "duru.not",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        },
+        {
+          "name": "berk.b",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "mert.y",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        }
+      ]
+    },
+    {
+      "id": "kesif-ari-dansi",
+      "topic": "İletişimden dile",
+      "layout": "route",
+      "category": "Gündelik",
+      "title": "Arı adresi dans ederek tarif ediyor.",
+      "subtitle": "Kovanda yön ve uzaklık.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/The_Lone_Pollinator.jpg/960px-The_Lone_Pollinator.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Lone_Pollinator.jpg",
+        "credit": "Tanner Smida",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "alt": "Çiçek üzerinde tozlayıcı arı · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Sallanma dansı",
+          "text": "Bal arısının sallanma dansındaki yön ve süre, besin kaynağının yönüyle uzaklığı hakkında bilgi aktarabilir."
+        },
+        {
+          "title": "Sınırı da var",
+          "text": "Bu etkili iletişim, insan dilinin her konuda yeni cümle kurabilmesiyle aynı değildir. İletişimin tek biçimi konuşmak değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 6-1",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/6-1-the-emergence-and-development-of-language"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "iremce",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "duru.not",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "birseda",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "deniz.k",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "keremca",
+          "text": "Gündelik şeylerin arkasını okumak hoşuma gidiyor."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Böyle düşünmemiştim hiç."
+        },
+        {
+          "name": "mert.y",
+          "text": "Her gün gözümün önündeymiş."
+        }
+      ]
+    },
+    {
+      "id": "kesif-dil-uretkenligi",
+      "topic": "İletişimden dile",
+      "layout": "terminal",
+      "category": "Gündelik",
+      "title": "Daha önce kimsenin kurmadığı bir cümle kurabilirsin.",
+      "subtitle": "Dilin açık uçlu tarafı.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/The_Lone_Pollinator.jpg/960px-The_Lone_Pollinator.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Lone_Pollinator.jpg",
+        "credit": "Tanner Smida",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "alt": "Çiçek üzerinde tozlayıcı arı · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Yeniden birleştirmek",
+          "text": "İnsan dili, sınırlı öğeleri kurallarla birleştirerek çok sayıda yeni anlam üretmeye izin verir."
+        },
+        {
+          "title": "Hazır mesaj listesi değil",
+          "text": "Yalnız ezberlenmiş uyarıları tekrarlamayız; geçmiş, gelecek ve hayalî durumlar hakkında da konuşabiliriz. Üretkenlik dilin önemli özelliklerindendir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 6-1",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/6-1-the-emergence-and-development-of-language"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "duru.not",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        }
+      ]
+    },
+    {
+      "id": "kesif-dil-fosili",
+      "topic": "İletişimden dile",
+      "layout": "casefile",
+      "category": "Gündelik",
+      "title": "İlk konuşmayı toprağın altından çıkaramıyoruz.",
+      "subtitle": "Dil tarihinin kanıt sorunu.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/The_Lone_Pollinator.jpg/960px-The_Lone_Pollinator.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Lone_Pollinator.jpg",
+        "credit": "Tanner Smida",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "alt": "Çiçek üzerinde tozlayıcı arı · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Doğrudan iz az",
+          "text": "Konuşma, eski bir çömlek gibi arkeolojik kayıtta doğrudan korunmaz. Dilin kökenini araştırırken dolaylı kanıtlara başvurulur."
+        },
+        {
+          "title": "Birçok parçayı birleştirmek",
+          "text": "Anatomi, genetik ve arkeoloji bulguları birlikte değerlendirilir. Bu yüzden dilin ilk ne zaman ortaya çıktığına tek ve kesin bir tarih vermek zordur."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 6-1",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/6-1-the-emergence-and-development-of-language"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ayse.tr",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "gokce",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "keremca",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "umutburada",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "elif.k",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "iremce",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "duru.not",
+          "text": "Gündelik şeylerin arkasını okumak hoşuma gidiyor."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kod-degistirme",
+      "topic": "Konuşmanın toplumsal ayarı",
+      "layout": "chat",
+      "category": "Gündelik",
+      "title": "Evde başka, toplantıda başka konuşuyorsun.",
+      "subtitle": "Bu mutlaka tutarsızlık değil.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Üslup ve dil seçimi",
+          "text": "İnsanlar muhataplarına ve ortama göre dil, lehçe veya konuşma tarzı değiştirebilir. Birden fazla dil arasında geçiş de bunun içindedir."
+        },
+        {
+          "title": "Aidiyet işareti",
+          "text": "Seçilen ifadeler, hangi toplulukla ilişki kurulduğunu gösterebilir. Konuşma yalnız sözlükteki anlamları iletmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 6-3",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/6-3-language-community-and-culture"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "aliokuyor",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Her gün gözümün önündeymiş."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "umutburada",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "gokce",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        }
+      ]
+    },
+    {
+      "id": "kesif-konusma-toplulugu",
+      "topic": "Konuşmanın toplumsal ayarı",
+      "layout": "comic",
+      "category": "Gündelik",
+      "title": "Grubun şakasını dışarıdan biri anlamadı.",
+      "subtitle": "Ortak dilin içinde küçük dünyalar var.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Paylaşılan alışkanlık",
+          "text": "Konuşma topluluğu, dili belirli ortak biçimlerde kullanan insan grubudur. Özel sözcükler ve söyleyiş biçimleri gelişebilir."
+        },
+        {
+          "title": "Üyeliğin sesi",
+          "text": "Bu biçimleri yerinde kullanmak gruba aidiyet gösterebilir. Aynı dili bilmek, her grubun bütün göndermelerini bilmek değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 6-3",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/6-3-language-community-and-culture"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ardabirbak",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "birseda",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "gokce",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "umutburada",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Böyle düşünmemiştim hiç."
+        }
+      ]
+    },
+    {
+      "id": "kesif-lehce",
+      "topic": "Konuşmanın toplumsal ayarı",
+      "layout": "myth",
+      "category": "Gündelik",
+      "title": "Başka türlü söylemesi, bozuk konuştuğu anlamına gelmez.",
+      "subtitle": "Bölgesel çeşitlilik dilin parçası.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Düzenli farklılıklar",
+          "text": "Lehçeler ve bölgesel konuşma biçimleri; ses, sözcük ve dil bilgisi bakımından sistemli farklılıklar gösterebilir."
+        },
+        {
+          "title": "Prestij başka şey",
+          "text": "Bir biçimin okulda veya resmî işlerde tercih edilmesi, diğerlerinin kuralsız olduğunu kanıtlamaz. Toplumsal değerle dil yapısını ayırmak gerekir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 6-3",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/6-3-language-community-and-culture"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "mert.y",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "elif.k",
+          "text": "Böyle düşünmemiştim hiç."
+        },
+        {
+          "name": "keremca",
+          "text": "Bu ayrımı unutmayayım."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1422 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "id": "kesif-dizi",
+      "topic": "Veri yapıları",
+      "layout": "terminal",
+      "category": "Teknoloji",
+      "title": "Bilgisayarın çekmeceleri yan yana olabilir.",
+      "subtitle": "Dizi denen yapının fikri.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Sıralı yerleşim",
+          "text": "Bir dizi, elemanları bellekte ardışık yerlerde tutar. Elemanın sırası bilindiğinde bulunduğu yere hızlıca ulaşılabilir."
+        },
+        {
+          "title": "Her işe aynı değil",
+          "text": "Ortaya yeni eleman eklemek bazı durumlarda diğer elemanları kaydırmayı gerektirir. Hızlı erişimin yanında başka maliyetler de vardır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 3-1",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/3-1-introduction-to-data-structures-and-algorithms"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "selin.jpg",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "cemden",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "umutburada",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        }
+      ]
+    },
+    {
+      "id": "kesif-bagli-liste",
+      "topic": "Veri yapıları",
+      "layout": "route",
+      "category": "Teknoloji",
+      "title": "Veri yan yana durmak zorunda değil.",
+      "subtitle": "Adres vererek de sıra kurulur.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Sonrakini göster",
+          "text": "Bağlı listede her düğüm, verinin yanında başka düğüme ilişkin bağlantı taşır. Elemanların bellekte komşu olması gerekmez."
+        },
+        {
+          "title": "Zinciri takip et",
+          "text": "Ortadaki bir elemana gitmek için bağlantılar boyunca ilerlemek gerekebilir. Yerleşim esnekliğiyle erişim biçimi birlikte değişir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 3-1",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/3-1-introduction-to-data-structures-and-algorithms"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-oncelik-kuyrugu",
+      "topic": "Veri yapıları",
+      "layout": "chat",
+      "category": "Teknoloji",
+      "title": "İlk gelen her zaman ilk çıkmaz.",
+      "subtitle": "Öncelik kuyruğunun kuralı başka.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Aciliyet sırası",
+          "text": "Öncelik kuyruğunda her öğenin bir önceliği vardır. Çıkarılacak öğe, yalnız geliş zamanına göre seçilmez."
+        },
+        {
+          "title": "Bir benzetme",
+          "text": "Acil serviste ağır durumdaki hastanın önce değerlendirilmesi bu fikri anlatır. Bilgisayardaki işlerin zamanlanmasında da benzer bir yapı kullanılabilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 3-1",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/3-1-introduction-to-data-structures-and-algorithms"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "mert.y",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        },
+        {
+          "name": "gokce",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "birseda",
+          "text": "Bunu birine basitçe anlatmak aslında zor."
+        }
+      ]
+    },
+    {
+      "id": "kesif-ikili-arama",
+      "topic": "Arama ve sıralama",
+      "layout": "process",
+      "category": "Teknoloji",
+      "title": "Bir şeyi bulmak için hepsine bakma.",
+      "subtitle": "Ama önce sıralı olmalı.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Fiber_optic_illuminated.jpg/960px-Fiber_optic_illuminated.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Fiber_optic_illuminated.jpg",
+        "credit": "Hustvedt",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Işık ileten optik lifler · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Ortayı kontrol et",
+          "text": "İkili arama, sıralı listedeki orta öğeyle hedefi karşılaştırır. Arananın bulunamayacağı yarıyı eler ve kalan bölümde sürer."
+        },
+        {
+          "title": "Koşulu unutma",
+          "text": "Liste uygun biçimde sıralı değilse bu eleme mantığı çalışmaz. Hızlı yöntem, verinin düzenine ilişkin bir varsayım taşır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 3-5",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/3-5-sample-algorithms-by-problem"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-dogrusal-arama",
+      "topic": "Arama ve sıralama",
+      "layout": "checklist",
+      "category": "Teknoloji",
+      "title": "Sırayı bilmiyorsan tek tek bakarsın.",
+      "subtitle": "Basit yöntem bazen yeterlidir.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Fiber_optic_illuminated.jpg/960px-Fiber_optic_illuminated.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Fiber_optic_illuminated.jpg",
+        "credit": "Hustvedt",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Işık ileten optik lifler · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Baştan sona",
+          "text": "Doğrusal arama, öğeleri sırayla kontrol ederek hedefi arar. Listeyi önceden sıralamak zorunda değildir."
+        },
+        {
+          "title": "Bedeli ne?",
+          "text": "Hedef sonda ya da listede yoksa bütün öğelerin incelenmesi gerekebilir. Küçük listelerde bu basitlik gayet işe yarayabilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 3-5",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/3-5-sample-algorithms-by-problem"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "zeynepce",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-siralama-altyapi",
+      "topic": "Arama ve sıralama",
+      "layout": "receipt",
+      "category": "Teknoloji",
+      "title": "Sıralamak yalnız ekranda düzen yapmak değil.",
+      "subtitle": "Sonraki işi kolaylaştırabilir.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Fiber_optic_illuminated.jpg/960px-Fiber_optic_illuminated.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Fiber_optic_illuminated.jpg",
+        "credit": "Hustvedt",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Işık ileten optik lifler · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Hazırlık aşaması",
+          "text": "Veriyi sıralamak, bazı arama ve karşılaştırma yöntemlerinin kullanılmasını sağlar. İkili arama buna örnektir."
+        },
+        {
+          "title": "Hazırlığın da maliyeti var",
+          "text": "Bir kez aranacak küçük veriyi sıralamak gereksiz iş olabilir. Çok sayıda arama yapılacaksa bu hazırlık daha anlamlı hâle gelir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 3-5",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/3-5-sample-algorithms-by-problem"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "zeynepce",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "duru.not",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "cemden",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Adını çok duymuştum, anlamı yeni oturdu."
+        },
+        {
+          "name": "gokce",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "birseda",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "mert.y",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "umutburada",
+          "text": "Bu ayrımı unutmayayım."
+        },
+        {
+          "name": "onurdefter",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "keremca",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        }
+      ]
+    },
+    {
+      "id": "kesif-bit-yorum",
+      "topic": "Bilginin bilgisayardaki biçimi",
+      "layout": "glossary",
+      "category": "Teknoloji",
+      "title": "0011 görünce ne anlamalıyız?",
+      "subtitle": "Tek başına bit dizisi yetmez.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "mosaic",
+      "slides": [
+        {
+          "title": "Kurala ihtiyaç var",
+          "text": "Aynı bit dizisinin nasıl yorumlanacağı, kullanılan gösterime bağlıdır. Bir sayı, karakter veya başka veri parçasının bölümü olabilir."
+        },
+        {
+          "title": "Bağlam anahtar",
+          "text": "Bilgisayarın veriyi anlamlandırması için tür ve kodlama kuralları gerekir. Ekrandaki sembol, saklanan bitlerle aynı şey değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 5-3",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/5-3-machine-level-information-representation"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "deniz.k",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "elif.k",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "keremca",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        }
+      ]
+    },
+    {
+      "id": "kesif-unicode",
+      "topic": "Bilginin bilgisayardaki biçimi",
+      "layout": "beforeafter",
+      "category": "Teknoloji",
+      "title": "“Ş” neden bazen garip karaktere dönüşüyor?",
+      "subtitle": "Kodlama anlaşması bozulmuş olabilir.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "mosaic",
+      "slides": [
+        {
+          "title": "Karaktere kod vermek",
+          "text": "Unicode, farklı yazı sistemlerindeki karakterler için ortak bir kod alanı tanımlar. UTF-8 gibi kodlamalar bu bilgiyi baytlara dönüştürür."
+        },
+        {
+          "title": "Yanlış anahtarla okumak",
+          "text": "Baytlar farklı bir kodlamayla yorumlanırsa bozuk metin görülebilir. Sorun her zaman yazı tipinin eksikliği değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 5-3",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/5-3-machine-level-information-representation"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "onurdefter",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "keremca",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "duru.not",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Bunu birine basitçe anlatmak aslında zor."
+        }
+      ]
+    },
+    {
+      "id": "kesif-ondalik-hata",
+      "topic": "Bilginin bilgisayardaki biçimi",
+      "layout": "punchline",
+      "category": "Teknoloji",
+      "title": "0,1 bilgisayarda her zaman tam 0,1 değil.",
+      "subtitle": "Sonlu bellek, yaklaşık gösterim.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "mosaic",
+      "slides": [
+        {
+          "title": "İkilik kesir",
+          "text": "Bazı ondalık kesirler ikilik sayı sisteminde sonlu sayıda basamakla tam gösterilemez. Yaygın kayan noktalı biçimler bunları yaklaşık saklar."
+        },
+        {
+          "title": "Küçük fark birikebilir",
+          "text": "Bu yüzden hesap sonucunda beklenmedik son basamaklar görülebilir. Bu durum “bilgisayar toplama bilmiyor” anlamına gelmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 5-3",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/5-3-machine-level-information-representation"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "nisa.defter",
+          "text": "Adını çok duymuştum, anlamı yeni oturdu."
+        },
+        {
+          "name": "duru.not",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        }
+      ]
+    },
+    {
+      "id": "kesif-ram-depo",
+      "topic": "Bellek hiyerarşisi",
+      "layout": "comparison",
+      "category": "Teknoloji",
+      "title": "RAM ile depolama aynı raf değil.",
+      "subtitle": "İkisi de veri tutar, işi farklı.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "Çalışma alanı",
+          "text": "RAM, çalışan programların verilerine hızlı erişim sağlar. Yaygın RAM türleri güç kesildiğinde içeriğini korumaz."
+        },
+        {
+          "title": "Kalıcı saklama",
+          "text": "SSD gibi depolama birimleri veriyi güç olmadan da saklamak üzere tasarlanır. Kapasite, hız ve maliyet arasında farklı dengeler kurulur."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 5-5",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/5-5-memory-hierarchy"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "iremce",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        }
+      ]
+    },
+    {
+      "id": "kesif-onbellek",
+      "topic": "Bellek hiyerarşisi",
+      "layout": "notebook",
+      "category": "Teknoloji",
+      "title": "İşlemcinin masasındaki küçük notluk.",
+      "subtitle": "Önbelleği böyle düşünebilirsin.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "Yakında tutmak",
+          "text": "Önbellek, daha yavaş bellekten getirilen bazı verilerin hızlı erişilen kopyalarını tutar. Aynı veriye yeniden ihtiyaç duyulursa zaman kazanılır."
+        },
+        {
+          "title": "Sınırsız değil",
+          "text": "Her veri önbelleğe sığmaz. Hangi bilginin tutulacağı ve hangi kopyanın güncel olduğu, tasarımın önemli parçalarıdır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 5-5",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/5-5-memory-hierarchy"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ahmet.a",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "berk.b",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "iremce",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "elif.k",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "umutburada",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "gokce",
+          "text": "Bunu birine basitçe anlatmak aslında zor."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        }
+      ]
+    },
+    {
+      "id": "kesif-yerellik",
+      "topic": "Bellek hiyerarşisi",
+      "layout": "split",
+      "category": "Teknoloji",
+      "title": "Bilgisayar da yakındaki işleri sever.",
+      "subtitle": "Bellek erişiminde yerellik.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "Zamansal yakınlık",
+          "text": "Az önce kullanılan bir verinin kısa süre sonra tekrar kullanılması, zamansal yerellik örneğidir. Önbellek bundan yararlanabilir."
+        },
+        {
+          "title": "Mekânsal yakınlık",
+          "text": "Bir adresin yakınındaki verilere peş peşe erişmek de mekânsal yerelliktir. Programın veriye hangi sırada baktığı hızını etkileyebilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 5-5",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/5-5-memory-hierarchy"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "nisa.defter",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Teknik kısmı gözümde daha iyi canlandı."
+        },
+        {
+          "name": "umutburada",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "elif.k",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "iremce",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-es-zamanlilik",
+      "topic": "Eşzamanlı işler",
+      "layout": "comparison",
+      "category": "Teknoloji",
+      "title": "Bilgisayar iki işi aynı anda mı yapıyor?",
+      "subtitle": "Bazen evet, bazen sırayı hızla değiştiriyor.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Eşzamanlılık",
+          "text": "Birden çok işin ilerlemesini birlikte yönetmek, hepsinin fiziksel olarak aynı anda çalıştığı anlamına gelmez. Tek çekirdek işler arasında geçiş yapabilir."
+        },
+        {
+          "title": "Paralellik",
+          "text": "Ayrı işlem kaynaklarının gerçekten aynı anda çalışması paralelliktir. Günlük dilde birbirine karışan bu kavramlar aynı değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 6-3",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/6-3-processes-and-concurrency"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-thread",
+      "topic": "Eşzamanlı işler",
+      "layout": "network",
+      "category": "Teknoloji",
+      "title": "Programın içinde birden fazla yürütme yolu.",
+      "subtitle": "İş parçacığı denen şey.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Ortak çalışma alanı",
+          "text": "Aynı süreçteki iş parçacıkları, sürecin belleğini paylaşabilir. Her biri ayrı bir yürütme akışı izler."
+        },
+        {
+          "title": "Paylaşmanın bedeli",
+          "text": "Birden fazlası aynı veriyi değiştirirse işlemlerin düzenlenmesi gerekir. Aksi hâlde sonuç zamanlamaya bağlı olarak bozulabilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 6-3",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/6-3-processes-and-concurrency"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "selin.jpg",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "elif.k",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "berk.b",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "zeynepce",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "gokce",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Teknik kısmı gözümde daha iyi canlandı."
+        },
+        {
+          "name": "birseda",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bunu birine basitçe anlatmak aslında zor."
+        }
+      ]
+    },
+    {
+      "id": "kesif-deadlock",
+      "topic": "Eşzamanlı işler",
+      "layout": "comic",
+      "category": "Teknoloji",
+      "title": "Sen bırak, ben bırakayım. İkisi de bekliyor.",
+      "subtitle": "Yazılımda kilitlenmenin bir biçimi.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Karşılıklı bekleme",
+          "text": "Bir iş A kaynağını tutup B’yi beklerken diğeri B’yi tutup A’yı beklerse ilerleme durabilir. Buna kilitlenme, yani deadlock denir."
+        },
+        {
+          "title": "Yavaşlıktan farklı",
+          "text": "Bekleyen işler daha fazla zaman verilince kendiliğinden bitmeyebilir. Sorun hız değil, kaynaklara erişim düzenidir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 6-3",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/6-3-processes-and-concurrency"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "cemden",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "elif.k",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        }
+      ]
+    },
+    {
+      "id": "kesif-metaveri",
+      "topic": "Dosya sistemleri",
+      "layout": "profile",
+      "category": "Teknoloji",
+      "title": "Fotoğrafın kendisiyle bilgisi aynı şey değil.",
+      "subtitle": "Dosyanın bir de etiketi var.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Veri hakkında veri",
+          "text": "Boyut, oluşturulma zamanı ve erişim izinleri gibi bilgiler dosyanın metaverisidir. Dosyanın asıl içeriğinden ayrı değerlendirilir."
+        },
+        {
+          "title": "Etiket de bilgi taşır",
+          "text": "Bir dosyayı incelerken yalnız görünen içeriği değil, onu tanımlayan kayıtları da hesaba katmak gerekir. Hangi bilgiler tutulduğu sisteme bağlıdır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 6-5",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/6-5-file-systems"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "elif.k",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "berk.b",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "cemden",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "mert.y",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        },
+        {
+          "name": "keremca",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "birseda",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Teknik kısmı gözümde daha iyi canlandı."
+        }
+      ]
+    },
+    {
+      "id": "kesif-dizin",
+      "topic": "Dosya sistemleri",
+      "layout": "route",
+      "category": "Teknoloji",
+      "title": "Klasör, bilgisayarın içindeki gerçek çekmece değil.",
+      "subtitle": "İsimlerle konumlar arasında bir düzen.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Bir eşleme yapısı",
+          "text": "Dosya sistemindeki dizinler, adlarla dosyaları ilişkilendirir. İç içe dizinler, alıştığımız klasör ağacını oluşturabilir."
+        },
+        {
+          "title": "Yolun anlamı",
+          "text": "Bir dosya yolu, bu yapıda hangi adımların izleneceğini söyler. Ekrandaki klasör simgesi, alttaki düzenin görsel anlatımıdır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 6-5",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/6-5-file-systems"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "berk.b",
+          "text": "Şuraya bir yer imi bırakayım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-inode",
+      "topic": "Dosya sistemleri",
+      "layout": "terminal",
+      "category": "Teknoloji",
+      "title": "Linux’ta dosyanın adı, bütün kimliği değil.",
+      "subtitle": "Bir ara kayıt daha var.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Inode",
+          "text": "UNIX benzeri dosya sistemlerinde inode, dosyanın metaverisini ve veri bloklarına ilişkin bilgileri tutar. Dosya adı bu kaydın içinde olmak zorunda değildir."
+        },
+        {
+          "title": "Adı dizin tutar",
+          "text": "Dizin, dosya adını ilgili inode ile eşleştirir. Kullanıcının gördüğü adla sistemin takip ettiği yapı bu yüzden ayrılabilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 6-5",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/6-5-file-systems"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "zeynepce",
+          "text": "Bunu birine basitçe anlatmak aslında zor."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Teknik kısmı gözümde daha iyi canlandı."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "umutburada",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "birseda",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        }
+      ]
+    },
+    {
+      "id": "kesif-birincil-anahtar",
+      "topic": "Veritabanı düzeni",
+      "layout": "profile",
+      "category": "Teknoloji",
+      "title": "İki kişinin adı aynıysa kayıtları karıştırma.",
+      "subtitle": "Veritabanının ayırt edici işareti.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Fiber_optic_illuminated.jpg/960px-Fiber_optic_illuminated.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Fiber_optic_illuminated.jpg",
+        "credit": "Hustvedt",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Işık ileten optik lifler · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Benzersiz kimlik",
+          "text": "Birincil anahtar, tablodaki bir kaydı diğerlerinden ayırt eder. Ad-soyad gibi tekrar edebilen alanlar tek başına buna uygun olmayabilir."
+        },
+        {
+          "title": "İsimden bağımsız",
+          "text": "Bir müşterinin adı değişse bile kayıt kimliği korunabilir. Kimliği görünür adla aynı şey saymamak, ilişkileri daha sağlam kurmaya yardım eder."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 8-3",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/8-3-relational-database-management-systems"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "mert.y",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "cemden",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        }
+      ]
+    },
+    {
+      "id": "kesif-yabanci-anahtar",
+      "topic": "Veritabanı düzeni",
+      "layout": "diagram",
+      "category": "Teknoloji",
+      "title": "Sipariş, müşterisini nasıl buluyor?",
+      "subtitle": "Bilgiyi kopyalamadan bağlantı kurmak.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Fiber_optic_illuminated.jpg/960px-Fiber_optic_illuminated.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Fiber_optic_illuminated.jpg",
+        "credit": "Hustvedt",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Işık ileten optik lifler · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Başka kayda işaret",
+          "text": "Yabancı anahtar, bir tablodaki değeri başka tablonun ilgili anahtarına bağlar. Siparişte müşteri kimliği saklamak buna örnektir."
+        },
+        {
+          "title": "Tutarlılık",
+          "text": "Uygun kısıtlar, var olmayan müşteriye bağlı sipariş gibi sorunları önleyebilir. Tabloyu doldurmak kadar ilişkisini korumak da önemlidir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 8-3",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/8-3-relational-database-management-systems"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "umutburada",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "berk.b",
+          "text": "İkinci kartta anca oturdu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-normalizasyon",
+      "topic": "Veritabanı düzeni",
+      "layout": "beforeafter",
+      "category": "Teknoloji",
+      "title": "Adres değişti. Beş yerde mi düzelteceğiz?",
+      "subtitle": "Tekrarlanan veri tutarsızlık doğurabilir.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Fiber_optic_illuminated.jpg/960px-Fiber_optic_illuminated.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Fiber_optic_illuminated.jpg",
+        "credit": "Hustvedt",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Işık ileten optik lifler · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Ayrı yerde saklamak",
+          "text": "Veritabanı normalizasyonu, veriyi ilişkilerine göre düzenleyerek gereksiz tekrarları ve güncelleme sorunlarını azaltmayı amaçlar."
+        },
+        {
+          "title": "Bir örnek",
+          "text": "Müşterinin adresi her siparişte ayrı ayrı tutulursa kopyalar çelişebilir. Tasarımda geçmiş adresi saklama ihtiyacı varsa o da açıkça modellenmelidir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 8-3",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/8-3-relational-database-management-systems"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "selin.jpg",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        }
+      ]
+    },
+    {
+      "id": "kesif-oltalama",
+      "topic": "Dijital güvenlik kavramları",
+      "layout": "newspaper",
+      "category": "Teknoloji",
+      "title": "Logo gerçek gibi, mesaj sahte olabilir.",
+      "subtitle": "Oltalama yalnız kötü yazılmış e-posta değil.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Kimliğe bürünmek",
+          "text": "Oltalama, güvenilir bir kişi veya kurum gibi görünerek bilgi ya da işlem elde etmeye çalışan sosyal mühendislik yöntemidir."
+        },
+        {
+          "title": "Görüntü kanıt sayılmaz",
+          "text": "Bir sayfanın tanıdık tasarıma sahip olması, onu o kurumun yönettiğini göstermez. Saldırı bazen teknik açıktan önce güven ilişkisini hedefler."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 14-2",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/14-2-cybersecurity-deep-dive"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "berk.b",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "gokce",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "mert.y",
+          "text": "Her gün kullanıp nasıl çalıştığını bilmediğim şeyler listesi uzuyor."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        }
+      ]
+    },
+    {
+      "id": "kesif-sifreleme",
+      "topic": "Dijital güvenlik kavramları",
+      "layout": "glossary",
+      "category": "Teknoloji",
+      "title": "Şifreleme ile parola aynı kelime değil.",
+      "subtitle": "İşleri farklı.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Veriyi dönüştürmek",
+          "text": "Şifreleme, veriyi uygun anahtar olmadan okunması zor bir biçime dönüştürür. Parola ise bir sisteme girişte kullanılan doğrulama bilgisi olabilir."
+        },
+        {
+          "title": "Birlikte kullanılabilir",
+          "text": "Bir parola anahtarın korunmasına yardım edebilir; yine de kavramlar aynı değildir. Güvenlik tek bir düğmeden oluşmaz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 14-2",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/14-2-cybersecurity-deep-dive"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "duru.not",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "mert.y",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        },
+        {
+          "name": "keremca",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "zeynepce",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "berk.b",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        }
+      ]
+    },
+    {
+      "id": "kesif-yetkilendirme",
+      "topic": "Dijital güvenlik kavramları",
+      "layout": "door",
+      "category": "Teknoloji",
+      "title": "“Sen kimsin?” ile “Ne yapabilirsin?” farklı.",
+      "subtitle": "İki ayrı kontrol.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LenovoKeyboard.jpg",
+        "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Bilgisayar klavyesi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Kimlik doğrulama",
+          "text": "Sisteme gelen kişinin iddia ettiği kişi olup olmadığı kontrol edilir. Bu, kimlik doğrulamadır."
+        },
+        {
+          "title": "Yetkilendirme",
+          "text": "Doğrulanan kişinin hangi veriye ve işleme erişebileceği ayrıca belirlenir. İçeri girmek, her odanın anahtarını almak demek değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Computer Science · 14-2",
+          "url": "https://openstax.org/books/introduction-computer-science/pages/14-2-cybersecurity-deep-dive"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "keremca",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "deniz.k",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        }
+      ]
+    }
+  ]
+}

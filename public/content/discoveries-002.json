@@ -59,16 +59,9 @@
         "answer": 0,
         "explanation": "Ralli kaç vuruş sürerse sürsün sonuç bir puandır."
       },
-      "comments": [
-        {
-          "name": "Deniz",
-          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
-        },
-        {
-          "name": "Ece",
-          "text": "Kısa anlatımla daha kolay aklımda kaldı."
-        }
-      ]
+      "comments": [],
+      "layout": "comic",
+      "topic": "O uzun rallide neler oluyor"
     },
     {
       "id": "spor-tenis-skor",
@@ -124,16 +117,9 @@
         "answer": 2,
         "explanation": "Deuce 40–40 eşitliğidir. 6–6 ise puan değil, set içindeki oyun sayısını anlatabilir."
       },
-      "comments": [
-        {
-          "name": "Deniz",
-          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
-        },
-        {
-          "name": "Ece",
-          "text": "Kısa anlatımla daha kolay aklımda kaldı."
-        }
-      ]
+      "comments": [],
+      "layout": "number",
+      "topic": "15, 30… Neden 40"
     },
     {
       "id": "spor-futbol-on-numara",
@@ -189,16 +175,9 @@
         "answer": 1,
         "explanation": "Bu ifade kültürel olarak yaratıcılık ve oyun kuruculukla özdeşleşmiştir; zorunlu bir pozisyon kuralı değildir."
       },
-      "comments": [
-        {
-          "name": "Deniz",
-          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
-        },
-        {
-          "name": "Ece",
-          "text": "Kısa anlatımla daha kolay aklımda kaldı."
-        }
-      ]
+      "comments": [],
+      "layout": "profile",
+      "topic": "Bir forma numarasından fazlası: 10"
     },
     {
       "id": "soru-venus-gun",
@@ -258,16 +237,9 @@
         "answer": 2,
         "explanation": "Venüs: eksen dönüşü yaklaşık 243, yılı yaklaşık 225 Dünya günü. Bu Learnie için hazırlanmış özgün bir sorudur; bir TV programından alınmamıştır."
       },
-      "comments": [
-        {
-          "name": "Deniz",
-          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
-        },
-        {
-          "name": "Ece",
-          "text": "Kısa anlatımla daha kolay aklımda kaldı."
-        }
-      ]
+      "comments": [],
+      "layout": "puzzle",
+      "topic": "Bir dönüş, bir yıldan uzun olabilir mi"
     },
     {
       "id": "inanc-alak-oku",
@@ -323,16 +295,9 @@
         "answer": 1,
         "explanation": "Kalemle öğretmeye değinilir. Açıklama için Alak 96:4–5 ve Kur’an Yolu tefsirine bakabilirsin."
       },
-      "comments": [
-        {
-          "name": "Deniz",
-          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
-        },
-        {
-          "name": "Ece",
-          "text": "Kısa anlatımla daha kolay aklımda kaldı."
-        }
-      ]
+      "comments": [],
+      "layout": "book",
+      "topic": "Oku: öğrenmeye açılan bir kapı"
     },
     {
       "id": "inanc-hayirli-soz",
@@ -390,14 +355,20 @@
       },
       "comments": [
         {
-          "name": "Deniz",
-          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
+          "name": "mert.y",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
         },
         {
-          "name": "Ece",
-          "text": "Kısa anlatımla daha kolay aklımda kaldı."
+          "name": "gokce",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "umutburada",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
         }
-      ]
+      ],
+      "layout": "chat",
+      "topic": "Göndermeden önce bir nefes"
     },
     {
       "id": "gundelik-sise-kapagi",
@@ -459,14 +430,16 @@
       },
       "comments": [
         {
-          "name": "Deniz",
-          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
+          "name": "deniz.k",
+          "text": "Son cümle önemli bence."
         },
         {
-          "name": "Ece",
-          "text": "Kısa anlatımla daha kolay aklımda kaldı."
+          "name": "elif.k",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
         }
-      ]
+      ],
+      "layout": "process",
+      "topic": "Şişe kapağı nasıl doğuyor"
     },
     {
       "id": "saglik-deodorant",
@@ -528,14 +501,20 @@
       },
       "comments": [
         {
-          "name": "Deniz",
-          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
+          "name": "ardabirbak",
+          "text": "Bu ayrımı unutmayayım."
         },
         {
-          "name": "Ece",
-          "text": "Kısa anlatımla daha kolay aklımda kaldı."
+          "name": "mert.y",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Bunu birine anlatmayı deneyeceğim."
         }
-      ]
+      ],
+      "layout": "comparison",
+      "topic": "Deodorant teri durdurur mu"
     },
     {
       "id": "saglik-agri-kesici",
@@ -593,14 +572,40 @@
       },
       "comments": [
         {
-          "name": "Deniz",
-          "text": "Bunu bir dahaki karşılaşmamda fark edeceğim."
+          "name": "iremce",
+          "text": "İkinci kartta anca oturdu."
         },
         {
-          "name": "Ece",
-          "text": "Kısa anlatımla daha kolay aklımda kaldı."
+          "name": "ahmet.a",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "cemden",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        },
+        {
+          "name": "duru.not",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "berk.b",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "mert.y",
+          "text": "Şuraya bir yer imi bırakayım."
         }
-      ]
+      ],
+      "layout": "network",
+      "topic": "Ağrı kesici ağrının yerini nasıl bulur"
     }
   ]
 }

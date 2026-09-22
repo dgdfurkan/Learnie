@@ -10,6 +10,76 @@
       "file": "discoveries-002.json",
       "title": "Oyundan gündelik hayata",
       "count": 9
+    },
+    {
+      "file": "atlas-01-physics.json",
+      "title": "Fiziği etrafta yakala",
+      "count": 30
+    },
+    {
+      "file": "atlas-02-life.json",
+      "title": "Canlıların küçük sistemleri",
+      "count": 36
+    },
+    {
+      "file": "atlas-03-space.json",
+      "title": "Uzak dünyalar",
+      "count": 24
+    },
+    {
+      "file": "atlas-04-ocean.json",
+      "title": "Deniz kıyısından derinlere",
+      "count": 24
+    },
+    {
+      "file": "atlas-05-math.json",
+      "title": "Sayılara bir de böyle bak",
+      "count": 24
+    },
+    {
+      "file": "atlas-06-chemistry.json",
+      "title": "Gündelik kimya",
+      "count": 24
+    },
+    {
+      "file": "atlas-07-tech.json",
+      "title": "Teknolojinin içi",
+      "count": 24
+    },
+    {
+      "file": "atlas-08-history.json",
+      "title": "Geçmişin gündelik izleri",
+      "count": 24
+    },
+    {
+      "file": "atlas-09-mind.json",
+      "title": "Zihin ve düşünce",
+      "count": 24
+    },
+    {
+      "file": "atlas-10-culture.json",
+      "title": "Birlikte yaşamanın biçimleri",
+      "count": 18
+    },
+    {
+      "file": "atlas-11-art.json",
+      "title": "Atölyede ve müzede",
+      "count": 18
+    },
+    {
+      "file": "atlas-12-faith.json",
+      "title": "Metinlerin peşinde",
+      "count": 12
+    },
+    {
+      "file": "atlas-13-play-language.json",
+      "title": "Oyun, ses ve dil",
+      "count": 18
+    },
+    {
+      "file": "atlas-14-money-books.json",
+      "title": "Hesap ve hikâye",
+      "count": 9
     }
   ]
 }

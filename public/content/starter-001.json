@@ -45,12 +45,28 @@
       "updatedAt": "2026-09-21",
       "comments": [
         {
-          "name": "Mert",
-          "text": "Gün batımının da aynı olayla bağlantılı olduğunu yeni fark ettim."
+          "name": "zeynepce",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
         },
         {
-          "name": "Duru",
-          "text": "Dalga boyunu değiştirince düşünmek daha kolay oldu."
+          "name": "deniz.k",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "berk.b",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "cemden",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "iremce",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
         }
       ],
       "quiz": {
@@ -63,7 +79,9 @@
         "answer": 1,
         "explanation": "Güneş ışığı atmosfer molekülleriyle etkileşir. Mavi tonların güçlü saçılması, göğü mavi görmemizde temel etkendir."
       },
-      "experiment": "light"
+      "experiment": "light",
+      "layout": "prism",
+      "topic": "Gökyüzü neden mavi"
     },
     {
       "id": "uzay-dunya",
@@ -108,12 +126,24 @@
       "updatedAt": "2026-09-21",
       "comments": [
         {
-          "name": "Deniz",
-          "text": "Kısa açıklamadan sonra kaynağa da bakmak iyi oldu."
+          "name": "iremce",
+          "text": "Son cümle önemli bence."
         },
         {
-          "name": "Ece",
-          "text": "Bu konunun devamını da merak ettim."
+          "name": "mert.y",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "deniz.k",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
         }
       ],
       "quiz": {
@@ -125,7 +155,9 @@
         ],
         "answer": 2,
         "explanation": "Yaklaşık yüzde 71. Bu oran yüzey alanını ifade eder; Dünya’nın toplam kütlesini değil."
-      }
+      },
+      "layout": "poster",
+      "topic": "Bu mavi nokta, hepimizin evi"
     },
     {
       "id": "bilim-mevsimler",
@@ -170,12 +202,60 @@
       "updatedAt": "2026-09-21",
       "comments": [
         {
-          "name": "Deniz",
-          "text": "Kısa açıklamadan sonra kaynağa da bakmak iyi oldu."
+          "name": "selin.jpg",
+          "text": "Okurken durup düşündüm biraz."
         },
         {
-          "name": "Ece",
-          "text": "Bu konunun devamını da merak ettim."
+          "name": "ardabirbak",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "iremce",
+          "text": "Formülden önce mantığını bilmek iyi geldi."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "berk.b",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "elif.k",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "gokce",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "duru.not",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "birseda",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
         }
       ],
       "quiz": {
@@ -193,7 +273,9 @@
         "url": "https://svs.gsfc.nasa.gov/vis/a010000/a011100/a011141/EO_Tahoe-540-MASTER_high.mp4",
         "title": "NASA: Mevsimlerin değişimi",
         "language": "İngilizce · NASA kaynak videosu"
-      }
+      },
+      "layout": "diagram",
+      "topic": "Yazı getiren şey mesafe değil"
     },
     {
       "id": "uzay-ay-tutulmasi",
@@ -238,12 +320,36 @@
       "updatedAt": "2026-09-21",
       "comments": [
         {
-          "name": "Deniz",
-          "text": "Kısa açıklamadan sonra kaynağa da bakmak iyi oldu."
+          "name": "birseda",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
         },
         {
-          "name": "Ece",
-          "text": "Bu konunun devamını da merak ettim."
+          "name": "keremca",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "mert.y",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
         }
       ],
       "quiz": {
@@ -255,7 +361,9 @@
         ],
         "answer": 2,
         "explanation": "Dünya’nın Güneş ile Ay arasında bulunduğu düzen, dolunay evresine karşılık gelir."
-      }
+      },
+      "layout": "sequence",
+      "topic": "Ay tutulunca neden kızarır"
     },
     {
       "id": "sanat-buyuk-dalga",
@@ -300,12 +408,16 @@
       "updatedAt": "2026-09-21",
       "comments": [
         {
-          "name": "Selin",
-          "text": "Fuji Dağı’nı fark edince bütün kompozisyon değişti."
+          "name": "keremca",
+          "text": "Kısa ama tekrar okumalık."
         },
         {
-          "name": "Arda",
-          "text": "Tablo sanıyordum; ahşap baskı olduğunu öğrenmek güzel."
+          "name": "ecebirnot",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "cemden",
+          "text": "Şuraya bir yer imi bırakayım."
         }
       ],
       "quiz": {
@@ -317,7 +429,9 @@
         ],
         "answer": 1,
         "explanation": "Fuji Dağı. Hokusai perspektifi kullanarak dağın uzakta, dalganın ise çok yakında görünmesini sağlar."
-      }
+      },
+      "layout": "gallery",
+      "topic": "Dalgayı gördün. Peki ya dağı"
     },
     {
       "id": "cografya-kapadokya",
@@ -362,12 +476,16 @@
       "updatedAt": "2026-09-21",
       "comments": [
         {
-          "name": "Deniz",
-          "text": "Kısa açıklamadan sonra kaynağa da bakmak iyi oldu."
+          "name": "duru.not",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
         },
         {
-          "name": "Ece",
-          "text": "Bu konunun devamını da merak ettim."
+          "name": "ecebirnot",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
         }
       ],
       "quiz": {
@@ -379,7 +497,9 @@
         ],
         "answer": 0,
         "explanation": "Volkanik kayaçlardan oluşan zemin zamanla farklı hızlarda aşınır. Bugünkü biçimler bu uzun sürecin ürünüdür."
-      }
+      },
+      "layout": "postcard",
+      "topic": "Taşın sabrı: Kapadokya"
     },
     {
       "id": "felsefe-kontrol",
@@ -424,12 +544,8 @@
       "updatedAt": "2026-09-21",
       "comments": [
         {
-          "name": "Deniz",
-          "text": "Kısa açıklamadan sonra kaynağa da bakmak iyi oldu."
-        },
-        {
-          "name": "Ece",
-          "text": "Bu konunun devamını da merak ettim."
+          "name": "elif.k",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
         }
       ],
       "quiz": {
@@ -441,7 +557,9 @@
         ],
         "answer": 1,
         "explanation": "Kendi değerlendirmene ve bundan sonra yapacağın seçime odaklanabilirsin. Dış koşulların tamamını yönetemezsin."
-      }
+      },
+      "layout": "notebook",
+      "topic": "Her şey senin elinde mi"
     },
     {
       "id": "inanc-hat-sanati",
@@ -490,12 +608,8 @@
       "updatedAt": "2026-09-21",
       "comments": [
         {
-          "name": "Deniz",
-          "text": "Kısa açıklamadan sonra kaynağa da bakmak iyi oldu."
-        },
-        {
-          "name": "Ece",
-          "text": "Bu konunun devamını da merak ettim."
+          "name": "ahmet.a",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
         }
       ],
       "quiz": {
@@ -507,7 +621,9 @@
         ],
         "answer": 0,
         "explanation": "Metin bir anlam taşırken harflerin düzeni de estetik bir bütün oluşturur."
-      }
+      },
+      "layout": "mosaic",
+      "topic": "Bir yazı, nasıl sanata dönüşür"
     },
     {
       "id": "inanc-chartres",
@@ -552,12 +668,16 @@
       "updatedAt": "2026-09-21",
       "comments": [
         {
-          "name": "Deniz",
-          "text": "Kısa açıklamadan sonra kaynağa da bakmak iyi oldu."
+          "name": "elif.k",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
         },
         {
-          "name": "Ece",
-          "text": "Bu konunun devamını da merak ettim."
+          "name": "ahmet.a",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
         }
       ],
       "quiz": {
@@ -569,7 +689,9 @@
         ],
         "answer": 0,
         "explanation": "Vitray, renkli cam parçalarıyla oluşturulan görsel düzenlemelere verilen addır."
-      }
+      },
+      "layout": "newspaper",
+      "topic": "Taşın ve ışığın anlattıkları"
     },
     {
       "id": "doga-fotosentez",
@@ -618,12 +740,28 @@
       "updatedAt": "2026-09-21",
       "comments": [
         {
-          "name": "Deniz",
-          "text": "Kısa açıklamadan sonra kaynağa da bakmak iyi oldu."
+          "name": "nisa.defter",
+          "text": "Okurken durup düşündüm biraz."
         },
         {
-          "name": "Ece",
-          "text": "Bu konunun devamını da merak ettim."
+          "name": "onurdefter",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "keremca",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Dışarı çıkınca etrafa başka bakacağım."
+        },
+        {
+          "name": "iremce",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "deniz.k",
+          "text": "Bir çay molasına sığdı, iyi geldi."
         }
       ],
       "quiz": {
@@ -635,7 +773,9 @@
         ],
         "answer": 0,
         "explanation": "Karbon, karbondioksitten gelir. Güneş ışığı ise sürecin enerji kaynağıdır."
-      }
+      },
+      "layout": "growth",
+      "topic": "Bir yaprak, güneşle ne yapar"
     },
     {
       "id": "teknoloji-matbaa",
@@ -680,12 +820,60 @@
       "updatedAt": "2026-09-21",
       "comments": [
         {
-          "name": "Deniz",
-          "text": "Kısa açıklamadan sonra kaynağa da bakmak iyi oldu."
+          "name": "aliokuyor",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
         },
         {
-          "name": "Ece",
-          "text": "Bu konunun devamını da merak ettim."
+          "name": "elif.k",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "duru.not",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Bunu birine basitçe anlatmak aslında zor."
+        },
+        {
+          "name": "gokce",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "mert.y",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "birseda",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "berk.b",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Şuraya bir yer imi bırakayım."
         }
       ],
       "quiz": {
@@ -697,7 +885,9 @@
         ],
         "answer": 0,
         "explanation": "Jikji, 1377’de Kore’de hareketli metal harflerle basılmıştır."
-      }
+      },
+      "layout": "receipt",
+      "topic": "Matbaanın hikâyesi tek kişilik değil"
     },
     {
       "id": "bilim-okyanus-basinci",
@@ -742,12 +932,8 @@
       "updatedAt": "2026-09-21",
       "comments": [
         {
-          "name": "Deniz",
-          "text": "Kısa açıklamadan sonra kaynağa da bakmak iyi oldu."
-        },
-        {
-          "name": "Ece",
-          "text": "Bu konunun devamını da merak ettim."
+          "name": "deniz.k",
+          "text": "Formülden önce mantığını bilmek iyi geldi."
         }
       ],
       "quiz": {
@@ -760,7 +946,9 @@
         "answer": 2,
         "explanation": "Yüzeydeki 1 atmosfere, 20 metrelik suyun yaklaşık 2 atmosferlik basıncı eklenir."
       },
-      "experiment": "pressure"
+      "experiment": "pressure",
+      "layout": "cutaway",
+      "topic": "Derinlerde görünmeyen bir ağırlık var"
     },
     {
       "id": "tarih-gobeklitepe",
@@ -806,12 +994,28 @@
       "updatedAt": "2026-09-21",
       "comments": [
         {
-          "name": "Deniz",
-          "text": "Kısa açıklamadan sonra kaynağa da bakmak iyi oldu."
+          "name": "deniz.k",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
         },
         {
-          "name": "Ece",
-          "text": "Bu konunun devamını da merak ettim."
+          "name": "aliokuyor",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "umutburada",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
         }
       ],
       "quiz": {
@@ -823,7 +1027,9 @@
         ],
         "answer": 0,
         "explanation": "T biçimli dikilitaşlar alanın belirgin mimari özelliklerindendir."
-      }
+      },
+      "layout": "casefile",
+      "topic": "Bu taşlar ne kadar eski"
     }
   ]
 }

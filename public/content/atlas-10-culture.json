@@ -1,0 +1,1092 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "id": "kesif-katman",
+      "topic": "Arkeoloğun alet çantası",
+      "layout": "layers",
+      "category": "Tarih",
+      "title": "Toprağın altı da arşiv. Ama dosyalar karışabiliyor.",
+      "subtitle": "Kazıda derinlik tek başına tarih değildir.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/960px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Traditional_pottery_in_Nigeria_(Ikpu_ite)_19.jpg",
+        "credit": "Chukwukajustice",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Nijerya’da çömlek yapımı · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "Katmanları okumak",
+          "text": "Bozulmamış bir birikimde alttaki katman genellikle üsttekinden eskidir. Arkeologlar bu sıradan yararlanarak buluntuları göreli olarak tarihlendirir."
+        },
+        {
+          "title": "Bağlam şart",
+          "text": "Sonradan kazılmış bir çukur eski katmanı kesebilir. Bu yüzden yalnız “daha derinden çıktı” diyerek kesin yaş verilmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 2-1",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/2-1-archaeological-research-methods"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "duru.not",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "mert.y",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "elif.k",
+          "text": "Kısa ama tekrar okumalık."
+        }
+      ]
+    },
+    {
+      "id": "kesif-karbon-on-dort",
+      "topic": "Arkeoloğun alet çantası",
+      "layout": "casefile",
+      "category": "Tarih",
+      "title": "Taşın yaşını her zaman karbonla ölçemezsin.",
+      "subtitle": "Yöntemin malzemeyle ilişkisi var.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/960px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Traditional_pottery_in_Nigeria_(Ikpu_ite)_19.jpg",
+        "credit": "Chukwukajustice",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Nijerya’da çömlek yapımı · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "Organik iz",
+          "text": "Radyokarbon tarihleme, bir zamanlar yaşamış maddelerde kalan karbon-14 üzerinden çalışır. Kömürleşmiş tohum veya kemik uygun örnekler olabilir."
+        },
+        {
+          "title": "Ne ölçülüyor?",
+          "text": "Ölçüm, belirsizlik aralığı ve kalibrasyonla yorumlanır. Her nesneye uygulanabilen, ekranda kusursuz bir yıl gösteren sihirli saat değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 2-1",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/2-1-archaeological-research-methods"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "iremce",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "birseda",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "umutburada",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "keremca",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "duru.not",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "mert.y",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Tarih kitabında bu ayrıntılar daha çok olsa keşke."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        }
+      ]
+    },
+    {
+      "id": "kesif-buluntu-baglami",
+      "topic": "Arkeoloğun alet çantası",
+      "layout": "cutaway",
+      "category": "Tarih",
+      "title": "Çömleği bulduk. Nereden çıktığını kaybettik.",
+      "subtitle": "Bilginin yarısı da oradaydı.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/960px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Traditional_pottery_in_Nigeria_(Ikpu_ite)_19.jpg",
+        "credit": "Chukwukajustice",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Nijerya’da çömlek yapımı · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "Nesnenin çevresi",
+          "text": "Bir buluntunun katmanı, yakınındaki nesneler ve konumu kullanımını anlamaya yardım eder. Buna arkeolojik bağlam denir."
+        },
+        {
+          "title": "Yerinden kopunca",
+          "text": "Aynı kap mezarda, mutfakta veya atölyede farklı sorular doğurur. Kayıtsız çıkarılan nesne, görünüşünü korusa da ilişkilerine dair bilgi kaybeder."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 2-1",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/2-1-archaeological-research-methods"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "cemden",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "İlk akla gelen cevap başka oluyor."
+        }
+      ]
+    },
+    {
+      "id": "kesif-karsiliklilik",
+      "topic": "Alışverişten önce ve öte",
+      "layout": "chat",
+      "category": "Gündelik",
+      "title": "Komşuya çorba verdin. Fatura kesmedin.",
+      "subtitle": "Her alışverişin fiyat etiketi yok.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Woman_baking_bread-E_25213-IMG_4514-gradient.jpg/960px-Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "credit": "Artist anonymous",
+        "license": "CC BY-SA 3.0 fr",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/fr/",
+        "alt": "Ekmek yapan kadını gösteren tarihî heykel · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "balance",
+      "slides": [
+        {
+          "title": "Hemen karşılık beklememek",
+          "text": "Genelleştirilmiş karşılıklılıkta insanlar, anında eşdeğer ödeme hesaplamadan paylaşır. Yakın ilişkilerde bakım ve dayanışma böyle yürüyebilir."
+        },
+        {
+          "title": "İlişki de sürer",
+          "text": "Bu paylaşım, tarafların birbirine bağlılığını besleyebilir. Ekonomik hayatı yalnız kasadan geçen paraya bakarak anlayamayız."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 7-6",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/7-6-exchange-value-and-consumption"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ardabirbak",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        },
+        {
+          "name": "duru.not",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "gokce",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        },
+        {
+          "name": "keremca",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "elif.k",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "ahmet.a",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "berk.b",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Böyle düşünmemiştim hiç."
+        },
+        {
+          "name": "cemden",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-yeniden-dagitim",
+      "topic": "Alışverişten önce ve öte",
+      "layout": "network",
+      "category": "Gündelik",
+      "title": "Önce bir yerde toplanır, sonra paylaştırılır.",
+      "subtitle": "Ekonominin başka bir düzeni.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Woman_baking_bread-E_25213-IMG_4514-gradient.jpg/960px-Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "credit": "Artist anonymous",
+        "license": "CC BY-SA 3.0 fr",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/fr/",
+        "alt": "Ekmek yapan kadını gösteren tarihî heykel · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "balance",
+      "slides": [
+        {
+          "title": "Merkezde birikmek",
+          "text": "Yeniden dağıtımda mal veya emek, bir merkezde toplanıp topluluğa geri dağıtılır. Şefliklerden devlet kurumlarına farklı örnekleri vardır."
+        },
+        {
+          "title": "Kimin kararı?",
+          "text": "Toplamak ve dağıtmak, yönetenlere sorumlulukla birlikte güç de verir. Yalnız ne kadar mal olduğuna değil, kimin dağıttığına da bakılır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 7-6",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/7-6-exchange-value-and-consumption"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "umutburada",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "keremca",
+          "text": "Böyle düşünmemiştim hiç."
+        },
+        {
+          "name": "duru.not",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        }
+      ]
+    },
+    {
+      "id": "kesif-pazar-kurum",
+      "topic": "Alışverişten önce ve öte",
+      "layout": "terminal",
+      "category": "Gündelik",
+      "title": "Pazar dediğin yalnız salı günü kurulan yer değil.",
+      "subtitle": "Ekonomide anlamı daha geniş.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Woman_baking_bread-E_25213-IMG_4514-gradient.jpg/960px-Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "credit": "Artist anonymous",
+        "license": "CC BY-SA 3.0 fr",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/fr/",
+        "alt": "Ekmek yapan kadını gösteren tarihî heykel · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "balance",
+      "slides": [
+        {
+          "title": "Buluşma düzeni",
+          "text": "Piyasa, alıcılarla satıcıların değiş tokuş yapmasını sağlayan bir kurum olarak düşünülebilir. Bunun için aynı meydanda bulunmaları gerekmez."
+        },
+        {
+          "title": "Kurallar görünmez olabilir",
+          "text": "Fiyatın oluşması, ödeme ve güven ilişkileri bu düzenin parçalarıdır. Ekrandan alışveriş de fiziksel tezgâh kadar toplumsal kurallara dayanır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 7-6",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/7-6-exchange-value-and-consumption"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "keremca",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "cemden",
+          "text": "Her gün gözümün önündeymiş."
+        },
+        {
+          "name": "gokce",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bunu evdekilere soracağım."
+        },
+        {
+          "name": "birseda",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "mert.y",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "elif.k",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "berk.b",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        },
+        {
+          "name": "duru.not",
+          "text": "Gündelik şeylerin arkasını okumak hoşuma gidiyor."
+        }
+      ]
+    },
+    {
+      "id": "kesif-iki-yanli-soy",
+      "topic": "Akrabalığın haritaları",
+      "layout": "network",
+      "category": "Gündelik",
+      "title": "Aile ağacı herkes için aynı çizilmiyor.",
+      "subtitle": "Hangi bağın öne çıktığı değişebilir.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Satin_weave_in_silk_90.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Satin_weave_in_silk_90.jpg",
+        "credit": "Alfred Barlow",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "İpek dokuma ayrıntısı · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "İki taraf birlikte",
+          "text": "İki yanlı soy hesabında akrabalık hem anne hem baba üzerinden izlenir. Tek bir soy hattı bütün ilişkilerin merkezi yapılmaz."
+        },
+        {
+          "title": "Biyolojiyle bitmez",
+          "text": "Toplumlar akrabalık bağlarına farklı hak ve sorumluluklar yükler. Benzer biyolojik bağlantılar, her yerde aynı sosyal anlama gelmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 11-3",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/11-3-reckoning-kinship-across-cultures"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-paralel-kuzen",
+      "topic": "Akrabalığın haritaları",
+      "layout": "split",
+      "category": "Gündelik",
+      "title": "Bazı dillerde kuzenlerin hepsi aynı grupta değil.",
+      "subtitle": "Akrabalık sözlüğü bir dünya görüşü taşır.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Satin_weave_in_silk_90.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Satin_weave_in_silk_90.jpg",
+        "credit": "Alfred Barlow",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "İpek dokuma ayrıntısı · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Farklı sınıflandırma",
+          "text": "Antropolojide paralel kuzen, ebeveynin aynı cinsiyetten kardeşinin çocuğu için kullanılır. Annenin kız kardeşinin çocuğu buna örnektir."
+        },
+        {
+          "title": "Çapraz bağ",
+          "text": "Ebeveynin farklı cinsiyetten kardeşinin çocuğu ise çapraz kuzen diye sınıflanır. Bu ayrımın toplumsal önemi kültürden kültüre değişir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 11-3",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/11-3-reckoning-kinship-across-cultures"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-akrabalik-ego",
+      "topic": "Akrabalığın haritaları",
+      "layout": "diagram",
+      "category": "Gündelik",
+      "title": "Aile şemasındaki EGO, kendini beğenmiş biri değil.",
+      "subtitle": "Haritanın başlangıç noktası.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Satin_weave_in_silk_90.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Satin_weave_in_silk_90.jpg",
+        "credit": "Alfred Barlow",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "İpek dokuma ayrıntısı · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Kime göre akraba?",
+          "text": "Akrabalık çizimlerinde EGO, ilişkileri bakış açısından tarif edilen kişidir. “Anne”, “dayı” veya “kuzen” bu kişiye göre yerleşir."
+        },
+        {
+          "title": "Merkezi değiştir",
+          "text": "Aynı kişi birine kardeş, diğerine teyze olabilir. Şemayı okurken önce merkezde kimin bulunduğunu anlamak gerekir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 11-3",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/11-3-reckoning-kinship-across-cultures"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "iremce",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "elif.k",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "mert.y",
+          "text": "Gündelik şeylerin arkasını okumak hoşuma gidiyor."
+        },
+        {
+          "name": "cemden",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "berk.b",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        },
+        {
+          "name": "gokce",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Her gün gözümün önündeymiş."
+        }
+      ]
+    },
+    {
+      "id": "kesif-mutfak-karisimi",
+      "topic": "Sofranın kültürü",
+      "layout": "postcard",
+      "category": "Gündelik",
+      "title": "Bir yemek sınırı geçince aynı kalmayabilir.",
+      "subtitle": "Tarifler de göç eder.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Woman_baking_bread-E_25213-IMG_4514-gradient.jpg/960px-Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "credit": "Artist anonymous",
+        "license": "CC BY-SA 3.0 fr",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/fr/",
+        "alt": "Ekmek yapan kadını gösteren tarihî heykel · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "mosaic",
+      "slides": [
+        {
+          "title": "Yeni birleşimler",
+          "text": "Yemekler başka toplumlara taşındığında yerel malzeme ve alışkanlıklarla birleşebilir. Mutfak kültürleri sürekli temas içinde değişir."
+        },
+        {
+          "title": "Saflık kolay bir etiket",
+          "text": "Bir yemeğin bugün bize tanıdık gelmesi, geçmişinin tek bir yere kapandığı anlamına gelmez. Tarifin yolculuğu da hikâyenin parçasıdır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 14-3",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/14-3-food-and-cultural-identity"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "gokce",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        }
+      ]
+    },
+    {
+      "id": "kesif-yemek-tabusu",
+      "topic": "Sofranın kültürü",
+      "layout": "door",
+      "category": "Gündelik",
+      "title": "Menüde olmayanlar da kültürü anlatır.",
+      "subtitle": "Sofranın sınırları var.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Woman_baking_bread-E_25213-IMG_4514-gradient.jpg/960px-Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "credit": "Artist anonymous",
+        "license": "CC BY-SA 3.0 fr",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/fr/",
+        "alt": "Ekmek yapan kadını gösteren tarihî heykel · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "mosaic",
+      "slides": [
+        {
+          "title": "Yememe kuralları",
+          "text": "Bazı yiyeceklerden kaçınma kuralları dinî inançlarla veya toplumsal kimlikle ilişkilidir. Her toplum aynı maddeleri aynı biçimde sınıflandırmaz."
+        },
+        {
+          "title": "Tek sebebe indirme",
+          "text": "Bu kuralları yalnız damak tadıyla açıklamak eksik kalır. İnsanların kendi açıklamalarını ve uygulamaların bağlamını dinlemek gerekir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 14-3",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/14-3-food-and-cultural-identity"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ardabirbak",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-birlikte-yemek",
+      "topic": "Sofranın kültürü",
+      "layout": "comic",
+      "category": "Gündelik",
+      "title": "Aynı sofraya oturmak bazen bir üyelik kartı.",
+      "subtitle": "Yemek, ilişkileri de besler.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Woman_baking_bread-E_25213-IMG_4514-gradient.jpg/960px-Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+        "credit": "Artist anonymous",
+        "license": "CC BY-SA 3.0 fr",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/fr/",
+        "alt": "Ekmek yapan kadını gösteren tarihî heykel · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "mosaic",
+      "slides": [
+        {
+          "title": "Paylaşmanın anlamı",
+          "text": "Birlikte yemek yeme, antropolojide ortaklık ve aidiyetle ilişkili bir pratiktir. Kimin davet edildiği ve kimin servis yaptığı da anlam taşır."
+        },
+        {
+          "title": "Gündelik ritüel",
+          "text": "Bayram sofrası kadar sıradan bir öğle yemeği de ilişkileri görünür kılabilir. Sofrada yalnız kalori paylaşılmaz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 14-3",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/14-3-food-and-cultural-identity"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "cemden",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "birseda",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "mert.y",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kadraj-secimi",
+      "topic": "Fotoğrafın anlattığı ve sakladığı",
+      "layout": "gallery",
+      "category": "Sanat",
+      "title": "Fotoğraf gerçek bir anı gösterir. Bütün anı değil.",
+      "subtitle": "Kadrajın dışında da hayat var.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg",
+        "credit": "Charles Burton Gulick",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Papirüs üzerinde tarihî mektup · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "Seçilen görüntü",
+          "text": "Fotoğrafçı nereye bakacağını ve hangi anı kaydedeceğini seçer. Yayıncı da hangi kareyi göstereceğine karar verir."
+        },
+        {
+          "title": "Temsil sorusu",
+          "text": "Bir topluluğun hep aynı tür fotoğraflarla gösterilmesi, onun hakkında dar bir izlenim yaratabilir. Görüntüyü üretim bağlamıyla okumak gerekir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 15-4",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/15-4-photography-representation-and-memory"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-fotograf-okuru",
+      "topic": "Fotoğrafın anlattığı ve sakladığı",
+      "layout": "comparison",
+      "category": "Sanat",
+      "title": "İki kişi aynı fotoğrafa bakıp başka hikâye kurabilir.",
+      "subtitle": "Görüntünün anlamı tek yerde durmaz.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg",
+        "credit": "Charles Burton Gulick",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Papirüs üzerinde tarihî mektup · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "İzleyenin payı",
+          "text": "Fotoğrafı yorumlarken kendi deneyimlerimizi ve beklentilerimizi de kullanırız. Görünen ayrıntının anlamı herkes için aynı olmayabilir."
+        },
+        {
+          "title": "Araştırmanın üç tarafı",
+          "text": "Görsel antropoloji fotoğrafın üretilişini, görüntünün kendisini ve izleyicilerin yorumlarını birlikte inceleyebilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 15-4",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/15-4-photography-representation-and-memory"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ecebirnot",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Yapılışını bilince daha ilginç oluyor."
+        }
+      ]
+    },
+    {
+      "id": "kesif-studyo-kimligi",
+      "topic": "Fotoğrafın anlattığı ve sakladığı",
+      "layout": "profile",
+      "category": "Sanat",
+      "title": "Stüdyo fonu bazen olmak istediğin hayatı gösterir.",
+      "subtitle": "Portre yalnız kimlik fotoğrafı değildir.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg",
+        "credit": "Charles Burton Gulick",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Papirüs üzerinde tarihî mektup · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "Gambiya örneği",
+          "text": "Antropolog Liam Buckley, Gambiya'daki stüdyo portrelerinde modern eşyalar ve seyahat fonlarının kullanımını araştırdı."
+        },
+        {
+          "title": "Arzu edilen benlik",
+          "text": "Bu sahneler yalnız kişinin o anda sahip olduklarını belgelemek için kullanılmıyordu. Fotoğraf, kurmak istediği kimliği de ifade edebiliyordu."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 15-4",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/15-4-photography-representation-and-memory"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "keremca",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        },
+        {
+          "name": "iremce",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        },
+        {
+          "name": "umutburada",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        },
+        {
+          "name": "berk.b",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kulturel-gorecilik",
+      "topic": "Kültürü bağlamıyla okumak",
+      "layout": "chat",
+      "category": "Felsefe",
+      "title": "“Bize tuhaf geliyor” açıklama sayılmıyor.",
+      "subtitle": "Önce o dünyada ne işe yaradığına bak.",
+      "account": "Bir Soru Daha",
+      "handle": "birsorudaha",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Satin_weave_in_silk_90.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Satin_weave_in_silk_90.jpg",
+        "credit": "Alfred Barlow",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "İpek dokuma ayrıntısı · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "balance",
+      "slides": [
+        {
+          "title": "Bağlamı anlamak",
+          "text": "Kültürel görecilik, bir uygulamayı içinde bulunduğu kültürel ilişkilerle anlamaya çalışır. Kendi alışkanlığını otomatik ölçü yapmamayı gerektirir."
+        },
+        {
+          "title": "Soruyu değiştir",
+          "text": "“Niye bizim gibi yapmıyorlar?” yerine “Bu davranış burada hangi anlamı taşıyor?” diye sormak araştırmayı açar."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 1-6",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/1-6-cross-cultural-comparison-and-cultural-relativism"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "onurdefter",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "birseda",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "İkinci kartta anca oturdu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-anlamak-onaylamak",
+      "topic": "Kültürü bağlamıyla okumak",
+      "layout": "myth",
+      "category": "Felsefe",
+      "title": "Bir davranışı anlamak, onu onaylamak mı?",
+      "subtitle": "Antropolojide ikisi ayrılır.",
+      "account": "Bir Soru Daha",
+      "handle": "birsorudaha",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Satin_weave_in_silk_90.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Satin_weave_in_silk_90.jpg",
+        "credit": "Alfred Barlow",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "İpek dokuma ayrıntısı · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "balance",
+      "slides": [
+        {
+          "title": "Yargıyı ertelemek",
+          "text": "Araştırmacı bir uygulamanın neden sürdüğünü anlamak için ilk yargısını bir süre askıya alabilir."
+        },
+        {
+          "title": "Eleştiri kaybolmaz",
+          "text": "Kültürel görecilik, zararlı her uygulamayı doğru ilan etmek demek değildir. İyi bir açıklama, eleştirinin hedefini daha doğru belirlemeye yardım edebilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 1-6",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/1-6-cross-cultural-comparison-and-cultural-relativism"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "onurdefter",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "umutburada",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "birseda",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "mert.y",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "cemden",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "elif.k",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kulturel-butun",
+      "topic": "Kültürü bağlamıyla okumak",
+      "layout": "mosaic",
+      "category": "Felsefe",
+      "title": "Kıyafeti tek başına okuyunca anlam kaçabilir.",
+      "subtitle": "Kültürün parçaları birbiriyle bağlı.",
+      "account": "Bir Soru Daha",
+      "handle": "birsorudaha",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Satin_weave_in_silk_90.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Satin_weave_in_silk_90.jpg",
+        "credit": "Alfred Barlow",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "İpek dokuma ayrıntısı · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "balance",
+      "slides": [
+        {
+          "title": "İlişkiler ağı",
+          "text": "Giyinme biçimi; inanç, statü, iklim veya toplumsal beklentilerle ilişki kurabilir. Tek bir davranışı çevresinden koparmak açıklamayı daraltır."
+        },
+        {
+          "title": "Aynı biçim, ayrı anlam",
+          "text": "Benzer görünen uygulamalar farklı bağlamlarda farklı işler görebilir. Karşılaştırma yaparken bu bağlantıları da incelemek gerekir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Introduction Anthropology · 1-6",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/1-6-cross-cultural-comparison-and-cultural-relativism"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ayse.tr",
+          "text": "Bu soru aklımda kaldı."
+        },
+        {
+          "name": "elif.k",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Katılmasam da ayrımı anlamak iyi oldu."
+        },
+        {
+          "name": "iremce",
+          "text": "Detay sevenlere güzel konu."
+        }
+      ]
+    }
+  ]
+}

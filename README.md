@@ -70,3 +70,9 @@ React, Motion, Swiper, TanStack Virtual ve Dexie kendi lisanslarına tabidir. Re
 - Kaydedilenlerde ızgara/liste, arama, sonra okunacaklar ve okunanlar. Okundu işareti kullanıcıya aittir; sadece ekranda görünmek okuma sayılmaz.
 - Eski kişisel veriler korunur; yeni yedekler görünüm ve odak tercihlerini de içerir.
 - Toplam 22 kaynaklı gönderi; 9 otomatik kontrol.
+
+## Keşif atlası güncellemesi
+
+331 gönderi (309 yeni), 103 yeni konu başlığı, 37 farklı sunum düzeni. Kaynak bağlantıları ve dış görsel kredileri her gönderide bulunur. Keşfet konu filtresi ve rastgele keşif içerir. Reels üst/alt uygulama gezinmesi olmadan açılır; yorumlar yazma alanı sabit kalan alt paneldedir. Paylaşım yalnız kalıcı URL gönderir. Kaydedilenler kullanıcı koleksiyonlarıyla düzenlenir; koleksiyonlar yerel yedeğe dahildir.
+
+`npm test` içerik çeşitliliğini, koleksiyon göçünü/üyeliğini, paylaşım kimliklerini, anlatım bütünlüğünü ve 10.000 öğelik sıra davranışını denetler. `npm run build` 331 kalıcı paylaşım sayfasını ve sürümlü PWA önbelleğini üretir. Gerçek iOS/Android ekran klavyesi ve ana ekrana yükleme, ilgili cihazda ayrıca kontrol edilmelidir.

@@ -1,0 +1,1254 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "id": "kesif-agac-baski",
+      "topic": "Baskı atölyesi",
+      "layout": "cutaway",
+      "category": "Sanat",
+      "title": "Bazen resmi çizmek için etrafını oymak gerekir.",
+      "subtitle": "Ağaç baskıda yüksekte kalan basılır.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Satin_weave_in_silk_90.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Satin_weave_in_silk_90.jpg",
+        "credit": "Alfred Barlow",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "İpek dokuma ayrıntısı · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "art",
+      "slides": [
+        {
+          "title": "Kalıptan kâğıda",
+          "text": "Ağaç baskıda basılmayacak alanlar oyulur. Yüzeyde kalan bölümlere sürülen mürekkep kâğıda aktarılır."
+        },
+        {
+          "title": "Tek kalıp, çok iz",
+          "text": "Aynı kalıp birden fazla baskı üretebilir. Bu özellik, görüntülerin farklı yerlere yayılmasını kolaylaştırmıştır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "The Met · Baskı teknikleri",
+          "url": "https://www.metmuseum.org/essays/the-printed-image-in-the-west-history-and-techniques"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ayse.tr",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "berk.b",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "iremce",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "mert.y",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "gokce",
+          "text": "Müzede bu detayı atlamışımdır kesin."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "elif.k",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "cemden",
+          "text": "Ben renklerine bakıp geçiyordum."
+        },
+        {
+          "name": "birseda",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kazima-baski",
+      "topic": "Baskı atölyesi",
+      "layout": "diagram",
+      "category": "Sanat",
+      "title": "Bu kez mürekkep çukurda bekliyor.",
+      "subtitle": "Gravürün baskı mantığı ters.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Satin_weave_in_silk_90.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Satin_weave_in_silk_90.jpg",
+        "credit": "Alfred Barlow",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "İpek dokuma ayrıntısı · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "art",
+      "slides": [
+        {
+          "title": "Metal çizgiler",
+          "text": "Metal yüzeye kazınan çizgilere mürekkep doldurulur; üst yüzey temizlenir. Basınç altındaki kâğıt çizgilerdeki mürekkebi alır."
+        },
+        {
+          "title": "Çizginin karakteri",
+          "text": "Oyma aletinin hareketi ve çizginin derinliği görüntüyü etkiler. Aynı konu farklı baskı tekniklerinde bambaşka görünebilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "The Met · Baskı teknikleri",
+          "url": "https://www.metmuseum.org/essays/the-printed-image-in-the-west-history-and-techniques"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-asit-oyma",
+      "topic": "Baskı atölyesi",
+      "layout": "process",
+      "category": "Sanat",
+      "title": "Gravürde çizgiyi bazen alet değil asit derinleştirir.",
+      "subtitle": "Sanatta tekniğin farkı.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Satin_weave_in_silk_90.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Satin_weave_in_silk_90.jpg",
+        "credit": "Alfred Barlow",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "İpek dokuma ayrıntısı · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "art",
+      "slides": [
+        {
+          "title": "Koruyucu tabaka",
+          "text": "Asitle oymada metalin üstü koruyucu bir tabakayla kaplanır. Çizilen yerlerde metal açığa çıkar; asit bu alanları aşındırır."
+        },
+        {
+          "title": "Baskıya dönüşür",
+          "text": "Oluşan oyuklar mürekkep taşır. Teknik, sanatçının çizime yakın hareketlerle metal üzerinde baskı kalıbı oluşturmasına olanak verir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "The Met · Baskı teknikleri",
+          "url": "https://www.metmuseum.org/essays/the-printed-image-in-the-west-history-and-techniques"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "umutburada",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "mert.y",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "keremca",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "elif.k",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        },
+        {
+          "name": "berk.b",
+          "text": "Yapılışını bilince daha ilginç oluyor."
+        },
+        {
+          "name": "onurdefter",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "zeynepce",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Örneği görünce anladım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-biskuvi-seramik",
+      "topic": "Seramik sözlüğü",
+      "layout": "glossary",
+      "category": "Sanat",
+      "title": "Seramikçinin “bisküvisi” çayın yanına gelmez.",
+      "subtitle": "Atölyede aynı kelime başka işte.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/960px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Traditional_pottery_in_Nigeria_(Ikpu_ite)_19.jpg",
+        "credit": "Chukwukajustice",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Nijerya’da çömlek yapımı · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Sırsız gövde",
+          "text": "Bisküvi, pişirilmiş fakat sırlanmamış seramik için kullanılan terimdir. Nesne bir sonraki yüzey işlemini bekliyor olabilir."
+        },
+        {
+          "title": "Kelimenin izi",
+          "text": "Terim Fransızcadaki pişirmeyle ilgili bir sözcükten gelir. Atölye dilini bilmeyince malzemeyle yiyeceği karıştırmak kolay."
+        }
+      ],
+      "sources": [
+        {
+          "label": "V&A · Seramik sözlüğü",
+          "url": "https://www.vam.ac.uk/articles/a-z-of-ceramics"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ardabirbak",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "mert.y",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "duru.not",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "keremca",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "umutburada",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "gokce",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "iremce",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "elif.k",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        }
+      ]
+    },
+    {
+      "id": "kesif-sert-porselen",
+      "topic": "Seramik sözlüğü",
+      "layout": "reveal",
+      "category": "Sanat",
+      "title": "İncecik görünüyor, yapısı gayet sert.",
+      "subtitle": "Porselenin malzemesi belirleyici.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/960px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Traditional_pottery_in_Nigeria_(Ikpu_ite)_19.jpg",
+        "credit": "Chukwukajustice",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Nijerya’da çömlek yapımı · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Yüksek sıcaklıkta",
+          "text": "Sert porselen, bileşimi ve yüksek pişirme sıcaklığı sayesinde dayanıklı, gözeneksiz bir gövde oluşturur."
+        },
+        {
+          "title": "Işığa tutunca",
+          "text": "Beyazlık ve ince yerlerde yarı saydamlık, bu malzemenin ayırt edici özelliklerindendir. Her beyaz seramik otomatik olarak porselen değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "V&A · Seramik sözlüğü",
+          "url": "https://www.vam.ac.uk/articles/a-z-of-ceramics"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "birseda",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        },
+        {
+          "name": "duru.not",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Bu ayrımı unutmayayım."
+        },
+        {
+          "name": "gokce",
+          "text": "Müzede bu detayı atlamışımdır kesin."
+        },
+        {
+          "name": "mert.y",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "keremca",
+          "text": "Şuraya bir yer imi bırakayım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-delftware",
+      "topic": "Seramik sözlüğü",
+      "layout": "comparison",
+      "category": "Sanat",
+      "title": "Mavi beyaz gördün diye Çin porseleni demeyelim.",
+      "subtitle": "Hollanda'nın kalay sırlı seramikleri.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/960px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Traditional_pottery_in_Nigeria_(Ikpu_ite)_19.jpg",
+        "credit": "Chukwukajustice",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Nijerya’da çömlek yapımı · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Beyaz yüzey",
+          "text": "Delft seramiklerinde kalay içeren sır, gövde üzerinde beyaz ve örtücü bir yüzey sağlar. Bu yüzeye desenler işlenebilir."
+        },
+        {
+          "title": "Etkilenmek ve üretmek",
+          "text": "Çin porseleninin etkisi önemli olsa da malzeme ve üretim tekniği aynı değildir. Görünüş benzerliği, teknik kimlik anlamına gelmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "V&A · Seramik sözlüğü",
+          "url": "https://www.vam.ac.uk/articles/a-z-of-ceramics"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "nisa.defter",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Müzede bu detayı atlamışımdır kesin."
+        },
+        {
+          "name": "cemden",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "mert.y",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        }
+      ]
+    },
+    {
+      "id": "kesif-daguerreotip",
+      "topic": "İlk fotoğraf teknikleri",
+      "layout": "gallery",
+      "category": "Sanat",
+      "title": "İlk fotoğrafını çoğaltmak bugünkü kadar kolay değildi.",
+      "subtitle": "Daguerreotip tekil bir nesneydi.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg",
+        "credit": "Charles Burton Gulick",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Papirüs üzerinde tarihî mektup · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "Metal üstünde görüntü",
+          "text": "Daguerreotip, gümüş kaplı bakır levha üzerinde görüntü oluşturuyordu. Kâğıt fotoğraf gibi görünse de metal bir yüzeydi."
+        },
+        {
+          "title": "Bir tane daha?",
+          "text": "Negatiften sınırsız kopya basma düzeni yoktu. Bu özellik, daguerreotipi kendine özgü tekil bir görüntü nesnesi yapıyordu."
+        }
+      ],
+      "sources": [
+        {
+          "label": "The Met · Erken fotoğraf",
+          "url": "https://www.metmuseum.org/essays/the-daguerreian-era-and-early-american-photography-on-paper-1839-1860"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "nisa.defter",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "cemden",
+          "text": "Okurken durup düşündüm biraz."
+        }
+      ]
+    },
+    {
+      "id": "kesif-negatif-kopya",
+      "topic": "İlk fotoğraf teknikleri",
+      "layout": "process",
+      "category": "Sanat",
+      "title": "Fotoğrafın yayılmasında görünmeyen kahraman: negatif.",
+      "subtitle": "Bir görüntü, birçok baskı.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg",
+        "credit": "Charles Burton Gulick",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Papirüs üzerinde tarihî mektup · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "Ara görüntü",
+          "text": "Negatif kullanan teknikler, aynı görüntüden birden fazla pozitif baskı üretmeyi mümkün kıldı."
+        },
+        {
+          "title": "Dolaşım değişti",
+          "text": "Fotoğrafın kopyalanabilmesi, portrelerin ve kent görüntülerinin daha geniş çevrelere ulaşmasını kolaylaştırdı. Yenilik yalnız netlik değildi."
+        }
+      ],
+      "sources": [
+        {
+          "label": "The Met · Erken fotoğraf",
+          "url": "https://www.metmuseum.org/essays/the-daguerreian-era-and-early-american-photography-on-paper-1839-1860"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "keremca",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "duru.not",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Yapılışını bilince daha ilginç oluyor."
+        },
+        {
+          "name": "umutburada",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "birseda",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "mert.y",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        }
+      ]
+    },
+    {
+      "id": "kesif-islak-plaka",
+      "topic": "İlk fotoğraf teknikleri",
+      "layout": "newspaper",
+      "category": "Sanat",
+      "title": "Fotoğraf makinesi küçüktü sanma; işin atölyesi de vardı.",
+      "subtitle": "Islak plaka döneminden.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg",
+        "credit": "Charles Burton Gulick",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Papirüs üzerinde tarihî mektup · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "Cam negatif",
+          "text": "19. yüzyılın ortalarında kolodyumlu cam negatifler yaygınlaşmaya başladı. Hassasiyetleri, pozlama sürelerinin kısalmasına katkı sağladı."
+        },
+        {
+          "title": "Yeni görüntüler",
+          "text": "Daha kısa pozlamalar, şehirdeki insanları ve sokakları kaydetmeyi kolaylaştırdı. Fotoğraf tarihi, hareketi yakalama koşullarının da tarihidir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "The Met · Erken fotoğraf",
+          "url": "https://www.metmuseum.org/essays/the-daguerreian-era-and-early-american-photography-on-paper-1839-1860"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "nisa.defter",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "umutburada",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "birseda",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "elif.k",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "iremce",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "cemden",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "berk.b",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "onurdefter",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Yapılışını bilince daha ilginç oluyor."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        }
+      ]
+    },
+    {
+      "id": "kesif-fresk",
+      "topic": "Resmin malzemesi",
+      "layout": "timeline",
+      "category": "Sanat",
+      "title": "Ressamın saati bu kez duvarla yarışıyor.",
+      "subtitle": "Freskte sıva kurumadan çalışılır.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Chartres_RosetteNord_121_DSC08241.jpg/500px-Chartres_RosetteNord_121_DSC08241.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Chartres_RosetteNord_121_DSC08241.jpg",
+        "credit": "PtrQs",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Chartres Katedrali gül penceresi · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "art",
+      "slides": [
+        {
+          "title": "Yaş yüzey",
+          "text": "Freskte suyla karıştırılan pigmentler yaş sıvaya uygulanır. Sıva kururken pigment yüzeyle bağ kurar."
+        },
+        {
+          "title": "Her duvar resmi değil",
+          "text": "Kuru duvara yapılan boyama farklı davranır. “Duvara çizilmiş” olması, bir resmi tek başına fresk yapmaz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "The Met · Orta Çağ resmi",
+          "url": "https://www.metmuseum.org/essays/italian-painting-of-the-later-middle-ages"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "selin.jpg",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "birseda",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "berk.b",
+          "text": "Bir esere bakarken artık malzemesini de soracağım."
+        },
+        {
+          "name": "gokce",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "duru.not",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "keremca",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "elif.k",
+          "text": "Müzede bu detayı atlamışımdır kesin."
+        },
+        {
+          "name": "iremce",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "cemden",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-tempera",
+      "topic": "Resmin malzemesi",
+      "layout": "receipt",
+      "category": "Sanat",
+      "title": "Tabloda yumurta var. Kahvaltı dökülmedi.",
+      "subtitle": "Pigmenti tutan bir bağlayıcı.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Chartres_RosetteNord_121_DSC08241.jpg/500px-Chartres_RosetteNord_121_DSC08241.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Chartres_RosetteNord_121_DSC08241.jpg",
+        "credit": "PtrQs",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Chartres Katedrali gül penceresi · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "art",
+      "slides": [
+        {
+          "title": "Yumurta sarısı",
+          "text": "Ortaçağ panel resminde yumurta sarısıyla karıştırılan pigmentlerden tempera boya hazırlanıyordu."
+        },
+        {
+          "title": "Malzeme anlatımı etkiler",
+          "text": "Boyanın kuruması ve çalışma özellikleri ressamın tekniğini şekillendirir. Resme bakarken yalnız konuyu değil, nasıl yapıldığını da sorabiliriz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "The Met · Orta Çağ resmi",
+          "url": "https://www.metmuseum.org/essays/italian-painting-of-the-later-middle-ages"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "deniz.k",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-altin-varak",
+      "topic": "Resmin malzemesi",
+      "layout": "poster",
+      "category": "Sanat",
+      "title": "Tablodaki altın bazen gerçekten altın.",
+      "subtitle": "Sarı boyayla aynı şey değil.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Chartres_RosetteNord_121_DSC08241.jpg/500px-Chartres_RosetteNord_121_DSC08241.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Chartres_RosetteNord_121_DSC08241.jpg",
+        "credit": "PtrQs",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Chartres Katedrali gül penceresi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "art",
+      "slides": [
+        {
+          "title": "İnce yaprak",
+          "text": "Altın dövülerek çok ince levhalar hâline getirilebilir. Varak, hazırlanmış yüzeye dikkatle uygulanır."
+        },
+        {
+          "title": "Yüzeydeki işçilik",
+          "text": "Parlatma ve damgalama gibi işlemler ışığın yüzeydeki etkisini değiştirir. Altın zemin, yalnız düz bir renk alanı değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "The Met · Orta Çağ resmi",
+          "url": "https://www.metmuseum.org/essays/italian-painting-of-the-later-middle-ages"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "nisa.defter",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kursun-serit",
+      "topic": "Vitrayın parçaları",
+      "layout": "mosaic",
+      "category": "Sanat",
+      "title": "Vitraydaki koyu çizgiler sadece kontur değil.",
+      "subtitle": "Parçaları bir arada tutuyorlar.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Chartres_RosetteNord_121_DSC08241.jpg/500px-Chartres_RosetteNord_121_DSC08241.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Chartres_RosetteNord_121_DSC08241.jpg",
+        "credit": "PtrQs",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Chartres Katedrali gül penceresi · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "prism",
+      "slides": [
+        {
+          "title": "Birleştiren iskelet",
+          "text": "Geleneksel vitrayda cam parçaları kurşun şeritlerle birleştirilir. Görünen çizgi, kompozisyonun yanında yapının da parçasıdır."
+        },
+        {
+          "title": "Parçalı tasarım",
+          "text": "Sanatçı, görüntüyü cam parçalara bölerken bu bağlantıları düşünür. Çizimle üretim tekniği aynı masada buluşur."
+        }
+      ],
+      "sources": [
+        {
+          "label": "V&A · Vitray",
+          "url": "https://www.vam.ac.uk/articles/stained-glass-an-introduction"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ecebirnot",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "gokce",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-gumus-sari",
+      "topic": "Vitrayın parçaları",
+      "layout": "reveal",
+      "category": "Sanat",
+      "title": "Gümüş kullanıp sarı elde etmek.",
+      "subtitle": "Vitrayın şaşırtıcı renk işlemi.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Chartres_RosetteNord_121_DSC08241.jpg/500px-Chartres_RosetteNord_121_DSC08241.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Chartres_RosetteNord_121_DSC08241.jpg",
+        "credit": "PtrQs",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Chartres Katedrali gül penceresi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "prism",
+      "slides": [
+        {
+          "title": "Cam yüzeyinde",
+          "text": "Gümüş bileşikleriyle yapılan boyama, pişirme sırasında camda sarı tonlar oluşturabilir. Vitray tarihinde buna gümüş sarısı denir."
+        },
+        {
+          "title": "Tek parçada ayrıntı",
+          "text": "Bu işlem, yeni bir cam parçası eklemeden renk ayrıntısı kazandırabilir. Her renk sınırı mutlaka kurşunla ayrılmaz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "V&A · Vitray",
+          "url": "https://www.vam.ac.uk/articles/stained-glass-an-introduction"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "onurdefter",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "cemden",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "duru.not",
+          "text": "Bir esere bakarken artık malzemesini de soracağım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-vitray-isik",
+      "topic": "Vitrayın parçaları",
+      "layout": "beforeafter",
+      "category": "Sanat",
+      "title": "Aynı pencere, sabah başka öğlen başka.",
+      "subtitle": "Vitrayın ışığı dışarıdan gelir.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Chartres_RosetteNord_121_DSC08241.jpg/500px-Chartres_RosetteNord_121_DSC08241.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Chartres_RosetteNord_121_DSC08241.jpg",
+        "credit": "PtrQs",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Chartres Katedrali gül penceresi · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "prism",
+      "slides": [
+        {
+          "title": "Geçen ışık",
+          "text": "Vitray, içinden geçen ışıkla görünür. Güneşin konumu ve hava koşulları mekândaki renk etkisini değiştirir."
+        },
+        {
+          "title": "Mekânın parçası",
+          "text": "Bu yüzden vitrayı yalnız düz bir resim gibi düşünmek eksik kalır. Pencere, gün boyunca çevresiyle birlikte değişen bir yüzeydir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "V&A · Vitray",
+          "url": "https://www.vam.ac.uk/articles/stained-glass-an-introduction"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "nisa.defter",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "birseda",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "mert.y",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "gokce",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Bir esere bakarken artık malzemesini de soracağım."
+        },
+        {
+          "name": "cemden",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "umutburada",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "keremca",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "elif.k",
+          "text": "Müzede bu detayı atlamışımdır kesin."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-netsuke",
+      "topic": "Japon giyimindeki küçük tasarımlar",
+      "layout": "profile",
+      "category": "Sanat",
+      "title": "Avuç içindeki heykel aslında bir tutucu.",
+      "subtitle": "Netsuke'nin gündelik görevi.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg",
+        "credit": "Laitche",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Kâğıttan origami turnalar · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Kuşakta durmak",
+          "text": "Geleneksel Japon giyiminde küçük kaplar kuşaktan iplerle sarkıtılabiliyordu. Netsuke, ipin kayıp gitmesini önleyen bir dayanak görevi görüyordu."
+        },
+        {
+          "title": "İşlevden koleksiyona",
+          "text": "Oyma ustaları bu parçaları hayvanlar ve insan figürleriyle işledi. Kullanışlı bir ayrıntı zamanla koleksiyon nesnesine de dönüştü."
+        }
+      ],
+      "sources": [
+        {
+          "label": "The Met · Netsuke",
+          "url": "https://www.metmuseum.org/essays/netsuke-from-fashion-fobs-to-coveted-collectibles"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "berk.b",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        },
+        {
+          "name": "umutburada",
+          "text": "Yapılışını bilince daha ilginç oluyor."
+        },
+        {
+          "name": "keremca",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "elif.k",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "mert.y",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "iremce",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        },
+        {
+          "name": "duru.not",
+          "text": "Ben renklerine bakıp geçiyordum."
+        }
+      ]
+    },
+    {
+      "id": "kesif-inro",
+      "topic": "Japon giyimindeki küçük tasarımlar",
+      "layout": "cutaway",
+      "category": "Sanat",
+      "title": "Cepte yer yoksa kutuyu kuşağa asarsın.",
+      "subtitle": "İnrō böyle bir ihtiyaçla ilişkili.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg",
+        "credit": "Laitche",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Kâğıttan origami turnalar · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Üst üste bölmeler",
+          "text": "İnrō, ilaç veya mühür gibi küçük nesneleri taşımak için kullanılan, iç içe oturan bölmeli bir kaptı."
+        },
+        {
+          "title": "Taşınabilir tasarım",
+          "text": "İp düzeni bölmeleri birlikte tutar; kap kuşaktan sarkıtılırdı. Tasarım, giyimin taşıma alışkanlığına uyuyordu."
+        }
+      ],
+      "sources": [
+        {
+          "label": "The Met · Netsuke",
+          "url": "https://www.metmuseum.org/essays/netsuke-from-fashion-fobs-to-coveted-collectibles"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "berk.b",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        },
+        {
+          "name": "birseda",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "mert.y",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Yapılışını bilince daha ilginç oluyor."
+        }
+      ]
+    },
+    {
+      "id": "kesif-ojime",
+      "topic": "Japon giyimindeki küçük tasarımlar",
+      "layout": "sequence",
+      "category": "Sanat",
+      "title": "Küçücük boncuk, kutunun kapanmasını sağlıyor.",
+      "subtitle": "Süsün de görevi var.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg",
+        "credit": "Laitche",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Kâğıttan origami turnalar · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Kaydırılan parça",
+          "text": "Ojime, netsuke ile sarkıtılan kap arasında ip üzerinde hareket eden boncuktur."
+        },
+        {
+          "title": "Aç ve kapat",
+          "text": "Boncuğun konumu, kabın bölmelerini bir arada tutmayı veya açmayı kolaylaştırır. Bir aksesuarın en küçük parçası bile sistemi değiştirebilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "The Met · Netsuke",
+          "url": "https://www.metmuseum.org/essays/netsuke-from-fashion-fobs-to-coveted-collectibles"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "berk.b",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "cemden",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        }
+      ]
+    }
+  ]
+}

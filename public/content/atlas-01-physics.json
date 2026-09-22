@@ -1,0 +1,1690 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "id": "kesif-kapi-kolu",
+      "topic": "Basit makineler",
+      "layout": "diagram",
+      "category": "Bilim",
+      "title": "Kapıyı menteşesinden açmayı denesene.",
+      "subtitle": "Kolun uçta olması süs değil.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+        "credit": "齐健 from Peking, People's Republic of China",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Bir bisiklet · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Uzaklaştıkça kolaylaşır",
+          "text": "Kapıyı döndürmek için kuvvet kadar, kuvveti menteşeden ne kadar uzakta uyguladığın da önemlidir. Kapı kolu bu yüzden karşı kenardadır."
+        },
+        {
+          "title": "Bedava enerji yok",
+          "text": "Uzaktaki kol daha uzun yol gider. Daha az kuvvet kullanmanın karşılığında elini daha fazla hareket ettirirsin."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 9-5",
+          "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "deniz.k",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "iremce",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "gokce",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        },
+        {
+          "name": "mert.y",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "berk.b",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "umutburada",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "keremca",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "birseda",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "duru.not",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        }
+      ]
+    },
+    {
+      "id": "kesif-makara",
+      "topic": "Basit makineler",
+      "layout": "process",
+      "category": "Bilim",
+      "title": "İpi aşağı çekiyorsun, yük yukarı çıkıyor.",
+      "subtitle": "Makara bazen sadece yön değiştirir.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+        "credit": "齐健 from Peking, People's Republic of China",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Bir bisiklet · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Tek tekerleğin işi",
+          "text": "İdeal bir sabit makara kuvvetin yönünü değiştirir. Tek başına yükü kaldırmak için gereken kuvveti yarıya indirmez."
+        },
+        {
+          "title": "İp sayısı artarsa",
+          "text": "Yükü taşıyan birden fazla ip parçası bulunan düzenekler kuvvetten kazandırabilir. Bunun bedeli daha uzun ip çekmektir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 9-5",
+          "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ardabirbak",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "umutburada",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "elif.k",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "mert.y",
+          "text": "Bu ayrımı unutmayayım."
+        },
+        {
+          "name": "iremce",
+          "text": "Formülden önce mantığını bilmek iyi geldi."
+        }
+      ]
+    },
+    {
+      "id": "kesif-rampa",
+      "topic": "Basit makineler",
+      "layout": "comparison",
+      "category": "Bilim",
+      "title": "Rampa yolu uzatır. İşi kolaylaştırır.",
+      "subtitle": "Kısa yol her zaman kolay yol değil.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+        "credit": "齐健 from Peking, People's Republic of China",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Bir bisiklet · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Aynı yüksekliğe",
+          "text": "Bir yükü dik kaldırmak yerine rampadan çıkarmak gereken kuvveti azaltır; gidilen yolu uzatır."
+        },
+        {
+          "title": "Hesabı kapatalım",
+          "text": "Sürtünmesiz durumda aynı yüksekliğe çıkarken yapılan iş aynıdır. Gerçekte sürtünme yüzünden ayrıca enerji harcanır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 9-5",
+          "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "nisa.defter",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        }
+      ]
+    },
+    {
+      "id": "kesif-patenci",
+      "topic": "Dönmenin fiziği",
+      "layout": "punchline",
+      "category": "Spor",
+      "title": "Kollarını topladı, dönüş hızlandı.",
+      "subtitle": "Buz pistindeki küçük fizik numarası.",
+      "account": "Saha Kenarı",
+      "handle": "sahakenari",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+        "credit": "齐健 from Peking, People's Republic of China",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Bir bisiklet · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "orbit",
+      "slides": [
+        {
+          "title": "Kütle içeri gelir",
+          "text": "Patenci kollarını gövdesine çekince kütlesi dönme eksenine yaklaşır. Dönmeye karşı gösterdiği direnç azalır."
+        },
+        {
+          "title": "Hız buradan gelir",
+          "text": "Dışarıdan belirgin bir döndürme etkisi yoksa açısal momentum korunur. Bu nedenle dönüş hızlanır; gizli bir motor çalışmaz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 10-5",
+          "url": "https://openstax.org/books/college-physics-2e/pages/10-5-angular-momentum-and-its-conservation"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-tekerlek-sandalye",
+      "topic": "Dönmenin fiziği",
+      "layout": "chat",
+      "category": "Spor",
+      "title": "Tekerleği çeviren sandalye niye dönüyor?",
+      "subtitle": "Dönüşün yönü de hesabın içinde.",
+      "account": "Saha Kenarı",
+      "handle": "sahakenari",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+        "credit": "齐健 from Peking, People's Republic of China",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Bir bisiklet · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "orbit",
+      "slides": [
+        {
+          "title": "İki parça, tek sistem",
+          "text": "Dönebilen bir sandalyede tutulan döner tekerleğin eksenini çevirmek, kişinin ve sandalyenin de dönmesine yol açabilir."
+        },
+        {
+          "title": "Alışveriş gibi düşün",
+          "text": "Tekerlekle kişi arasında açısal momentum aktarılır. Toplamı açıklarken yalnız hızları değil, dönme yönlerini de hesaba katmak gerekir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 10-5",
+          "url": "https://openstax.org/books/college-physics-2e/pages/10-5-angular-momentum-and-its-conservation"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "nisa.defter",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "iremce",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        },
+        {
+          "name": "birseda",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "berk.b",
+          "text": "Maç izlerken aklıma gelir artık."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "elif.k",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "gokce",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "mert.y",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Spor deyince sadece oyuncuları düşünüyoruz."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Bu ayrımı unutmayayım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-hava-dalgic",
+      "topic": "Dönmenin fiziği",
+      "layout": "sequence",
+      "category": "Spor",
+      "title": "Dalgıcın havada küçülmesinin sebebi var.",
+      "subtitle": "Suya girmeden önceki o toparlanma.",
+      "account": "Saha Kenarı",
+      "handle": "sahakenari",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+        "credit": "齐健 from Peking, People's Republic of China",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Bir bisiklet · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "orbit",
+      "slides": [
+        {
+          "title": "Kompakt dönüş",
+          "text": "Dalgıç dizlerini çekince dönme eksenine göre kütle dağılımı değişir. Küçülen dönme ataleti, daha hızlı takla atmasını sağlar."
+        },
+        {
+          "title": "Açılınca yavaşlar",
+          "text": "Vücudunu yeniden uzatınca dönüş yavaşlar. Böylece suya giriş duruşuna geçebilir; aynı hareket boyunca vücut biçimi bir ayar koludur."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 10-5",
+          "url": "https://openstax.org/books/college-physics-2e/pages/10-5-angular-momentum-and-its-conservation"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "cemden",
+          "text": "Tribünde anlatılacak bilgi çıktı."
+        }
+      ]
+    },
+    {
+      "id": "kesif-batan-capa",
+      "topic": "Yüzme ve batma",
+      "layout": "myth",
+      "category": "Bilim",
+      "title": "Batan şeye de su destek oluyor.",
+      "subtitle": "Dibe gitmesi, kaldırılmadığı anlamına gelmez.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+        "credit": "Basile Morin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Mekong Nehri üzerinde tekne · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "İki kuvvet yarışıyor",
+          "text": "Suya batmış bir cisme yukarı yönlü kaldırma kuvveti etki eder. Cismin ağırlığı daha büyükse yine de batar."
+        },
+        {
+          "title": "O yüzden hafif gelir",
+          "text": "Sudaki ağır bir taşı tutmak, dışarıda tutmaktan daha kolay gelebilir. Su taşın ağırlığını değiştirmez; yükün bir kısmını karşılar."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 11-7",
+          "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ardabirbak",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        },
+        {
+          "name": "birseda",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "iremce",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "mert.y",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "elif.k",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        },
+        {
+          "name": "umutburada",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Formülden önce mantığını bilmek iyi geldi."
+        },
+        {
+          "name": "duru.not",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        }
+      ]
+    },
+    {
+      "id": "kesif-celik-gemi",
+      "topic": "Yüzme ve batma",
+      "layout": "cutaway",
+      "category": "Bilim",
+      "title": "Çelik batar, çelik gemi yüzer.",
+      "subtitle": "Malzemenin adı tek başına yetmez.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+        "credit": "Basile Morin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Mekong Nehri üzerinde tekne · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "İçindeki havayı unutma",
+          "text": "Geminin geniş ve içi boş gövdesi büyük hacimde suyu yerinden eder. Kaldırma kuvveti, yer değiştiren suyun ağırlığı kadardır."
+        },
+        {
+          "title": "Ortalama önemli",
+          "text": "Yüzme hesabında yalnız çeliği değil, hava dolu hacimle birlikte bütün gemiyi düşünürüz. Toplam ağırlık ve dış hacim birlikte belirleyicidir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 11-7",
+          "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "deniz.k",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        },
+        {
+          "name": "zeynepce",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        }
+      ]
+    },
+    {
+      "id": "kesif-helyum",
+      "topic": "Yüzme ve batma",
+      "layout": "equation",
+      "category": "Bilim",
+      "title": "Hava da kaldırır. Sadece fark etmeyiz.",
+      "subtitle": "Balonun ipi bunun küçük kanıtı.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+        "credit": "Basile Morin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Mekong Nehri üzerinde tekne · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Görünmeyen akışkan",
+          "text": "Kaldırma kuvveti sıvılara özgü değildir. Hava da içinde duran cisme, yer değiştirdiği havanın ağırlığı kadar kaldırma uygular."
+        },
+        {
+          "title": "Balonun hesabı",
+          "text": "Helyumla dolu balonun toplam ağırlığı bu kuvvetten küçükse balon yükselir. Balonun kaplaması ve taşıdığı yük de hesaba dahildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 11-7",
+          "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "cemden",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "mert.y",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        }
+      ]
+    },
+    {
+      "id": "kesif-su-damlasi",
+      "topic": "Yüzey gerilimi",
+      "layout": "poster",
+      "category": "Bilim",
+      "title": "Damla neden köşeli değil?",
+      "subtitle": "Suyun kenarları toplama huyu.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Double-alaskan-rainbow.jpg/960px-Double-alaskan-rainbow.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Double-alaskan-rainbow.jpg",
+        "credit": "Eric Rolph at English Wikipedia",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+        "alt": "Gökyüzünde çift gökkuşağı · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "Yüzey küçülmek ister",
+          "text": "Sıvı molekülleri arasındaki çekim, yüzey alanını küçültme eğilimi yaratır. Küre, aynı hacim için en küçük yüzey alanına sahiptir."
+        },
+        {
+          "title": "Her damla tam küre mi?",
+          "text": "Hayır. Yerçekimi, hava direnci ve değdiği yüzey şekli değiştirebilir. Küçük damlalarda yüzey geriliminin etkisi daha belirgindir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 11-8",
+          "url": "https://openstax.org/books/college-physics-2e/pages/11-8-cohesion-and-adhesion-in-liquids-surface-tension-and-capillary-action"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ahmet.a",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kagit-havlu",
+      "topic": "Yüzey gerilimi",
+      "layout": "notebook",
+      "category": "Bilim",
+      "title": "Havlu suyu yukarı nasıl çekiyor?",
+      "subtitle": "Elektrik yok, pompa yok.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Double-alaskan-rainbow.jpg/960px-Double-alaskan-rainbow.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Double-alaskan-rainbow.jpg",
+        "credit": "Eric Rolph at English Wikipedia",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+        "alt": "Gökyüzünde çift gökkuşağı · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "İncecik aralıklar",
+          "text": "Suyla kâğıt lifleri arasındaki çekim, suyun lifler arasındaki dar boşluklarda ilerlemesine yardım eder. Buna kılcallık denir."
+        },
+        {
+          "title": "Dar yolun etkisi",
+          "text": "Yükselme, sıvının yüzeye tutunmasına ve boşluğun genişliğine bağlıdır. Her sıvı her ince boruda aynı biçimde yükselmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 11-8",
+          "url": "https://openstax.org/books/college-physics-2e/pages/11-8-cohesion-and-adhesion-in-liquids-surface-tension-and-capillary-action"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "selin.jpg",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Örneği görünce anladım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-sabun-gerilim",
+      "topic": "Yüzey gerilimi",
+      "layout": "sticky",
+      "category": "Bilim",
+      "title": "Sabun suyu daha mı ıslak yapıyor?",
+      "subtitle": "Garip soru, gerçek bir yüzey meselesi.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Double-alaskan-rainbow.jpg/960px-Double-alaskan-rainbow.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Double-alaskan-rainbow.jpg",
+        "credit": "Eric Rolph at English Wikipedia",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+        "alt": "Gökyüzünde çift gökkuşağı · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "Yüzeyde değişiklik",
+          "text": "Sabun gibi yüzey etkin maddeler suyun yüzey gerilimini düşürebilir. Suyun bazı yüzeylere yayılması böylece kolaylaşır."
+        },
+        {
+          "title": "Tek başına temizlik değil",
+          "text": "Yüzey gerilimi, yıkamanın yalnızca bir parçasıdır. Sabunun yağla etkileşmesi de önemlidir; köpük miktarı temizlik ölçeri değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 11-8",
+          "url": "https://openstax.org/books/college-physics-2e/pages/11-8-cohesion-and-adhesion-in-liquids-surface-tension-and-capillary-action"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-metal-soguk",
+      "topic": "Isı iletimi",
+      "layout": "comparison",
+      "category": "Gündelik",
+      "title": "Masa soğuk, tahta sıcak. Aynı oda?",
+      "subtitle": "Elin termometre gibi çalışmıyor.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg",
+        "credit": "Bex Walton",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Kahve fincanları · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Isı elinden kaçıyor",
+          "text": "Aynı sıcaklıktaki metal ve tahta farklı hissedilebilir. Metal, elindeki ısıyı genellikle daha hızlı uzaklaştırır."
+        },
+        {
+          "title": "Hissettiğin akış",
+          "text": "Soğukluk hissi yalnız cismin sıcaklığına değil, ısının aktarılma hızına da bağlıdır. Dokunarak karşılaştırma bu yüzden yanıltabilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 14-5",
+          "url": "https://openstax.org/books/college-physics-2e/pages/14-5-conduction"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "umutburada",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "keremca",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "gokce",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        }
+      ]
+    },
+    {
+      "id": "kesif-yorgan",
+      "topic": "Isı iletimi",
+      "layout": "chat",
+      "category": "Gündelik",
+      "title": "Yorgan ısı üretmiyorsa nasıl ısıtıyor?",
+      "subtitle": "Battaniyenin gizli rezistansı yok.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg",
+        "credit": "Bex Walton",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Kahve fincanları · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Kaybı yavaşlatır",
+          "text": "Yalıtım malzemeleri ısının geçişini zorlaştırır. Aralarda tutulan hava da iyi bir ısı iletkeni olmadığı için bu işe yardım eder."
+        },
+        {
+          "title": "Isının kaynağı sensin",
+          "text": "Örtü, vücudunun ürettiği ısının çevreye kaçmasını azaltır. Isı üretmekle ısıyı korumak farklı işlerdir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 14-5",
+          "url": "https://openstax.org/books/college-physics-2e/pages/14-5-conduction"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "keremca",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "umutburada",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        }
+      ]
+    },
+    {
+      "id": "kesif-duvar-kalinligi",
+      "topic": "Isı iletimi",
+      "layout": "layers",
+      "category": "Gündelik",
+      "title": "Aynı malzeme, daha kalın duvar.",
+      "subtitle": "Isının yolu uzayınca ne olur?",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg",
+        "credit": "Bex Walton",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Kahve fincanları · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "İletim daha yavaş",
+          "text": "Diğer koşullar aynıyken bir tabakanın kalınlığını artırmak, içinden iletimle geçen ısıyı azaltır."
+        },
+        {
+          "title": "Tek ölçü kalınlık değil",
+          "text": "Malzemenin ısı iletkenliği ve iki tarafın sıcaklık farkı da sonucu değiştirir. Her kalın duvar aynı derecede iyi yalıtmaz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 14-5",
+          "url": "https://openstax.org/books/college-physics-2e/pages/14-5-conduction"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "selin.jpg",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "iremce",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "elif.k",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "cemden",
+          "text": "Bu ayrımı unutmayayım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-sarkac-uzunluk",
+      "topic": "Sarkaçlar",
+      "layout": "number",
+      "category": "Bilim",
+      "title": "Uzun sarkaç daha ağırdan alır.",
+      "subtitle": "Saatin ritmini belirleyen ip.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg",
+        "credit": "Christoph Braun",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Tarihî sarkaçlı saat · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "pendulum",
+      "slides": [
+        {
+          "title": "Yol değil, süre",
+          "text": "Küçük açılarla sallanan ideal bir sarkacın periyodu, uzunluğunun kareköküyle artar. Periyot bir tam gidip gelmenin süresidir."
+        },
+        {
+          "title": "Dört kat uzunluk",
+          "text": "İpi dört kat uzatırsan süre yaklaşık iki katına çıkar. Bu sonuç, küçük salınım ve düşük sürtünme varsayımına dayanır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 16-4",
+          "url": "https://openstax.org/books/college-physics-2e/pages/16-4-the-simple-pendulum"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "mert.y",
+          "text": "Bir daha karşılaşınca farklı bakacağım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-sarkac-kutle",
+      "topic": "Sarkaçlar",
+      "layout": "reveal",
+      "category": "Bilim",
+      "title": "Ağır sarkaç mutlaka daha hızlı mı?",
+      "subtitle": "Bu kez tartı sonucu söylemiyor.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg",
+        "credit": "Christoph Braun",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Tarihî sarkaçlı saat · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "pendulum",
+      "slides": [
+        {
+          "title": "İdeal modelde hayır",
+          "text": "Aynı uzunlukta, küçük açılarla salınan ideal sarkaçların periyodu uçlarındaki kütleye bağlı değildir."
+        },
+        {
+          "title": "Gerçek hayatta",
+          "text": "Hava direnci ve ipin esnemesi gibi etkiler fark yaratabilir. Modelin söylediğiyle masadaki düzeneği karşılaştırırken bu ayrıntıları unutmayız."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 16-4",
+          "url": "https://openstax.org/books/college-physics-2e/pages/16-4-the-simple-pendulum"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-sarkac-ay",
+      "topic": "Sarkaçlar",
+      "layout": "postcard",
+      "category": "Bilim",
+      "title": "Aynı saat Ay’da yavaşlar mı?",
+      "subtitle": "Sarkaçlı olan için cevap evet.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg",
+        "credit": "Christoph Braun",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Tarihî sarkaçlı saat · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "pendulum",
+      "slides": [
+        {
+          "title": "Yerçekimi ritmi değiştirir",
+          "text": "Aynı uzunluktaki ideal sarkacın periyodu yerçekimi ivmesi azaldıkça uzar. Ay’da yerçekimi Dünya’dakinden daha zayıftır."
+        },
+        {
+          "title": "Hangi saat?",
+          "text": "Bu açıklama sarkaç mekanizması içindir. Her saatin zamanı aynı fiziksel düzenekle ölçtüğünü varsayamayız."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 16-4",
+          "url": "https://openstax.org/books/college-physics-2e/pages/16-4-the-simple-pendulum"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "gokce",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        }
+      ]
+    },
+    {
+      "id": "kesif-dalga-toplama",
+      "topic": "Dalgaların karşılaşması",
+      "layout": "sequence",
+      "category": "Bilim",
+      "title": "İki dalga çarpışınca kavga çıkmıyor.",
+      "subtitle": "Uygun koşullarda üst üste binerler.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+        "credit": "Basile Morin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Mekong Nehri üzerinde tekne · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "wave",
+      "slides": [
+        {
+          "title": "Birlikte görünürler",
+          "text": "Doğrusal dalgalarda aynı noktadaki yer değiştirmeler toplanır. Buna üst üste binme ilkesi denir."
+        },
+        {
+          "title": "Sonra yollarına devam",
+          "text": "İki dalga darbesi karşılaşma bittikten sonra kendi yollarına ilerleyebilir. Karşılaşma anındaki şekil, tek başına yeni kalıcı bir dalga değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 16-10",
+          "url": "https://openstax.org/books/college-physics-2e/pages/16-10-superposition-and-interference"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ahmet.a",
+          "text": "Bu ayrımı unutmayayım."
+        },
+        {
+          "name": "deniz.k",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "duru.not",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "iremce",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "keremca",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "elif.k",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-yapici-girisim",
+      "topic": "Dalgaların karşılaşması",
+      "layout": "diagram",
+      "category": "Bilim",
+      "title": "Tepe tepeye denk gelirse.",
+      "subtitle": "Dalga yükselmesinin bir yolu.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+        "credit": "Basile Morin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Mekong Nehri üzerinde tekne · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "wave",
+      "slides": [
+        {
+          "title": "Aynı anda, aynı yönde",
+          "text": "Özdeş iki dalganın tepeleri ve çukurları çakışırsa genlikleri toplanır. Buna yapıcı girişim denir."
+        },
+        {
+          "title": "Neyin iki katı?",
+          "text": "İdeal durumda genlik iki katına çıkar; dalga boyu değişmez. Genlik, dalganın denge konumundan ne kadar saptığını anlatır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 16-10",
+          "url": "https://openstax.org/books/college-physics-2e/pages/16-10-superposition-and-interference"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "nisa.defter",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "gokce",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        }
+      ]
+    },
+    {
+      "id": "kesif-yikici-girisim",
+      "topic": "Dalgaların karşılaşması",
+      "layout": "punchline",
+      "category": "Bilim",
+      "title": "Ses, sesle azaltılabilir.",
+      "subtitle": "Toplamak bazen küçültür.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+        "credit": "Basile Morin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Mekong Nehri üzerinde tekne · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "wave",
+      "slides": [
+        {
+          "title": "Tepeye karşı çukur",
+          "text": "Eşit büyüklükte, zıt fazlı dalgalar bir noktada birbirini söndürebilir. Bu, yıkıcı girişimdir."
+        },
+        {
+          "title": "Her yerde sessizlik değil",
+          "text": "İptal için dalgaların doğru yerde ve doğru zamanlamayla buluşması gerekir. Bir noktadaki azalma, bütün çevrede sesin yok olduğu anlamına gelmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 16-10",
+          "url": "https://openstax.org/books/college-physics-2e/pages/16-10-superposition-and-interference"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-siren",
+      "topic": "Doppler etkisi",
+      "layout": "comparison",
+      "category": "Bilim",
+      "title": "Ambulans geçti, ses neden kalınlaştı?",
+      "subtitle": "Sirenin düğmesi değişmedi.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+        "credit": "齐健 from Peking, People's Republic of China",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Bir bisiklet · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "wave",
+      "slides": [
+        {
+          "title": "Yaklaşırken",
+          "text": "Kaynak yaklaşırken dalga tepeleri gözlemciye daha sık ulaşır. Duyulan frekans yükselir; ses daha ince gelir."
+        },
+        {
+          "title": "Uzaklaşırken",
+          "text": "Dalga tepelerinin geliş aralığı uzar. Duyulan frekans düşer. Değişen, kaynağın hareketine bağlı olarak senin duyduğun sestir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 17-4",
+          "url": "https://openstax.org/books/college-physics-2e/pages/17-4-doppler-effect-and-sonic-booms"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "selin.jpg",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        }
+      ]
+    },
+    {
+      "id": "kesif-hareketli-dinleyici",
+      "topic": "Doppler etkisi",
+      "layout": "chat",
+      "category": "Bilim",
+      "title": "Siren sabit, sen hareketlisin.",
+      "subtitle": "Doppler için kaynak illa koşmaz.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+        "credit": "齐健 from Peking, People's Republic of China",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Bir bisiklet · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "wave",
+      "slides": [
+        {
+          "title": "Dalgaya doğru giderken",
+          "text": "Ses kaynağına yaklaşan gözlemci dalga tepeleriyle daha sık karşılaşır. Bu da duyduğu frekansı değiştirir."
+        },
+        {
+          "title": "İki tarafı düşün",
+          "text": "Doppler etkisini açıklarken hem kaynağın hem gözlemcinin sesin yayıldığı ortama göre hareketini hesaba katmak gerekir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 17-4",
+          "url": "https://openstax.org/books/college-physics-2e/pages/17-4-doppler-effect-and-sonic-booms"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "onurdefter",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "berk.b",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        },
+        {
+          "name": "mert.y",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "elif.k",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Bir daha karşılaşınca farklı bakacağım."
+        },
+        {
+          "name": "iremce",
+          "text": "İkinci kartta anca oturdu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-sonik-patlama",
+      "topic": "Doppler etkisi",
+      "layout": "newspaper",
+      "category": "Bilim",
+      "title": "Ses duvarı, tuğladan yapılmıyor.",
+      "subtitle": "Gökyüzündeki patlama başka bir şey.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+        "credit": "齐健 from Peking, People's Republic of China",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Bir bisiklet · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "wave",
+      "slides": [
+        {
+          "title": "Kaynak sesini geçer",
+          "text": "Bir cisim ses hızını aştığında ürettiği basınç dalgaları bir şok dalgası oluşturabilir. Bu dalga bize ulaştığında sonik patlama duyulur."
+        },
+        {
+          "title": "Tek anlık düğme değil",
+          "text": "Olay yalnız hız sınırının geçildiği noktada gerçekleşen bir patlama değildir. Süpersonik hareket sırasında şok dalgası oluşmayı sürdürür."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 17-4",
+          "url": "https://openstax.org/books/college-physics-2e/pages/17-4-doppler-effect-and-sonic-booms"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-fiber-isik",
+      "topic": "Işığın içeride kalması",
+      "layout": "route",
+      "category": "Teknoloji",
+      "title": "Işık kablonun virajını nasıl dönüyor?",
+      "subtitle": "Fiberin içinde küçük bir yolculuk.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Fiber_optic_illuminated.jpg/960px-Fiber_optic_illuminated.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Fiber_optic_illuminated.jpg",
+        "credit": "Hustvedt",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Işık ileten optik lifler · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "prism",
+      "slides": [
+        {
+          "title": "Sınırdan geri döner",
+          "text": "Işık, kırılma indisi yüksek çekirdekten düşük indisli kaplamaya uygun açıyla geldiğinde tamamen içeri yansıyabilir."
+        },
+        {
+          "title": "İnce bir kılavuz",
+          "text": "Optik fiber bu tam iç yansıma ilkesinden yararlanır. Işık böylece uzun, ince bir hat boyunca yönlendirilebilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 25-4",
+          "url": "https://openstax.org/books/college-physics-2e/pages/25-4-total-internal-reflection"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "gokce",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "mert.y",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "cemden",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "elif.k",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        }
+      ]
+    },
+    {
+      "id": "kesif-elmas",
+      "topic": "Işığın içeride kalması",
+      "layout": "gallery",
+      "category": "Teknoloji",
+      "title": "Elmasın parıltısı biraz da içerideki trafik.",
+      "subtitle": "Işık hemen çıkış bulamıyor.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Fiber_optic_illuminated.jpg/960px-Fiber_optic_illuminated.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Fiber_optic_illuminated.jpg",
+        "credit": "Hustvedt",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Işık ileten optik lifler · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "prism",
+      "slides": [
+        {
+          "title": "Kritik açı küçük",
+          "text": "Elmasın yüksek kırılma indisi, havayla sınırında küçük bir kritik açı oluşturur. İçeri giren ışık tekrar tekrar yansıyabilir."
+        },
+        {
+          "title": "Kesim de önemli",
+          "text": "Taşın yüzeylerinin açıları ışığın izleyeceği yolu etkiler. Parıltıyı yalnızca malzemenin adıyla açıklamak eksik kalır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 25-4",
+          "url": "https://openstax.org/books/college-physics-2e/pages/25-4-total-internal-reflection"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "gokce",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Bu ayrımı unutmayayım."
+        },
+        {
+          "name": "cemden",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "keremca",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kritik-aci",
+      "topic": "Işığın içeride kalması",
+      "layout": "reveal",
+      "category": "Teknoloji",
+      "title": "Cam bazen ayna gibi davranır.",
+      "subtitle": "Gümüş kaplama şart değil.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Fiber_optic_illuminated.jpg/960px-Fiber_optic_illuminated.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Fiber_optic_illuminated.jpg",
+        "credit": "Hustvedt",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Işık ileten optik lifler · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "prism",
+      "slides": [
+        {
+          "title": "Yeterince eğik gelirse",
+          "text": "Işık yüksek indisli ortamdan düşük indisli ortama giderken, geliş açısı kritik açıyı aşarsa tamamen geri yansır."
+        },
+        {
+          "title": "Tersi aynı değil",
+          "text": "Havadan suya geçişte bu koşul sağlanmaz. Tam iç yansıma, her sınırda her yönde gerçekleşen bir olay değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 25-4",
+          "url": "https://openstax.org/books/college-physics-2e/pages/25-4-total-internal-reflection"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ayse.tr",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kopuk-renk",
+      "topic": "İnce film renkleri",
+      "layout": "poster",
+      "category": "Bilim",
+      "title": "Şeffaf sabun, rengârenk baloncuk.",
+      "subtitle": "Boyayı kim ekledi dersin?",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Double-alaskan-rainbow.jpg/960px-Double-alaskan-rainbow.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Double-alaskan-rainbow.jpg",
+        "credit": "Eric Rolph at English Wikipedia",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+        "alt": "Gökyüzünde çift gökkuşağı · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "prism",
+      "slides": [
+        {
+          "title": "İki yansıma buluşur",
+          "text": "Baloncuğun ince yüzeyinin önünden ve arkasından yansıyan ışık dalgaları birbirine eklenir. Bazı renkler güçlenirken bazıları zayıflar."
+        },
+        {
+          "title": "Kalınlık değişir",
+          "text": "Zarın kalınlığı ve bakış açısı değiştikçe görülen renk de değişir. Her renk için ayrı boya bulunması gerekmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 27-7",
+          "url": "https://openstax.org/books/college-physics-2e/pages/27-7-thin-film-interference"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "onurdefter",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "elif.k",
+          "text": "Bir daha karşılaşınca farklı bakacağım."
+        },
+        {
+          "name": "duru.not",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "keremca",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        }
+      ]
+    },
+    {
+      "id": "kesif-yansima-kaplama",
+      "topic": "İnce film renkleri",
+      "layout": "cutaway",
+      "category": "Bilim",
+      "title": "Gözlük camındaki mor parıltı ne?",
+      "subtitle": "Kaplama ışığı seçerek etkiler.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Double-alaskan-rainbow.jpg/960px-Double-alaskan-rainbow.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Double-alaskan-rainbow.jpg",
+        "credit": "Eric Rolph at English Wikipedia",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+        "alt": "Gökyüzünde çift gökkuşağı · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "prism",
+      "slides": [
+        {
+          "title": "Yansıma azaltılabilir",
+          "text": "Uygun kalınlıktaki ince kaplamalar, yüzeylerden gelen yansımaları belirli dalga boylarında söndürecek biçimde tasarlanabilir."
+        },
+        {
+          "title": "Her renk aynı ölçüde değil",
+          "text": "Tek bir kaplama tüm ışığı her açıdan kusursuzca yok etmez. Geri kalan yansıma renkli görünebilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 27-7",
+          "url": "https://openstax.org/books/college-physics-2e/pages/27-7-thin-film-interference"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "onurdefter",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "duru.not",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        }
+      ]
+    },
+    {
+      "id": "kesif-pockels",
+      "topic": "İnce film renkleri",
+      "layout": "profile",
+      "category": "Bilim",
+      "title": "Mutfak düzeneğinden bilimsel ölçüme.",
+      "subtitle": "Agnes Pockels’in merakı ciddiydi.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Double-alaskan-rainbow.jpg/960px-Double-alaskan-rainbow.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Double-alaskan-rainbow.jpg",
+        "credit": "Eric Rolph at English Wikipedia",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+        "alt": "Gökyüzünde çift gökkuşağı · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "prism",
+      "slides": [
+        {
+          "title": "Evde kurulan düzenek",
+          "text": "Agnes Pockels, su yüzeyindeki sabunlu ve yağlı filmleri incelemek için evde bir düzenek geliştirdi."
+        },
+        {
+          "title": "Mesele yalnız renk değildi",
+          "text": "Yüzey filmlerini ve yüzey gerilimini ölçmeye yönelik bu çalışmalar, laboratuvar dışında da dikkatli deney yapılabileceğinin tarihsel bir örneğidir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · College Physics 2E · 27-7",
+          "url": "https://openstax.org/books/college-physics-2e/pages/27-7-thin-film-interference"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ardabirbak",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "keremca",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Okurken durup düşündüm biraz."
+        }
+      ]
+    }
+  ]
+}

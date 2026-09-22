@@ -1,0 +1,501 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "id": "kesif-enflasyon-sepet",
+      "topic": "Enflasyonu okumak",
+      "layout": "receipt",
+      "category": "Finans",
+      "title": "Herkesin alışveriş fişi aynı değil.",
+      "subtitle": "Enflasyon sepeti nasıl düşünülür?",
+      "account": "Hesap Ortada",
+      "handle": "hesaportada",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png",
+        "credit": "Pearson Scott Foresman",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Abaküs çizimi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "balance",
+      "slides": [
+        {
+          "title": "Ortalama tüketim",
+          "text": "Tüketici fiyat endeksleri, çeşitli mal ve hizmetlerden oluşan temsili bir sepeti izler. Kalemlerin ağırlıkları harcama paylarıyla ilişkilidir."
+        },
+        {
+          "title": "Eşit oy kullanmazlar",
+          "text": "Çok harcanan kalemin fiyat değişimi, az harcanandan daha büyük etki yapabilir. Sepetteki bütün fiyatları düz ortalamak aynı sonucu vermez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ECB · Enflasyon nedir?",
+          "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me-more/html/what_is_inflation.en.html"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-fiyat-artis-hizi",
+      "topic": "Enflasyonu okumak",
+      "layout": "number",
+      "category": "Finans",
+      "title": "Enflasyon düştü. Etiket niye hâlâ yükseliyor?",
+      "subtitle": "Artışın hızıyla düzeyi farklı.",
+      "account": "Hesap Ortada",
+      "handle": "hesaportada",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png",
+        "credit": "Pearson Scott Foresman",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Abaküs çizimi · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "balance",
+      "slides": [
+        {
+          "title": "Yavaşlayan artış",
+          "text": "Fiyat artış oranının azalması, fiyatların düşmesi demek değildir. Örneğin 100 olan bir sepet yüzde 10 artarsa 110 olur."
+        },
+        {
+          "title": "Sonraki dönem",
+          "text": "Ardından yüzde 5 artarsa 115,5 olur. Artış oranı gerilemiştir ama fiyat düzeyi yükselmeye devam etmiştir. Bu, varsayımsal bir hesap örneği."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ECB · Enflasyon nedir?",
+          "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me-more/html/what_is_inflation.en.html"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ardabirbak",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "duru.not",
+          "text": "Bunu başlık görünce yanlış anlamak kolay."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "elif.k",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kisisel-enflasyon",
+      "topic": "Enflasyonu okumak",
+      "layout": "comparison",
+      "category": "Finans",
+      "title": "Senin hissettiğin artışla ortalama farklı olabilir.",
+      "subtitle": "Harcamaların dağılımı önemli.",
+      "account": "Hesap Ortada",
+      "handle": "hesaportada",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png",
+        "credit": "Pearson Scott Foresman",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Abaküs çizimi · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "balance",
+      "slides": [
+        {
+          "title": "Farklı sepetler",
+          "text": "Ulaşıma çok harcayan biriyle arabası olmayan birinin fiyat değişimlerinden etkilenmesi aynı olmayabilir."
+        },
+        {
+          "title": "Çelişki olmak zorunda değil",
+          "text": "Genel endeks ortalama bir yapıyı temsil eder. Kişinin alışveriş bileşimi farklıysa deneyimi de farklılaşabilir; tek bir fiş bütün ekonomiyi temsil etmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ECB · Enflasyon nedir?",
+          "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me-more/html/what_is_inflation.en.html"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "deniz.k",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Oranla toplamı birbirine karıştırıyormuşum."
+        },
+        {
+          "name": "berk.b",
+          "text": "Okurken durup düşündüm biraz."
+        }
+      ]
+    },
+    {
+      "id": "kesif-firsat-maliyeti",
+      "topic": "Kararların görünmeyen bedeli",
+      "layout": "door",
+      "category": "Finans",
+      "title": "Bedava etkinliğin de bir maliyeti olabilir.",
+      "subtitle": "Parayla ödemediğin şeyi düşün.",
+      "account": "Hesap Ortada",
+      "handle": "hesaportada",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg",
+        "credit": "Christoph Braun",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Tarihî sarkaçlı saat · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "balance",
+      "slides": [
+        {
+          "title": "Vazgeçtiğin seçenek",
+          "text": "Fırsat maliyeti, bir seçim için vazgeçilen en iyi alternatifin değeridir. Harcanan zaman da bu hesaba girebilir."
+        },
+        {
+          "title": "Hepsini toplama",
+          "text": "Aynı saat için vazgeçtiğin bütün olasılıkları üst üste eklemek gerekmez. Ölçüt, seçmediğin en iyi alternatiftir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Ekonomi · Fırsat maliyeti",
+          "url": "https://openstax.org/books/principles-economics-3e/pages/2-1-how-individuals-make-choices-based-on-their-budget-constraint"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ahmet.a",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "elif.k",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Örneği görünce anladım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-batik-maliyet",
+      "topic": "Kararların görünmeyen bedeli",
+      "layout": "chat",
+      "category": "Finans",
+      "title": "Bilet aldım diye kötü filmi bitirmek zorunda mıyım?",
+      "subtitle": "Geçmiş ödeme, bugünkü karara karışır.",
+      "account": "Hesap Ortada",
+      "handle": "hesaportada",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg",
+        "credit": "Christoph Braun",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Tarihî sarkaçlı saat · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "balance",
+      "slides": [
+        {
+          "title": "Geri gelmeyen bedel",
+          "text": "Batık maliyet, önceden yapılmış ve geri alınamayacak harcamadır. Yeni karar o parayı geri getirmiyorsa artık değiştirilebilir değildir."
+        },
+        {
+          "title": "Bundan sonrası",
+          "text": "Kalma veya çıkma kararında, kalan zamanın fayda ve maliyetini düşünmek daha anlamlı olabilir. Geçmiş ödeme tek başına devam etme gerekçesi değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Ekonomi · Fırsat maliyeti",
+          "url": "https://openstax.org/books/principles-economics-3e/pages/2-1-how-individuals-make-choices-based-on-their-budget-constraint"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "iremce",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        },
+        {
+          "name": "mert.y",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        },
+        {
+          "name": "birseda",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "onurdefter",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        }
+      ]
+    },
+    {
+      "id": "kesif-marjinal-karar",
+      "topic": "Kararların görünmeyen bedeli",
+      "layout": "balance",
+      "category": "Finans",
+      "title": "“Hepsi mi hiç mi?” yerine bir tane daha.",
+      "subtitle": "Ekonomide marjinal düşünmek.",
+      "account": "Hesap Ortada",
+      "handle": "hesaportada",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg",
+        "credit": "Christoph Braun",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Tarihî sarkaçlı saat · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "balance",
+      "slides": [
+        {
+          "title": "Ek adımın hesabı",
+          "text": "Marjinal analiz, bir birim daha yapmanın getireceği ek faydayla ek maliyeti karşılaştırır."
+        },
+        {
+          "title": "Küçük değişiklik",
+          "text": "Bir saat daha çalışmak veya bir ürün daha üretmek, toplamın tamamını baştan seçmek değildir. Karar çoğu zaman sınırdaki bu küçük değişimdedir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Ekonomi · Fırsat maliyeti",
+          "url": "https://openstax.org/books/principles-economics-3e/pages/2-1-how-individuals-make-choices-based-on-their-budget-constraint"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "berk.b",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "birseda",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "iremce",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "mert.y",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "gokce",
+          "text": "Bunu başlık görünce yanlış anlamak kolay."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-tilki-uzum",
+      "topic": "Ezop'un kısa hikâyeleri",
+      "layout": "comic",
+      "category": "Edebiyat",
+      "title": "Uzanamadı, sonra “zaten ekşiydi” dedi.",
+      "subtitle": "Tilki ile Üzümler'in meselesi.",
+      "account": "Sayfa Arası",
+      "handle": "sayfaarasi",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg",
+        "credit": "Charles Burton Gulick",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Papirüs üzerinde tarihî mektup · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "art",
+      "slides": [
+        {
+          "title": "Kısa hikâye",
+          "text": "Ezop'a atfedilen fablda tilki üzümlere erişemez. Sonunda onların iyi olmadığını söyleyerek uzaklaşır."
+        },
+        {
+          "title": "Okuma notu",
+          "text": "Hikâye, elde edemediğimiz şeyi sonradan değersizleştirmeyi düşündürür. Bir davranışı anlatan edebî örnektir; herkesin aynı tepkiyi verdiğinin kanıtı değil."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Project Gutenberg · Ezop Masalları (kamu malı)",
+          "url": "https://www.gutenberg.org/files/21/21-h/21-h.htm"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "deniz.k",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-karga-testi",
+      "topic": "Ezop'un kısa hikâyeleri",
+      "layout": "sequence",
+      "category": "Edebiyat",
+      "title": "Gagası yetişmedi. Karga başka yol buldu.",
+      "subtitle": "Karga ile Testi üzerine.",
+      "account": "Sayfa Arası",
+      "handle": "sayfaarasi",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg",
+        "credit": "Charles Burton Gulick",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Papirüs üzerinde tarihî mektup · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "art",
+      "slides": [
+        {
+          "title": "Taşlarla çözüm",
+          "text": "Fablda karga, az su bulunan testiye taşlar atar. Su yükselince içebileceği yere gelir."
+        },
+        {
+          "title": "Hikâyenin gücü",
+          "text": "Anlatı, doğrudan erişemediğin hedef için koşulları değiştirmeyi öne çıkarır. Burada gerçek bir hayvan deneyi değil, kısa bir fabl okunuyor."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Project Gutenberg · Ezop Masalları (kamu malı)",
+          "url": "https://www.gutenberg.org/files/21/21-h/21-h.htm"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "zeynepce",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "deniz.k",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "birseda",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-ruzgar-gunes",
+      "topic": "Ezop'un kısa hikâyeleri",
+      "layout": "split",
+      "category": "Edebiyat",
+      "title": "Daha sert esmek her zaman daha etkili değil.",
+      "subtitle": "Kuzey Rüzgârı ile Güneş.",
+      "account": "Sayfa Arası",
+      "handle": "sayfaarasi",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg",
+        "credit": "Charles Burton Gulick",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Papirüs üzerinde tarihî mektup · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "art",
+      "slides": [
+        {
+          "title": "Bir yarış",
+          "text": "Fablda rüzgârla güneş, yolcunun giysisini çıkarttırmaya çalışır. Rüzgâr güçlendikçe yolcu daha sıkı sarınır; güneşin sıcaklığında giysisini çıkarır."
+        },
+        {
+          "title": "Bir yorum",
+          "text": "Öykü, baskıyla ikna arasındaki farkı düşündürür. Her gerçek duruma uygulanacak kesin kural değil, tartışma açan bir benzetmedir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Project Gutenberg · Ezop Masalları (kamu malı)",
+          "url": "https://www.gutenberg.org/files/21/21-h/21-h.htm"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ardabirbak",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        }
+      ]
+    }
+  ]
+}

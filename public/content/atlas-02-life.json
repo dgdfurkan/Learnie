@@ -1,0 +1,2073 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "id": "kesif-mitokondri-dna",
+      "topic": "Hücrenin içi",
+      "layout": "cutaway",
+      "category": "Doğa",
+      "title": "Hücrenin içinde başka DNA da var.",
+      "subtitle": "Bütün arşiv çekirdekte durmuyor.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Leaf_Varieties_%2815_sp%29.png/960px-Leaf_Varieties_%2815_sp%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Leaf_Varieties_(15_sp).png",
+        "credit": "Andrew Z. Colvin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Farklı yaprak biçimleri · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "Küçük bir ek arşiv",
+          "text": "Mitokondrilerin kendilerine ait DNA’sı bulunur. Enerji dönüşümünde çalışan bu yapılar, çekirdekteki genlerle de bağlantılı biçimde iş görür."
+        },
+        {
+          "title": "Bağımsız canlı değiller",
+          "text": "Kendi DNA’larının olması, hücre dışında tek başlarına yaşayabildikleri anlamına gelmez. Hücrenin diğer parçalarına ihtiyaç duyarlar."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 4-3",
+          "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-bitki-koful",
+      "topic": "Hücrenin içi",
+      "layout": "beforeafter",
+      "category": "Doğa",
+      "title": "Solan yaprakta eksilen yalnız renk değil.",
+      "subtitle": "Hücrenin iç basıncı da değişiyor.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Leaf_Varieties_%2815_sp%29.png/960px-Leaf_Varieties_%2815_sp%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Leaf_Varieties_(15_sp).png",
+        "credit": "Andrew Z. Colvin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Farklı yaprak biçimleri · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "Su dolu bölme",
+          "text": "Bitki hücresindeki büyük merkezi koful su depolar. Hücre içeriğinin duvara uyguladığı basınç, bitkinin dik durmasına katkı sağlar."
+        },
+        {
+          "title": "Su azalınca",
+          "text": "Hücre su kaybettiğinde bu destek düşebilir. Yaprağın pörsümesi, tek tek hücrelerdeki değişimin dışarıdan gördüğümüz sonucudur."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 4-3",
+          "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "berk.b",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "umutburada",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        }
+      ]
+    },
+    {
+      "id": "kesif-ribozom",
+      "topic": "Hücrenin içi",
+      "layout": "terminal",
+      "category": "Doğa",
+      "title": "Hücrenin protein atölyesi neresi?",
+      "subtitle": "Küçücük, ama iş yükü büyük.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Leaf_Varieties_%2815_sp%29.png/960px-Leaf_Varieties_%2815_sp%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Leaf_Varieties_(15_sp).png",
+        "credit": "Andrew Z. Colvin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Farklı yaprak biçimleri · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "particles",
+      "slides": [
+        {
+          "title": "Talimat okunur",
+          "text": "Ribozomlar, RNA’daki bilgiyi kullanarak amino asitleri birleştirir ve protein üretir. Proteinler hücrede çok farklı işlere katılır."
+        },
+        {
+          "title": "Adresi tek değil",
+          "text": "Ribozomlar hücre sıvısında serbest bulunabilir ya da endoplazmik retikulum denen zar sistemine bağlı çalışabilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 4-3",
+          "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "onurdefter",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "iremce",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        }
+      ]
+    },
+    {
+      "id": "kesif-difuzyon",
+      "topic": "Hücre zarından geçiş",
+      "layout": "myth",
+      "category": "Bilim",
+      "title": "Moleküller boş yeri nereden biliyor?",
+      "subtitle": "Bilmiyorlar. Hareket ediyorlar.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png/960px-DNA_Structure%2BKey%2BLabelled.pn_NoBB.png",
+        "source": "https://commons.wikimedia.org/wiki/File:DNA_Structure+Key+Labelled.pn_NoBB.png",
+        "credit": "Zephyris",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "DNA yapısının şematik gösterimi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Tek tek rastgele",
+          "text": "Difüzyonda parçacıklar sürekli hareket eder. Çok sayıda parçacığın toplamında, yoğun bölgeden seyrek bölgeye doğru net geçiş görülür."
+        },
+        {
+          "title": "Denge durmak değildir",
+          "text": "Yoğunluklar eşitlendiğinde moleküllerin hareketi bitmez. İki yöndeki geçişler ortalamada birbirini dengeler."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 5-2",
+          "url": "https://openstax.org/books/biology-2e/pages/5-2-passive-transport"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "deniz.k",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "İkinci kartta anca oturdu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-osmoz",
+      "topic": "Hücre zarından geçiş",
+      "layout": "diagram",
+      "category": "Bilim",
+      "title": "Su da zarın öbür tarafına geçer.",
+      "subtitle": "Bu geçişin özel bir adı var.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png/960px-DNA_Structure%2BKey%2BLabelled.pn_NoBB.png",
+        "source": "https://commons.wikimedia.org/wiki/File:DNA_Structure+Key+Labelled.pn_NoBB.png",
+        "credit": "Zephyris",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "DNA yapısının şematik gösterimi · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Seçici bir sınır",
+          "text": "Osmoz, suyun yarı geçirgen bir zar üzerinden net hareketidir. Zar bazı çözünmüş maddeleri geçirmediğinde iki tarafın koşulları farklı kalabilir."
+        },
+        {
+          "title": "Kısa bir örnek",
+          "text": "Çözünenin geçemediği, basınçların başlangıçta eşit olduğu durumda su daha yoğun çözelti tarafına yönelir. Basınç da sonucu etkiler."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 5-2",
+          "url": "https://openstax.org/books/biology-2e/pages/5-2-passive-transport"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "cemden",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "gokce",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "umutburada",
+          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "elif.k",
+          "text": "Okurken durup düşündüm biraz."
+        }
+      ]
+    },
+    {
+      "id": "kesif-akuaporin",
+      "topic": "Hücre zarından geçiş",
+      "layout": "door",
+      "category": "Bilim",
+      "title": "Hücre zarında suya özel kapılar var.",
+      "subtitle": "Adları: akuaporin.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png/960px-DNA_Structure%2BKey%2BLabelled.pn_NoBB.png",
+        "source": "https://commons.wikimedia.org/wiki/File:DNA_Structure+Key+Labelled.pn_NoBB.png",
+        "credit": "Zephyris",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "DNA yapısının şematik gösterimi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Proteinden bir geçit",
+          "text": "Akuaporinler suyun hücre zarından geçişini kolaylaştıran kanal proteinleridir. Zarın yağlı iç bölgesi, her molekül için kolay bir yol değildir."
+        },
+        {
+          "title": "Pompa sanma",
+          "text": "Bu kanallar suyu kendi başlarına enerji harcayarak yokuş yukarı taşımaz. Geçiş, suyun hareketini belirleyen fiziksel koşullara bağlıdır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 5-2",
+          "url": "https://openstax.org/books/biology-2e/pages/5-2-passive-transport"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "birseda",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "mert.y",
+          "text": "Bir daha karşılaşınca farklı bakacağım."
+        },
+        {
+          "name": "cemden",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "İkinci kartta anca oturdu."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        }
+      ]
+    },
+    {
+      "id": "kesif-enzim-uyum",
+      "topic": "Enzimlerin çalışma koşulları",
+      "layout": "puzzle",
+      "category": "Bilim",
+      "title": "Enzim, taş gibi sabit bir kilit değil.",
+      "subtitle": "Anahtar benzetmesi bir yere kadar.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Quartz_28.jpg/960px-Quartz_28.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Quartz_28.jpg",
+        "credit": "Géry PARENT",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Kuvars kristali · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Temas şekli değiştirir",
+          "text": "Bir madde enzimin etkin bölgesine bağlandığında enzimin biçimi biraz değişebilir. Buna uyarılmış uyum denir."
+        },
+        {
+          "title": "Uyumun işi",
+          "text": "Bu değişim tepkimenin gerçekleşmesini kolaylaştırır. Enzimlerin seçiciliği, yalnızca birbirine uyan iki katı şekilden ibaret değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 6-5",
+          "url": "https://openstax.org/books/biology-2e/pages/6-5-enzymes"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "onurdefter",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "umutburada",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        },
+        {
+          "name": "deniz.k",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "mert.y",
+          "text": "Bu kısmı okulda hızlı geçmişiz."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "duru.not",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "cemden",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Formülden önce mantığını bilmek iyi geldi."
+        },
+        {
+          "name": "iremce",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "birseda",
+          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
+        },
+        {
+          "name": "keremca",
+          "text": "Örneği görünce anladım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-enzim-sicaklik",
+      "topic": "Enzimlerin çalışma koşulları",
+      "layout": "comparison",
+      "category": "Bilim",
+      "title": "Daha sıcak her zaman daha hızlı değil.",
+      "subtitle": "Enzimlerin de çalışma aralığı var.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Quartz_28.jpg/960px-Quartz_28.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Quartz_28.jpg",
+        "credit": "Géry PARENT",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Kuvars kristali · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Önce hızlanabilir",
+          "text": "Sıcaklık artışı birçok tepkimeyi hızlandırır. Fakat enzimin işlevi, yapısını koruyabilmesine bağlıdır."
+        },
+        {
+          "title": "Fazlası bozabilir",
+          "text": "Yüksek sıcaklık enzimin üç boyutlu yapısını değiştirebilir. Etkin bölge bozulursa çalışması azalır; her enzimin dayanıklılığı aynı değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 6-5",
+          "url": "https://openstax.org/books/biology-2e/pages/6-5-enzymes"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ardabirbak",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "iremce",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        }
+      ]
+    },
+    {
+      "id": "kesif-enzim-rekabet",
+      "topic": "Enzimlerin çalışma koşulları",
+      "layout": "chat",
+      "category": "Bilim",
+      "title": "Aynı yere iki aday gelirse.",
+      "subtitle": "Hücrede küçük bir yer kapma meselesi.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Quartz_28.jpg/960px-Quartz_28.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Quartz_28.jpg",
+        "credit": "Géry PARENT",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "alt": "Kuvars kristali · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "gears",
+      "slides": [
+        {
+          "title": "Etkin bölge dolu",
+          "text": "Rekabetçi inhibitör denen moleküller, enzimin normalde işleyeceği maddeyle aynı bağlanma bölgesi için yarışır."
+        },
+        {
+          "title": "Tepkime yavaşlayabilir",
+          "text": "O yer başka bir molekülle doluyken asıl madde bağlanamaz. Böylece enzim etkinliğini düzenlemenin bir yolu ortaya çıkar."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 6-5",
+          "url": "https://openstax.org/books/biology-2e/pages/6-5-enzymes"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "iremce",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "birseda",
+          "text": "Aklımda bir sürü “peki ya” kaldı."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Bir daha karşılaşınca farklı bakacağım."
+        },
+        {
+          "name": "mert.y",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "keremca",
+          "text": "Başlık için geldim, kaynakta kaldım."
+        },
+        {
+          "name": "duru.not",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Detay sevenlere güzel konu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-dna-harfler",
+      "topic": "DNA'nın yapısı",
+      "layout": "glossary",
+      "category": "Bilim",
+      "title": "DNA’daki harfler gerçekten harf değil.",
+      "subtitle": "A, T, G, C birer kısaltma.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png/960px-DNA_Structure%2BKey%2BLabelled.pn_NoBB.png",
+        "source": "https://commons.wikimedia.org/wiki/File:DNA_Structure+Key+Labelled.pn_NoBB.png",
+        "credit": "Zephyris",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "DNA yapısının şematik gösterimi · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "helix",
+      "slides": [
+        {
+          "title": "Dört kimyasal parça",
+          "text": "Adenin, timin, guanin ve sitozin; DNA’da yer alan dört bazın adıdır. Bunların dizilişi genetik bilginin temelini oluşturur."
+        },
+        {
+          "title": "Uzunluk yetmez",
+          "text": "Aynı harflerden farklı cümleler kurulması gibi, aynı bazlar farklı sıralarla farklı bilgiler taşıyabilir. Bu yalnızca bir benzetmedir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 14-2",
+          "url": "https://openstax.org/books/biology-2e/pages/14-2-dna-structure-and-sequencing"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "elif.k",
+          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Formülden önce mantığını bilmek iyi geldi."
+        },
+        {
+          "name": "umutburada",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "gokce",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "iremce",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-dna-eslesme",
+      "topic": "DNA'nın yapısı",
+      "layout": "equation",
+      "category": "Bilim",
+      "title": "DNA’nın iki yanı gelişigüzel eşleşmez.",
+      "subtitle": "Merdivenin basamakları seçicidir.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png/960px-DNA_Structure%2BKey%2BLabelled.pn_NoBB.png",
+        "source": "https://commons.wikimedia.org/wiki/File:DNA_Structure+Key+Labelled.pn_NoBB.png",
+        "credit": "Zephyris",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "DNA yapısının şematik gösterimi · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "helix",
+      "slides": [
+        {
+          "title": "A–T, G–C",
+          "text": "Çift sarmallı DNA’da adenin timinle, guanin sitozinle eşleşir. Bu eşleşmeler hidrojen bağlarıyla desteklenir."
+        },
+        {
+          "title": "Kopyalamaya bir ipucu",
+          "text": "Bir zincirin baz sırası bilindiğinde karşı zincirin sırası belirlenebilir. Eşleşme düzeni, DNA’nın kopyalanabilmesinin temel parçalarından biridir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 14-2",
+          "url": "https://openstax.org/books/biology-2e/pages/14-2-dna-structure-and-sequencing"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-dna-yon",
+      "topic": "DNA'nın yapısı",
+      "layout": "route",
+      "category": "Bilim",
+      "title": "DNA’nın iki şeridi ters yönlüdür.",
+      "subtitle": "Yan yana ama aynı yöne bakmıyorlar.",
+      "account": "Bir Dakika Bilim",
+      "handle": "birdakikabilim",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png/960px-DNA_Structure%2BKey%2BLabelled.pn_NoBB.png",
+        "source": "https://commons.wikimedia.org/wiki/File:DNA_Structure+Key+Labelled.pn_NoBB.png",
+        "credit": "Zephyris",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "DNA yapısının şematik gösterimi · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "helix",
+      "slides": [
+        {
+          "title": "Kimyasal bir yön",
+          "text": "DNA zincirinin uçları 5′ ve 3′ diye adlandırılır. Bunlar şeker molekülündeki karbonların numaralandırmasıyla ilişkilidir."
+        },
+        {
+          "title": "Karşılıklı düzen",
+          "text": "Çift sarmalda bir zincirin 5′ ucu karşıdakinin 3′ ucuna bakar. Bu düzen için antiparalel sözcüğü kullanılır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 14-2",
+          "url": "https://openstax.org/books/biology-2e/pages/14-2-dna-structure-and-sequencing"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-mikoriza",
+      "topic": "Mantar ortaklıkları",
+      "layout": "chat",
+      "category": "Doğa",
+      "title": "Kökün görünmeyen ortağı: mantar.",
+      "subtitle": "Toprakta karşılıklı bir alışveriş var.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Fungi_collage.jpg/960px-Fungi_collage.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Fungi_collage.jpg",
+        "credit": "BorgQueen",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+        "alt": "Farklı mantarlardan bir kolaj · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "İnce ağlar",
+          "text": "Mikoriza ilişkisinde mantarın ince iplikleri, bitkinin su ve mineral almasına yardım edebilir. Bu ağ kökün erişebildiği alanı genişletir."
+        },
+        {
+          "title": "Karşılığı şeker",
+          "text": "Bitki de fotosentez ürünlerini mantarla paylaşır. Bu ilişkiyi insanlardaki bilinçli yardımlaşmayla birebir aynı saymamak gerekir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 24-3",
+          "url": "https://openstax.org/books/biology-2e/pages/24-3-ecology-of-fungi"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "birseda",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "umutburada",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        },
+        {
+          "name": "elif.k",
+          "text": "Görünüşüne bakıp karar veriyormuşum."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-liken",
+      "topic": "Mantar ortaklıkları",
+      "layout": "split",
+      "category": "Doğa",
+      "title": "Taştaki liken tek başına bir mantar değil.",
+      "subtitle": "Bir arada yaşamanın başka yolu.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Fungi_collage.jpg/960px-Fungi_collage.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Fungi_collage.jpg",
+        "credit": "BorgQueen",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+        "alt": "Farklı mantarlardan bir kolaj · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Birlikte kurulan yapı",
+          "text": "Liken, mantarla fotosentez yapabilen alg veya siyanobakteri arasındaki ortaklıktır. Mantar koruyucu bir yapı oluşturur."
+        },
+        {
+          "title": "İş bölümü",
+          "text": "Fotosentez yapan ortak organik besin üretir. Bu birliktelik, çıplak kaya gibi zor yüzeylerde yaşamayı mümkün kılabilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 24-3",
+          "url": "https://openstax.org/books/biology-2e/pages/24-3-ecology-of-fungi"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "mert.y",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "duru.not",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "keremca",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "gokce",
+          "text": "Biraz daha yakından bakmak lazımmış."
+        },
+        {
+          "name": "cemden",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Dışarı çıkınca etrafa başka bakacağım."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        },
+        {
+          "name": "berk.b",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        }
+      ]
+    },
+    {
+      "id": "kesif-mantar-ayristirici",
+      "topic": "Mantar ortaklıkları",
+      "layout": "process",
+      "category": "Doğa",
+      "title": "Ormandaki yapraklar nereye kayboluyor?",
+      "subtitle": "Birileri sessizce geri dönüştürüyor.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Fungi_collage.jpg/960px-Fungi_collage.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Fungi_collage.jpg",
+        "credit": "BorgQueen",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+        "alt": "Farklı mantarlardan bir kolaj · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#8d7791",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Dışarıda sindirim",
+          "text": "Ayrıştırıcı mantarlar organik maddeleri enzimlerle parçalar, oluşan küçük molekülleri emer. Yani önce yutup sonra sindirmezler."
+        },
+        {
+          "title": "Döngüye dönüş",
+          "text": "Bu süreç, ölü dokulardaki maddelerin yeniden ekosisteme katılmasına yardım eder. Ormanın yalnız büyümeye değil, ayrışmaya da ihtiyacı vardır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 24-3",
+          "url": "https://openstax.org/books/biology-2e/pages/24-3-ecology-of-fungi"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "umutburada",
+          "text": "Küçük şeylerde ne çok ayrıntı var."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "cemden",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "mert.y",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        }
+      ]
+    },
+    {
+      "id": "kesif-karayosunu-kok",
+      "topic": "Karayosunları",
+      "layout": "cutaway",
+      "category": "Doğa",
+      "title": "Karayosununun kök sandığın kısmı farklı.",
+      "subtitle": "Minyatür ağaç diye düşünme.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bryum_capillare_leaf_cells.jpg/960px-Bryum_capillare_leaf_cells.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Bryum_capillare_leaf_cells.jpg",
+        "credit": "Des_Callaghan",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Kara yosunu yaprağının hücreleri · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "growth",
+      "slides": [
+        {
+          "title": "Tutunma iplikleri",
+          "text": "Birçok karayosununda toprağa tutunmayı sağlayan yapılara rizoid denir. Bunlar damarlı bitkilerin gerçek kökleriyle aynı yapıda değildir."
+        },
+        {
+          "title": "Başka bir düzen",
+          "text": "Karayosunları suyu büyük ölçüde yüzeylerinden alabilir. Küçük boyları ve nemli ortamlarla ilişkileri bu yapıyla birlikte düşünülür."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 25-3",
+          "url": "https://openstax.org/books/biology-2e/pages/25-3-bryophytes"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-karayosunu-ureme",
+      "topic": "Karayosunları",
+      "layout": "route",
+      "category": "Doğa",
+      "title": "Bu bitkinin üremesinde su yolu var.",
+      "subtitle": "Yağmur sadece sulamıyor.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bryum_capillare_leaf_cells.jpg/960px-Bryum_capillare_leaf_cells.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Bryum_capillare_leaf_cells.jpg",
+        "credit": "Des_Callaghan",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Kara yosunu yaprağının hücreleri · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "growth",
+      "slides": [
+        {
+          "title": "Yüzerek ulaşmak",
+          "text": "Karayosunlarının hareketli erkek üreme hücreleri yumurtaya ulaşmak için suya ihtiyaç duyar. İnce bir su tabakası bile bu yolculukta önemlidir."
+        },
+        {
+          "title": "Tohumlu bitkiden farklı",
+          "text": "Polenle taşınan üreme hücrelerinin sağladığı olanak burada aynı biçimde bulunmaz. Nemli ortam, yaşam döngüsünün bir parçasıdır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 25-3",
+          "url": "https://openstax.org/books/biology-2e/pages/25-3-bryophytes"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "onurdefter",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-karayosunu-spor",
+      "topic": "Karayosunları",
+      "layout": "comparison",
+      "category": "Doğa",
+      "title": "Karayosununun tepesi tohum kutusu değil.",
+      "subtitle": "Kapsülün içindekiler spor.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bryum_capillare_leaf_cells.jpg/960px-Bryum_capillare_leaf_cells.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Bryum_capillare_leaf_cells.jpg",
+        "credit": "Des_Callaghan",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Kara yosunu yaprağının hücreleri · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#b07872",
+      "motion": "growth",
+      "slides": [
+        {
+          "title": "İki evre",
+          "text": "Karayosununun yeşil kısmının üzerinde ince bir sap ve kapsül görülebilir. Kapsülde sporlar oluşur ve çevreye yayılır."
+        },
+        {
+          "title": "Spor başka, tohum başka",
+          "text": "Spor, tohumdaki gibi embriyo ve besin deposundan oluşan bir paket değildir. İki kavramı birbirinin yerine kullanamayız."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 25-3",
+          "url": "https://openstax.org/books/biology-2e/pages/25-3-bryophytes"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "mert.y",
+          "text": "Biraz daha yakından bakmak lazımmış."
+        }
+      ]
+    },
+    {
+      "id": "kesif-yakici-hucre",
+      "topic": "Denizanalarının akrabaları",
+      "layout": "diagram",
+      "category": "Doğa",
+      "title": "Denizanasının içinde minik kapanlar var.",
+      "subtitle": "Temasın niye can yaktığına bakalım.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Jelly_cc11.jpg/960px-Jelly_cc11.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Jelly_cc11.jpg",
+        "credit": "Dan90266",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "alt": "Denizanası · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "pulse",
+      "slides": [
+        {
+          "title": "Özel hücreler",
+          "text": "Knidosit denen hücreler, nematosist adlı kapsüller taşır. Uyarıldıklarında içlerindeki kıvrılmış iplik çok hızlı dışarı çıkabilir."
+        },
+        {
+          "title": "Bir avlanma aracı",
+          "text": "Bu düzenek avı yakalamada ve savunmada kullanılır. Denizanalarının türleri arasında yakıcılık ve etki bakımından büyük fark vardır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 28-2",
+          "url": "https://openstax.org/books/biology-2e/pages/28-2-phylum-cnidaria"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-polip-meduz",
+      "topic": "Denizanalarının akrabaları",
+      "layout": "split",
+      "category": "Doğa",
+      "title": "Aynı grubun iki ayrı beden planı.",
+      "subtitle": "Biri çiçek, biri şemsiye gibi.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Jelly_cc11.jpg/960px-Jelly_cc11.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Jelly_cc11.jpg",
+        "credit": "Dan90266",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "alt": "Denizanası · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "pulse",
+      "slides": [
+        {
+          "title": "Polip",
+          "text": "Polip biçiminde ağız ve dokunaçlar genellikle yukarı yönelir; gövde bir yüzeye bağlı olabilir. Denizşakayıkları bu biçime örnektir."
+        },
+        {
+          "title": "Medüz",
+          "text": "Medüz biçimi şemsiye görünümündedir; ağız aşağı bakar. Her knidli türünün yaşamında iki biçimin de bulunması şart değildir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 28-2",
+          "url": "https://openstax.org/books/biology-2e/pages/28-2-phylum-cnidaria"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "berk.b",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Şuraya bir yer imi bırakayım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-portekiz-gemisi",
+      "topic": "Denizanalarının akrabaları",
+      "layout": "profile",
+      "category": "Doğa",
+      "title": "Tek hayvan sandığın şey bir koloni olabilir.",
+      "subtitle": "Portekiz savaş gemisinde işler paylaşılır.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Jelly_cc11.jpg/960px-Jelly_cc11.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Jelly_cc11.jpg",
+        "credit": "Dan90266",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "alt": "Denizanası · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#748773",
+      "motion": "pulse",
+      "slides": [
+        {
+          "title": "Bir arada yaşayan birimler",
+          "text": "Portekiz savaş gemisi, özelleşmiş bireylerden oluşan bir sifonofor kolonisidir. Görünüşü nedeniyle sıkça denizanası sanılır."
+        },
+        {
+          "title": "Görevler ayrılır",
+          "text": "Beslenme, savunma ve üreme gibi işlerde farklı birimler rol alır. Dışarıdan tek bir beden görmek, biyolojik yapıyı tek başına açıklamaz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 28-2",
+          "url": "https://openstax.org/books/biology-2e/pages/28-2-phylum-cnidaria"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-radula",
+      "topic": "Yumuşakçaların alet çantası",
+      "layout": "glossary",
+      "category": "Doğa",
+      "title": "Salyangozun ağzında küçük bir rende var.",
+      "subtitle": "Adı radula.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Octopus2.jpg/960px-Octopus2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Octopus2.jpg",
+        "credit": "albert kok",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Ahtapot · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Kazıyarak beslenmek",
+          "text": "Birçok yumuşakça, diş benzeri yapılar taşıyan şerit biçimli bir beslenme organı kullanır. Radula yüzeydeki besini kazıyabilir."
+        },
+        {
+          "title": "Hepsinde yok",
+          "text": "Midye ve istiridye gibi çift kabuklularda radula bulunmaz. Aynı hayvan grubundaki üyeler farklı beslenme düzenekleri kullanabilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 28-4",
+          "url": "https://openstax.org/books/biology-2e/pages/28-4-superphylum-lophotrochozoa-mollusks-and-annelids"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "deniz.k",
+          "text": "Bunu birine anlatmayı deneyeceğim."
+        },
+        {
+          "name": "berk.b",
+          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
+        },
+        {
+          "name": "elif.k",
+          "text": "Küçük şeylerde ne çok ayrıntı var."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kalamar-jet",
+      "topic": "Yumuşakçaların alet çantası",
+      "layout": "process",
+      "category": "Doğa",
+      "title": "Kalamarın geri kaçışı biraz jet işi.",
+      "subtitle": "Suyu at, ters yöne ilerle.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Octopus2.jpg/960px-Octopus2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Octopus2.jpg",
+        "credit": "albert kok",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Ahtapot · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Sifondan dışarı",
+          "text": "Kalamar manto boşluğuna aldığı suyu sifonundan dışarı itebilir. Suyun bir yönde atılması hayvanı karşı yöne hareket ettirir."
+        },
+        {
+          "title": "Yön de ayarlanır",
+          "text": "Sifonun yönü, hareketi yönlendirmeye yardım eder. Bu, tepkili itkinin doğadaki örneklerinden biridir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 28-4",
+          "url": "https://openstax.org/books/biology-2e/pages/28-4-superphylum-lophotrochozoa-mollusks-and-annelids"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ecebirnot",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Bunun fotoğrafını çekmiştim ama ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-manto-kabuk",
+      "topic": "Yumuşakçaların alet çantası",
+      "layout": "myth",
+      "category": "Doğa",
+      "title": "Deniz kabuğunu kim yapıyor?",
+      "subtitle": "Hayvanın kendisi.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Octopus2.jpg/960px-Octopus2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Octopus2.jpg",
+        "credit": "albert kok",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Ahtapot · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#608477",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Manto adlı doku",
+          "text": "Kabuklu yumuşakçalarda manto, kabuğun oluşumunda görev alan maddeleri salgılar. Kabuğun önemli mineral bileşeni kalsiyum karbonattır."
+        },
+        {
+          "title": "Evden daha fazlası",
+          "text": "Kabuk, sonradan içine taşınılan rastgele bir taş değildir. Hayvanın dokularıyla bağlantılı biçimde üretilen koruyucu bir yapıdır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 28-4",
+          "url": "https://openstax.org/books/biology-2e/pages/28-4-superphylum-lophotrochozoa-mollusks-and-annelids"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "selin.jpg",
+          "text": "Örneği görünce anladım."
+        },
+        {
+          "name": "elif.k",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Bunun fotoğrafını çekmiştim ama ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "cemden",
+          "text": "Ben de yeni öğrendim, yalnız değilmişim."
+        },
+        {
+          "name": "gokce",
+          "text": "Küçük şeylerde ne çok ayrıntı var."
+        },
+        {
+          "name": "umutburada",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "keremca",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "duru.not",
+          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kabuk-degistirme",
+      "topic": "Böceklerin bedenleri",
+      "layout": "beforeafter",
+      "category": "Doğa",
+      "title": "Büyümek için zırhını çıkarıyor.",
+      "subtitle": "Dış iskeletin bir bedeli var.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fesoj_-_Papilio_machaon_%28by%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Fesoj_-_Papilio_machaon_(by).jpg",
+        "credit": "fesoj",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Kırlangıçkuyruk kelebeği · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "Sert dış katman",
+          "text": "Eklembacaklıların dış iskeleti destek ve koruma sağlar. Ama bu sert örtü gövdeyle birlikte sınırsızca genişleyemez."
+        },
+        {
+          "title": "Yeni bedene geçiş",
+          "text": "Büyüme sırasında eski örtü atılır ve yenisi oluşur. Yeni dış iskelet sertleşene kadar hayvan daha savunmasız olabilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 28-6",
+          "url": "https://openstax.org/books/biology-2e/pages/28-6-superphylum-ecdysozoa-arthropods"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-bocek-solunum",
+      "topic": "Böceklerin bedenleri",
+      "layout": "cutaway",
+      "category": "Doğa",
+      "title": "Böcekler burnundan nefes almıyor.",
+      "subtitle": "Hava gövdeye başka yoldan girer.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fesoj_-_Papilio_machaon_%28by%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Fesoj_-_Papilio_machaon_(by).jpg",
+        "credit": "fesoj",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Kırlangıçkuyruk kelebeği · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "Yanlarda açıklıklar",
+          "text": "Birçok böcekte hava, gövde yüzeyindeki küçük açıklıklardan trake adı verilen borulara girer. Bu borular içeride dallanır."
+        },
+        {
+          "title": "Dokuya kadar yol",
+          "text": "Sistem oksijeni doğrudan dokulara yaklaştırır. İnsanlardaki akciğer ve kan dolaşımı düzenini böceğe aynen taşımak doğru olmaz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 28-6",
+          "url": "https://openstax.org/books/biology-2e/pages/28-6-superphylum-ecdysozoa-arthropods"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "cemden",
+          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
+        }
+      ]
+    },
+    {
+      "id": "kesif-baskalasim",
+      "topic": "Böceklerin bedenleri",
+      "layout": "timeline",
+      "category": "Doğa",
+      "title": "Tırtıl ile kelebek aynı menüde yaşamaz.",
+      "subtitle": "Büyümek bazen beden değiştirmektir.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fesoj_-_Papilio_machaon_%28by%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Fesoj_-_Papilio_machaon_(by).jpg",
+        "credit": "fesoj",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Kırlangıçkuyruk kelebeği · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#b67655",
+      "motion": "layers",
+      "slides": [
+        {
+          "title": "Dört evre",
+          "text": "Tam başkalaşım geçiren böceklerde yumurta, larva, pupa ve ergin evreleri bulunur. Kelebek bunun tanıdık örneğidir."
+        },
+        {
+          "title": "Neden önemli?",
+          "text": "Larva ve erginin yapısı, beslenmesi ve yaşam alanı farklı olabilir. Her böcek bu dört evreli döngüyü izlemez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 28-6",
+          "url": "https://openstax.org/books/biology-2e/pages/28-6-superphylum-ecdysozoa-arthropods"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "selin.jpg",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "berk.b",
+          "text": "Bu ayrımı unutmayayım."
+        },
+        {
+          "name": "mert.y",
+          "text": "Küçük şeylerde ne çok ayrıntı var."
+        }
+      ]
+    },
+    {
+      "id": "kesif-ksilem",
+      "topic": "Bitkide taşımacılık",
+      "layout": "myth",
+      "category": "Doğa",
+      "title": "Ağaçta suyu tepeye kim çıkarıyor?",
+      "subtitle": "Kökün üstünde gizli pompa arama.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Leaf_Varieties_%2815_sp%29.png/960px-Leaf_Varieties_%2815_sp%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Leaf_Varieties_(15_sp).png",
+        "credit": "Andrew Z. Colvin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Farklı yaprak biçimleri · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Yaprakta başlayan çekiş",
+          "text": "Yapraklardan suyun buharlaşması, ksilem denen iletim dokusunda suyu yukarı çeken gerilim oluşturur. Su moleküllerinin birbirine tutunması bu akışı destekler."
+        },
+        {
+          "title": "Yalnız kılcallık değil",
+          "text": "Uzun ağaçlarda taşımayı sadece ince borularda yükselmeyle açıklayamayız. Terleme ve suyun kesintisiz sütunlar oluşturması önemlidir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 30-5",
+          "url": "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "birseda",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "onurdefter",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Bunun fotoğrafını çekmiştim ama ne olduğunu bilmiyordum."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Fotoğrafa bakıp geçecektim az daha."
+        },
+        {
+          "name": "umutburada",
+          "text": "Bu konudan başka bir şey de okuyasım geldi."
+        },
+        {
+          "name": "cemden",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "keremca",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "berk.b",
+          "text": "Son cümle önemli bence."
+        },
+        {
+          "name": "elif.k",
+          "text": "Bir dakika diye girdim yine konu uzadı bende."
+        }
+      ]
+    },
+    {
+      "id": "kesif-floem",
+      "topic": "Bitkide taşımacılık",
+      "layout": "route",
+      "category": "Doğa",
+      "title": "Bitkinin şeker hattı başka.",
+      "subtitle": "Su borusuyla aynı hat değil.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Leaf_Varieties_%2815_sp%29.png/960px-Leaf_Varieties_%2815_sp%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Leaf_Varieties_(15_sp).png",
+        "credit": "Andrew Z. Colvin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Farklı yaprak biçimleri · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Üretimden kullanıma",
+          "text": "Floem, fotosentez ürünlerini üretildikleri veya depolandıkları yerlerden tüketilecekleri ya da depolanacakları bölgelere taşır."
+        },
+        {
+          "title": "Hep aşağı gitmez",
+          "text": "Taşıma yönü kaynak ve hedefe bağlıdır. Kökten yeni sürgüne de, yapraktan köke de organik madde taşınabilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 30-5",
+          "url": "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ahmet.a",
+          "text": "Şuraya bir yer imi bırakayım."
+        },
+        {
+          "name": "cemden",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Dışarı çıkınca etrafa başka bakacağım."
+        },
+        {
+          "name": "duru.not",
+          "text": "İlk akla gelen cevap başka oluyor."
+        },
+        {
+          "name": "deniz.k",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        }
+      ]
+    },
+    {
+      "id": "kesif-stoma",
+      "topic": "Bitkide taşımacılık",
+      "layout": "balance",
+      "category": "Doğa",
+      "title": "Yaprağın kapısı açılırsa bir şey kaybolur.",
+      "subtitle": "Gaz alışverişinin su faturası var.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Leaf_Varieties_%2815_sp%29.png/960px-Leaf_Varieties_%2815_sp%29.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Leaf_Varieties_(15_sp).png",
+        "credit": "Andrew Z. Colvin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Farklı yaprak biçimleri · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#87915e",
+      "motion": "flow",
+      "slides": [
+        {
+          "title": "Küçük gözenekler",
+          "text": "Stomalar, yaprağın gaz alışverişinde görev alan açıklıklardır. Açıldıklarında karbondioksit içeri girebilir; su buharı da dışarı çıkabilir."
+        },
+        {
+          "title": "İnce ayar",
+          "text": "Bekçi hücreleri açıklığı düzenler. Bitki için karbondioksit almakla suyu korumak arasında sürekli bir denge bulunur."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 30-5",
+          "url": "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": []
+    },
+    {
+      "id": "kesif-fototropizma",
+      "topic": "Bitkilerin yön bulması",
+      "layout": "postcard",
+      "category": "Doğa",
+      "title": "Saksıdaki bitki pencereye yürümüyor.",
+      "subtitle": "Büyümesini yönlendiriyor.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/SunflowerSunset2.jpg/960px-SunflowerSunset2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:SunflowerSunset2.jpg",
+        "credit": "shirleybolling2005",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Ayçiçeği · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "growth",
+      "slides": [
+        {
+          "title": "Işığa göre büyüme",
+          "text": "Sürgünün ışığa doğru eğilmesine pozitif fototropizma denir. İki yandaki büyümenin farklılaşması eğilmeyi oluşturabilir."
+        },
+        {
+          "title": "Göz gerekmiyor",
+          "text": "Bitkiler ışığı algılayan moleküller kullanır. Bu tepkiyi görmek için hayvanlardaki gibi göz veya sinir sistemi aramamız gerekmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 30-6",
+          "url": "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "duru.not",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "birseda",
+          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Küçük şeylerde ne çok ayrıntı var."
+        },
+        {
+          "name": "umutburada",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "berk.b",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "mert.y",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "selin.jpg",
+          "text": "Detay sevenlere güzel konu."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Okurken durup düşündüm biraz."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        }
+      ]
+    },
+    {
+      "id": "kesif-suluk-sarilma",
+      "topic": "Bitkilerin yön bulması",
+      "layout": "sequence",
+      "category": "Doğa",
+      "title": "Sarmaşık desteği nasıl tutuyor?",
+      "subtitle": "Dokunma, büyümenin yönünü değiştirir.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/SunflowerSunset2.jpg/960px-SunflowerSunset2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:SunflowerSunset2.jpg",
+        "credit": "shirleybolling2005",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Ayçiçeği · Konuya eşlik eden görsel."
+      },
+      "format": "perspective",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "growth",
+      "slides": [
+        {
+          "title": "Temasla gelen tepki",
+          "text": "Bazı bitkilerin sülük denen tutunma yapıları bir desteğe temas edince kıvrılır. Yönlü dokunma tepkisine tigmotropizma denir."
+        },
+        {
+          "title": "Bir tutunma yolu",
+          "text": "Destekle temas eden tarafla diğer tarafın büyümesi farklılaşabilir. Böylece bitki kalın bir gövde kurmadan yukarı ilerleyebilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 30-6",
+          "url": "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "ahmet.a",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "aliokuyor",
+          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
+        },
+        {
+          "name": "ardabirbak",
+          "text": "Biraz daha yakından bakmak lazımmış."
+        }
+      ]
+    },
+    {
+      "id": "kesif-yercekimi-bitki",
+      "topic": "Bitkilerin yön bulması",
+      "layout": "diagram",
+      "category": "Doğa",
+      "title": "Tohumu yan yatırdın. Kök yine aşağı.",
+      "subtitle": "Yön bilgisinin bir kısmı yerçekiminden.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/SunflowerSunset2.jpg/960px-SunflowerSunset2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:SunflowerSunset2.jpg",
+        "credit": "shirleybolling2005",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Ayçiçeği · Konuya eşlik eden görsel."
+      },
+      "format": "reel",
+      "minutes": 1,
+      "accent": "#668792",
+      "motion": "growth",
+      "slides": [
+        {
+          "title": "Kök ve sürgün",
+          "text": "Kökler çoğunlukla yerçekimi yönünde, sürgünlerse ters yönde büyür. Buna gravitropizma denir."
+        },
+        {
+          "title": "Karanlıkta da çalışır",
+          "text": "Bu tepki yalnız ışıkla açıklanamaz. Bitki yana yatırıldığında, karanlıkta bile büyüme yönünü değiştirebilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 30-6",
+          "url": "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "aliokuyor",
+          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
+        },
+        {
+          "name": "zeynepce",
+          "text": "Bir şey öğrendim derken başka bir soru çıktı."
+        },
+        {
+          "name": "keremca",
+          "text": "Kısa ama tekrar okumalık."
+        },
+        {
+          "name": "mert.y",
+          "text": "Bugünün cebime attığım bilgisi bu."
+        },
+        {
+          "name": "ayse.tr",
+          "text": "Benim aklıma da aynı soru takılmıştı."
+        },
+        {
+          "name": "nisa.defter",
+          "text": "Bu ayrımı unutmayayım."
+        },
+        {
+          "name": "berk.b",
+          "text": "Ben bunu tam ters biliyormuşum 😅"
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
+        },
+        {
+          "name": "birseda",
+          "text": "İkinci kez okuyunca daha anlaşılır geldi."
+        },
+        {
+          "name": "gokce",
+          "text": "Yorumlara bakmadan önce kendim tahmin ettim."
+        },
+        {
+          "name": "elif.k",
+          "text": "Detay sevenlere güzel konu."
+        }
+      ]
+    },
+    {
+      "id": "kesif-uyari-renk",
+      "topic": "Ekolojik ilişkiler",
+      "layout": "poster",
+      "category": "Doğa",
+      "title": "Parlak renk bazen “uzak dur” demek.",
+      "subtitle": "Doğada dikkat çekmek işe yarayabilir.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/The_Lone_Pollinator.jpg/960px-The_Lone_Pollinator.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Lone_Pollinator.jpg",
+        "credit": "Tanner Smida",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "alt": "Çiçek üzerinde tozlayıcı arı · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Görünür uyarı",
+          "text": "Bazı hayvanların belirgin renkleri, zehir veya kötü tat gibi savunmalarla birlikte bulunur. Avcı bu görünüşten kaçınmayı öğrenebilir."
+        },
+        {
+          "title": "Tek başına kanıt değil",
+          "text": "Her parlak hayvan zehirli değildir. Rengi görünce güvenli veya tehlikeli olduğuna kesin hüküm vermek doğru olmaz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 45-6",
+          "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "keremca",
+          "text": "Küçük şeylerde ne çok ayrıntı var."
+        },
+        {
+          "name": "onurdefter",
+          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
+        },
+        {
+          "name": "ahmet.a",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        }
+      ]
+    },
+    {
+      "id": "kesif-bates-taklit",
+      "topic": "Ekolojik ilişkiler",
+      "layout": "comparison",
+      "category": "Doğa",
+      "title": "Savunması yok, görüntüsü ikna edici.",
+      "subtitle": "Doğada benzemek de koruyabilir.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/The_Lone_Pollinator.jpg/960px-The_Lone_Pollinator.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Lone_Pollinator.jpg",
+        "credit": "Tanner Smida",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "alt": "Çiçek üzerinde tozlayıcı arı · Konuya eşlik eden görsel."
+      },
+      "format": "story",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Tehlikeliyi taklit etmek",
+          "text": "Batesçi taklitte zararsız bir tür, savunması güçlü veya yenmesi sakıncalı bir türün uyarıcı görünüşüne benzer."
+        },
+        {
+          "title": "Avcı açısından",
+          "text": "Avcı bu görünüşten kaçınıyorsa taklitçi de korunabilir. Bu, hayvanın bilinçli kostüm seçmesi değil; evrimsel bir benzerliktir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 45-6",
+          "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "aliokuyor",
+          "text": "Bu ayrımı unutmayayım."
+        }
+      ]
+    },
+    {
+      "id": "kesif-kilittasi",
+      "topic": "Ekolojik ilişkiler",
+      "layout": "network",
+      "category": "Doğa",
+      "title": "Sayıları az, etkileri büyük olabilir.",
+      "subtitle": "Ekosistemin etkili oyuncuları.",
+      "account": "Dışarı Çık",
+      "handle": "disaricik",
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/The_Lone_Pollinator.jpg/960px-The_Lone_Pollinator.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Lone_Pollinator.jpg",
+        "credit": "Tanner Smida",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "alt": "Çiçek üzerinde tozlayıcı arı · Konuya eşlik eden görsel."
+      },
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#ad8355",
+      "motion": "network",
+      "slides": [
+        {
+          "title": "Kilit taşı tür",
+          "text": "Bazı türler, bolluklarına kıyasla topluluğun yapısı üzerinde çok büyük etki yapar. Bunlara kilit taşı türler denir."
+        },
+        {
+          "title": "Eksilince zincir değişir",
+          "text": "Böyle bir türün kaybı, başka türlerin artmasına veya azalmasına yol açabilir. Ekolojik önem yalnız birey sayısıyla ölçülmez."
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStax · Biology 2E · 45-6",
+          "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology"
+        }
+      ],
+      "updatedAt": "2026-09-22",
+      "comments": [
+        {
+          "name": "duru.not",
+          "text": "Bunu kaydettim, sonra bir daha bakacağım."
+        },
+        {
+          "name": "ecebirnot",
+          "text": "Bir çay molasına sığdı, iyi geldi."
+        }
+      ]
+    }
+  ]
+}
