@@ -1,0 +1,1301 @@
+{
+  "version": 1,
+  "title": "Kısa keşifler: bilim ve gündelik merak",
+  "posts": [
+    {
+      "id": "kisa-video-plastik-kirliligi",
+      "category": "Doğa",
+      "title": "Plastiği atınca hikâyesi bitmiyor",
+      "subtitle": "Bir ambalajı birkaç dakika kullanıp atıyoruz. Malzemenin doğadaki yolculuğuysa çok daha uzun sürebiliyor. Bu kısa anlatım, plastik kirliliğinin neden yalnızca görüntü meselesi olmadığını ele alıyor.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Çevre",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Dxii6oarn1o/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC03_c7Qij5rD1H_1iG50uaVpZ2zA&usqp=CCk",
+        "alt": "Plastiği atınca hikâyesi bitmiyor — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=Dxii6oarn1o",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bir ambalajı birkaç dakika kullanıp atıyoruz. Malzemenin doğadaki yolculuğuysa çok daha uzun sürebiliyor. Bu kısa anlatım, plastik kirliliğinin neden yalnızca görüntü meselesi olmadığını ele alıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Dxii6oarn1o",
+        "title": "21. Yüzyılın Çevre Sorunu: Plastik Kirliliği",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/Dxii6oarn1o/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC03_c7Qij5rD1H_1iG50uaVpZ2zA&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · 21. Yüzyılın Çevre Sorunu: Plastik Kirliliği",
+          "url": "https://www.youtube.com/watch?v=Dxii6oarn1o"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-kuvars-saat",
+      "category": "Teknoloji",
+      "title": "Kol saatinin içindeki küçük kristal",
+      "subtitle": "Kuvars saatler, bir kristalin düzenli titreşimlerini zamanı ölçmek için kullanır. Prof. Dr. Eren Kalay'la bu mekanizmaya mikroskop üzerinden bakıyoruz. Saniyeleri sayan şeyin boyutu şaşırtabilir.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Gündelik mekanizmalar",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/WsjmBfkreTc/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBhhiQ67CgslCTx2PjPlsGa9tGWmw&usqp=CCk",
+        "alt": "Kol saatinin içindeki küçük kristal — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=WsjmBfkreTc",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Kuvars saatler, bir kristalin düzenli titreşimlerini zamanı ölçmek için kullanır. Prof. Dr. Eren Kalay'la bu mekanizmaya mikroskop üzerinden bakıyoruz. Saniyeleri sayan şeyin boyutu şaşırtabilir."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "WsjmBfkreTc",
+        "title": "Kuvars saatler nasıl çalışır?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/WsjmBfkreTc/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBhhiQ67CgslCTx2PjPlsGa9tGWmw&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Kuvars saatler nasıl çalışır?",
+          "url": "https://www.youtube.com/watch?v=WsjmBfkreTc"
+        }
+      ],
+      "comments": [
+        {
+          "name": "ayca",
+          "text": "Saatin içine bu kadar yakından ilk kez baktım."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-kedinin-miriltisi",
+      "category": "Doğa",
+      "title": "Mırlayan kedi her zaman mutlu mu?",
+      "subtitle": "Kedi mırlayınca genellikle keyfinin yerinde olduğunu düşünürüz. Oysa aynı sesi farklı durumlarda da çıkarabilir. Onu anlamaya çalışırken yalnızca sese değil, davranışının bütününe bakmak gerekiyor.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Hayvan davranışları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/YTOaZvXKMbA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA2afmsF3vtBOzXEpHzjo9MTzuOcQ&usqp=CCk",
+        "alt": "Mırlayan kedi her zaman mutlu mu? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=YTOaZvXKMbA",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Kedi mırlayınca genellikle keyfinin yerinde olduğunu düşünürüz. Oysa aynı sesi farklı durumlarda da çıkarabilir. Onu anlamaya çalışırken yalnızca sese değil, davranışının bütününe bakmak gerekiyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "YTOaZvXKMbA",
+        "title": "Kediler Neden Mırlar?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/YTOaZvXKMbA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA2afmsF3vtBOzXEpHzjo9MTzuOcQ&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Kediler Neden Mırlar?",
+          "url": "https://www.youtube.com/watch?v=YTOaZvXKMbA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-theia-kalintilari",
+      "category": "Uzay",
+      "title": "Eski bir çarpışmanın izleri hâlâ içeride olabilir mi?",
+      "subtitle": "Ay'ın oluşumunu açıklayan modellerden biri, genç Dünya'ya büyük bir cismin çarpması. Videodaki araştırma, bu cismin kalıntılarının Dünya'nın derinlerinde bulunabileceği fikrini ele alıyor. Bu, araştırılan bir hipotez.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Gezegenlerin oluşumu",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/oBeV5nyhZMw/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBL06FWtYXrm0_DZEjUXGWy5QYmUA&usqp=CCk",
+        "alt": "Eski bir çarpışmanın izleri hâlâ içeride olabilir mi? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=oBeV5nyhZMw",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Ay'ın oluşumunu açıklayan modellerden biri, genç Dünya'ya büyük bir cismin çarpması. Videodaki araştırma, bu cismin kalıntılarının Dünya'nın derinlerinde bulunabileceği fikrini ele alıyor. Bu, araştırılan bir hipotez."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "oBeV5nyhZMw",
+        "title": "⁉️Dünya’nın Derinlerinde Bir Başka Gezegenin Kalıntıları mı Var?😮",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/oBeV5nyhZMw/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBL06FWtYXrm0_DZEjUXGWy5QYmUA&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · ⁉️Dünya’nın Derinlerinde Bir Başka Gezegenin Kalıntıları mı Var?😮",
+          "url": "https://www.youtube.com/watch?v=oBeV5nyhZMw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-kalp-ve-duygular",
+      "category": "Bilim",
+      "title": "Duygular beyindeyse kalp neden hızlanıyor?",
+      "subtitle": "Heyecanlandığımızda kalbimizin atışını hissederiz. Bu durum, duyguların kalpte üretildiği anlamına gelmez. Beyin ve beden arasındaki iletişime, çok tanıdık bir his üzerinden bakıyoruz.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "İnsan bedeni",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/TPRNdPBtnAc/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA0CoBUXoam77zMYbHzULjLDajBKw&usqp=CCk",
+        "alt": "Duygular beyindeyse kalp neden hızlanıyor? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=TPRNdPBtnAc",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Heyecanlandığımızda kalbimizin atışını hissederiz. Bu durum, duyguların kalpte üretildiği anlamına gelmez. Beyin ve beden arasındaki iletişime, çok tanıdık bir his üzerinden bakıyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "TPRNdPBtnAc",
+        "title": "‼️🫀Kalbin Duygularla Bir İlişkisi Var mı?🤔",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/TPRNdPBtnAc/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA0CoBUXoam77zMYbHzULjLDajBKw&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · ‼️🫀Kalbin Duygularla Bir İlişkisi Var mı?🤔",
+          "url": "https://www.youtube.com/watch?v=TPRNdPBtnAc"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-buzdolabinin-kapagi",
+      "category": "Gündelik",
+      "title": "Dolabın kapağı açık kalsa mutfak serinler mi?",
+      "subtitle": "Buzdolabı içerideki ısıyı alıp dışarıya taşır; bunu yaparken elektrik de harcar. Yani soğuk bir bölmesi olması, bütün odayı soğutabileceği anlamına gelmez. Videodaki soru tam da bu ayrımı kurcalıyor.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Isı ve enerji",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/LfjLwSj9MoU/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLD-kE1WfxIWjZ7Ftm_0CV75cYq2uQ&usqp=CCk",
+        "alt": "Dolabın kapağı açık kalsa mutfak serinler mi? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=LfjLwSj9MoU",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Buzdolabı içerideki ısıyı alıp dışarıya taşır; bunu yaparken elektrik de harcar. Yani soğuk bir bölmesi olması, bütün odayı soğutabileceği anlamına gelmez. Videodaki soru tam da bu ayrımı kurcalıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "LfjLwSj9MoU",
+        "title": "Buzdolabını Açık Bırakmak Mutfağınızı Soğutur mu?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 96,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/LfjLwSj9MoU/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLD-kE1WfxIWjZ7Ftm_0CV75cYq2uQ&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Buzdolabını Açık Bırakmak Mutfağınızı Soğutur mu?",
+          "url": "https://www.youtube.com/watch?v=LfjLwSj9MoU"
+        }
+      ],
+      "comments": [
+        {
+          "name": "berke",
+          "text": "Çocukken kapağı açıp önünde bekliyordum :)"
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-komodo-ejderi",
+      "category": "Doğa",
+      "title": "Komodo ejderi nasıl bir avcı?",
+      "subtitle": "Adında ejder geçiyor ama karşımızdaki hayvan büyük bir kertenkele. Bu kısa anlatım, Komodo ejderinin avlanmasını ve ısırığının etkisini ele alıyor. Onu güçlü yapan özellikler neler?",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Sürüngenler",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/EHb1cNu1-w8/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCDQgZKq6B0vcX8aGfxZ5ONI75lsw&usqp=CCk",
+        "alt": "Komodo ejderi nasıl bir avcı? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=EHb1cNu1-w8",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Adında ejder geçiyor ama karşımızdaki hayvan büyük bir kertenkele. Bu kısa anlatım, Komodo ejderinin avlanmasını ve ısırığının etkisini ele alıyor. Onu güçlü yapan özellikler neler?"
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "EHb1cNu1-w8",
+        "title": "Komodo Ejderi Isırığından Kurtulabilir misiniz?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 113,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/EHb1cNu1-w8/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCDQgZKq6B0vcX8aGfxZ5ONI75lsw&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Komodo Ejderi Isırığından Kurtulabilir misiniz?",
+          "url": "https://www.youtube.com/watch?v=EHb1cNu1-w8"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-gunesin-isigi",
+      "category": "Uzay",
+      "title": "Güneş'i şu anki hâliyle mi görüyoruz?",
+      "subtitle": "Işık çok hızlıdır ama sonsuz hızlı değildir. Güneş'ten çıkan ışığın Dünya'ya ulaşması yaklaşık sekiz dakika sürer. Sokakta sorulan bu soruya sen hangi yanıtı verirdin?",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Işığın yolculuğu",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/C5zk7Iuk6bo/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCett2ReHXk6npvhCZ6R5f2LgQniQ&usqp=CCk",
+        "alt": "Güneş'i şu anki hâliyle mi görüyoruz? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=C5zk7Iuk6bo",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Işık çok hızlıdır ama sonsuz hızlı değildir. Güneş'ten çıkan ışığın Dünya'ya ulaşması yaklaşık sekiz dakika sürer. Sokakta sorulan bu soruya sen hangi yanıtı verirdin?"
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "C5zk7Iuk6bo",
+        "title": "Güneş Birdenbire Yok Olsa, Fark Etmemiz Ne Kadar Sürerdi?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 88,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/C5zk7Iuk6bo/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCett2ReHXk6npvhCZ6R5f2LgQniQ&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Güneş Birdenbire Yok Olsa, Fark Etmemiz Ne Kadar Sürerdi?",
+          "url": "https://www.youtube.com/watch?v=C5zk7Iuk6bo"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-gunesin-rengi",
+      "category": "Uzay",
+      "title": "Güneş sarı mı, beyaz mı?",
+      "subtitle": "Çocukken Güneş'i sarıya boyarız; gün batımında ise turuncu ya da kırmızı görürüz. Yıldızın yaydığı ışıkla atmosferden geçip gözümüze gelen ışık aynı konu değil. Bu farkı birlikte açalım.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Yıldızlar",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/krEALk4yvQU/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLByqSaI6MUvhIToAEY7XZjMcPq-yA&usqp=CCk",
+        "alt": "Güneş sarı mı, beyaz mı? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=krEALk4yvQU",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Çocukken Güneş'i sarıya boyarız; gün batımında ise turuncu ya da kırmızı görürüz. Yıldızın yaydığı ışıkla atmosferden geçip gözümüze gelen ışık aynı konu değil. Bu farkı birlikte açalım."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "krEALk4yvQU",
+        "title": "Güneş'in Gerçek Rengi Ne?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 107,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/krEALk4yvQU/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLByqSaI6MUvhIToAEY7XZjMcPq-yA&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Güneş'in Gerçek Rengi Ne?",
+          "url": "https://www.youtube.com/watch?v=krEALk4yvQU"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-bilgisayar-acik-kalsin-mi",
+      "category": "Teknoloji",
+      "title": "Bilgisayarı hiç kapatmasak ne olur?",
+      "subtitle": "Açık kalan bir bilgisayar elektrik tüketir ve çalışırken ısı üretir. Ama masaüstü bilgisayarla dizüstünün, boşta beklemekle ağır iş yapmanın koşulları aynı değildir. Video bu gündelik soruya bakıyor.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Bilgisayar kullanımı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/0K4_LFdFxuE/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLD6Y2n8SEycGdQLp79gzd3ehLIkJQ&usqp=CCk",
+        "alt": "Bilgisayarı hiç kapatmasak ne olur? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=0K4_LFdFxuE",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Açık kalan bir bilgisayar elektrik tüketir ve çalışırken ısı üretir. Ama masaüstü bilgisayarla dizüstünün, boşta beklemekle ağır iş yapmanın koşulları aynı değildir. Video bu gündelik soruya bakıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "0K4_LFdFxuE",
+        "title": "Bilgisayarınızı 7/24 Açık Bırakmak Zararlı mı?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 93,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/0K4_LFdFxuE/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLD6Y2n8SEycGdQLp79gzd3ehLIkJQ&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Bilgisayarınızı 7/24 Açık Bırakmak Zararlı mı?",
+          "url": "https://www.youtube.com/watch?v=0K4_LFdFxuE"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-karat-ve-ayar",
+      "category": "Gündelik",
+      "title": "Karat ile ayar aynı şey değil",
+      "subtitle": "Elmasın karatı, taşın kütlesini söyler: 1 karat 0,2 gramdır. Altında kullanılan ayar ise alaşımın ne kadarının altın olduğunu anlatır. Benzer duyulan iki kelime, iki ayrı ölçü.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Ölçü birimleri",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.2,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/o8H4J58jeNw/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLA0g3y6cQgkfkP4KlkF7R8Oa0IM9A&usqp=CCk",
+        "alt": "Karat ile ayar aynı şey değil — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=o8H4J58jeNw",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Elmasın karatı, taşın kütlesini söyler: 1 karat 0,2 gramdır. Altında kullanılan ayar ise alaşımın ne kadarının altın olduğunu anlatır. Benzer duyulan iki kelime, iki ayrı ölçü."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "o8H4J58jeNw",
+        "title": "Değerli Taşların Kütle Birimi Nereden Geliyor?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 73,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/o8H4J58jeNw/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLA0g3y6cQgkfkP4KlkF7R8Oa0IM9A&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Değerli Taşların Kütle Birimi Nereden Geliyor?",
+          "url": "https://www.youtube.com/watch?v=o8H4J58jeNw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-icat-edilseydi",
+      "category": "Teknoloji",
+      "title": "Sen bir şey icat etsen neyi çözerdin?",
+      "subtitle": "Bu kez ders anlatımı yerine küçük bir sokak sorusu var. İnsanların icat edilmesini istediği şeyleri dinliyoruz. Bir tasarım fikri bulmak bazen günlük hayatta canımızı sıkan bir ayrıntıyı fark etmekle başlıyor.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Tasarım düşüncesi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/fvJTPJf2ibQ/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCeqWT4U3fVcXIroyvcpI8TJxHaEg&usqp=CCk",
+        "alt": "Sen bir şey icat etsen neyi çözerdin? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=fvJTPJf2ibQ",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bu kez ders anlatımı yerine küçük bir sokak sorusu var. İnsanların icat edilmesini istediği şeyleri dinliyoruz. Bir tasarım fikri bulmak bazen günlük hayatta canımızı sıkan bir ayrıntıyı fark etmekle başlıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "fvJTPJf2ibQ",
+        "title": "Keşke İcat Edilseydi Dediğin O Şey Nedir?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 94,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/fvJTPJf2ibQ/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCeqWT4U3fVcXIroyvcpI8TJxHaEg&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Keşke İcat Edilseydi Dediğin O Şey Nedir?",
+          "url": "https://www.youtube.com/watch?v=fvJTPJf2ibQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-beynin-yuzde-onu",
+      "category": "Bilim",
+      "title": "Beynin yüzde 90'ı boşta mı duruyor?",
+      "subtitle": "Beynimizin yalnızca yüzde 10'unu kullandığımız fikri çok yaygın. Oysa farklı işler sırasında farklı bölgeler devreye girer; bütün bölgelerin aynı anda en yüksek düzeyde çalışması gerekmez. Videoda bu yanılgıya bakılıyor.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Sinir sistemi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/CM8JOT7vajo/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBILUbqk6ia6JBE7TCILdJXyPAeHw&usqp=CCk",
+        "alt": "Beynin yüzde 90'ı boşta mı duruyor? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=CM8JOT7vajo",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Beynimizin yalnızca yüzde 10'unu kullandığımız fikri çok yaygın. Oysa farklı işler sırasında farklı bölgeler devreye girer; bütün bölgelerin aynı anda en yüksek düzeyde çalışması gerekmez. Videoda bu yanılgıya bakılıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "CM8JOT7vajo",
+        "title": "Beynimizin Yüzde Kaçını Kullanıyoruzdur?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 78,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/CM8JOT7vajo/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBILUbqk6ia6JBE7TCILdJXyPAeHw&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Beynimizin Yüzde Kaçını Kullanıyoruzdur?",
+          "url": "https://www.youtube.com/watch?v=CM8JOT7vajo"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-kutup-ayisinin-yeri",
+      "category": "Coğrafya",
+      "title": "Kutup ayısı hangi kutupta yaşar?",
+      "subtitle": "Kuzey Kutbu çevresindeki bölgeye Arktik, Güney Kutbu'ndaki kıtaya Antarktika diyoruz. İkisi de soğuk ama canlıları aynı değil. Kutup ayısının yerini haritada bulabilecek misin?",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Kutup coğrafyası",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/1t_bJ1GNuSo/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBFnxt3iYxdYUx5rQTgpHTdyizTfg&usqp=CCk",
+        "alt": "Kutup ayısı hangi kutupta yaşar? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=1t_bJ1GNuSo",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Kuzey Kutbu çevresindeki bölgeye Arktik, Güney Kutbu'ndaki kıtaya Antarktika diyoruz. İkisi de soğuk ama canlıları aynı değil. Kutup ayısının yerini haritada bulabilecek misin?"
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "1t_bJ1GNuSo",
+        "title": "Kutup Ayıları Hangi Kutupta Yaşıyorlar?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 61,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/1t_bJ1GNuSo/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBFnxt3iYxdYUx5rQTgpHTdyizTfg&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Kutup Ayıları Hangi Kutupta Yaşıyorlar?",
+          "url": "https://www.youtube.com/watch?v=1t_bJ1GNuSo"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-et-isareti",
+      "category": "Teknoloji",
+      "title": "E-postadaki kıvrımlı a nereden geldi?",
+      "subtitle": "E-posta adresindeki @ işareti, kullanıcı adını sunucu adından ayırır. Bilgisayar klavyesinde zaten bulunan bu sembol nasıl bu kadar yaygınlaştı? Her gün yazdığımız bir işaretin geçmişine bakalım.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "İnternet tarihi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/JKMh_J2JhCg/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLByR3FkxJPWJgV2hp5nKOqUNEm0oA&usqp=CCk",
+        "alt": "E-postadaki kıvrımlı a nereden geldi? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=JKMh_J2JhCg",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "E-posta adresindeki @ işareti, kullanıcı adını sunucu adından ayırır. Bilgisayar klavyesinde zaten bulunan bu sembol nasıl bu kadar yaygınlaştı? Her gün yazdığımız bir işaretin geçmişine bakalım."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "JKMh_J2JhCg",
+        "title": "Emaillerimizdeki \"@\" İşareti Nereden Geliyor?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 104,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/JKMh_J2JhCg/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLByR3FkxJPWJgV2hp5nKOqUNEm0oA&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Emaillerimizdeki \"@\" İşareti Nereden Geliyor?",
+          "url": "https://www.youtube.com/watch?v=JKMh_J2JhCg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-hayvan-kuyruklari",
+      "category": "Doğa",
+      "title": "Kuyruk yalnızca süs değil",
+      "subtitle": "Bir hayvan kuyruğunu denge kurmak, iletişim kurmak ya da hareket etmek için kullanabilir. Peki bütün hayvanlarda aynı yapı var mı? Video, tanıdık örneklerden başlayarak bu soruyu ele alıyor.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Hayvan anatomisi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/2NLU0gBQDxA/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBZVlYZshRziGNdjDVCZYYXD5YYvQ&usqp=CCk",
+        "alt": "Kuyruk yalnızca süs değil — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=2NLU0gBQDxA",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bir hayvan kuyruğunu denge kurmak, iletişim kurmak ya da hareket etmek için kullanabilir. Peki bütün hayvanlarda aynı yapı var mı? Video, tanıdık örneklerden başlayarak bu soruyu ele alıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "2NLU0gBQDxA",
+        "title": "Bütün Hayvanların Kuyruğu Var mı?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 113,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/2NLU0gBQDxA/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBZVlYZshRziGNdjDVCZYYXD5YYvQ&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Bütün Hayvanların Kuyruğu Var mı?",
+          "url": "https://www.youtube.com/watch?v=2NLU0gBQDxA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-pervane-ve-senkron",
+      "category": "Tarih",
+      "title": "Pervane kendi uçağının ateşinden nasıl korunuyordu?",
+      "subtitle": "Eski savaş uçaklarında silahla pervane aynı doğrultuda bulunabiliyordu. Buradaki sorun, hareketlerin zamanlamasını eşleştirmekti. Video, bir tarih sorusunu mekanik üzerinden açıklıyor.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Havacılık tarihi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/NVzXm6v5_jU/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCn78poOBpcwt47eD0nWJ6Pg4iaPw&usqp=CCk",
+        "alt": "Pervane kendi uçağının ateşinden nasıl korunuyordu? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=NVzXm6v5_jU",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Eski savaş uçaklarında silahla pervane aynı doğrultuda bulunabiliyordu. Buradaki sorun, hareketlerin zamanlamasını eşleştirmekti. Video, bir tarih sorusunu mekanik üzerinden açıklıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "NVzXm6v5_jU",
+        "title": "Pervaneli Uçaklar, Pervanelerini Vurmadan Nasıl Ateş Ediyordu?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 95,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/NVzXm6v5_jU/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCn78poOBpcwt47eD0nWJ6Pg4iaPw&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Pervaneli Uçaklar, Pervanelerini Vurmadan Nasıl Ateş Ediyordu?",
+          "url": "https://www.youtube.com/watch?v=NVzXm6v5_jU"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-ay-mesafesi-olcek",
+      "category": "Uzay",
+      "title": "Dünya elma olsa Ay'ı nereye koyardın?",
+      "subtitle": "Kitap resimlerinde Dünya ile Ay genellikle yan yana çizilir. Gerçek uzaklığı aynı ölçeğe taşıyınca aradaki boşluk büyür. Elma ve cevizle yapılan bu gösteride önce kendi tahminini yap.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Ölçek ve uzaklık",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Af78lAxILM4/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBn-xBXZ06rPuaLfBPDfa_ojZUlng&usqp=CCk",
+        "alt": "Dünya elma olsa Ay'ı nereye koyardın? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=Af78lAxILM4",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Kitap resimlerinde Dünya ile Ay genellikle yan yana çizilir. Gerçek uzaklığı aynı ölçeğe taşıyınca aradaki boşluk büyür. Elma ve cevizle yapılan bu gösteride önce kendi tahminini yap."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Af78lAxILM4",
+        "title": "Ay ile Dünya Arasındaki Mesafeyi Biliyor musunuz? :)",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 100,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/Af78lAxILM4/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBn-xBXZ06rPuaLfBPDfa_ojZUlng&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Ay ile Dünya Arasındaki Mesafeyi Biliyor musunuz? :)",
+          "url": "https://www.youtube.com/watch?v=Af78lAxILM4"
+        }
+      ],
+      "comments": [
+        {
+          "name": "duru",
+          "text": "Mesafeyi çok daha kısa tahmin etmiştim."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-aydaki-bayrak",
+      "category": "Uzay",
+      "title": "Ay'da rüzgâr yoksa bayrak neden hareket ediyor?",
+      "subtitle": "Dünya'da bir bayrağı sallayan şey çoğunlukla rüzgârdır. Ay'daki görüntüyü açıklarken aynı alışkanlıkla düşünmek yanıltabilir. Bayrağa yapılan müdahaleye ve kumaşın hareketine dikkatle bakıyoruz.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Ay görevleri",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.1,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/stGmWaVqDs0/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCJSic7AqWE8YJGcUXmF__Ap15ueA&usqp=CCk",
+        "alt": "Ay'da rüzgâr yoksa bayrak neden hareket ediyor? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=stGmWaVqDs0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Dünya'da bir bayrağı sallayan şey çoğunlukla rüzgârdır. Ay'daki görüntüyü açıklarken aynı alışkanlıkla düşünmek yanıltabilir. Bayrağa yapılan müdahaleye ve kumaşın hareketine dikkatle bakıyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "stGmWaVqDs0",
+        "title": "Ay'a Dikilen Bayraklar Neden Dalgalanıyor?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 66,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/stGmWaVqDs0/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCJSic7AqWE8YJGcUXmF__Ap15ueA&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Ay'a Dikilen Bayraklar Neden Dalgalanıyor?",
+          "url": "https://www.youtube.com/watch?v=stGmWaVqDs0"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-ucagin-hidrolik-sesi",
+      "category": "Teknoloji",
+      "title": "Uçakta duyulan o tuhaf ses",
+      "subtitle": "Bazı yolcu uçaklarında yerde beklerken havlamaya benzeyen bir ses duyulabilir. Video, bu sesi hidrolik sistemdeki güç aktarımıyla ilişkilendirerek açıklıyor. Her alışılmadık ses arıza anlamına gelmiyor.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Havacılık",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/tGpj70QvjRM/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCTRk9MKLmDjqQCs4lWF-Yr8CvOfg&usqp=CCk",
+        "alt": "Uçakta duyulan o tuhaf ses — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=tGpj70QvjRM",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bazı yolcu uçaklarında yerde beklerken havlamaya benzeyen bir ses duyulabilir. Video, bu sesi hidrolik sistemdeki güç aktarımıyla ilişkilendirerek açıklıyor. Her alışılmadık ses arıza anlamına gelmiyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "tGpj70QvjRM",
+        "title": "Bindiğiniz Uçak Bozuk mu?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 76,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/tGpj70QvjRM/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCTRk9MKLmDjqQCs4lWF-Yr8CvOfg&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Bindiğiniz Uçak Bozuk mu?",
+          "url": "https://www.youtube.com/watch?v=tGpj70QvjRM"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    }
+  ]
+}

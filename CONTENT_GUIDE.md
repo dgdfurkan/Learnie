@@ -82,11 +82,15 @@ Koleksiyonlar `UserState.collections` içinde `{id,name,postIds,createdAt}` olar
 
 ## Kısa video seçkisi · 23 Eylül 2026
 
-`short-videos-001/002/003.json`: 60 yeni YouTube videosu, her biri 60–118 saniye; toplam arşiv 399 gönderi. Kaynaklar TÜBİTAK Bilim Genç, TRT Belgesel, Evrim Ağacı ve Barış Özcan. Videolar kopyalanmaz; yayıncının gömülü oynatıcısı kullanılır. Kapak görselleri de dış URL olarak kalır.
+`short-videos-001/002/003.json`: ilk 60 YouTube videosu, her biri 60–118 saniye. `short-videos-004/005/006/007/008.json`: önceki kaynaklarla çakışmayan 100 ek video, her biri 60–119 saniye. Kısa seçki 160 videoya, toplam arşiv 499 gönderiye ulaştı. Kaynaklar TÜBİTAK Bilim Genç, TRT Belgesel, Evrim Ağacı, Barış Özcan, TRT 2 ve TRT Arşiv. Bilim ve teknoloji yanında resim, edebiyat, müzik, mimarlık, kent hafızası ve yaşam hikâyeleri de bulunur. Videolar kopyalanmaz; yayıncının gömülü oynatıcısı kullanılır. Kapak görselleri de dış URL olarak kalır.
 
 `video` alanında `publisher`, `duration`, `orientation`, `poster`, `audioLanguage`, `captionLanguage`, `captionKind` ve `verifiedAt` saklanır. `captionKind: automatic`, gerçekten mevcut Türkçe otomatik altyazı kanalını belirtir; YouTube'un sonradan otomatik çeviri sunabilmesi doğrulama sayılmaz. Seçkideki tüm videolarda `tr` altyazı kanalı görüldü. Oynatıcı Türkçe arayüz ve altyazı ister; çok sesli videolarda kullanıcı YouTube ayarlarından Türkçe ses kanalını seçebilir.
 
-Kontrol kaydı: `docs/video-audit-2026-09-23.json`. Süre, Türkiye erişimi, gömme izni ve dil kanalları YouTube'un herkese açık oynatıcı verilerinden kontrol edildi. Bu, her cihazda görüntü/ses aktarımının test edildiği veya yayıncının videoyu gelecekte kaldırmayacağı anlamına gelmez. Yayıncı bağlantısı her zaman oynatıcının altında kalır. Yeni paketlerde aynı kontrolleri tekrarlayın; altyazı veya Türkçe ses yoksa içerik eklemeyin. El yapımı Türkçe altyazı bu sürümde kullanılmıyor.
+Kontrol kayıtları: `docs/video-audit-2026-09-23.json` ve `docs/video-audit-2026-09-23-batch-2.json`. Süre, Türkiye erişimi, gömme izni ve dil kanalları YouTube'un herkese açık oynatıcı verilerinden kontrol edildi. Bu, her cihazda görüntü/ses aktarımının test edildiği veya yayıncının videoyu gelecekte kaldırmayacağı anlamına gelmez. Yayıncı bağlantısı her zaman oynatıcının altında kalır. Yeni paketlerde aynı kontrolleri tekrarlayın; altyazı veya Türkçe ses yoksa içerik eklemeyin. El yapımı Türkçe altyazı bu sürümde kullanılmıyor. Eski olay kayıtlarının açıklamalarında geçmiş tarih belirtilir; kişisel tanıklık ve görüşler bu bağlamda sunulur.
+
+Varsayılan video görünümü sade denetimleri kullanır: oynat/duraklat, ilerleme, ses ve tam ekran düğmeleri YouTube alanının altında yer alır. `Standart denetimler` düğmesi doğrudan YouTube iframe'ine geçer; bu seçenek IFrame API yüklenemediğinde de kullanılabilir. `videoControls` tercihi yerelde saklanır ve yedeklere dahildir. Oynatıcı alanı kırpılmaz, üzerine kapatıcı öğe bindirilmez. YouTube logosu, video başlığı, reklamları ve son ekranı uygulama tarafından bütünüyle kaldırılamaz; eski `modestbranding` parametresi kullanılmaz. Türkçe altyazı, iki görünümde de `cc_lang_pref=tr` ve `cc_load_policy=1` ile istenir. Kaydırılıp ekran dışında kalan veya sekmesi gizlenen video kapatılır.
+
+Oynatıcı başvuruları: [YouTube parametreleri](https://developers.google.com/youtube/player_parameters), [IFrame API](https://developers.google.com/youtube/iframe_api_reference), [asgari işlev gereklilikleri](https://developers.google.com/youtube/terms/required-minimum-functionality).
 
 ## Marka
 

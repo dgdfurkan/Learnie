@@ -1,0 +1,1301 @@
+{
+  "version": 1,
+  "title": "Kısa keşifler: sanat ve insan hikâyeleri",
+  "posts": [
+    {
+      "id": "kisa-video-hayvanla-vakit-gecirmek",
+      "category": "Gündelik",
+      "title": "Bir hayvanla vakit geçirince ne değişiyor?",
+      "subtitle": "Bir köpekle yürümek ya da bir kedinin yanında oturmak, günün ritmini değiştirebilir. Video, insanlarla hayvanların ilişkisine ve bunun nasıl araştırıldığına bakıyor. Herkesin deneyimini aynı saymadan düşünelim.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "İnsan ve hayvan",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/WILodGnKoxk/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBHrNwmgnUsoCPoGi96rJN6KJq2zw&usqp=CCk",
+        "alt": "Bir hayvanla vakit geçirince ne değişiyor? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=WILodGnKoxk",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bir köpekle yürümek ya da bir kedinin yanında oturmak, günün ritmini değiştirebilir. Video, insanlarla hayvanların ilişkisine ve bunun nasıl araştırıldığına bakıyor. Herkesin deneyimini aynı saymadan düşünelim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "WILodGnKoxk",
+        "title": "Hayvanlarla Vakit Geçirmek İnsanı Daha Mutlu Yapar mı?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 97,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/WILodGnKoxk/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBHrNwmgnUsoCPoGi96rJN6KJq2zw&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Hayvanlarla Vakit Geçirmek İnsanı Daha Mutlu Yapar mı?",
+          "url": "https://www.youtube.com/watch?v=WILodGnKoxk"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-karadul-davranisi",
+      "category": "Doğa",
+      "title": "Karadulun kötü şöhreti nereden geliyor?",
+      "subtitle": "Bazı örümceklerde dişi, çiftleşmenin çevresindeki süreçte erkeği yiyebilir. Buna cinsel yamyamlık denir. Video bu davranışı ele alıyor; bütün örümcekler için değişmez bir kuralmış gibi düşünmemek gerekiyor.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Örümcekler",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/ro808xrh-t0/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBdK3yyUsRH5LOGkA0RXneGbBeHLg&usqp=CCk",
+        "alt": "Karadulun kötü şöhreti nereden geliyor? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=ro808xrh-t0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bazı örümceklerde dişi, çiftleşmenin çevresindeki süreçte erkeği yiyebilir. Buna cinsel yamyamlık denir. Video bu davranışı ele alıyor; bütün örümcekler için değişmez bir kuralmış gibi düşünmemek gerekiyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "ro808xrh-t0",
+        "title": "Dişi Karadul Örümcekleri Seksten Sonra Neden Erkekleri Yiyor?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/ro808xrh-t0/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBdK3yyUsRH5LOGkA0RXneGbBeHLg&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Dişi Karadul Örümcekleri Seksten Sonra Neden Erkekleri Yiyor?",
+          "url": "https://www.youtube.com/watch?v=ro808xrh-t0"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-delikli-serit",
+      "category": "Teknoloji",
+      "title": "Bilgi bir zamanlar deliklerle taşınıyordu",
+      "subtitle": "Delikli şerit, bilgisayara veri vermenin eski yollarından biri. Şeritteki deliklerin konumu bir kod düzenine karşılık gelir. Bugün dosya dediğimiz şeyi, elle tutulabilen bir malzeme üzerinde düşünmek ilginç.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Bilgisayar tarihi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Zx8fMk92lAQ/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLDVkAfC5N-iKib71CkPLgPrZ66_xw&usqp=CCk",
+        "alt": "Bilgi bir zamanlar deliklerle taşınıyordu — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=Zx8fMk92lAQ",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Delikli şerit, bilgisayara veri vermenin eski yollarından biri. Şeritteki deliklerin konumu bir kod düzenine karşılık gelir. Bugün dosya dediğimiz şeyi, elle tutulabilen bir malzeme üzerinde düşünmek ilginç."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Zx8fMk92lAQ",
+        "title": "Bilgisayar Devrimini Yaratan Şerit!",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/Zx8fMk92lAQ/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLDVkAfC5N-iKib71CkPLgPrZ66_xw&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Bilgisayar Devrimini Yaratan Şerit!",
+          "url": "https://www.youtube.com/watch?v=Zx8fMk92lAQ"
+        }
+      ],
+      "comments": [
+        {
+          "name": "ece",
+          "text": "Dosyanın bu kadar fiziksel olması tuhaf geldi."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-tektit",
+      "category": "Bilim",
+      "title": "Bu cam parçası göktaşı mı?",
+      "subtitle": "Tektitler, büyük çarpma olaylarında eriyip yeniden katılaşan yeryüzü malzemeleriyle ilişkilidir. Uzaydan gelen taşın kendisiyle, çarpmanın yerde oluşturduğu ürünü ayırmak gerekir. Video elindeki örnekten yola çıkıyor.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Yerbilim",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/wqLtJ7dxlgs/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLDp2cwFXJnhQwW_jjLOZvVUasxjLA&usqp=CCk",
+        "alt": "Bu cam parçası göktaşı mı? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=wqLtJ7dxlgs",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Tektitler, büyük çarpma olaylarında eriyip yeniden katılaşan yeryüzü malzemeleriyle ilişkilidir. Uzaydan gelen taşın kendisiyle, çarpmanın yerde oluşturduğu ürünü ayırmak gerekir. Video elindeki örnekten yola çıkıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "wqLtJ7dxlgs",
+        "title": "Gökten Yağan Taşlar Bize Ne Anlatıyor? | Tektit!",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/wqLtJ7dxlgs/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLDp2cwFXJnhQwW_jjLOZvVUasxjLA&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Gökten Yağan Taşlar Bize Ne Anlatıyor? | Tektit!",
+          "url": "https://www.youtube.com/watch?v=wqLtJ7dxlgs"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-cihangirin-hafizasi",
+      "category": "Tarih",
+      "title": "Bir semtin eski hâlini yaşayanından dinlemek",
+      "subtitle": "1947 Cihangir doğumlu Ethem Tevfik Bey, semtin eski günlerini anlatıyor. Bir kent yalnızca harita ve binalardan oluşmaz; yaşayanların anıları da onun hafızasının parçasıdır. Bu kesit bir kişisel tanıklık.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Sözlü tarih",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/94Ss39LtM5I/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCXH2BeMtmIX5Vj0DjWL48a6q2AqA",
+        "alt": "Bir semtin eski hâlini yaşayanından dinlemek — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=94Ss39LtM5I",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "1947 Cihangir doğumlu Ethem Tevfik Bey, semtin eski günlerini anlatıyor. Bir kent yalnızca harita ve binalardan oluşmaz; yaşayanların anıları da onun hafızasının parçasıdır. Bu kesit bir kişisel tanıklık."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "94Ss39LtM5I",
+        "title": "Cihangir'in Eski Zamanları #Cihangir #Beyoğlu #İstanbul #nostalji #TRT2 #gezi #seyahat #shorts",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 77,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/94Ss39LtM5I/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCXH2BeMtmIX5Vj0DjWL48a6q2AqA",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Cihangir'in Eski Zamanları #Cihangir #Beyoğlu #İstanbul #nostalji #TRT2 #gezi #seyahat #shorts",
+          "url": "https://www.youtube.com/watch?v=94Ss39LtM5I"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-pasta-sanati",
+      "category": "Sanat",
+      "title": "Bu eser birazdan dilimlenebilir",
+      "subtitle": "Pasta sanatçısı Tuba Geçkil, hobisinin nasıl bir üretim yolculuğuna dönüştüğünü anlatıyor. Burada malzeme yenilebilir ama biçim vermek yine göz, el ve deneme istiyor. Mutfakla heykelin buluştuğu bir alan.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "El emeği",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/FEMCYuDndt0/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBbVvsngcUQ_HxI2IpSDx6rwVNr8g",
+        "alt": "Bu eser birazdan dilimlenebilir — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=FEMCYuDndt0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Pasta sanatçısı Tuba Geçkil, hobisinin nasıl bir üretim yolculuğuna dönüştüğünü anlatıyor. Burada malzeme yenilebilir ama biçim vermek yine göz, el ve deneme istiyor. Mutfakla heykelin buluştuğu bir alan."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "FEMCYuDndt0",
+        "title": "Sanat Eseri Pastalar 🎂 Tuba Geçkil'in Uluslararası Başarısı #pasta #yemek #TRT2 #shorts #keşfet",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 88,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/FEMCYuDndt0/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBbVvsngcUQ_HxI2IpSDx6rwVNr8g",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Sanat Eseri Pastalar 🎂 Tuba Geçkil'in Uluslararası Başarısı #pasta #yemek #TRT2 #shorts #keşfet",
+          "url": "https://www.youtube.com/watch?v=FEMCYuDndt0"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-ankara-ve-yazmak",
+      "category": "Edebiyat",
+      "title": "Bir şehir yazmaya nasıl yer açar?",
+      "subtitle": "Yazar Gökhan Özcan, Ankara'nın kendi üretim sürecindeki yerini anlatıyor. Bu, bütün şehirler için bir sıralama değil; bir yazarın deneyimi. Yaşadığımız yerin zaman duygumuzu nasıl etkilediğini düşünelim.",
+      "account": "Sayfa Arası",
+      "handle": "sayfaarasi",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Yazarın çalışma hayatı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.2,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/QUqJ7gp8xB4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCIKsw9HVkjWut9zFeC_q75BAnKrQ",
+        "alt": "Bir şehir yazmaya nasıl yer açar? — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=QUqJ7gp8xB4",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Yazar Gökhan Özcan, Ankara'nın kendi üretim sürecindeki yerini anlatıyor. Bu, bütün şehirler için bir sıralama değil; bir yazarın deneyimi. Yaşadığımız yerin zaman duygumuzu nasıl etkilediğini düşünelim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "QUqJ7gp8xB4",
+        "title": "\"Ankara, İnsana Vakit Bırakan Bir Şehir\" - Yazar Gökhan Özcan #TRT2 #Shorts #yazar #kitap #Ankara",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 70,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/QUqJ7gp8xB4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCIKsw9HVkjWut9zFeC_q75BAnKrQ",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · \"Ankara, İnsana Vakit Bırakan Bir Şehir\" - Yazar Gökhan Özcan #TRT2 #Shorts #yazar #kitap #Ankara",
+          "url": "https://www.youtube.com/watch?v=QUqJ7gp8xB4"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-sait-faikten-bir-ani",
+      "category": "Edebiyat",
+      "title": "Sait Faik'in gündelik hayatından bir anı",
+      "subtitle": "Sait Faik Abasıyanık'ı öyküleriyle tanıyoruz. Bu kesitte ise gündelik yaşamına ilişkin bir anı anlatılıyor. Bir yazarı yalnızca kitap kapaklarındaki ciddi portresiyle düşünmemek için küçük bir mola.",
+      "account": "Sayfa Arası",
+      "handle": "sayfaarasi",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Yazar portreleri",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/VrOwc093dhM/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAeAH5YwqYnxYi5mQGvaRCIuIxJRQ",
+        "alt": "Sait Faik'in gündelik hayatından bir anı — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=VrOwc093dhM",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Sait Faik Abasıyanık'ı öyküleriyle tanıyoruz. Bu kesitte ise gündelik yaşamına ilişkin bir anı anlatılıyor. Bir yazarı yalnızca kitap kapaklarındaki ciddi portresiyle düşünmemek için küçük bir mola."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "VrOwc093dhM",
+        "title": "\"Beni Köylü Sandılar!\" 🤍 Mütevazı Yaşamına Dair Bir Anısı ile Sait Faik Abasıyanık #TRT2 #Shorts",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 76,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/VrOwc093dhM/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAeAH5YwqYnxYi5mQGvaRCIuIxJRQ",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · \"Beni Köylü Sandılar!\" 🤍 Mütevazı Yaşamına Dair Bir Anısı ile Sait Faik Abasıyanık #TRT2 #Shorts",
+          "url": "https://www.youtube.com/watch?v=VrOwc093dhM"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-sule-gurbuz-yazmak",
+      "category": "Edebiyat",
+      "title": "Şule Gürbüz kendi sanat dilini anlatıyor",
+      "subtitle": "Bir yazarın sesini bulması, yalnızca doğru kelimeleri seçmesi değil; hayata bakışının da değişmesi olabilir. Şule Gürbüz burada kendi yolculuğunu anlatıyor. Bunu evrensel bir reçete yerine kişisel bir deneyim olarak dinleyelim.",
+      "account": "Sayfa Arası",
+      "handle": "sayfaarasi",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Yazma deneyimi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.2,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/dkLc1-MeoR4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCoRBL5Y4Z1KOcvJR1zX0B29dmudA",
+        "alt": "Şule Gürbüz kendi sanat dilini anlatıyor — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=dkLc1-MeoR4",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bir yazarın sesini bulması, yalnızca doğru kelimeleri seçmesi değil; hayata bakışının da değişmesi olabilir. Şule Gürbüz burada kendi yolculuğunu anlatıyor. Bunu evrensel bir reçete yerine kişisel bir deneyim olarak dinleyelim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "dkLc1-MeoR4",
+        "title": "\"Umursamaz Oldum, Hayatı Beğenir Oldum\" - Yazar Şule Gürbüz #kitap #yazar #TRT2 #kişiselgelişim",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 70,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/dkLc1-MeoR4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCoRBL5Y4Z1KOcvJR1zX0B29dmudA",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · \"Umursamaz Oldum, Hayatı Beğenir Oldum\" - Yazar Şule Gürbüz #kitap #yazar #TRT2 #kişiselgelişim",
+          "url": "https://www.youtube.com/watch?v=dkLc1-MeoR4"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-ediz-hunun-okul-gunu",
+      "category": "Gündelik",
+      "title": "Ünlü bir oyuncu yeniden öğrenci olursa",
+      "subtitle": "Ediz Hun, 35 yaşında Norveç'te eğitimine devam ederken yaşadığı ilk okul gününü anlatıyor. Yeni bir şey öğrenmek için daha önce bir alanda tanınmış olmak engel değil. Bu kez bilgiden çok bir deneyim dinliyoruz.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Öğrenme hikâyeleri",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/rJdGIhIO9eI/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCj1OfXllKfgCHlvMzZ4G3zgvMJaw",
+        "alt": "Ünlü bir oyuncu yeniden öğrenci olursa — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=rJdGIhIO9eI",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Ediz Hun, 35 yaşında Norveç'te eğitimine devam ederken yaşadığı ilk okul gününü anlatıyor. Yeni bir şey öğrenmek için daha önce bir alanda tanınmış olmak engel değil. Bu kez bilgiden çok bir deneyim dinliyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "rJdGIhIO9eI",
+        "title": "Okuldaki İlk Gün Anısı ile Ediz Hun #TRT2 #okul #üniversite #EdizHun #keşfet #shorts #oyuncu",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 79,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/rJdGIhIO9eI/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCj1OfXllKfgCHlvMzZ4G3zgvMJaw",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Okuldaki İlk Gün Anısı ile Ediz Hun #TRT2 #okul #üniversite #EdizHun #keşfet #shorts #oyuncu",
+          "url": "https://www.youtube.com/watch?v=rJdGIhIO9eI"
+        }
+      ],
+      "comments": [
+        {
+          "name": "deniz",
+          "text": "Yeniden öğrenci olma kısmını sevdim."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-karabekir-aile-hafizasi",
+      "category": "Tarih",
+      "title": "Timsal Karabekir babasını anlatıyor",
+      "subtitle": "Kâzım Karabekir'in kızı Timsal Karabekir, babasına ve dönemine dair hatıralarını paylaşıyor. Tarih okumalarında kişisel tanıklık ayrı bir kaynak türüdür. Anlatıcının olaylarla ilişkisini bilerek dinlemek önemli.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Sözlü tarih",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/s_z7XKOA_jg/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDXBSCh14-3hlGYkeEF8ke0sHZSnQ",
+        "alt": "Timsal Karabekir babasını anlatıyor — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=s_z7XKOA_jg",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Kâzım Karabekir'in kızı Timsal Karabekir, babasına ve dönemine dair hatıralarını paylaşıyor. Tarih okumalarında kişisel tanıklık ayrı bir kaynak türüdür. Anlatıcının olaylarla ilişkisini bilerek dinlemek önemli."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "s_z7XKOA_jg",
+        "title": "Kâzım Karabekir Paşa Gençlere Ne Söylerdi? 🇹🇷 Kızı Timsal Hanım Anlatıyor #Atatürk #TRT2",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 86,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/s_z7XKOA_jg/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDXBSCh14-3hlGYkeEF8ke0sHZSnQ",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Kâzım Karabekir Paşa Gençlere Ne Söylerdi? 🇹🇷 Kızı Timsal Hanım Anlatıyor #Atatürk #TRT2",
+          "url": "https://www.youtube.com/watch?v=s_z7XKOA_jg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-babalik-ve-farklilik",
+      "category": "Felsefe",
+      "title": "Bir babanın kızından öğrendikleri",
+      "subtitle": "Mim Kemal Öke, Down sendromlu kızı Nazlı ile yaşadığı bir konuşmayı anlatıyor. Kesit, bir tıbbi açıklamadan çok babalık ve farklılıklarla kurduğumuz ilişki üzerine. Bazen bir soru, bakışımızı değiştirir.",
+      "account": "Bir Soru Daha",
+      "handle": "birsorudaha",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      },
+      "topic": "Birlikte yaşam",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.1,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/SWCmZLLuIPA/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCPx0sQalY3pW1cn-1KDN9HqftXNw",
+        "alt": "Bir babanın kızından öğrendikleri — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=SWCmZLLuIPA",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Mim Kemal Öke, Down sendromlu kızı Nazlı ile yaşadığı bir konuşmayı anlatıyor. Kesit, bir tıbbi açıklamadan çok babalık ve farklılıklarla kurduğumuz ilişki üzerine. Bazen bir soru, bakışımızı değiştirir."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "SWCmZLLuIPA",
+        "title": "Down Sendromlu Kızının \"Ben Niye Böyleyim?\" Sorusu Sonrası... - Mim Kemal Öke #TRT2 #DownSendromu",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 66,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/SWCmZLLuIPA/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCPx0sQalY3pW1cn-1KDN9HqftXNw",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Down Sendromlu Kızının \"Ben Niye Böyleyim?\" Sorusu Sonrası... - Mim Kemal Öke #TRT2 #DownSendromu",
+          "url": "https://www.youtube.com/watch?v=SWCmZLLuIPA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-kemal-sunaldan-bir-ani",
+      "category": "Sanat",
+      "title": "Kemal Sunal'ı bu kez bir anıyla tanıyalım",
+      "subtitle": "Emel Sayın, Kemal Sunal'la ilgili kişisel bir hatırasını paylaşıyor. Ekranda gördüğümüz oyuncunun, çalışma arkadaşının hafızasında nasıl yer ettiğini dinliyoruz. Her gönderi ders gibi olmak zorunda değil.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Sinema insanları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.2,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/AlS73F5yML0/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCIPRtnXZwtbaOe0EYR_VVE3PpBOQ",
+        "alt": "Kemal Sunal'ı bu kez bir anıyla tanıyalım — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=AlS73F5yML0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Emel Sayın, Kemal Sunal'la ilgili kişisel bir hatırasını paylaşıyor. Ekranda gördüğümüz oyuncunun, çalışma arkadaşının hafızasında nasıl yer ettiğini dinliyoruz. Her gönderi ders gibi olmak zorunda değil."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "AlS73F5yML0",
+        "title": "Kemal Sunal ile İyilik Dolu Bir Anısını Emel Sayın Anlatıyor #TRT2 #EmelSayın #KemalSunal #shorts",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 73,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/AlS73F5yML0/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCIPRtnXZwtbaOe0EYR_VVE3PpBOQ",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Kemal Sunal ile İyilik Dolu Bir Anısını Emel Sayın Anlatıyor #TRT2 #EmelSayın #KemalSunal #shorts",
+          "url": "https://www.youtube.com/watch?v=AlS73F5yML0"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-filistin-36-cekimleri",
+      "category": "Sanat",
+      "title": "Bir filmin çekilmesi de başlı başına hikâye",
+      "subtitle": "Filistin 36 filminin yapım süreci ve çekim koşulları anlatılıyor. Perdede kesintisiz gördüğümüz görüntüler, gerçekte pek çok kararın ve zorluğun bir araya gelmesiyle oluşur. Bu kez kameranın arkasına bakalım.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Sinema yapımı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.2,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/3imhib7ZNB0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCQcqYkKufw9auyHS4Wj7GKRW1TsA&usqp=CCk",
+        "alt": "Bir filmin çekilmesi de başlı başına hikâye — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=3imhib7ZNB0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Filistin 36 filminin yapım süreci ve çekim koşulları anlatılıyor. Perdede kesintisiz gördüğümüz görüntüler, gerçekte pek çok kararın ve zorluğun bir araya gelmesiyle oluşur. Bu kez kameranın arkasına bakalım."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "3imhib7ZNB0",
+        "title": "\"Filistin 36\" Filminin Zorlu Çekim Süreci #film #Filistin #TRT2",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 72,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/3imhib7ZNB0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCQcqYkKufw9auyHS4Wj7GKRW1TsA&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · \"Filistin 36\" Filminin Zorlu Çekim Süreci #film #Filistin #TRT2",
+          "url": "https://www.youtube.com/watch?v=3imhib7ZNB0"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-can-yucelin-sesi",
+      "category": "Edebiyat",
+      "title": "Şairin kendi sesinden bir şiir",
+      "subtitle": "Can Yücel'i, babasına dair şiirini okurken dinliyoruz. Metni sessizce okumakla şairin duraklarını ve vurgularını duymak aynı deneyim değil. Burada sözün sesle nasıl değiştiğine kulak verebilirsin.",
+      "account": "Sayfa Arası",
+      "handle": "sayfaarasi",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Şiir dinletisi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/EnrqRRSqgEw/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCM_njhVe6vqS6SqzwtcQ9nPNbRVw&usqp=CCk",
+        "alt": "Şairin kendi sesinden bir şiir — video önizlemesi",
+        "credit": "TRT Arşiv",
+        "source": "https://www.youtube.com/watch?v=EnrqRRSqgEw",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Can Yücel'i, babasına dair şiirini okurken dinliyoruz. Metni sessizce okumakla şairin duraklarını ve vurgularını duymak aynı deneyim değil. Burada sözün sesle nasıl değiştiğine kulak verebilirsin."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "EnrqRRSqgEw",
+        "title": "Can Yücel’in “Hayatta Ben En Çok Babamı Sevdim” şiirini kendisinden dinliyoruz. 📜",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 96,
+        "orientation": "portrait",
+        "publisher": "TRT Arşiv",
+        "poster": "https://i.ytimg.com/vi/EnrqRRSqgEw/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCM_njhVe6vqS6SqzwtcQ9nPNbRVw&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Arşiv · Can Yücel’in “Hayatta Ben En Çok Babamı Sevdim” şiirini kendisinden dinliyoruz. 📜",
+          "url": "https://www.youtube.com/watch?v=EnrqRRSqgEw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-kavruk-yaylasi",
+      "category": "Coğrafya",
+      "title": "Çamlıhemşin'de bir yayla evine konuk olalım",
+      "subtitle": "Rize'nin Çamlıhemşin ilçesindeki Kavruk Yaylası'ndayız. Arşiv kaydındaki 78 yaşındaki yayla sakini, günlük hayatını anlatıyor. Büyük açıklamalara gerek kalmadan, bir yerde yaşamanın ritmini duyuyoruz.",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Yayla yaşamı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/EueZfwf1abU/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA6Ea-RG0ncdoiEggfV9h-Xrvnj2A&usqp=CCk",
+        "alt": "Çamlıhemşin'de bir yayla evine konuk olalım — video önizlemesi",
+        "credit": "TRT Arşiv",
+        "source": "https://www.youtube.com/watch?v=EueZfwf1abU",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Rize'nin Çamlıhemşin ilçesindeki Kavruk Yaylası'ndayız. Arşiv kaydındaki 78 yaşındaki yayla sakini, günlük hayatını anlatıyor. Büyük açıklamalara gerek kalmadan, bir yerde yaşamanın ritmini duyuyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "EueZfwf1abU",
+        "title": "Karadenizli amcamızın sohbeti içimizi ısıtıyor. 🥰",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 88,
+        "orientation": "portrait",
+        "publisher": "TRT Arşiv",
+        "poster": "https://i.ytimg.com/vi/EueZfwf1abU/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA6Ea-RG0ncdoiEggfV9h-Xrvnj2A&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Arşiv · Karadenizli amcamızın sohbeti içimizi ısıtıyor. 🥰",
+          "url": "https://www.youtube.com/watch?v=EueZfwf1abU"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-tiyatrodan-bir-ani",
+      "category": "Sanat",
+      "title": "İlk oyundan kalan bir sahne arkası anısı",
+      "subtitle": "Mürüvvet Sim, Münir Özkul ile birlikte oynadığı ilk oyuna ilişkin bir hatırasını anlatıyor. Tiyatronun yazılı metninde bulunmayan, oyuncuların hafızasında yaşayan kısmına uğruyoruz. Biraz da gülümseten bir mola.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Tiyatro hafızası",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/HRq_8wMX5-c/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBZNk2dXNSCRHoipxossq5chEGQtw&usqp=CCk",
+        "alt": "İlk oyundan kalan bir sahne arkası anısı — video önizlemesi",
+        "credit": "TRT Arşiv",
+        "source": "https://www.youtube.com/watch?v=HRq_8wMX5-c",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Mürüvvet Sim, Münir Özkul ile birlikte oynadığı ilk oyuna ilişkin bir hatırasını anlatıyor. Tiyatronun yazılı metninde bulunmayan, oyuncuların hafızasında yaşayan kısmına uğruyoruz. Biraz da gülümseten bir mola."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "HRq_8wMX5-c",
+        "title": "Mürüvvet Sim'in, Münir Özkul ile gülümseten anısı. 🎭",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 114,
+        "orientation": "portrait",
+        "publisher": "TRT Arşiv",
+        "poster": "https://i.ytimg.com/vi/HRq_8wMX5-c/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBZNk2dXNSCRHoipxossq5chEGQtw&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Arşiv · Mürüvvet Sim'in, Münir Özkul ile gülümseten anısı. 🎭",
+          "url": "https://www.youtube.com/watch?v=HRq_8wMX5-c"
+        }
+      ],
+      "comments": [
+        {
+          "name": "yagmur",
+          "text": "Böyle sahne arkası anıları daha çok olsa keşke."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-golpinarli-mevlana",
+      "category": "İnanç",
+      "title": "Mevlânâ'yı Gölpınarlı'dan dinlemek",
+      "subtitle": "Tasavvuf edebiyatı ve tarihi üzerine çalışan Abdülbaki Gölpınarlı, Mevlânâ'yı anlatıyor. Bu bir arşiv söyleşisi: konuyu bir araştırmacının sesi ve yorumuyla dinleme fırsatı. Dönemin anlatım üslubu da kaydın bir parçası.",
+      "account": "Metnin İzinde",
+      "handle": "metninizinde",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Tasavvuf edebiyatı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 2.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/lV744SClyd0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC74c1_riRsSNo8hvemPUjXH3o6ZQ&usqp=CCk",
+        "alt": "Mevlânâ'yı Gölpınarlı'dan dinlemek — video önizlemesi",
+        "credit": "TRT Arşiv",
+        "source": "https://www.youtube.com/watch?v=lV744SClyd0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Tasavvuf edebiyatı ve tarihi üzerine çalışan Abdülbaki Gölpınarlı, Mevlânâ'yı anlatıyor. Bu bir arşiv söyleşisi: konuyu bir araştırmacının sesi ve yorumuyla dinleme fırsatı. Dönemin anlatım üslubu da kaydın bir parçası."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "lV744SClyd0",
+        "title": "Abdülbaki Gölpınarlı, Mevlana'yı anlatıyor. 📜",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 119,
+        "orientation": "portrait",
+        "publisher": "TRT Arşiv",
+        "poster": "https://i.ytimg.com/vi/lV744SClyd0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC74c1_riRsSNo8hvemPUjXH3o6ZQ&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Arşiv · Abdülbaki Gölpınarlı, Mevlana'yı anlatıyor. 📜",
+          "url": "https://www.youtube.com/watch?v=lV744SClyd0"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-ayla-carpisma-dusuncesi",
+      "category": "Uzay",
+      "title": "Ay bize çarpsaydı ne olurdu?",
+      "subtitle": "Bu bir gelecek haberi değil, varsayımsal bir soru. Ay gibi büyük bir cismin Dünya'ya çarpmasını düşünerek kütle ve hareketin sonuçlarına bakıyoruz. Gündelik ölçülerimiz, gezegen ölçeğinde pek işe yaramıyor.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Düşünce deneyleri",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.1,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/roAwpIvfaLw/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLDv7Oen8ZyjAGmIyU_3rrJPdvwbJw&usqp=CCk",
+        "alt": "Ay bize çarpsaydı ne olurdu? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=roAwpIvfaLw",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bu bir gelecek haberi değil, varsayımsal bir soru. Ay gibi büyük bir cismin Dünya'ya çarpmasını düşünerek kütle ve hareketin sonuçlarına bakıyoruz. Gündelik ölçülerimiz, gezegen ölçeğinde pek işe yaramıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "roAwpIvfaLw",
+        "title": "Ay, Dünya'ya Çarparsa Ne Olur?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 67,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/roAwpIvfaLw/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLDv7Oen8ZyjAGmIyU_3rrJPdvwbJw&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Ay, Dünya'ya Çarparsa Ne Olur?",
+          "url": "https://www.youtube.com/watch?v=roAwpIvfaLw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-pi-basamaklari",
+      "category": "Bilim",
+      "title": "Pi'nin basamaklarını nereye kadar sayabilirsin?",
+      "subtitle": "Pi, bir çemberin çevresini çapına böldüğümüzde elde ettiğimiz sayı. 3,14 yalnızca kısa bir yaklaşım; ondalık basamaklar bitmiyor ve düzenli tekrar etmiyor. Bu kez kısa bir Pi Günü molası veriyoruz.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Matematik kültürü",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/3Qezb1wUKf0/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuAL3GA==&rs=AOn4CLA-xihB0i9TByNhUc2XVvFeMPR6zA",
+        "alt": "Pi'nin basamaklarını nereye kadar sayabilirsin? — video önizlemesi",
+        "credit": "Barış Özcan",
+        "source": "https://www.youtube.com/watch?v=3Qezb1wUKf0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Pi, bir çemberin çevresini çapına böldüğümüzde elde ettiğimiz sayı. 3,14 yalnızca kısa bir yaklaşım; ondalık basamaklar bitmiyor ve düzenli tekrar etmiyor. Bu kez kısa bir Pi Günü molası veriyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "3Qezb1wUKf0",
+        "title": "Kaç basamak oldu? #piday #pigünü",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "Barış Özcan",
+        "poster": "https://i.ytimg.com/vi/3Qezb1wUKf0/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuAL3GA==&rs=AOn4CLA-xihB0i9TByNhUc2XVvFeMPR6zA",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Barış Özcan · Kaç basamak oldu? #piday #pigünü",
+          "url": "https://www.youtube.com/watch?v=3Qezb1wUKf0"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    }
+  ]
+}

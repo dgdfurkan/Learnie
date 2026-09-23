@@ -1,9 +1,9 @@
-export const defaultPreferences = Object.freeze({theme:'system',focus:false,reveal:'word',wordSpeed:180,charSpeed:18,textSize:1,narration:false,music:false,musicVolume:18,savedLayout:'grid'});
+export const defaultPreferences = Object.freeze({theme:'system',focus:false,reveal:'word',wordSpeed:180,charSpeed:18,textSize:1,narration:false,music:false,musicVolume:18,savedLayout:'grid',videoControls:'minimal'});
 export function normalizePreferences(raw={}) {
  const p=raw&&typeof raw==='object'?raw:{};
  const pick=(key,values)=>values.includes(p[key])?p[key]:defaultPreferences[key];
  const number=(key,min,max)=>typeof p[key]==='number'&&Number.isFinite(p[key])?Math.min(max,Math.max(min,p[key])):defaultPreferences[key];
- return {theme:pick('theme',['system','light','dark']),focus:typeof p.focus==='boolean'?p.focus:false,reveal:pick('reveal',['word','char']),wordSpeed:number('wordSpeed',60,360),charSpeed:number('charSpeed',5,40),textSize:number('textSize',.9,1.2),narration:typeof p.narration==='boolean'?p.narration:false,music:typeof p.music==='boolean'?p.music:false,musicVolume:number('musicVolume',0,40),savedLayout:pick('savedLayout',['grid','list'])};
+ return {theme:pick('theme',['system','light','dark']),focus:typeof p.focus==='boolean'?p.focus:false,reveal:pick('reveal',['word','char']),wordSpeed:number('wordSpeed',60,360),charSpeed:number('charSpeed',5,40),textSize:number('textSize',.9,1.2),narration:typeof p.narration==='boolean'?p.narration:false,music:typeof p.music==='boolean'?p.music:false,musicVolume:number('musicVolume',0,40),savedLayout:pick('savedLayout',['grid','list']),videoControls:pick('videoControls',['minimal','native'])};
 }
 export function splitPassages(text,limit=18){
  const words=text.trim().split(/\s+/u);const chunks=[];let chunk=[];
