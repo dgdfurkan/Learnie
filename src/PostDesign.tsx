@@ -3,7 +3,7 @@ import {ArrowUpRight,ArrowRight,Plus,Play,Copy} from 'lucide-react';
 import {MotionScene} from './MotionScene';
 import {seedNumber} from './engine.mjs';
 import type {Post,Slide} from './types';
-export function artStyle(post:Post):CSSProperties{const art=post.art;return {'--art-paper':art?.paper||'#f3eee2','--art-ink':art?.ink||'#21211e','--art-font':art?.font||'DM Sans','--art-accent':post.accent,'--art-align':art?.align||'start'} as CSSProperties;}
+export function artStyle(post:Post):CSSProperties{const art=post.art;return {'--art-paper':art?.paper||'#f3eee2','--art-ink':art?.ink||'#21211e','--art-font':art?.font||'DM Sans','--reading-font':['Bebas Neue','Oswald'].includes(art?.font||'')?'DM Sans':art?.font||'DM Sans','--art-accent':post.accent,'--art-align':art?.align||'start'} as CSSProperties;}
 export function PostArtwork({post,children,compact=false,body=false}:{post:Post;children?:ReactNode;compact?:boolean;body?:boolean}){
  const layout=post.layout||'poster';const art=post.art;const photo=art?.kind==='photo'||(!art&&!!children);const n=seedNumber(post.id);const technical=post.id.startsWith('spor-')||['diagram','process','cutaway','equation','layers','network','prism','growth','sequence','balance','mosaic','route'].includes(layout);
  return <div className={`post-artwork artwork-${layout} artwork-${art?.kind||'photo'} artwork-${art?.position||'bottom'} artwork-variant-${n%4} ${compact?'artwork-thumb':''} ${body?'artwork-single':''}`} style={artStyle(post)}>
