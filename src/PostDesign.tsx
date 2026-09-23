@@ -1,3 +1,4 @@
+import {VideoPoster} from './VideoEmbed';
 import {useState,type CSSProperties,type ReactNode} from 'react';
 import {ArrowUpRight,ArrowRight,Plus,Play,Copy} from 'lucide-react';
 import {MotionScene} from './MotionScene';
@@ -25,7 +26,7 @@ export function EditorialCover({post,children,onOpen}:{post:Post;children:ReactN
 export function EditorialSlide({post,slide,index}:{post:Post;slide:Slide;index:number}){
  return <div className={`reading-card reading-${post.layout||'notebook'} reading-page-${index%3}`} style={artStyle(post)}><div className="reading-top"><span>@{post.handle}</span><span>{index+2} / {post.slides.length+1}</span></div><div className="reading-copy"><p>{slide.text}</p></div><footer><small>{post.topic||post.category}</small><ArrowRight size={18}/></footer></div>;
 }
-export function PostThumbnail({post}:{post:Post}){return <><>{post.display==='video'&&post.video?<img className="thumbnail-video" src={post.video.poster||(post.video.kind==='youtube'?`https://i.ytimg.com/vi/${post.video.url}/hqdefault.jpg`:post.cover.url)} alt="" loading="lazy"/>:<PostArtwork post={post} compact/>}</>{(post.display!=='single')&&<span className="thumbnail-type" aria-hidden="true">{post.display==='video'||post.format==='reel'?<Play size={19} fill="currentColor"/>:<Copy size={17}/>}</span>}</>;}
+export function PostThumbnail({post}:{post:Post}){return <><>{post.display==='video'&&post.video?<VideoPoster post={post} className="thumbnail-video"/>:<PostArtwork post={post} compact/>}</>{(post.display!=='single')&&<span className="thumbnail-type" aria-hidden="true">{post.display==='video'||post.format==='reel'?<Play size={19} fill="currentColor"/>:<Copy size={17}/>}</span>}</>;}
 export function PostNarrative({post,initialSlide=0}:{post:Post;initialSlide?:number}){
  return <div className="continuous-narrative">{post.slides.map((s,i)=><p key={i} data-slide={i+1}>{s.text}</p>)}</div>;
 }
