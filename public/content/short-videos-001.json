@@ -1,0 +1,1342 @@
+{
+  "version": 1,
+  "title": "Bir dakikada merak: bilim ve teknoloji",
+  "posts": [
+    {
+      "id": "kisa-video-arilar-ve-ucaklar",
+      "category": "Teknoloji",
+      "title": "Bir arı uçağa nasıl dert olur?",
+      "subtitle": "Uçağın hızını ölçen küçücük bir boru düşün. Ağzı tıkandığında pilotun gördüğü bilgi değişebilir. Bu hikâyede büyük sorunu yaratan şey motor değil, o küçük ölçüm noktası.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Havacılık",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/QfO_V9EJiak/frame0.jpg",
+        "alt": "Bir arı uçağa nasıl dert olur? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=QfO_V9EJiak",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Uçağın hızını ölçen küçücük bir boru düşün. Ağzı tıkandığında pilotun gördüğü bilgi değişebilir. Bu hikâyede büyük sorunu yaratan şey motor değil, o küçük ölçüm noktası."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "QfO_V9EJiak",
+        "title": "Arılar Uçak Düşürebilir mi?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 81,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/QfO_V9EJiak/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Arılar Uçak Düşürebilir mi?",
+          "url": "https://www.youtube.com/watch?v=QfO_V9EJiak"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-saturn-halkalari",
+      "category": "Uzay",
+      "title": "Satürn'ün halkaları tek parça değil",
+      "subtitle": "Fotoğrafta düz bir disk gibi duruyorlar. Yakından bakabilseydik Satürn'ün çevresinde dolanan sayısız buz ve kaya parçası görürdük. Halkaların yaşını anlamak da ayrı bir araştırma konusu.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Gezegen halkaları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.1,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/na5GIQ66dH4/frame0.jpg",
+        "alt": "Satürn'ün halkaları tek parça değil — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=na5GIQ66dH4",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Fotoğrafta düz bir disk gibi duruyorlar. Yakından bakabilseydik Satürn'ün çevresinde dolanan sayısız buz ve kaya parçası görürdük. Halkaların yaşını anlamak da ayrı bir araştırma konusu."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "na5GIQ66dH4",
+        "title": "Satürn'ün Halkaları Kaç Yaşında",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 68,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/na5GIQ66dH4/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Satürn'ün Halkaları Kaç Yaşında",
+          "url": "https://www.youtube.com/watch?v=na5GIQ66dH4"
+        }
+      ],
+      "comments": [
+        {
+          "name": "birazmerak",
+          "text": "Kısa bir araya tam denk geldi."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-donen-uzay-araci",
+      "category": "Uzay",
+      "title": "Uzay gemisi niye dönüp duruyor?",
+      "subtitle": "Bilimkurgu filmlerindeki dönen uzay istasyonları yalnızca güzel görünsün diye çizilmiyor. Dönüş, içerideki insana bir zemine basıyormuş hissi verebilir. Videoda bu fikrin fiziği var.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Uzayda yaşam",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/SwPkMlV9IH8/frame0.jpg",
+        "alt": "Uzay gemisi niye dönüp duruyor? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=SwPkMlV9IH8",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bilimkurgu filmlerindeki dönen uzay istasyonları yalnızca güzel görünsün diye çizilmiyor. Dönüş, içerideki insana bir zemine basıyormuş hissi verebilir. Videoda bu fikrin fiziği var."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "SwPkMlV9IH8",
+        "title": "Filmlerdeki Uzay Araçları Neden Hep Dönüyor? #uzay",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 98,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/SwPkMlV9IH8/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Filmlerdeki Uzay Araçları Neden Hep Dönüyor? #uzay",
+          "url": "https://www.youtube.com/watch?v=SwPkMlV9IH8"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-firlatma-koltugu",
+      "category": "Teknoloji",
+      "title": "Bu koltuk yerinde durmak için yapılmadı",
+      "subtitle": "Fırlatma koltuğu, tehlikedeki pilotu uçaktan çıkaran bir kurtarma sistemi. Kolun çekilmesinden paraşütün açılmasına kadar birkaç saniyede bir dizi işlem gerekiyor. Sırayla bakalım.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Havacılık",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/NoolgCla-AY/frame0.jpg",
+        "alt": "Bu koltuk yerinde durmak için yapılmadı — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=NoolgCla-AY",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Fırlatma koltuğu, tehlikedeki pilotu uçaktan çıkaran bir kurtarma sistemi. Kolun çekilmesinden paraşütün açılmasına kadar birkaç saniyede bir dizi işlem gerekiyor. Sırayla bakalım."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "NoolgCla-AY",
+        "title": "Fırlatma Koltuğu Nasıl Çalışır?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 93,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/NoolgCla-AY/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Fırlatma Koltuğu Nasıl Çalışır?",
+          "url": "https://www.youtube.com/watch?v=NoolgCla-AY"
+        }
+      ],
+      "comments": [
+        {
+          "name": "duru",
+          "text": "Bunu kaydedeyim, sonra tekrar bakacağım."
+        },
+        {
+          "name": "mertizliyor",
+          "text": "Görüntüyle anlatılınca daha iyi anladım."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-usuyen-kulaklar",
+      "category": "Bilim",
+      "title": "Üşüyen kulak neden kızarır?",
+      "subtitle": "Kulakların kışın kıpkırmızı olması, yalnızca dışarıdaki havayla ilgili değil. Deriye ulaşan kan miktarı da değişiyor. Bu kısa anlatım, damarların soğuğa verdiği tepkiye bakıyor.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "İnsan bedeni",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/CIN1sQmOUc8/frame0.jpg",
+        "alt": "Üşüyen kulak neden kızarır? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=CIN1sQmOUc8",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Kulakların kışın kıpkırmızı olması, yalnızca dışarıdaki havayla ilgili değil. Deriye ulaşan kan miktarı da değişiyor. Bu kısa anlatım, damarların soğuğa verdiği tepkiye bakıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "CIN1sQmOUc8",
+        "title": "🥶Üşüdüğümüzde Kulaklarımız Neden Kızarır?  #bilim",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/CIN1sQmOUc8/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · 🥶Üşüdüğümüzde Kulaklarımız Neden Kızarır?  #bilim",
+          "url": "https://www.youtube.com/watch?v=CIN1sQmOUc8"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-neptunun-kesfi",
+      "category": "Uzay",
+      "title": "Önce hesaplandı, sonra görüldü",
+      "subtitle": "Uranüs beklenen yörüngesinden biraz sapıyordu. Bu sapma, henüz görülmemiş bir gezegenin çekimini düşündürdü. Neptün'ün keşfinde kalem ve kâğıdın teleskoptan önce devreye girmesi bundan.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Astronomi tarihi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/g2t7wvWnRV8/frame0.jpg",
+        "alt": "Önce hesaplandı, sonra görüldü — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=g2t7wvWnRV8",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Uranüs beklenen yörüngesinden biraz sapıyordu. Bu sapma, henüz görülmemiş bir gezegenin çekimini düşündürdü. Neptün'ün keşfinde kalem ve kâğıdın teleskoptan önce devreye girmesi bundan."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "g2t7wvWnRV8",
+        "title": "Kalem Ucuyla Keşfedilen Gezegen",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 95,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/g2t7wvWnRV8/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Kalem Ucuyla Keşfedilen Gezegen",
+          "url": "https://www.youtube.com/watch?v=g2t7wvWnRV8"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-foucault-sarkaci",
+      "category": "Bilim",
+      "title": "Dünya dönüyor. Peki nasıl gösteririz?",
+      "subtitle": "Foucault sarkacı, uzun bir telden sarkan ağır bir küre. Sallanma doğrultusunun yere göre değişmesini izleyerek Dünya'nın dönüşünü gözleyebiliyoruz. Bilim müzesindeki o dev sarkacın numarası bu.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Dünya'nın dönüşü",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/iF7ENzL2jWo/frame0.jpg",
+        "alt": "Dünya dönüyor. Peki nasıl gösteririz? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=iF7ENzL2jWo",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Foucault sarkacı, uzun bir telden sarkan ağır bir küre. Sallanma doğrultusunun yere göre değişmesini izleyerek Dünya'nın dönüşünü gözleyebiliyoruz. Bilim müzesindeki o dev sarkacın numarası bu."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "iF7ENzL2jWo",
+        "title": "Dünya’nın kendi ekseni etrafında döndüğünü kanıtlamak!",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 76,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/iF7ENzL2jWo/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Dünya’nın kendi ekseni etrafında döndüğünü kanıtlamak!",
+          "url": "https://www.youtube.com/watch?v=iF7ENzL2jWo"
+        }
+      ],
+      "comments": [
+        {
+          "name": "birazmerak",
+          "text": "Kısa bir araya tam denk geldi."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-minecraft-devreleri",
+      "category": "Teknoloji",
+      "title": "Minecraft'ın içinde bilgisayar kurmak",
+      "subtitle": "Bilgisayar bilgiyi 0 ve 1 değerleriyle işler. Minecraft'taki redstone devrelerinde de sinyal var ya da yok olabilir. Oyuncular bu basit ayrımı birleştirip oyun içinde çalışan makineler kuruyor.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Bilgisayar mantığı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/LTHnj9W4qXQ/frame0.jpg",
+        "alt": "Minecraft'ın içinde bilgisayar kurmak — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=LTHnj9W4qXQ",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bilgisayar bilgiyi 0 ve 1 değerleriyle işler. Minecraft'taki redstone devrelerinde de sinyal var ya da yok olabilir. Oyuncular bu basit ayrımı birleştirip oyun içinde çalışan makineler kuruyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "LTHnj9W4qXQ",
+        "title": "Minecraft'ta Bilgisayar Yapmak #minecraft  #minecraftshorts",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 78,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/LTHnj9W4qXQ/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Minecraft'ta Bilgisayar Yapmak #minecraft  #minecraftshorts",
+          "url": "https://www.youtube.com/watch?v=LTHnj9W4qXQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-gunes-firtinalari",
+      "category": "Uzay",
+      "title": "Güneş'teki hareket bize kadar gelir mi?",
+      "subtitle": "Güneş yalnızca ışık veren sakin bir küre değil. Patlamalar ve uzaya yayılan parçacıklar, Dünya çevresindeki ortamı da etkileyebiliyor. Uydular ve elektrik sistemleriyle bağlantısını izliyoruz.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Uzay havası",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/essQGmDss0w/frame0.jpg",
+        "alt": "Güneş'teki hareket bize kadar gelir mi? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=essQGmDss0w",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Güneş yalnızca ışık veren sakin bir küre değil. Patlamalar ve uzaya yayılan parçacıklar, Dünya çevresindeki ortamı da etkileyebiliyor. Uydular ve elektrik sistemleriyle bağlantısını izliyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "essQGmDss0w",
+        "title": "Güneş Patlamaları Tehlikeli mi? ☀️",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 61,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/essQGmDss0w/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Güneş Patlamaları Tehlikeli mi? ☀️",
+          "url": "https://www.youtube.com/watch?v=essQGmDss0w"
+        }
+      ],
+      "comments": [
+        {
+          "name": "duru",
+          "text": "Bunu kaydedeyim, sonra tekrar bakacağım."
+        },
+        {
+          "name": "mertizliyor",
+          "text": "Görüntüyle anlatılınca daha iyi anladım."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-atomlari-gormek",
+      "category": "Bilim",
+      "title": "Atomu görmek için göz yetmez",
+      "subtitle": "Masayı görüyoruz ama masayı oluşturan tek bir atomu göremiyoruz. Buradaki mesele yalnızca daha fazla yakınlaştırmak değil; ışığın ne kadar küçük ayrıntıları ayırt edebildiği de önemli.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Maddenin yapısı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/OwopvV8wfCc/frame0.jpg",
+        "alt": "Atomu görmek için göz yetmez — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=OwopvV8wfCc",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Masayı görüyoruz ama masayı oluşturan tek bir atomu göremiyoruz. Buradaki mesele yalnızca daha fazla yakınlaştırmak değil; ışığın ne kadar küçük ayrıntıları ayırt edebildiği de önemli."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "OwopvV8wfCc",
+        "title": "Neden Atomları Göremiyoruz?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 99,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/OwopvV8wfCc/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Neden Atomları Göremiyoruz?",
+          "url": "https://www.youtube.com/watch?v=OwopvV8wfCc"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-mikrodalga-firin",
+      "category": "Gündelik",
+      "title": "Mikrodalgada yemek neden ısınır?",
+      "subtitle": "Mikrodalga fırın, yemeğe elektromanyetik dalgalar gönderir. Yemek bu enerjinin bir bölümünü soğurup ısınır. Videoda hem bu mekanizma hem de kullanılan kabın neden önemli olduğu anlatılıyor.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Mutfak teknolojisi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/-20OXdk4J5U/frame0.jpg",
+        "alt": "Mikrodalgada yemek neden ısınır? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=-20OXdk4J5U",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Mikrodalga fırın, yemeğe elektromanyetik dalgalar gönderir. Yemek bu enerjinin bir bölümünü soğurup ısınır. Videoda hem bu mekanizma hem de kullanılan kabın neden önemli olduğu anlatılıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "-20OXdk4J5U",
+        "title": "Mikrodalga Fırınlar Sağlığa zararlı mı?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 101,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/-20OXdk4J5U/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Mikrodalga Fırınlar Sağlığa zararlı mı?",
+          "url": "https://www.youtube.com/watch?v=-20OXdk4J5U"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-falsolu-vurus",
+      "category": "Spor",
+      "title": "Top havada nasıl yön değiştiriyor?",
+      "subtitle": "Falsolu şutta top hem ilerler hem döner. Dönmesi, çevresindeki havanın akışını değiştirir; topun yolu da dümdüz kalmaz. Serbest vuruştaki o güzel kıvrımın arkasında fizik var.",
+      "account": "Oyunun İçinden",
+      "handle": "oyununicinden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tennis_ball_on_tennis_court_20170619.jpg/960px-Tennis_ball_on_tennis_court_20170619.jpg",
+      "avatarCredit": {
+        "label": "Santeri Viinamäki",
+        "url": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_tennis_court_20170619.jpg"
+      },
+      "topic": "Futbolun fiziği",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.2,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/2sLtyymCNc0/frame0.jpg",
+        "alt": "Top havada nasıl yön değiştiriyor? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=2sLtyymCNc0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Falsolu şutta top hem ilerler hem döner. Dönmesi, çevresindeki havanın akışını değiştirir; topun yolu da dümdüz kalmaz. Serbest vuruştaki o güzel kıvrımın arkasında fizik var."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "2sLtyymCNc0",
+        "title": "Falsolu Vuruşlar #futbol #shorts",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 71,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/2sLtyymCNc0/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Falsolu Vuruşlar #futbol #shorts",
+          "url": "https://www.youtube.com/watch?v=2sLtyymCNc0"
+        }
+      ],
+      "comments": [
+        {
+          "name": "birazmerak",
+          "text": "Kısa bir araya tam denk geldi."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-gozle-galaksi",
+      "category": "Uzay",
+      "title": "Teleskopsuz galaksi görmek mümkün mü?",
+      "subtitle": "Gökyüzündeki her ışık noktası tek bir yıldız değil. Yeterince karanlık bir yerde, uygun koşullarda başka bir galaksinin toplu ışığını da seçebiliriz. Videoda nereye bakacağımız konuşuluyor.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Gökyüzü gözlemi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/dStohxoRdGk/frame0.jpg",
+        "alt": "Teleskopsuz galaksi görmek mümkün mü? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=dStohxoRdGk",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Gökyüzündeki her ışık noktası tek bir yıldız değil. Yeterince karanlık bir yerde, uygun koşullarda başka bir galaksinin toplu ışığını da seçebiliriz. Videoda nereye bakacağımız konuşuluyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "dStohxoRdGk",
+        "title": "Çıplak Gözle Galaksi Görmek Mümkün mü?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/dStohxoRdGk/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Çıplak Gözle Galaksi Görmek Mümkün mü?",
+          "url": "https://www.youtube.com/watch?v=dStohxoRdGk"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-mars-araci",
+      "category": "Uzay",
+      "title": "Mars aracını oyun koluyla süremezsin",
+      "subtitle": "Dünya'dan gönderilen bir sinyal Mars'a hemen ulaşmaz. Bu yüzden gezgine anlık sağ-sol komutları vermek, uzaktan kumandalı araba sürmeye benzemez. Ekibin işi önceden planlaması gerekir.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Uzay robotları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.2,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/YP7CmTDf-RE/frame0.jpg",
+        "alt": "Mars aracını oyun koluyla süremezsin — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=YP7CmTDf-RE",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Dünya'dan gönderilen bir sinyal Mars'a hemen ulaşmaz. Bu yüzden gezgine anlık sağ-sol komutları vermek, uzaktan kumandalı araba sürmeye benzemez. Ekibin işi önceden planlaması gerekir."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "YP7CmTDf-RE",
+        "title": "Mars'taki Araçlar Nasıl Kontrol Ediliyor?  #mars #uzay",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 73,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/YP7CmTDf-RE/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Mars'taki Araçlar Nasıl Kontrol Ediliyor?  #mars #uzay",
+          "url": "https://www.youtube.com/watch?v=YP7CmTDf-RE"
+        }
+      ],
+      "comments": [
+        {
+          "name": "duru",
+          "text": "Bunu kaydedeyim, sonra tekrar bakacağım."
+        },
+        {
+          "name": "mertizliyor",
+          "text": "Görüntüyle anlatılınca daha iyi anladım."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-kahve-ve-uyku",
+      "category": "Bilim",
+      "title": "Kahve uykuyu nereye saklıyor?",
+      "subtitle": "Kafein, beyindeki adenozin adlı maddenin bağlandığı bazı alıcıları geçici olarak engeller. Böylece uykululuk sinyalini daha az hissederiz. Uykunun kendisi ortadan kalkmış olmaz; video bu farkı anlatıyor.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Sinir sistemi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.1,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/hBrjc7C-1KM/frame0.jpg",
+        "alt": "Kahve uykuyu nereye saklıyor? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=hBrjc7C-1KM",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Kafein, beyindeki adenozin adlı maddenin bağlandığı bazı alıcıları geçici olarak engeller. Böylece uykululuk sinyalini daha az hissederiz. Uykunun kendisi ortadan kalkmış olmaz; video bu farkı anlatıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "hBrjc7C-1KM",
+        "title": "Kahve Nasıl Uyanık Tutar",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 66,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/hBrjc7C-1KM/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Kahve Nasıl Uyanık Tutar",
+          "url": "https://www.youtube.com/watch?v=hBrjc7C-1KM"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-bovling-topu",
+      "category": "Spor",
+      "title": "Bovling topunun içi boş mu?",
+      "subtitle": "Dışarıdan ağır ve düzgün bir küre görünüyor. Oysa içindeki çekirdeğin biçimi ve ağırlığın dağılımı, topun pistteki hareketini etkiler. Bir kesit, bütün oyuna başka gözle baktırıyor.",
+      "account": "Oyunun İçinden",
+      "handle": "oyununicinden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tennis_ball_on_tennis_court_20170619.jpg/960px-Tennis_ball_on_tennis_court_20170619.jpg",
+      "avatarCredit": {
+        "label": "Santeri Viinamäki",
+        "url": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_tennis_court_20170619.jpg"
+      },
+      "topic": "Spor ekipmanları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.2,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/kbxiCZGYPrw/frame0.jpg",
+        "alt": "Bovling topunun içi boş mu? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=kbxiCZGYPrw",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Dışarıdan ağır ve düzgün bir küre görünüyor. Oysa içindeki çekirdeğin biçimi ve ağırlığın dağılımı, topun pistteki hareketini etkiler. Bir kesit, bütün oyuna başka gözle baktırıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "kbxiCZGYPrw",
+        "title": "Bovling topunun içinde ne var? 🎳 Hiç merak ettiniz mi? 🤔",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 72,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/kbxiCZGYPrw/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Bovling topunun içinde ne var? 🎳 Hiç merak ettiniz mi? 🤔",
+          "url": "https://www.youtube.com/watch?v=kbxiCZGYPrw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-adadaki-orumcekler",
+      "category": "Doğa",
+      "title": "Okyanusun ortasına örümcek nasıl gider?",
+      "subtitle": "Örümceğin kanadı yok; bu, havadan yolculuk edemeyeceği anlamına gelmiyor. Bazı örümcekler ince ipek ipliklerini kullanarak havada taşınabiliyor. Uzak adalara yayılmanın yollarından biri bu.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Hayvanların yayılması",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/MllGWEumGdk/frame0.jpg",
+        "alt": "Okyanusun ortasına örümcek nasıl gider? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=MllGWEumGdk",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Örümceğin kanadı yok; bu, havadan yolculuk edemeyeceği anlamına gelmiyor. Bazı örümcekler ince ipek ipliklerini kullanarak havada taşınabiliyor. Uzak adalara yayılmanın yollarından biri bu."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "MllGWEumGdk",
+        "title": "Okyanusun Ortasındaki Adalara Örümcekler Nasıl Geldi?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 100,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/MllGWEumGdk/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Okyanusun Ortasındaki Adalara Örümcekler Nasıl Geldi?",
+          "url": "https://www.youtube.com/watch?v=MllGWEumGdk"
+        }
+      ],
+      "comments": [
+        {
+          "name": "birazmerak",
+          "text": "Kısa bir araya tam denk geldi."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-karanlik-oda",
+      "category": "Sanat",
+      "title": "Kamerasız bir duvarda görüntü oluşur mu?",
+      "subtitle": "Karanlık bir odaya küçük bir delikten ışık girsin. Dışarıdaki manzaranın ters görüntüsü karşı duvara düşebilir. Fotoğraf makinesine uzanan hikâyenin başında bu basit düzenek var.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Fotoğrafın kökeni",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/CdJRTDyOAWY/frame0.jpg",
+        "alt": "Kamerasız bir duvarda görüntü oluşur mu? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=CdJRTDyOAWY",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Karanlık bir odaya küçük bir delikten ışık girsin. Dışarıdaki manzaranın ters görüntüsü karşı duvara düşebilir. Fotoğraf makinesine uzanan hikâyenin başında bu basit düzenek var."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "CdJRTDyOAWY",
+        "title": "İlk Kamera Nasıl Çalışıyordu?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 97,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/CdJRTDyOAWY/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · İlk Kamera Nasıl Çalışıyordu?",
+          "url": "https://www.youtube.com/watch?v=CdJRTDyOAWY"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-donan-kurbaga",
+      "category": "Doğa",
+      "title": "Donup sonra yeniden hareket etmek",
+      "subtitle": "Bazı orman kurbağaları, kışın vücutlarının bir bölümü donduğu hâlde yaşayabiliyor. Hücreleri bu koşullara nasıl dayanıyor? Video, bu uyumun doku saklama araştırmaları açısından neden ilginç olduğunu da anlatıyor.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Kışa uyum",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/qUvqgtH5sbw/frame0.jpg",
+        "alt": "Donup sonra yeniden hareket etmek — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=qUvqgtH5sbw",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bazı orman kurbağaları, kışın vücutlarının bir bölümü donduğu hâlde yaşayabiliyor. Hücreleri bu koşullara nasıl dayanıyor? Video, bu uyumun doku saklama araştırmaları açısından neden ilginç olduğunu da anlatıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "qUvqgtH5sbw",
+        "title": "🐸Kışın Donan Orman Kurbağaları ❄️",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 99,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/qUvqgtH5sbw/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · 🐸Kışın Donan Orman Kurbağaları ❄️",
+          "url": "https://www.youtube.com/watch?v=qUvqgtH5sbw"
+        }
+      ],
+      "comments": [
+        {
+          "name": "duru",
+          "text": "Bunu kaydedeyim, sonra tekrar bakacağım."
+        },
+        {
+          "name": "mertizliyor",
+          "text": "Görüntüyle anlatılınca daha iyi anladım."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-chinook-helikopter",
+      "category": "Teknoloji",
+      "title": "Bu helikopterde neden iki büyük pervane var?",
+      "subtitle": "Chinook, biri önde biri arkada iki ana rotoru bulunan bir taşıma helikopteri. Ağır yükler için tasarlanmış bu düzeni ve aracın kullanımını yakından görüyoruz.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Hava araçları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/VZomkcKNcJo/frame0.jpg",
+        "alt": "Bu helikopterde neden iki büyük pervane var? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=VZomkcKNcJo",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Chinook, biri önde biri arkada iki ana rotoru bulunan bir taşıma helikopteri. Ağır yükler için tasarlanmış bu düzeni ve aracın kullanımını yakından görüyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "VZomkcKNcJo",
+        "title": "Uçan Kale \"Chinook\"",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 90,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/VZomkcKNcJo/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Uçan Kale \"Chinook\"",
+          "url": "https://www.youtube.com/watch?v=VZomkcKNcJo"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    }
+  ]
+}

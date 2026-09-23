@@ -26,6 +26,14 @@ export function validatePost(p,ids=new Set()){
  if(p.display&&!['single','carousel','video'].includes(p.display))fail('Gösterim biçimi geçersiz.');
  if(p.art&&(!['photo','type','diagram','collage'].includes(p.art.kind)||!/^#[a-f\d]{6}$/i.test(p.art.paper)||!/^#[a-f\d]{6}$/i.test(p.art.ink)))fail('Gönderi renkleri geçersiz.');
  if(p.video?.duration!==undefined&&(!Number.isFinite(p.video.duration)||p.video.duration<=0||p.video.duration>300))fail('Video 1–300 saniye olmalı.');
+ if(p.video?.poster&&!https(p.video.poster))fail('Video önizlemesi HTTPS olmalı.');
+ if(p.video?.orientation&&!['portrait','landscape'].includes(p.video.orientation))fail('Video yönü geçersiz.');
+ if(p.video?.verifiedAt){
+  if(!/^\d{4}-\d{2}-\d{2}$/.test(p.video.verifiedAt)||Number.isNaN(Date.parse(p.video.verifiedAt)))fail('Video kontrol tarihi geçersiz.');
+  if(!p.video.publisher||!p.video.language)fail('Video yayıncısı ve dil açıklaması gerekli.');
+  if(p.video.audioLanguage!=='tr'&&p.video.captionLanguage!=='tr')fail('Kontrollü video Türkçe ses veya Türkçe altyazı içermeli.');
+  if(p.video.captionLanguage&&!['published','automatic'].includes(p.video.captionKind))fail('Altyazının türünü belirtin.');
+ }
  if(p.avatar&&!https(p.avatar))fail('Hesap görseli HTTPS olmalı.');
  if(p.display==='video'&&(!p.video||!p.video.duration))fail('Video gösteriminde kaynak gerekli.');
  if(p.video&&(!['youtube','file'].includes(p.video.kind)||(p.video.kind==='youtube'?!/^[a-zA-Z0-9_-]{11}$/.test(p.video.url):!https(p.video.url))))fail('Video kaynağı geçersiz.');

@@ -85,6 +85,21 @@
       "file": "field-and-screen-003.json",
       "title": "Sahadan ve ekrandan",
       "count": 8
+    },
+    {
+      "file": "short-videos-001.json",
+      "title": "Bir dakikada merak: bilim ve teknoloji",
+      "count": 20
+    },
+    {
+      "file": "short-videos-002.json",
+      "title": "Bir dakikada merak: gündelik sorular",
+      "count": 20
+    },
+    {
+      "file": "short-videos-003.json",
+      "title": "Bir dakikada merak: dünyadan sahneler",
+      "count": 20
     }
   ]
 }

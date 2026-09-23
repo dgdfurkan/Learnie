@@ -1,0 +1,1342 @@
+{
+  "version": 1,
+  "title": "Bir dakikada merak: gündelik sorular",
+  "posts": [
+    {
+      "id": "kisa-video-kasirganin-gozu",
+      "category": "Coğrafya",
+      "title": "Fırtınanın ortasındaki sakin yer",
+      "subtitle": "Kasırganın gözü denen merkez bölgesi, çevresindeki şiddetli rüzgârlara rağmen görece sakin olabilir. Gökyüzünün orada açılması fırtınanın bittiği anlamına gelmez. Bu tuhaf görünen yapının içine bakıyoruz.",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Hava olayları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/dPzUCWHR0Cg/frame0.jpg?usqp=CCY",
+        "alt": "Fırtınanın ortasındaki sakin yer — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=dPzUCWHR0Cg",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Kasırganın gözü denen merkez bölgesi, çevresindeki şiddetli rüzgârlara rağmen görece sakin olabilir. Gökyüzünün orada açılması fırtınanın bittiği anlamına gelmez. Bu tuhaf görünen yapının içine bakıyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "dPzUCWHR0Cg",
+        "title": "Kasırganın Merkezi Neden Güneşli Olur?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 96,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/dPzUCWHR0Cg/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Kasırganın Merkezi Neden Güneşli Olur?",
+          "url": "https://www.youtube.com/watch?v=dPzUCWHR0Cg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-patlamis-misir",
+      "category": "Gündelik",
+      "title": "Tenceredeki küçük patlamanın iç yüzü",
+      "subtitle": "Mısır tanesinin içinde az miktarda su bulunur. Isındıkça iç basınç yükselir; kabuk açılınca içerideki nişastalı yapı birden genişler. Film başlamadan önce mısırın kendi filmini izleyelim.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Yiyeceklerin fiziği",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/k2EEHSmwi44/frame0.jpg?usqp=CCY",
+        "alt": "Tenceredeki küçük patlamanın iç yüzü — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=k2EEHSmwi44",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Mısır tanesinin içinde az miktarda su bulunur. Isındıkça iç basınç yükselir; kabuk açılınca içerideki nişastalı yapı birden genişler. Film başlamadan önce mısırın kendi filmini izleyelim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "k2EEHSmwi44",
+        "title": "Patlamış Mısır Nasıl Patlar?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 102,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/k2EEHSmwi44/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Patlamış Mısır Nasıl Patlar?",
+          "url": "https://www.youtube.com/watch?v=k2EEHSmwi44"
+        }
+      ],
+      "comments": [
+        {
+          "name": "birazmerak",
+          "text": "Kısa bir araya tam denk geldi."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-kemigin-rengi",
+      "category": "Bilim",
+      "title": "Kemik, maketlerdeki gibi bembeyaz mı?",
+      "subtitle": "İskelet maketleri hep beyaz. Canlı bir kemikse kan damarları ve çeşitli dokular içeren bir yapı. Videoda, alıştığımız kemik görüntüsüyle vücudumuzdaki kemik arasındaki fark konuşuluyor.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Anatomi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.2,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/2QljuoamEpc/frame0.jpg?usqp=CCY",
+        "alt": "Kemik, maketlerdeki gibi bembeyaz mı? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=2QljuoamEpc",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "İskelet maketleri hep beyaz. Canlı bir kemikse kan damarları ve çeşitli dokular içeren bir yapı. Videoda, alıştığımız kemik görüntüsüyle vücudumuzdaki kemik arasındaki fark konuşuluyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "2QljuoamEpc",
+        "title": "Kemiklerimiz Gerçekten Beyaz mı?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 71,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/2QljuoamEpc/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Kemiklerimiz Gerçekten Beyaz mı?",
+          "url": "https://www.youtube.com/watch?v=2QljuoamEpc"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-tirnak-uzamasi",
+      "category": "Bilim",
+      "title": "Tırnağı kesiyorsun, yine uzuyor",
+      "subtitle": "Tırnak, dibindeki büyüme bölgesinde üretilir. Yeni hücreler öncekileri ileri iter; dışarıda gördüğümüz sert bölüm böyle uzar. Parmak ucundaki bu küçük üretim hattına bakalım.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "İnsan bedeni",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/GDEGWJ7f6Fg/frame0.jpg?usqp=CCY",
+        "alt": "Tırnağı kesiyorsun, yine uzuyor — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=GDEGWJ7f6Fg",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Tırnak, dibindeki büyüme bölgesinde üretilir. Yeni hücreler öncekileri ileri iter; dışarıda gördüğümüz sert bölüm böyle uzar. Parmak ucundaki bu küçük üretim hattına bakalım."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "GDEGWJ7f6Fg",
+        "title": "Tırnaklarımız Neden Uzuyor?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 61,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/GDEGWJ7f6Fg/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Tırnaklarımız Neden Uzuyor?",
+          "url": "https://www.youtube.com/watch?v=GDEGWJ7f6Fg"
+        }
+      ],
+      "comments": [
+        {
+          "name": "duru",
+          "text": "Bunu kaydedeyim, sonra tekrar bakacağım."
+        },
+        {
+          "name": "mertizliyor",
+          "text": "Görüntüyle anlatılınca daha iyi anladım."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-gokyuzunun-mavisi",
+      "category": "Bilim",
+      "title": "Hava şeffafsa gökyüzü neden mavi?",
+      "subtitle": "Güneş ışığı farklı renklerin karışımıdır. Atmosferdeki moleküller bu ışığı her renkte aynı ölçüde saçmaz. Başımızı kaldırınca gördüğümüz maviliğin nedeni, ışığın yolda yaşadığı bu değişim.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Işık ve renk",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/dTPmCsvGo34/frame0.jpg?usqp=CCY",
+        "alt": "Hava şeffafsa gökyüzü neden mavi? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=dTPmCsvGo34",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Güneş ışığı farklı renklerin karışımıdır. Atmosferdeki moleküller bu ışığı her renkte aynı ölçüde saçmaz. Başımızı kaldırınca gördüğümüz maviliğin nedeni, ışığın yolda yaşadığı bu değişim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "dTPmCsvGo34",
+        "title": "Gökyüzünü Neden Mavi Görüyoruz?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 97,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/dTPmCsvGo34/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Gökyüzünü Neden Mavi Görüyoruz?",
+          "url": "https://www.youtube.com/watch?v=dTPmCsvGo34"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-arabanin-freni",
+      "category": "Teknoloji",
+      "title": "Bir pedal, koca arabayı nasıl durduruyor?",
+      "subtitle": "Ayağın pedala bastığında fren sistemi bu kuvveti tekerleklerdeki düzeneğe iletir. Sürtünme, hareket enerjisini ısıya dönüştürür. Videoda pedaldan tekerleğe uzanan zinciri takip ediyoruz.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Otomobil mekanikleri",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/vwPJWTtXYRA/frame0.jpg?usqp=CCY",
+        "alt": "Bir pedal, koca arabayı nasıl durduruyor? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=vwPJWTtXYRA",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Ayağın pedala bastığında fren sistemi bu kuvveti tekerleklerdeki düzeneğe iletir. Sürtünme, hareket enerjisini ısıya dönüştürür. Videoda pedaldan tekerleğe uzanan zinciri takip ediyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "vwPJWTtXYRA",
+        "title": "Araba Nasıl Durur?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 93,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/vwPJWTtXYRA/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Araba Nasıl Durur?",
+          "url": "https://www.youtube.com/watch?v=vwPJWTtXYRA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-kusun-tek-ayagi",
+      "category": "Doğa",
+      "title": "Tek ayak üzerinde uyumanın mantığı",
+      "subtitle": "Bazı kuşlar dinlenirken bir ayağını tüylerinin arasına çeker. Bu garip duruşun ısı kaybıyla ilişkisi var. Bizim için zor bir denge hareketi, onlar için gündelik bir dinlenme biçimi.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Kuş davranışları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.1,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/E2zaZpKh0Ls/frame0.jpg?usqp=CCY",
+        "alt": "Tek ayak üzerinde uyumanın mantığı — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=E2zaZpKh0Ls",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bazı kuşlar dinlenirken bir ayağını tüylerinin arasına çeker. Bu garip duruşun ısı kaybıyla ilişkisi var. Bizim için zor bir denge hareketi, onlar için gündelik bir dinlenme biçimi."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "E2zaZpKh0Ls",
+        "title": "Tek Ayak Üstünde Uyuyan Kuşların Amacı Ne?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 63,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/E2zaZpKh0Ls/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Tek Ayak Üstünde Uyuyan Kuşların Amacı Ne?",
+          "url": "https://www.youtube.com/watch?v=E2zaZpKh0Ls"
+        }
+      ],
+      "comments": [
+        {
+          "name": "birazmerak",
+          "text": "Kısa bir araya tam denk geldi."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-hayalet-kristal",
+      "category": "Bilim",
+      "title": "Suyun içinde kaybolan kristal",
+      "subtitle": "Bir malzeme suya girince görünmezmiş gibi durabilir. Gözümüzün sınırları seçebilmesi, ışığın yüzeylerde nasıl kırıldığına bağlıdır. Bu küçük gösteride baktığımız şey kadar içindeki sıvı da önemli.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Optik",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/JeopoESyRyg/frame0.jpg?usqp=CCY",
+        "alt": "Suyun içinde kaybolan kristal — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=JeopoESyRyg",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bir malzeme suya girince görünmezmiş gibi durabilir. Gözümüzün sınırları seçebilmesi, ışığın yüzeylerde nasıl kırıldığına bağlıdır. Bu küçük gösteride baktığımız şey kadar içindeki sıvı da önemli."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "JeopoESyRyg",
+        "title": "Hayalet Kristal Nedir?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 78,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/JeopoESyRyg/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Hayalet Kristal Nedir?",
+          "url": "https://www.youtube.com/watch?v=JeopoESyRyg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-fosilin-olusumu",
+      "category": "Tarih",
+      "title": "Bir canlıdan fosile giden uzun yol",
+      "subtitle": "Her ölen canlı fosil olmaz. Gömülme ve korunma koşulları uygun olduğunda, kalıntılar çok uzun zamanlar boyunca iz bırakabilir. Ammonit örneği üzerinden bu yolculuğu izliyoruz.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Paleontoloji",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 2.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Kq9IM04lytg/frame0.jpg?usqp=CCY",
+        "alt": "Bir canlıdan fosile giden uzun yol — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=Kq9IM04lytg",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Her ölen canlı fosil olmaz. Gömülme ve korunma koşulları uygun olduğunda, kalıntılar çok uzun zamanlar boyunca iz bırakabilir. Ammonit örneği üzerinden bu yolculuğu izliyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Kq9IM04lytg",
+        "title": "Milyonlarca Yıllık Fosil Nasıl Oluşur?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 118,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/Kq9IM04lytg/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Milyonlarca Yıllık Fosil Nasıl Oluşur?",
+          "url": "https://www.youtube.com/watch?v=Kq9IM04lytg"
+        }
+      ],
+      "comments": [
+        {
+          "name": "duru",
+          "text": "Bunu kaydedeyim, sonra tekrar bakacağım."
+        },
+        {
+          "name": "mertizliyor",
+          "text": "Görüntüyle anlatılınca daha iyi anladım."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-klavyedeki-sifir",
+      "category": "Gündelik",
+      "title": "Sıfır, klavyede neden en sonda?",
+      "subtitle": "Sayıları sıfırdan sayabiliyoruz ama klavyedeki üst sıra 1 ile başlıyor, 0 ile bitiyor. Bugünkü dizilişi anlamak için bilgisayardan önceki yazı makinelerine bakmak gerekiyor.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Tasarım tarihi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.1,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/PAJFrXsrIO0/frame0.jpg?usqp=CCY",
+        "alt": "Sıfır, klavyede neden en sonda? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=PAJFrXsrIO0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Sayıları sıfırdan sayabiliyoruz ama klavyedeki üst sıra 1 ile başlıyor, 0 ile bitiyor. Bugünkü dizilişi anlamak için bilgisayardan önceki yazı makinelerine bakmak gerekiyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "PAJFrXsrIO0",
+        "title": "Klavyede 0 Neden 9'un Sağında Yer Alıyor?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 68,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/PAJFrXsrIO0/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Klavyede 0 Neden 9'un Sağında Yer Alıyor?",
+          "url": "https://www.youtube.com/watch?v=PAJFrXsrIO0"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-ata-soldan-binmek",
+      "category": "Tarih",
+      "title": "Ata binmenin bir tarafı mı var?",
+      "subtitle": "Birçok binicinin ata soldan yaklaştığını görürsün. Bu alışkanlığın geçmişinde, insanların yanlarında taşıdığı ekipmanların da payı var. Küçük bir hareketin tarihini izliyoruz.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Gündelik gelenekler",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.1,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/BhTLTPPt6C8/frame0.jpg?usqp=CCY",
+        "alt": "Ata binmenin bir tarafı mı var? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=BhTLTPPt6C8",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Birçok binicinin ata soldan yaklaştığını görürsün. Bu alışkanlığın geçmişinde, insanların yanlarında taşıdığı ekipmanların da payı var. Küçük bir hareketin tarihini izliyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "BhTLTPPt6C8",
+        "title": "Ata Neden Soldan Binilir?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 65,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/BhTLTPPt6C8/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Ata Neden Soldan Binilir?",
+          "url": "https://www.youtube.com/watch?v=BhTLTPPt6C8"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-yilan-ve-zehir",
+      "category": "Doğa",
+      "title": "Yılan kendi zehrinden nasıl korunuyor?",
+      "subtitle": "Zehirli bir yılanın ürettiği madde başka bir canlıya zarar verebiliyor. Peki aynı maddeyi taşıyan yılanın durumu ne? Zehrin nerede tutulduğu ve vücuda nasıl girdiği bu soruda önemli.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Hayvan biyolojisi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/GVaFc6pBPus/frame0.jpg?usqp=CCY",
+        "alt": "Yılan kendi zehrinden nasıl korunuyor? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=GVaFc6pBPus",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Zehirli bir yılanın ürettiği madde başka bir canlıya zarar verebiliyor. Peki aynı maddeyi taşıyan yılanın durumu ne? Zehrin nerede tutulduğu ve vücuda nasıl girdiği bu soruda önemli."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "GVaFc6pBPus",
+        "title": "Yılan Zehri Yılanları Etkiler mi?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 117,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/GVaFc6pBPus/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Yılan Zehri Yılanları Etkiler mi?",
+          "url": "https://www.youtube.com/watch?v=GVaFc6pBPus"
+        }
+      ],
+      "comments": [
+        {
+          "name": "birazmerak",
+          "text": "Kısa bir araya tam denk geldi."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-insan-bebegi",
+      "category": "Bilim",
+      "title": "Bir bebek neden bu kadar uzun süre bakım ister?",
+      "subtitle": "Bazı hayvan yavruları doğduktan kısa süre sonra yürürken insan bebeği aylarca başkasına bağımlı kalır. Video, büyüme ve beyin gelişimini karşılaştırarak bu farkı ele alıyor.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "İnsan gelişimi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/eArroJjguTM/frame0.jpg?usqp=CCY",
+        "alt": "Bir bebek neden bu kadar uzun süre bakım ister? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=eArroJjguTM",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bazı hayvan yavruları doğduktan kısa süre sonra yürürken insan bebeği aylarca başkasına bağımlı kalır. Video, büyüme ve beyin gelişimini karşılaştırarak bu farkı ele alıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "eArroJjguTM",
+        "title": "İnsan Bebekleri Neden Aciz?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 104,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/eArroJjguTM/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · İnsan Bebekleri Neden Aciz?",
+          "url": "https://www.youtube.com/watch?v=eArroJjguTM"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-karanlik-uzay",
+      "category": "Uzay",
+      "title": "Bu kadar yıldız varsa gece neden karanlık?",
+      "subtitle": "Milyarlarca yıldızın ışığı bütün gökyüzünü doldurmalıymış gibi geliyor. Ama evrenin yaşı, ışığın yolculuk süresi ve genişleme, bu basit hesabı değiştiriyor. Sorunun adı da var: Olbers paradoksu.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Evren",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/mqHrZ5q3C_c/frame0.jpg?usqp=CCY",
+        "alt": "Bu kadar yıldız varsa gece neden karanlık? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=mqHrZ5q3C_c",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Milyarlarca yıldızın ışığı bütün gökyüzünü doldurmalıymış gibi geliyor. Ama evrenin yaşı, ışığın yolculuk süresi ve genişleme, bu basit hesabı değiştiriyor. Sorunun adı da var: Olbers paradoksu."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "mqHrZ5q3C_c",
+        "title": "Uzayda Neden Her Yer Karanlık?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 117,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/mqHrZ5q3C_c/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Uzayda Neden Her Yer Karanlık?",
+          "url": "https://www.youtube.com/watch?v=mqHrZ5q3C_c"
+        }
+      ],
+      "comments": [
+        {
+          "name": "duru",
+          "text": "Bunu kaydedeyim, sonra tekrar bakacağım."
+        },
+        {
+          "name": "mertizliyor",
+          "text": "Görüntüyle anlatılınca daha iyi anladım."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-diken-diken-tuyler",
+      "category": "Bilim",
+      "title": "Tüylerin dibinde minicik kaslar var",
+      "subtitle": "Üşüyünce ya da heyecanlanınca tüylerin kalkabilir. Her bir kılın dibindeki küçük kaslar kasılır; derideki pütürlü görüntü böyle oluşur. Videoda bu refleksin geçmişine de bakılıyor.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "İnsan bedeni",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/QUeF8ibK-yQ/frame0.jpg?usqp=CCY",
+        "alt": "Tüylerin dibinde minicik kaslar var — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=QUeF8ibK-yQ",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Üşüyünce ya da heyecanlanınca tüylerin kalkabilir. Her bir kılın dibindeki küçük kaslar kasılır; derideki pütürlü görüntü böyle oluşur. Videoda bu refleksin geçmişine de bakılıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "QUeF8ibK-yQ",
+        "title": "Tüylerimiz Neden Diken Diken Oluyor?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 111,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/QUeF8ibK-yQ/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Tüylerimiz Neden Diken Diken Oluyor?",
+          "url": "https://www.youtube.com/watch?v=QUeF8ibK-yQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-kutup-hayvanlari",
+      "category": "Doğa",
+      "title": "Karda beyaz olmak ne işe yarar?",
+      "subtitle": "Beyaz bir hayvanı karlı zeminde seçmek zordur. Bu durum hem avcı hem av için önem taşır. Kutup canlılarının görünüşüne, saklanma ve hayatta kalma açısından bakıyoruz.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Kamuflaj",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/eiHe69x9A-o/frame0.jpg?usqp=CCY",
+        "alt": "Karda beyaz olmak ne işe yarar? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=eiHe69x9A-o",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Beyaz bir hayvanı karlı zeminde seçmek zordur. Bu durum hem avcı hem av için önem taşır. Kutup canlılarının görünüşüne, saklanma ve hayatta kalma açısından bakıyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "eiHe69x9A-o",
+        "title": "Kutuplarda Yaşayan Hayvanlar Neden Beyaz?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 83,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/eiHe69x9A-o/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Kutuplarda Yaşayan Hayvanlar Neden Beyaz?",
+          "url": "https://www.youtube.com/watch?v=eiHe69x9A-o"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-horozun-saati",
+      "category": "Doğa",
+      "title": "Horozun içinde de saat var",
+      "subtitle": "Horozun sabah ötmesi yalnızca o anda ışık görmesine bağlı değil. Günlük ritmini ayarlayan iç saat de işin içinde. Köyün çalar saatini bu kez biyoloji tarafından dinliyoruz.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Biyolojik saat",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/v9Abo37Jhrs/frame0.jpg?usqp=CCY",
+        "alt": "Horozun içinde de saat var — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=v9Abo37Jhrs",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Horozun sabah ötmesi yalnızca o anda ışık görmesine bağlı değil. Günlük ritmini ayarlayan iç saat de işin içinde. Köyün çalar saatini bu kez biyoloji tarafından dinliyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "v9Abo37Jhrs",
+        "title": "Horozlar Neden Sabah Ötüyor?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 76,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/v9Abo37Jhrs/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Horozlar Neden Sabah Ötüyor?",
+          "url": "https://www.youtube.com/watch?v=v9Abo37Jhrs"
+        }
+      ],
+      "comments": [
+        {
+          "name": "birazmerak",
+          "text": "Kısa bir araya tam denk geldi."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-klavye-duzeni",
+      "category": "Teknoloji",
+      "title": "Harfler klavyede niye karmakarışık?",
+      "subtitle": "QWERTY, klavyenin ilk altı harfinden adını alıyor. Alfabe sırasını kullanmayan bu düzen, bilgisayarlardan önce daktilolarda ortaya çıktı. Alıştığımız tuşların geçmişine kısa bir yolculuk.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Tasarım tarihi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/36Bs7n8mfNo/frame0.jpg?usqp=CCY",
+        "alt": "Harfler klavyede niye karmakarışık? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=36Bs7n8mfNo",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "QWERTY, klavyenin ilk altı harfinden adını alıyor. Alfabe sırasını kullanmayan bu düzen, bilgisayarlardan önce daktilolarda ortaya çıktı. Alıştığımız tuşların geçmişine kısa bir yolculuk."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "36Bs7n8mfNo",
+        "title": "Klavye Tuşları Neden Alfabetik Sırada Değil?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 88,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/36Bs7n8mfNo/frame0.jpg?usqp=CCY",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Klavye Tuşları Neden Alfabetik Sırada Değil?",
+          "url": "https://www.youtube.com/watch?v=36Bs7n8mfNo"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-mayin-arayan-fareler",
+      "category": "Doğa",
+      "title": "Küçük burun, büyük iş",
+      "subtitle": "Kamboçya'da eğitilmiş Afrika dev sıçanları, mayın arama çalışmalarında kullanılıyor. Bu kesitte eğitimlerini ve arazide nasıl çalıştıklarını görüyoruz. Buradaki beceri, koku ayırt etmek.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Hayvanlarla çalışma",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Z1V5kGhPoqo/frame0.jpg",
+        "alt": "Küçük burun, büyük iş — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=Z1V5kGhPoqo",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Kamboçya'da eğitilmiş Afrika dev sıçanları, mayın arama çalışmalarında kullanılıyor. Bu kesitte eğitimlerini ve arazide nasıl çalıştıklarını görüyoruz. Buradaki beceri, koku ayırt etmek."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Z1V5kGhPoqo",
+        "title": "Mayın Avcıları",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 89,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/Z1V5kGhPoqo/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Mayın Avcıları",
+          "url": "https://www.youtube.com/watch?v=Z1V5kGhPoqo"
+        }
+      ],
+      "comments": [
+        {
+          "name": "duru",
+          "text": "Bunu kaydedeyim, sonra tekrar bakacağım."
+        },
+        {
+          "name": "mertizliyor",
+          "text": "Görüntüyle anlatılınca daha iyi anladım."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-ahilik",
+      "category": "Tarih",
+      "title": "Bir dükkândan fazlası: Ahilik",
+      "subtitle": "Ahilik, Anadolu'da esnafın meslek öğrenmesini ve birlikte yaşamasını düzenleyen bir gelenek. Ustalığın yanında dürüstlük ve yardımlaşma da anlatının parçası. Çarşıya bu gözle bakalım.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Anadolu kültürü",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/EBQNUjwy228/frame0.jpg",
+        "alt": "Bir dükkândan fazlası: Ahilik — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=EBQNUjwy228",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Ahilik, Anadolu'da esnafın meslek öğrenmesini ve birlikte yaşamasını düzenleyen bir gelenek. Ustalığın yanında dürüstlük ve yardımlaşma da anlatının parçası. Çarşıya bu gözle bakalım."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "EBQNUjwy228",
+        "title": "Medeniyet Sayfaları: Ahiler #trt #belgesel #AhilikHaftası #shorts",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 95,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/EBQNUjwy228/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Medeniyet Sayfaları: Ahiler #trt #belgesel #AhilikHaftası #shorts",
+          "url": "https://www.youtube.com/watch?v=EBQNUjwy228"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    }
+  ]
+}

@@ -79,3 +79,15 @@ Koleksiyonlar `UserState.collections` içinde `{id,name,postIds,createdAt}` olar
 - `slides[].title` boş bırakılabilir. Her parça, önceki paragrafın devamı olarak tek somut fikri açıklamalı. Telefonda 300 karakteri aşmayın. Anlatıma nesnenin/olayın adı ve temel tanımıyla başlayın. Yalnız başlık değiştirerek aynı metni çoğaltmayın.
 
 Örnekler: `public/content/field-and-screen-003.json`. Yeni görselleri repoya indirmeyin; yeni fotoğraflarda dış adres, hak bilgisi ve kaynak sayfası bulunmalı. Kodla çizilmiş açıklayıcı SVG sahneleri `src/SportScene.tsx` gibi bileşenlerde tutulabilir.
+
+## Kısa video seçkisi · 23 Eylül 2026
+
+`short-videos-001/002/003.json`: 60 yeni YouTube videosu, her biri 60–118 saniye; toplam arşiv 399 gönderi. Kaynaklar TÜBİTAK Bilim Genç, TRT Belgesel, Evrim Ağacı ve Barış Özcan. Videolar kopyalanmaz; yayıncının gömülü oynatıcısı kullanılır. Kapak görselleri de dış URL olarak kalır.
+
+`video` alanında `publisher`, `duration`, `orientation`, `poster`, `audioLanguage`, `captionLanguage`, `captionKind` ve `verifiedAt` saklanır. `captionKind: automatic`, gerçekten mevcut Türkçe otomatik altyazı kanalını belirtir; YouTube'un sonradan otomatik çeviri sunabilmesi doğrulama sayılmaz. Seçkideki tüm videolarda `tr` altyazı kanalı görüldü. Oynatıcı Türkçe arayüz ve altyazı ister; çok sesli videolarda kullanıcı YouTube ayarlarından Türkçe ses kanalını seçebilir.
+
+Kontrol kaydı: `docs/video-audit-2026-09-23.json`. Süre, Türkiye erişimi, gömme izni ve dil kanalları YouTube'un herkese açık oynatıcı verilerinden kontrol edildi. Bu, her cihazda görüntü/ses aktarımının test edildiği veya yayıncının videoyu gelecekte kaldırmayacağı anlamına gelmez. Yayıncı bağlantısı her zaman oynatıcının altında kalır. Yeni paketlerde aynı kontrolleri tekrarlayın; altyazı veya Türkçe ses yoksa içerik eklemeyin. El yapımı Türkçe altyazı bu sürümde kullanılmıyor.
+
+## Marka
+
+Ana vektör kaynak `src/assets/brand.svg`. Uygulama içindeki simge, açılış animasyonu, favicon, PWA ve Apple ikonları bu kaynaktan üretilir. `scripts/postbuild.mjs`, SVG'yi `/icon.svg` olarak da yayımlar; maskable ikonun güvenli alanını korur. Açılış animasyonu yaklaşık 1 saniyedir, azaltılmış hareket tercihinde ve doğrudan gönderi bağlantılarında gösterilmez; gezinmede tekrar etmez.

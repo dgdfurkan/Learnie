@@ -1,0 +1,1342 @@
+{
+  "version": 1,
+  "title": "Bir dakikada merak: dünyadan sahneler",
+  "posts": [
+    {
+      "id": "kisa-video-karinca-aslani",
+      "category": "Doğa",
+      "title": "Kumdaki çukur aslında tuzak",
+      "subtitle": "Karınca aslanının larvası kumda huni biçimli bir çukur açar. Kenardan kayan küçük canlılar, dipte bekleyen avcıya yaklaşır. Bu kesitte tuzağın kuruluşunu ve işleyişini yakından görüyoruz.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Böcekler",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Aed5nZXwneY/frame0.jpg",
+        "alt": "Kumdaki çukur aslında tuzak — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=Aed5nZXwneY",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Karınca aslanının larvası kumda huni biçimli bir çukur açar. Kenardan kayan küçük canlılar, dipte bekleyen avcıya yaklaşır. Bu kesitte tuzağın kuruluşunu ve işleyişini yakından görüyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Aed5nZXwneY",
+        "title": "Karınca Aslanı",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 83,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/Aed5nZXwneY/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Karınca Aslanı",
+          "url": "https://www.youtube.com/watch?v=Aed5nZXwneY"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-butko-zeytini",
+      "category": "Coğrafya",
+      "title": "Zeytin hasadı bazen tırmanış demek",
+      "subtitle": "Artvin'in Yusufeli ilçesinde butko zeytini sarp yamaçlarda yetişiyor. Meyveyi toplamak için ağaca ve araziye uyum sağlamak gerekiyor. Hasat dediğimiz işin burada nasıl göründüğüne bakalım.",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Yerel üretim",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/2pIPUl5G-P0/frame0.jpg",
+        "alt": "Zeytin hasadı bazen tırmanış demek — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=2pIPUl5G-P0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Artvin'in Yusufeli ilçesinde butko zeytini sarp yamaçlarda yetişiyor. Meyveyi toplamak için ağaca ve araziye uyum sağlamak gerekiyor. Hasat dediğimiz işin burada nasıl göründüğüne bakalım."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "2pIPUl5G-P0",
+        "title": "Sarp Kayalıklarda Yetişen Butko Zeytini #trt #belgesel #zeytin #hasat #shorts",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 77,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/2pIPUl5G-P0/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Sarp Kayalıklarda Yetişen Butko Zeytini #trt #belgesel #zeytin #hasat #shorts",
+          "url": "https://www.youtube.com/watch?v=2pIPUl5G-P0"
+        }
+      ],
+      "comments": [
+        {
+          "name": "birazmerak",
+          "text": "Kısa bir araya tam denk geldi."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-ravanahatha",
+      "category": "Sanat",
+      "title": "Bu yaylı çalgının adı ravanahatha",
+      "subtitle": "Hindistan'ın geleneksel çalgılarından ravanahatha, bir yayla çalınıyor. Hem biçimini hem sesini tanımak için kısa bir mola. Kemanı hatırlatan şeyin ne olduğuna kulak ver.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Dünya müzikleri",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/-yp2ns8f1g0/frame0.jpg",
+        "alt": "Bu yaylı çalgının adı ravanahatha — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=-yp2ns8f1g0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Hindistan'ın geleneksel çalgılarından ravanahatha, bir yayla çalınıyor. Hem biçimini hem sesini tanımak için kısa bir mola. Kemanı hatırlatan şeyin ne olduğuna kulak ver."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "-yp2ns8f1g0",
+        "title": "Kemanın Atası Ravanahatha #trt #belgesel #keman",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/-yp2ns8f1g0/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Kemanın Atası Ravanahatha #trt #belgesel #keman",
+          "url": "https://www.youtube.com/watch?v=-yp2ns8f1g0"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-dere-kusu",
+      "category": "Doğa",
+      "title": "Bu kuş yemek için suya dalıyor",
+      "subtitle": "Dere kuşu, yavruları için akıntının altında besin arıyor. Yuvasını şelalenin ardına kurduğu bu kesitte, karada gördüğümüz bir kuşun suyla ilişkisini izliyoruz.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Kuşlar",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/MXGzNX8AFy4/frame0.jpg",
+        "alt": "Bu kuş yemek için suya dalıyor — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=MXGzNX8AFy4",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Dere kuşu, yavruları için akıntının altında besin arıyor. Yuvasını şelalenin ardına kurduğu bu kesitte, karada gördüğümüz bir kuşun suyla ilişkisini izliyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "MXGzNX8AFy4",
+        "title": "Dere Kuşunun Mücadelesi #trt #belgesel #kuş #shorts",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 85,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/MXGzNX8AFy4/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Dere Kuşunun Mücadelesi #trt #belgesel #kuş #shorts",
+          "url": "https://www.youtube.com/watch?v=MXGzNX8AFy4"
+        }
+      ],
+      "comments": [
+        {
+          "name": "duru",
+          "text": "Bunu kaydedeyim, sonra tekrar bakacağım."
+        },
+        {
+          "name": "mertizliyor",
+          "text": "Görüntüyle anlatılınca daha iyi anladım."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-amazon-okul-yolu",
+      "category": "Coğrafya",
+      "title": "Okul servisi yerine kano",
+      "subtitle": "Amazon bölgesinde yaşayan 13 yaşındaki Iya için okula gitmek suyun üzerinde yol almak demek. Bu kısa belgesel, aynı gündelik işin başka bir coğrafyada ne kadar farklı göründüğünü gösteriyor.",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Gündelik yaşam",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Bq6lMb0njp4/frame0.jpg",
+        "alt": "Okul servisi yerine kano — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=Bq6lMb0njp4",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Amazon bölgesinde yaşayan 13 yaşındaki Iya için okula gitmek suyun üzerinde yol almak demek. Bu kısa belgesel, aynı gündelik işin başka bir coğrafyada ne kadar farklı göründüğünü gösteriyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Bq6lMb0njp4",
+        "title": "Kano İle Zorlu Okul Yolculuğu #trt #belgesel #amazon",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 85,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/Bq6lMb0njp4/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Kano İle Zorlu Okul Yolculuğu #trt #belgesel #amazon",
+          "url": "https://www.youtube.com/watch?v=Bq6lMb0njp4"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-ulukale-dutu",
+      "category": "Coğrafya",
+      "title": "Bir dutun yetiştiği yere gidelim",
+      "subtitle": "Tunceli'nin Çemişgezek ilçesindeki Ulukale köyündeyiz. Burada yetişen dutun üretim sürecini izliyoruz. Markette gördüğümüz bir ürünü, onu yetiştiren insanların yanında tanımak başka.",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Yerel üretim",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/M7OJ9OY6pao/frame0.jpg",
+        "alt": "Bir dutun yetiştiği yere gidelim — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=M7OJ9OY6pao",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Tunceli'nin Çemişgezek ilçesindeki Ulukale köyündeyiz. Burada yetişen dutun üretim sürecini izliyoruz. Markette gördüğümüz bir ürünü, onu yetiştiren insanların yanında tanımak başka."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "M7OJ9OY6pao",
+        "title": "Ulukale Dutu",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 85,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/M7OJ9OY6pao/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Ulukale Dutu",
+          "url": "https://www.youtube.com/watch?v=M7OJ9OY6pao"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-tohum-tasiyan-kuslar",
+      "category": "Doğa",
+      "title": "Bir kuş farkında olmadan ağaç dikebilir",
+      "subtitle": "Kuşlar tohumları bulundukları yerden başka yerlere taşır. Bu tohumların bir kısmı uygun yerde filizlenebilir. Ormanın yayılmasında küçücük yolculukların da payı olduğunu görüyoruz.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Ekoloji",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.1,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/GBCY0Ldhib4/frame0.jpg",
+        "alt": "Bir kuş farkında olmadan ağaç dikebilir — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=GBCY0Ldhib4",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Kuşlar tohumları bulundukları yerden başka yerlere taşır. Bu tohumların bir kısmı uygun yerde filizlenebilir. Ormanın yayılmasında küçücük yolculukların da payı olduğunu görüyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "GBCY0Ldhib4",
+        "title": "Doğayı Yeşerten Gizli Kahramanlar! #trt #belgesel #doğa",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 66,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/GBCY0Ldhib4/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Doğayı Yeşerten Gizli Kahramanlar! #trt #belgesel #doğa",
+          "url": "https://www.youtube.com/watch?v=GBCY0Ldhib4"
+        }
+      ],
+      "comments": [
+        {
+          "name": "birazmerak",
+          "text": "Kısa bir araya tam denk geldi."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-hayalet-yengecler",
+      "category": "Doğa",
+      "title": "Kumsal boş sanıyorduk",
+      "subtitle": "Adana'daki Akyatan kumsalında hayalet yengeçleri izliyoruz. Bir sahile yalnızca denize girilecek yer diye bakınca gözden kaçan canlılardan biri. Kumun üstündeki hareketlere dikkat.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Kıyı yaşamı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/RGXS44jRzgQ/frame0.jpg",
+        "alt": "Kumsal boş sanıyorduk — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=RGXS44jRzgQ",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Adana'daki Akyatan kumsalında hayalet yengeçleri izliyoruz. Bir sahile yalnızca denize girilecek yer diye bakınca gözden kaçan canlılardan biri. Kumun üstündeki hareketlere dikkat."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "RGXS44jRzgQ",
+        "title": "Hayalet Yengeçler 🦀",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 79,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/RGXS44jRzgQ/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Hayalet Yengeçler 🦀",
+          "url": "https://www.youtube.com/watch?v=RGXS44jRzgQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-maden-suyu-siseleme",
+      "category": "Gündelik",
+      "title": "Maden suyu şişeye nasıl giriyor?",
+      "subtitle": "Masanın üstündeki şişeden geriye, üretim hattına gidiyoruz. Bu kesitte maden suyunun şişelenme süreci var. Her gün gördüğümüz ambalajın arkasındaki düzeni izlemek için iyi bir fırsat.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Üretim süreçleri",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/PMu-MnYzGhU/frame0.jpg",
+        "alt": "Maden suyu şişeye nasıl giriyor? — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=PMu-MnYzGhU",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Masanın üstündeki şişeden geriye, üretim hattına gidiyoruz. Bu kesitte maden suyunun şişelenme süreci var. Her gün gördüğümüz ambalajın arkasındaki düzeni izlemek için iyi bir fırsat."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "PMu-MnYzGhU",
+        "title": "Maden Suyu",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 85,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/PMu-MnYzGhU/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Maden Suyu",
+          "url": "https://www.youtube.com/watch?v=PMu-MnYzGhU"
+        }
+      ],
+      "comments": [
+        {
+          "name": "duru",
+          "text": "Bunu kaydedeyim, sonra tekrar bakacağım."
+        },
+        {
+          "name": "mertizliyor",
+          "text": "Görüntüyle anlatılınca daha iyi anladım."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-camlica-anteni",
+      "category": "Teknoloji",
+      "title": "Kulenin tepesine o anten nasıl çıktı?",
+      "subtitle": "Çamlıca Kulesi'nin anteni, tek başına büyük bir çelik yapı. Bu parçanın kurulması da binanın yükselmesi kadar planlama istiyor. İnşaatın gözden uzak kalan aşamasına bakıyoruz.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Yapı mühendisliği",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/ra1iMs3vKuY/frame0.jpg",
+        "alt": "Kulenin tepesine o anten nasıl çıktı? — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=ra1iMs3vKuY",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Çamlıca Kulesi'nin anteni, tek başına büyük bir çelik yapı. Bu parçanın kurulması da binanın yükselmesi kadar planlama istiyor. İnşaatın gözden uzak kalan aşamasına bakıyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "ra1iMs3vKuY",
+        "title": "Çamlıca Kulesinin Anten İnşası",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 89,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/ra1iMs3vKuY/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Çamlıca Kulesinin Anten İnşası",
+          "url": "https://www.youtube.com/watch?v=ra1iMs3vKuY"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-koyun-kirkimi",
+      "category": "Doğa",
+      "title": "Yün kazağın hikâyesi burada başlıyor",
+      "subtitle": "Bir çiftlikte yaz hazırlıklarını izliyoruz: koyunlar kırkılıyor. Sürüyle çalışmak hız kadar dikkat de gerektiriyor. Videoda bu işin nasıl bir mesai olduğunu görebilirsin.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Çiftlik yaşamı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/8n0-uk9yPDg/frame0.jpg",
+        "alt": "Yün kazağın hikâyesi burada başlıyor — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=8n0-uk9yPDg",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bir çiftlikte yaz hazırlıklarını izliyoruz: koyunlar kırkılıyor. Sürüyle çalışmak hız kadar dikkat de gerektiriyor. Videoda bu işin nasıl bir mesai olduğunu görebilirsin."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "8n0-uk9yPDg",
+        "title": "Koyun Kırkımı",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 88,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/8n0-uk9yPDg/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Koyun Kırkımı",
+          "url": "https://www.youtube.com/watch?v=8n0-uk9yPDg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-maras-kurabiyesi",
+      "category": "Gündelik",
+      "title": "Bu kez mutfağa Kahramanmaraş'tan giriyoruz",
+      "subtitle": "Maraş kurabiyesinin hazırlanışını izliyoruz. Bir yörenin yemek kültürünü tanımanın en güzel yollarından biri, hamurun başında durmak. Malzemelerin nasıl bir araya geldiğine bak.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Yemek kültürü",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/ayuqiXvuYeY/frame0.jpg",
+        "alt": "Bu kez mutfağa Kahramanmaraş'tan giriyoruz — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=ayuqiXvuYeY",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Maraş kurabiyesinin hazırlanışını izliyoruz. Bir yörenin yemek kültürünü tanımanın en güzel yollarından biri, hamurun başında durmak. Malzemelerin nasıl bir araya geldiğine bak."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "ayuqiXvuYeY",
+        "title": "Maraş Kurabiyesi",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 86,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/ayuqiXvuYeY/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Maraş Kurabiyesi",
+          "url": "https://www.youtube.com/watch?v=ayuqiXvuYeY"
+        }
+      ],
+      "comments": [
+        {
+          "name": "birazmerak",
+          "text": "Kısa bir araya tam denk geldi."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-aserola-meyvesi",
+      "category": "Doğa",
+      "title": "Aserola ile tanışalım",
+      "subtitle": "Brezilya'da bir meyve bahçesindeyiz. Aserola adlı küçük tropik meyveyi yerinde görüyoruz. Dünyada market rafımızdakilerden çok daha fazla tat ve bitki var.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Bitkiler",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/74slVULPsqM/frame0.jpg",
+        "alt": "Aserola ile tanışalım — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=74slVULPsqM",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Brezilya'da bir meyve bahçesindeyiz. Aserola adlı küçük tropik meyveyi yerinde görüyoruz. Dünyada market rafımızdakilerden çok daha fazla tat ve bitki var."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "74slVULPsqM",
+        "title": "Aserola Meyvesi",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 61,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/74slVULPsqM/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Aserola Meyvesi",
+          "url": "https://www.youtube.com/watch?v=74slVULPsqM"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-palmiye-kakadusu",
+      "category": "Doğa",
+      "title": "Kuşun elindeki dal, baget gibi",
+      "subtitle": "Palmiye kakadusunun bir dal parçasıyla ritim tuttuğu anları izliyoruz. Bir nesneyi yalnızca taşımakla onu bir iş için kullanmak arasındaki fark burada gözümüzün önünde.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Hayvan davranışları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/ooDiAWvCWzw/frame0.jpg",
+        "alt": "Kuşun elindeki dal, baget gibi — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=ooDiAWvCWzw",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Palmiye kakadusunun bir dal parçasıyla ritim tuttuğu anları izliyoruz. Bir nesneyi yalnızca taşımakla onu bir iş için kullanmak arasındaki fark burada gözümüzün önünde."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "ooDiAWvCWzw",
+        "title": "Palmiye Kakadusu",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 92,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/ooDiAWvCWzw/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Palmiye Kakadusu",
+          "url": "https://www.youtube.com/watch?v=ooDiAWvCWzw"
+        }
+      ],
+      "comments": [
+        {
+          "name": "duru",
+          "text": "Bunu kaydedeyim, sonra tekrar bakacağım."
+        },
+        {
+          "name": "mertizliyor",
+          "text": "Görüntüyle anlatılınca daha iyi anladım."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-yavru-leoparlar",
+      "category": "Doğa",
+      "title": "Serengeti'de bir yuvaya uğrayalım",
+      "subtitle": "Yavru leoparlar gizli bir yuvada büyürken anneleri besin bulmak için dışarı çıkıyor. Bu kesitte avcının gücünden çok, yavruların korunmaya ihtiyaç duyduğu dönemi görüyoruz.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Yaban hayatı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/hoRVsrSDpd0/frame0.jpg",
+        "alt": "Serengeti'de bir yuvaya uğrayalım — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=hoRVsrSDpd0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Yavru leoparlar gizli bir yuvada büyürken anneleri besin bulmak için dışarı çıkıyor. Bu kesitte avcının gücünden çok, yavruların korunmaya ihtiyaç duyduğu dönemi görüyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "hoRVsrSDpd0",
+        "title": "Yavru Leoparlar",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 84,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/hoRVsrSDpd0/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Yavru Leoparlar",
+          "url": "https://www.youtube.com/watch?v=hoRVsrSDpd0"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-oyomyakon-okul-yolu",
+      "category": "Coğrafya",
+      "title": "Eksi 50 derecede okul yolu",
+      "subtitle": "Yakutistan'daki Oymyakon'da çocuklara eşlik ediyoruz. Aynı okul sabahı, bu kez çok sert bir soğukta yaşanıyor. Coğrafyanın günlük hayatı nasıl değiştirdiğini görmek için kısa bir pencere.",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Soğuk iklimlerde yaşam",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/CclIvpAhEzc/frame0.jpg",
+        "alt": "Eksi 50 derecede okul yolu — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=CclIvpAhEzc",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Yakutistan'daki Oymyakon'da çocuklara eşlik ediyoruz. Aynı okul sabahı, bu kez çok sert bir soğukta yaşanıyor. Coğrafyanın günlük hayatı nasıl değiştirdiğini görmek için kısa bir pencere."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "CclIvpAhEzc",
+        "title": "Dünyanın En Soğuk Okul Yolu",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 86,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/CclIvpAhEzc/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Dünyanın En Soğuk Okul Yolu",
+          "url": "https://www.youtube.com/watch?v=CclIvpAhEzc"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-jilet-uretimi",
+      "category": "Teknoloji",
+      "title": "İncecik bir jiletin üretim yolculuğu",
+      "subtitle": "Bir metal parçasının tıraş bıçağına dönüşmesi, yalnızca kesilip paketlenmesi değil. Bu kısa fabrika kesitinde jiletin üretim aşamalarını izliyoruz. Her gün kullanılan küçük bir eşyanın arkasında koca bir hat var.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Üretim süreçleri",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/6zQP6o_mPdI/frame0.jpg",
+        "alt": "İncecik bir jiletin üretim yolculuğu — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=6zQP6o_mPdI",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bir metal parçasının tıraş bıçağına dönüşmesi, yalnızca kesilip paketlenmesi değil. Bu kısa fabrika kesitinde jiletin üretim aşamalarını izliyoruz. Her gün kullanılan küçük bir eşyanın arkasında koca bir hat var."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "6zQP6o_mPdI",
+        "title": "Jilet Nasıl Yapılır",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 88,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/6zQP6o_mPdI/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Jilet Nasıl Yapılır",
+          "url": "https://www.youtube.com/watch?v=6zQP6o_mPdI"
+        }
+      ],
+      "comments": [
+        {
+          "name": "birazmerak",
+          "text": "Kısa bir araya tam denk geldi."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-altay-koyu",
+      "category": "Coğrafya",
+      "title": "Niğde'de Kazak kültürünün izleri",
+      "subtitle": "Altay köyünde, Orta Asya'dan Anadolu'ya taşınan yaşam biçimlerine bakıyoruz. Bir göç yalnızca insanların yer değiştirmesi değil; alışkanlıkların ve hatıraların da yeni bir yere taşınması.",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Göç ve kültür",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.2,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/8LtJhW2Qwb8/frame0.jpg",
+        "alt": "Niğde'de Kazak kültürünün izleri — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=8LtJhW2Qwb8",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Altay köyünde, Orta Asya'dan Anadolu'ya taşınan yaşam biçimlerine bakıyoruz. Bir göç yalnızca insanların yer değiştirmesi değil; alışkanlıkların ve hatıraların da yeni bir yere taşınması."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "8LtJhW2Qwb8",
+        "title": "Türkiye'nin Tek Kazak Köyü",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 73,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/8LtJhW2Qwb8/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Türkiye'nin Tek Kazak Köyü",
+          "url": "https://www.youtube.com/watch?v=8LtJhW2Qwb8"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-highland-sigirlari",
+      "category": "Doğa",
+      "title": "Perçemi gözlerine düşen sığır",
+      "subtitle": "İskoçya'nın Highland bölgesinde, uzun tüylü Highland sığırlarıyla karşılaşıyoruz. Bir hayvanın görünüşüyle yaşadığı iklim arasındaki ilişkiyi düşünmek için güzel bir karşılaşma.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Hayvan ırkları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.2,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/R0Mjnt3OHLQ/frame0.jpg",
+        "alt": "Perçemi gözlerine düşen sığır — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=R0Mjnt3OHLQ",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "İskoçya'nın Highland bölgesinde, uzun tüylü Highland sığırlarıyla karşılaşıyoruz. Bir hayvanın görünüşüyle yaşadığı iklim arasındaki ilişkiyi düşünmek için güzel bir karşılaşma."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "R0Mjnt3OHLQ",
+        "title": "Highland İnekleri",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 70,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/R0Mjnt3OHLQ/frame0.jpg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Highland İnekleri",
+          "url": "https://www.youtube.com/watch?v=R0Mjnt3OHLQ"
+        }
+      ],
+      "comments": [
+        {
+          "name": "duru",
+          "text": "Bunu kaydedeyim, sonra tekrar bakacağım."
+        },
+        {
+          "name": "mertizliyor",
+          "text": "Görüntüyle anlatılınca daha iyi anladım."
+        }
+      ],
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "kisa-video-pi-sayisi",
+      "category": "Bilim",
+      "title": "Pi, yalnızca 3,14 yazmak değil",
+      "subtitle": "Bir çemberin çevresini çapına böldüğünde pi sayısını elde edersin. Barış Özcan'ın bu kısa anlatımı, okulda ezberlediğimiz sayıya biraz daha yakından bakmak için bir başlangıç.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Matematik",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#252823",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/puan4p0v4wk/frame0.jpg?usqp=CCc",
+        "alt": "Pi, yalnızca 3,14 yazmak değil — video önizlemesi",
+        "credit": "Barış Özcan",
+        "source": "https://www.youtube.com/watch?v=puan4p0v4wk",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bir çemberin çevresini çapına böldüğünde pi sayısını elde edersin. Barış Özcan'ın bu kısa anlatımı, okulda ezberlediğimiz sayıya biraz daha yakından bakmak için bir başlangıç."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "puan4p0v4wk",
+        "title": "Pi'yi hafife almayın!",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 89,
+        "orientation": "portrait",
+        "publisher": "Barış Özcan",
+        "poster": "https://i.ytimg.com/vi/puan4p0v4wk/frame0.jpg?usqp=CCc",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-23"
+      },
+      "sources": [
+        {
+          "label": "Barış Özcan · Pi'yi hafife almayın!",
+          "url": "https://www.youtube.com/watch?v=puan4p0v4wk"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-23"
+    }
+  ]
+}

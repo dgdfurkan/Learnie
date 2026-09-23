@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="120" fill="#252823"/>
+  <path class="logo-page logo-left" d="M256 362c-25-24-51-35-85-35h-31V151h31c34 0 60 11 85 35" stroke="#F2F0E7" stroke-width="23" stroke-linecap="round" stroke-linejoin="round"/>
+  <path class="logo-page logo-right" d="M256 362c25-24 51-35 85-35h31V151h-31c-34 0-60 11-85 35v176" stroke="#F2F0E7" stroke-width="23" stroke-linecap="round" stroke-linejoin="round"/>
+  <path class="logo-line" d="M182 209v73h29" stroke="#AAB29B" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
