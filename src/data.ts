@@ -16,6 +16,10 @@ export async function loadContent(onProgress?:(posts:Post[])=>void):Promise<Post
   while(cursor<manifest.packs.length){const index=cursor++,pack=manifest.packs[index];const r=await fetch(`${BASE}content/${pack.file}`,{cache:'no-cache'});if(!r.ok)throw new Error('Bir içerik paketi yüklenemedi.');const data=await r.json();batches[index]=data.posts;onProgress?.(batches.flat());}
  }));
  posts.push(...batches.flat());
+ // Keep each editorial identity visually distinct, including accounts sharing a subject photo.
+ const accountPortraits:Record<string,string>={dusuncearasi:'inanc-chartres',sahakenari:'spor-futbol-on-numara',metninizinde:'kesif-gizli-yardim',sayfaarasi:'kesif-civi-yazi'};
+ const portraitCovers=new Map(posts.map(p=>[p.id,p.cover]));
+ for(const post of posts){const cover=portraitCovers.get(accountPortraits[post.handle]);if(cover){post.avatar=cover.url;post.avatarCredit={label:cover.credit,url:cover.source};}}
  return posts;
 }
 export function parseBackup(raw:string):UserState {
