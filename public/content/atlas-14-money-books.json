@@ -7,7 +7,7 @@
       "layout": "receipt",
       "category": "Finans",
       "title": "Herkesin alışveriş fişi aynı değil.",
-      "subtitle": "Enflasyon sepeti nasıl düşünülür?",
+      "subtitle": "Enflasyon, fiyatların genel düzeyindeki artışı anlatır.",
       "account": "Hesap Ortada",
       "handle": "hesaportada",
       "cover": {
@@ -24,12 +24,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Ortalama tüketim",
-          "text": "Tüketici fiyat endeksleri, çeşitli mal ve hizmetlerden oluşan temsili bir sepeti izler. Kalemlerin ağırlıkları harcama paylarıyla ilişkilidir."
+          "title": "",
+          "text": "Enflasyon, fiyatların genel düzeyindeki artışı anlatır. Bunu ölçmek için farklı mal ve hizmetlerden oluşan temsili bir sepetin zaman içindeki fiyatı izlenebilir. Sepetteki her kalemin etkisi aynı olmak zorunda değildir."
         },
         {
-          "title": "Eşit oy kullanmazlar",
-          "text": "Çok harcanan kalemin fiyat değişimi, az harcanandan daha büyük etki yapabilir. Sepetteki bütün fiyatları düz ortalamak aynı sonucu vermez."
+          "title": "",
+          "text": "Basit bir örnekte harcamanın yüzde 80'i gıdaya, yüzde 20'si ulaşıma ayrılsın. Gıda yüzde 10, ulaşım yüzde 30 artsın. Ağırlıklı artış 0,80 × 10 + 0,20 × 30 = yüzde 14 olur; düz ortalama olan yüzde 20 değil."
+        },
+        {
+          "title": "",
+          "text": "Bu örnek gerçek bir ülke endeksi değil, ağırlığın ne yaptığını gösteren hesap. Çok para harcanan kalemin fiyatı genel bütçeyi daha fazla etkiler. Endeksi okurken hangi sepetin ve hangi ağırlıkların kullanıldığını bilmek gerekir."
         }
       ],
       "sources": [
@@ -38,8 +42,22 @@
           "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me-more/html/what_is_inflation.en.html"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "Bebas Neue",
+        "paper": "#192f2a",
+        "ink": "#f3eddc",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+      "avatarCredit": {
+        "label": "Pearson Scott Foresman",
+        "url": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png"
+      }
     },
     {
       "id": "kesif-fiyat-artis-hizi",
@@ -47,7 +65,7 @@
       "layout": "number",
       "category": "Finans",
       "title": "Enflasyon düştü. Etiket niye hâlâ yükseliyor?",
-      "subtitle": "Artışın hızıyla düzeyi farklı.",
+      "subtitle": "Enflasyon oranı düşerken fiyatların yükselmeye devam etmesi mümkündür.",
       "account": "Hesap Ortada",
       "handle": "hesaportada",
       "cover": {
@@ -64,12 +82,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Yavaşlayan artış",
-          "text": "Fiyat artış oranının azalması, fiyatların düşmesi demek değildir. Örneğin 100 olan bir sepet yüzde 10 artarsa 110 olur."
+          "title": "",
+          "text": "Enflasyon oranı düşerken fiyatların yükselmeye devam etmesi mümkündür. Çünkü oran, fiyat düzeyinin kendisini değil belirli dönemde ne hızla arttığını anlatır. Artışın yavaşlamasıyla fiyatın düşmesi iki ayrı durumdur."
         },
         {
-          "title": "Sonraki dönem",
-          "text": "Ardından yüzde 5 artarsa 115,5 olur. Artış oranı gerilemiştir ama fiyat düzeyi yükselmeye devam etmiştir. Bu, varsayımsal bir hesap örneği."
+          "title": "",
+          "text": "Varsayımsal sepetimiz 100 lira olsun. İlk yıl yüzde 10 artarsa 110 lira olur. Sonraki yıl yüzde 5 artarsa 115,50 liraya çıkar. Oran 10'dan 5'e düştü ama sepet daha pahalı oldu."
+        },
+        {
+          "title": "",
+          "text": "Bunu yavaşlayan ama hâlâ ileri giden bir araca benzetebilirsin. Fiyatların genel olarak düşmesi için fiyat düzeyinde azalma gerekir. Haberdeki “enflasyon düştü” ifadesini okurken oranla seviyeyi ayrı takip etmek, görünürdeki çelişkiyi çözer."
         }
       ],
       "sources": [
@@ -78,7 +100,7 @@
           "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me-more/html/what_is_inflation.en.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ardabirbak",
@@ -100,7 +122,21 @@
           "name": "elif.k",
           "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#cbdcdb",
+        "ink": "#253c3a",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+      "avatarCredit": {
+        "label": "Pearson Scott Foresman",
+        "url": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png"
+      }
     },
     {
       "id": "kesif-kisisel-enflasyon",
@@ -108,7 +144,7 @@
       "layout": "comparison",
       "category": "Finans",
       "title": "Senin hissettiğin artışla ortalama farklı olabilir.",
-      "subtitle": "Harcamaların dağılımı önemli.",
+      "subtitle": "İki kişinin alışveriş sepeti aynı değildir.",
       "account": "Hesap Ortada",
       "handle": "hesaportada",
       "cover": {
@@ -125,12 +161,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Farklı sepetler",
-          "text": "Ulaşıma çok harcayan biriyle arabası olmayan birinin fiyat değişimlerinden etkilenmesi aynı olmayabilir."
+          "title": "",
+          "text": "İki kişinin alışveriş sepeti aynı değildir. Biri bütçesinin büyük bölümünü kiraya ve toplu taşımaya, diğeri farklı ürünlere harcayabilir. Aynı fiyat değişimleri bu iki bütçeyi aynı ölçüde etkilemez."
         },
         {
-          "title": "Çelişki olmak zorunda değil",
-          "text": "Genel endeks ortalama bir yapıyı temsil eder. Kişinin alışveriş bileşimi farklıysa deneyimi de farklılaşabilir; tek bir fiş bütün ekonomiyi temsil etmez."
+          "title": "",
+          "text": "Genel tüketici fiyat endeksi temsili bir harcama yapısını izler. Senin harcama payların farklıysa yaşadığın maliyet artışı da endeksten farklı olabilir. Özellikle çok kullandığın ürünlerdeki artış daha fazla hissedilir."
+        },
+        {
+          "title": "",
+          "text": "Bu fark tek başına genel endeksin yanlış olduğunu göstermez; tek bir kişinin fişi de bütün toplumu temsil etmez. Soruyu doğru kurmak gerekir: Ekonomideki ortalama fiyat değişimini mi, kendi bütçendeki değişimi mi ölçüyoruz? İkisinin verisi ve amacı farklıdır."
         }
       ],
       "sources": [
@@ -139,7 +179,7 @@
           "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me-more/html/what_is_inflation.en.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "deniz.k",
@@ -153,7 +193,21 @@
           "name": "berk.b",
           "text": "Okurken durup düşündüm biraz."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+      "avatarCredit": {
+        "label": "Pearson Scott Foresman",
+        "url": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png"
+      }
     },
     {
       "id": "kesif-firsat-maliyeti",
@@ -161,7 +215,7 @@
       "layout": "door",
       "category": "Finans",
       "title": "Bedava etkinliğin de bir maliyeti olabilir.",
-      "subtitle": "Parayla ödemediğin şeyi düşün.",
+      "subtitle": "Ücretsiz bir konsere gitmek için iki saat ayırdın.",
       "account": "Hesap Ortada",
       "handle": "hesaportada",
       "cover": {
@@ -178,12 +232,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Vazgeçtiğin seçenek",
-          "text": "Fırsat maliyeti, bir seçim için vazgeçilen en iyi alternatifin değeridir. Harcanan zaman da bu hesaba girebilir."
+          "title": "",
+          "text": "Ücretsiz bir konsere gitmek için iki saat ayırdın. Para ödemesen bile o saatlerde yapabileceğin başka bir şeyden vazgeçtin. Fırsat maliyeti, seçimin uğruna vazgeçtiğin en iyi alternatifin değeridir."
         },
         {
-          "title": "Hepsini toplama",
-          "text": "Aynı saat için vazgeçtiğin bütün olasılıkları üst üste eklemek gerekmez. Ölçüt, seçmediğin en iyi alternatiftir."
+          "title": "",
+          "text": "Örneğin gerçek alternatifin dinlenmekse, konserin zaman maliyetini bununla karşılaştırırsın. Aynı iki saat için hayal edebileceğin bütün etkinlikleri üst üste toplayıp dev bir kayıp yazmazsın; zaten hepsini aynı anda yapamazdın."
+        },
+        {
+          "title": "",
+          "text": "Bu kavram “her dakikadan para kazanmalısın” demek değildir. Dinlenme ve keyif de değer taşır. Ama bedava etiketinin seçimi maliyetsiz yapmadığını gösterir. Kararın görünmeyen tarafı, seçmediğin en iyi seçenektir."
         }
       ],
       "sources": [
@@ -192,7 +250,7 @@
           "url": "https://openstax.org/books/principles-economics-3e/pages/2-1-how-individuals-make-choices-based-on-their-budget-constraint"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ahmet.a",
@@ -210,7 +268,21 @@
           "name": "aliokuyor",
           "text": "Örneği görünce anladım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Space Mono",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+      "avatarCredit": {
+        "label": "Pearson Scott Foresman",
+        "url": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png"
+      }
     },
     {
       "id": "kesif-batik-maliyet",
@@ -218,7 +290,7 @@
       "layout": "chat",
       "category": "Finans",
       "title": "Bilet aldım diye kötü filmi bitirmek zorunda mıyım?",
-      "subtitle": "Geçmiş ödeme, bugünkü karara karışır.",
+      "subtitle": "Sinema biletini aldın, filmin yarısında hiç keyif almadığını fark ettin.",
       "account": "Hesap Ortada",
       "handle": "hesaportada",
       "cover": {
@@ -235,12 +307,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Geri gelmeyen bedel",
-          "text": "Batık maliyet, önceden yapılmış ve geri alınamayacak harcamadır. Yeni karar o parayı geri getirmiyorsa artık değiştirilebilir değildir."
+          "title": "",
+          "text": "Sinema biletini aldın, filmin yarısında hiç keyif almadığını fark ettin. Bilet parası geri verilmeyecekse, salonda kalsan da çıksan da o harcama değişmez. Bu tür geri alınamayan geçmiş harcamaya batık maliyet denir."
         },
         {
-          "title": "Bundan sonrası",
-          "text": "Kalma veya çıkma kararında, kalan zamanın fayda ve maliyetini düşünmek daha anlamlı olabilir. Geçmiş ödeme tek başına devam etme gerekçesi değildir."
+          "title": "",
+          "text": "Şimdi vereceğin karar, kalan bir saati nasıl kullanacağınla ilgilidir. Filmden beklediğin faydayla başka yerde geçireceğin zamanın değerini karşılaştırabilirsin. “Para verdim” cümlesi parayı geri getirmez."
+        },
+        {
+          "title": "",
+          "text": "Elbette filmin devamını merak ediyorsan kalmak anlamlı olabilir. Sorun kalmak değil, değiştirilemeyen harcamayı gelecekteki seçimin tek gerekçesi yapmaktır. Kararı, bundan sonra hangi sonuçları değiştirebildiğin üzerinden kurmak daha açıklayıcıdır."
         }
       ],
       "sources": [
@@ -249,7 +325,7 @@
           "url": "https://openstax.org/books/principles-economics-3e/pages/2-1-how-individuals-make-choices-based-on-their-budget-constraint"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "iremce",
@@ -267,7 +343,21 @@
           "name": "onurdefter",
           "text": "İkinci kez okuyunca daha anlaşılır geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+      "avatarCredit": {
+        "label": "Pearson Scott Foresman",
+        "url": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png"
+      }
     },
     {
       "id": "kesif-marjinal-karar",
@@ -275,7 +365,7 @@
       "layout": "balance",
       "category": "Finans",
       "title": "“Hepsi mi hiç mi?” yerine bir tane daha.",
-      "subtitle": "Ekonomide marjinal düşünmek.",
+      "subtitle": "Ders çalışmayı sevip sevmediğine karar vermekle, bugün bir saat daha çalışıp çalışmamaya karar vermek aynı soru değildir.",
       "account": "Hesap Ortada",
       "handle": "hesaportada",
       "cover": {
@@ -292,12 +382,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Ek adımın hesabı",
-          "text": "Marjinal analiz, bir birim daha yapmanın getireceği ek faydayla ek maliyeti karşılaştırır."
+          "title": "",
+          "text": "Ders çalışmayı sevip sevmediğine karar vermekle, bugün bir saat daha çalışıp çalışmamaya karar vermek aynı soru değildir. İkincisinde toplam hayat planını değil, küçük bir ek adımı değerlendirirsin. Buna marjinal düşünme denir."
         },
         {
-          "title": "Küçük değişiklik",
-          "text": "Bir saat daha çalışmak veya bir ürün daha üretmek, toplamın tamamını baştan seçmek değildir. Karar çoğu zaman sınırdaki bu küçük değişimdedir."
+          "title": "",
+          "text": "Bir saat daha çalışmanın ek faydası, konuyu biraz daha anlamak olabilir. Ek maliyeti ise yorulmak veya uykudan vazgeçmektir. İlk saatin çok verimli olması, altıncı saatin de aynı verimi vereceğini garanti etmez."
+        },
+        {
+          "title": "",
+          "text": "Marjinal analiz, bu ek faydayı ek maliyetle karşılaştırır. “Hepsi iyi” veya “hepsi kötü” yerine sınırdaki değişime bakar. Bir ürün daha üretmek, bir tur daha koşmak, bir bölüm daha okumak: Kararların çoğu böyle küçük eklemelerle oluşur."
         }
       ],
       "sources": [
@@ -306,7 +400,7 @@
           "url": "https://openstax.org/books/principles-economics-3e/pages/2-1-how-individuals-make-choices-based-on-their-budget-constraint"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "berk.b",
@@ -340,7 +434,21 @@
           "name": "aliokuyor",
           "text": "Başlık için geldim, kaynakta kaldım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Space Mono",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+      "avatarCredit": {
+        "label": "Pearson Scott Foresman",
+        "url": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png"
+      }
     },
     {
       "id": "kesif-tilki-uzum",
@@ -348,7 +456,7 @@
       "layout": "comic",
       "category": "Edebiyat",
       "title": "Uzanamadı, sonra “zaten ekşiydi” dedi.",
-      "subtitle": "Tilki ile Üzümler'in meselesi.",
+      "subtitle": "Ezop'a atfedilen fablda bir tilki, asılı duran üzümlere ulaşmaya çalışır ama başaramaz.",
       "account": "Sayfa Arası",
       "handle": "sayfaarasi",
       "cover": {
@@ -365,12 +473,16 @@
       "motion": "art",
       "slides": [
         {
-          "title": "Kısa hikâye",
-          "text": "Ezop'a atfedilen fablda tilki üzümlere erişemez. Sonunda onların iyi olmadığını söyleyerek uzaklaşır."
+          "title": "",
+          "text": "Ezop'a atfedilen fablda bir tilki, asılı duran üzümlere ulaşmaya çalışır ama başaramaz. Sonunda üzümlerin zaten ekşi olduğunu söyleyerek uzaklaşır. Üzümlerin tadını gerçekten öğrenmemiştir; ulaşamayınca değerlendirmesi değişmiştir."
         },
         {
-          "title": "Okuma notu",
-          "text": "Hikâye, elde edemediğimiz şeyi sonradan değersizleştirmeyi düşündürür. Bir davranışı anlatan edebî örnektir; herkesin aynı tepkiyi verdiğinin kanıtı değil."
+          "title": "",
+          "text": "Hikâyenin düşündürdüğü durum tanıdık: İstediğimiz bir şeyi elde edemeyince, hayal kırıklığını hafifletmek için onu sonradan değersiz sayabiliriz. “Zaten istemiyordum” cümlesi bazen bu işlevi görür."
+        },
+        {
+          "title": "",
+          "text": "Bu kısa anlatı herkesin her başarısızlıkta aynı tepkiyi verdiğinin kanıtı değildir. Fabl, davranışı görünür kılan bir benzetmedir. Kendine soracağın soru şu olabilir: Fikrimi gerçekten yeni bilgi yüzünden mi değiştirdim, yoksa erişemediğim için mi?"
         }
       ],
       "sources": [
@@ -379,7 +491,7 @@
           "url": "https://www.gutenberg.org/files/21/21-h/21-h.htm"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "deniz.k",
@@ -389,7 +501,21 @@
           "name": "ahmet.a",
           "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#f4bd65",
+        "ink": "#332710",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-karga-testi",
@@ -397,7 +523,7 @@
       "layout": "sequence",
       "category": "Edebiyat",
       "title": "Gagası yetişmedi. Karga başka yol buldu.",
-      "subtitle": "Karga ile Testi üzerine.",
+      "subtitle": "Ezop'a atfedilen fablda susayan karga, içinde az su bulunan bir testi bulur.",
       "account": "Sayfa Arası",
       "handle": "sayfaarasi",
       "cover": {
@@ -414,12 +540,16 @@
       "motion": "art",
       "slides": [
         {
-          "title": "Taşlarla çözüm",
-          "text": "Fablda karga, az su bulunan testiye taşlar atar. Su yükselince içebileceği yere gelir."
+          "title": "",
+          "text": "Ezop'a atfedilen fablda susayan karga, içinde az su bulunan bir testi bulur. Gagası suya yetişmez. Testiye küçük taşlar atınca su seviyesi yükselir ve içebileceği yere gelir. Çözüm daha uzun gagaya sahip olmak değildir."
         },
         {
-          "title": "Hikâyenin gücü",
-          "text": "Anlatı, doğrudan erişemediğin hedef için koşulları değiştirmeyi öne çıkarır. Burada gerçek bir hayvan deneyi değil, kısa bir fabl okunuyor."
+          "title": "",
+          "text": "Karga hikâyede kabın içindeki koşulları değiştirir. Taşlar hacim kapladığı için su daha yukarı çıkar. Bu, fiziksel bir ilkeyi akılda kalıcı bir öykü içinde görmemizi sağlar."
+        },
+        {
+          "title": "",
+          "text": "Ama okuduğumuz metin gerçek bir hayvan deneyinin raporu değil, fabldır. Öykünün asıl daveti, doğrudan erişemediğin hedefe başka bir düzen kurarak yaklaşmayı düşünmektir. Bazen çabayı artırmadan önce problemi yeniden biçimlendirmek gerekir."
         }
       ],
       "sources": [
@@ -428,7 +558,7 @@
           "url": "https://www.gutenberg.org/files/21/21-h/21-h.htm"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "zeynepce",
@@ -446,7 +576,21 @@
           "name": "birseda",
           "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Bebas Neue",
+        "paper": "#192f2a",
+        "ink": "#f3eddc",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-ruzgar-gunes",
@@ -454,7 +598,7 @@
       "layout": "split",
       "category": "Edebiyat",
       "title": "Daha sert esmek her zaman daha etkili değil.",
-      "subtitle": "Kuzey Rüzgârı ile Güneş.",
+      "subtitle": "Bir fablda rüzgârla güneş, yolcunun üstündeki giysiyi hangisinin çıkarttırabileceğini sınar.",
       "account": "Sayfa Arası",
       "handle": "sayfaarasi",
       "cover": {
@@ -471,12 +615,16 @@
       "motion": "art",
       "slides": [
         {
-          "title": "Bir yarış",
-          "text": "Fablda rüzgârla güneş, yolcunun giysisini çıkarttırmaya çalışır. Rüzgâr güçlendikçe yolcu daha sıkı sarınır; güneşin sıcaklığında giysisini çıkarır."
+          "title": "",
+          "text": "Bir fablda rüzgârla güneş, yolcunun üstündeki giysiyi hangisinin çıkarttırabileceğini sınar. Rüzgâr sert estikçe yolcu giysisine daha sıkı sarılır. Güneş ısıttığında ise yolcu onu kendi isteğiyle çıkarır."
         },
         {
-          "title": "Bir yorum",
-          "text": "Öykü, baskıyla ikna arasındaki farkı düşündürür. Her gerçek duruma uygulanacak kesin kural değil, tartışma açan bir benzetmedir."
+          "title": "",
+          "text": "Hikâye, kuvveti artırmanın her zaman istenen davranışı üretmediğini gösteren bir benzetme kurar. Bir etkiye verilen tepki, etkiyi tersine çevirebilir. Daha çok baskı, bazen daha çok direnç doğurur."
+        },
+        {
+          "title": "",
+          "text": "Buradan bütün insan ilişkileri için istisnasız bir yasa çıkarmayız. Fablın gücü, bir davranış ihtimalini kısa sahneyle düşündürmesidir. “Karşımdakini ne kadar zorluyorum?” sorusunun yanına “Bu zorlama onda nasıl bir tepki oluşturuyor?” sorusunu ekler."
         }
       ],
       "sources": [
@@ -485,7 +633,7 @@
           "url": "https://www.gutenberg.org/files/21/21-h/21-h.htm"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ardabirbak",
@@ -495,7 +643,21 @@
           "name": "zeynepce",
           "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     }
   ]
 }

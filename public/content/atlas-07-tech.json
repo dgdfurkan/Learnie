@@ -7,7 +7,7 @@
       "layout": "terminal",
       "category": "Teknoloji",
       "title": "Bilgisayarın çekmeceleri yan yana olabilir.",
-      "subtitle": "Dizi denen yapının fikri.",
+      "subtitle": "Bir programın beş sıcaklık ölçümü sakladığını düşün: 18, 20, 19, 22, 21.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -24,12 +24,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Sıralı yerleşim",
-          "text": "Bir dizi, elemanları bellekte ardışık yerlerde tutar. Elemanın sırası bilindiğinde bulunduğu yere hızlıca ulaşılabilir."
+          "title": "",
+          "text": "Bir programın beş sıcaklık ölçümü sakladığını düşün: 18, 20, 19, 22, 21. Dizi, bu değerleri sıra numaralarıyla erişilebilen bir düzen içinde tutar. Klasik dizide elemanlar bellekte art arda yer alır."
         },
         {
-          "title": "Her işe aynı değil",
-          "text": "Ortaya yeni eleman eklemek bazı durumlarda diğer elemanları kaydırmayı gerektirir. Hızlı erişimin yanında başka maliyetler de vardır."
+          "title": "",
+          "text": "Her eleman aynı büyüklükte yer kaplıyorsa, başlangıç adresi ve sıra numarasıyla istenen konum hesaplanabilir. Üçüncü elemanı bulmak için önce bütün önceki değerleri okumak gerekmez. Bu, dizilerin hızlı erişim avantajıdır."
+        },
+        {
+          "title": "",
+          "text": "Ama ortaya yeni eleman eklemek, sonrakileri kaydırmayı gerektirebilir. Numaralı, bitişik koltuklara ortadan yeni koltuk sıkıştırmaya benzer. Bir veri yapısını seçerken “hızlı mı?” yerine hangi işlemi hızlı yaptığını sormak gerekir."
         }
       ],
       "sources": [
@@ -38,7 +42,7 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/3-1-introduction-to-data-structures-and-algorithms"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "selin.jpg",
@@ -64,7 +68,21 @@
           "name": "umutburada",
           "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Space Mono",
+        "paper": "#172b24",
+        "ink": "#cbeaac",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-bagli-liste",
@@ -72,7 +90,7 @@
       "layout": "route",
       "category": "Teknoloji",
       "title": "Veri yan yana durmak zorunda değil.",
-      "subtitle": "Adres vererek de sıra kurulur.",
+      "subtitle": "Bağlı listedeki her öğeyi bir not kartı gibi düşün.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -89,12 +107,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Sonrakini göster",
-          "text": "Bağlı listede her düğüm, verinin yanında başka düğüme ilişkin bağlantı taşır. Elemanların bellekte komşu olması gerekmez."
+          "title": "",
+          "text": "Bağlı listedeki her öğeyi bir not kartı gibi düşün. Kartta veri ve sıradaki kartın nerede olduğunu gösteren bir bağlantı bulunur. Kartların bellekte yan yana durması gerekmez; bağlantılar sırayı korur."
         },
         {
-          "title": "Zinciri takip et",
-          "text": "Ortadaki bir elemana gitmek için bağlantılar boyunca ilerlemek gerekebilir. Yerleşim esnekliğiyle erişim biçimi birlikte değişir."
+          "title": "",
+          "text": "İlk karttan onuncuya ulaşmak için sıradaki adresleri takip etmen gerekebilir. Bu yüzden belirli bir sıradaki öğeye erişim, dizideki gibi doğrudan hesaplanamayabilir. Karşılığında bağlantıları değiştirmek bazı ekleme ve çıkarma işlemlerini kolaylaştırabilir."
+        },
+        {
+          "title": "",
+          "text": "Bir hazine avında her notun sonraki noktayı göstermesi gibi. Başlangıcı bilmek bütün konumları anında bilmek değildir. Yapının avantajı esnek bağlantılar, maliyeti ise bazı erişimlerde zinciri adım adım dolaşmaktır."
         }
       ],
       "sources": [
@@ -103,8 +125,22 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/3-1-introduction-to-data-structures-and-algorithms"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "diagram",
+        "font": "DM Sans",
+        "paper": "#ead9f0",
+        "ink": "#35223f",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-oncelik-kuyrugu",
@@ -112,7 +148,7 @@
       "layout": "chat",
       "category": "Teknoloji",
       "title": "İlk gelen her zaman ilk çıkmaz.",
-      "subtitle": "Öncelik kuyruğunun kuralı başka.",
+      "subtitle": "Normal sırada ilk gelenin önce işlem görmesini beklersin.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -129,12 +165,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Aciliyet sırası",
-          "text": "Öncelik kuyruğunda her öğenin bir önceliği vardır. Çıkarılacak öğe, yalnız geliş zamanına göre seçilmez."
+          "title": "",
+          "text": "Normal sırada ilk gelenin önce işlem görmesini beklersin. Öncelik kuyruğunda ise her işin bir öncelik değeri vardır. Sıradaki iş bu değere göre seçilir; geliş zamanı tek ölçüt değildir."
         },
         {
-          "title": "Bir benzetme",
-          "text": "Acil serviste ağır durumdaki hastanın önce değerlendirilmesi bu fikri anlatır. Bilgisayardaki işlerin zamanlanmasında da benzer bir yapı kullanılabilir."
+          "title": "",
+          "text": "Bir sunucunun acil uyarıyla arka plandaki raporu aynı anda aldığını düşün. Sistem uyarıya yüksek öncelik verirse, rapor daha önce gelmiş olsa bile uyarıyı önce işleyebilir. Eşit öncelikteki işlerin sırası ayrıca tanımlanır."
+        },
+        {
+          "title": "",
+          "text": "Burada veri yapısı, neyin acil olduğuna kendiliğinden karar vermez. Öncelik politikasını tasarlayanlar belirler. Düşük öncelikli işlerin sürekli ertelenmemesi için ek kurallar gerekebilir. İyi bir sıra yalnız hızlı değil, amacına uygun olmalıdır."
         }
       ],
       "sources": [
@@ -143,7 +183,7 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/3-1-introduction-to-data-structures-and-algorithms"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "mert.y",
@@ -165,7 +205,21 @@
           "name": "birseda",
           "text": "Bunu birine basitçe anlatmak aslında zor."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#192f2a",
+        "ink": "#f3eddc",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-ikili-arama",
@@ -173,7 +227,7 @@
       "layout": "process",
       "category": "Teknoloji",
       "title": "Bir şeyi bulmak için hepsine bakma.",
-      "subtitle": "Ama önce sıralı olmalı.",
+      "subtitle": "Bir sözlükte “merak” kelimesini ararken ilk sayfadan bütün kelimeleri tek tek okumazsın.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -190,12 +244,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Ortayı kontrol et",
-          "text": "İkili arama, sıralı listedeki orta öğeyle hedefi karşılaştırır. Arananın bulunamayacağı yarıyı eler ve kalan bölümde sürer."
+          "title": "",
+          "text": "Bir sözlükte “merak” kelimesini ararken ilk sayfadan bütün kelimeleri tek tek okumazsın. Ortalara bakıp kelimenin alfabetik olarak önce mi sonra mı olduğunu anlarsın. İkili arama bu fikri düzenli biçimde uygular."
         },
         {
-          "title": "Koşulu unutma",
-          "text": "Liste uygun biçimde sıralı değilse bu eleme mantığı çalışmaz. Hızlı yöntem, verinin düzenine ilişkin bir varsayım taşır."
+          "title": "",
+          "text": "Sıralı listenin ortasına bakılır; hedef daha küçükse sağ yarı, daha büyükse sol yarı elenir. Sonra kalan yarının ortasına bakılır. 1.024 elemanlık bir listede her adımda yarısını elemek, alanı yaklaşık on kez bölerek küçültür."
+        },
+        {
+          "title": "",
+          "text": "Kritik koşul sıralamadır. Karışık bir listede ortadaki değer, diğer yarıda ne bulunduğunu söylemez. Algoritmanın hızını mümkün kılan şey yalnız akıllı adımlar değil, verinin önceden taşıdığı düzendir."
         }
       ],
       "sources": [
@@ -204,8 +262,22 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/3-5-sample-algorithms-by-problem"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "diagram",
+        "font": "Caveat",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-dogrusal-arama",
@@ -213,7 +285,7 @@
       "layout": "checklist",
       "category": "Teknoloji",
       "title": "Sırayı bilmiyorsan tek tek bakarsın.",
-      "subtitle": "Basit yöntem bazen yeterlidir.",
+      "subtitle": "Bir çekmecede etiketsiz anahtarlar var ve hangisinin kapıyı açtığını arıyorsun.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -230,12 +302,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Baştan sona",
-          "text": "Doğrusal arama, öğeleri sırayla kontrol ederek hedefi arar. Listeyi önceden sıralamak zorunda değildir."
+          "title": "",
+          "text": "Bir çekmecede etiketsiz anahtarlar var ve hangisinin kapıyı açtığını arıyorsun. Her birini sırayla kontrol etmek, doğrusal aramanın gündelik karşılığıdır. Veri önceden sıralı olmak zorunda değildir."
         },
         {
-          "title": "Bedeli ne?",
-          "text": "Hedef sonda ya da listede yoksa bütün öğelerin incelenmesi gerekebilir. Küçük listelerde bu basitlik gayet işe yarayabilir."
+          "title": "",
+          "text": "Aranan ilk sıradaysa tek kontrol yeter. En sondaysa ya da hiç yoksa bütün öğeleri incelemek gerekebilir. Dolayısıyla maliyet, eleman sayısıyla birlikte büyüyebilir."
+        },
+        {
+          "title": "",
+          "text": "Bu basit yöntem her zaman kötü seçim değildir. Üç öğelik bir listede, önce sıralama sistemi kurmak aramanın kendisinden pahalı olabilir. Bir yöntemi değerlendirirken yalnız en büyük veri örneğine değil, gerçek ihtiyaca ve hazırlık maliyetine de bakarız."
         }
       ],
       "sources": [
@@ -244,13 +320,27 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/3-5-sample-algorithms-by-problem"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "zeynepce",
           "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#d9e9cc",
+        "ink": "#283824",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-siralama-altyapi",
@@ -258,7 +348,7 @@
       "layout": "receipt",
       "category": "Teknoloji",
       "title": "Sıralamak yalnız ekranda düzen yapmak değil.",
-      "subtitle": "Sonraki işi kolaylaştırabilir.",
+      "subtitle": "Telefon rehberindeki isimleri alfabetik sıralamak yalnız ekranı düzenli göstermek değildir.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -275,12 +365,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Hazırlık aşaması",
-          "text": "Veriyi sıralamak, bazı arama ve karşılaştırma yöntemlerinin kullanılmasını sağlar. İkili arama buna örnektir."
+          "title": "",
+          "text": "Telefon rehberindeki isimleri alfabetik sıralamak yalnız ekranı düzenli göstermek değildir. Sıralama, bir ismin nerede olamayacağını söylemeyi sağlar. Ortadaki isimden sonra gelmesi gerektiğini biliyorsan önceki yarıyı eleyebilirsin."
         },
         {
-          "title": "Hazırlığın da maliyeti var",
-          "text": "Bir kez aranacak küçük veriyi sıralamak gereksiz iş olabilir. Çok sayıda arama yapılacaksa bu hazırlık daha anlamlı hâle gelir."
+          "title": "",
+          "text": "Ama sıralamanın da maliyeti vardır. On kişilik bir listede bir kere arama yapacaksan, hepsine göz atmak yeterli olabilir. Aynı büyük listede binlerce arama yapılacaksa bir defalık hazırlık daha anlamlı hâle gelir."
+        },
+        {
+          "title": "",
+          "text": "Bu, yazılımda sık görülen bir değiş tokuştur: Şimdi ek iş yaparak sonraki işlemleri ucuzlatmak. “En hızlı algoritma” sorusunun cevabı, verinin kaç kez kullanılacağını bilmeden tamamlanmaz."
         }
       ],
       "sources": [
@@ -289,7 +383,7 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/3-5-sample-algorithms-by-problem"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "zeynepce",
@@ -330,24 +424,22 @@
         {
           "name": "umutburada",
           "text": "Bu ayrımı unutmayayım."
-        },
-        {
-          "name": "onurdefter",
-          "text": "İlk akla gelen cevap başka oluyor."
-        },
-        {
-          "name": "keremca",
-          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
-        },
-        {
-          "name": "ahmet.a",
-          "text": "Görünüşüne bakıp karar veriyormuşum."
-        },
-        {
-          "name": "selin.jpg",
-          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#f9edbc",
+        "ink": "#363220",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-bit-yorum",
@@ -355,7 +447,7 @@
       "layout": "glossary",
       "category": "Teknoloji",
       "title": "0011 görünce ne anlamalıyız?",
-      "subtitle": "Tek başına bit dizisi yetmez.",
+      "subtitle": "Bilgisayarda bit, iki olası değerden birini taşıyan en küçük bilgi birimidir; 0 ve 1 ile gösteririz.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -372,12 +464,16 @@
       "motion": "mosaic",
       "slides": [
         {
-          "title": "Kurala ihtiyaç var",
-          "text": "Aynı bit dizisinin nasıl yorumlanacağı, kullanılan gösterime bağlıdır. Bir sayı, karakter veya başka veri parçasının bölümü olabilir."
+          "title": "",
+          "text": "Bilgisayarda bit, iki olası değerden birini taşıyan en küçük bilgi birimidir; 0 ve 1 ile gösteririz. 0011 dizisi, işaretsiz ikilik sayı olarak yorumlanırsa üç eder. Ama her bit grubu sayı olmak zorunda değildir."
         },
         {
-          "title": "Bağlam anahtar",
-          "text": "Bilgisayarın veriyi anlamlandırması için tür ve kodlama kuralları gerekir. Ekrandaki sembol, saklanan bitlerle aynı şey değildir."
+          "title": "",
+          "text": "Aynı bitler daha büyük bir karakter kodunun, görüntü renginin ya da komutun parçası olabilir. Anlamı belirleyen, bu dizinin hangi kuralla okunacağıdır. Tür ve kodlama bilgisi burada devreye girer."
+        },
+        {
+          "title": "",
+          "text": "Kâğıttaki “03”ün saat, forma numarası veya sıra numarası olabilmesi gibi düşün. İşaret aynı görünse de kullanım kuralı farklıdır. Bilgisayar veriyi bağlamdan sezmez; yazılımın tanımladığı yorumlama düzenini uygular."
         }
       ],
       "sources": [
@@ -386,7 +482,7 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/5-3-machine-level-information-representation"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "deniz.k",
@@ -404,7 +500,21 @@
           "name": "selin.jpg",
           "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "single",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-unicode",
@@ -412,7 +522,7 @@
       "layout": "beforeafter",
       "category": "Teknoloji",
       "title": "“Ş” neden bazen garip karaktere dönüşüyor?",
-      "subtitle": "Kodlama anlaşması bozulmuş olabilir.",
+      "subtitle": "Bilgisayar metni doğrudan harf şekilleri olarak saklamaz.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -429,12 +539,16 @@
       "motion": "mosaic",
       "slides": [
         {
-          "title": "Karaktere kod vermek",
-          "text": "Unicode, farklı yazı sistemlerindeki karakterler için ortak bir kod alanı tanımlar. UTF-8 gibi kodlamalar bu bilgiyi baytlara dönüştürür."
+          "title": "",
+          "text": "Bilgisayar metni doğrudan harf şekilleri olarak saklamaz. Karakterlere kodlar verilir, bu kodlar da baytlara çevrilir. Unicode farklı yazı sistemlerindeki karakterler için ortak bir kod alanı; UTF-8 ise bu kodları baytlarla yazmanın yollarından biridir."
         },
         {
-          "title": "Yanlış anahtarla okumak",
-          "text": "Baytlar farklı bir kodlamayla yorumlanırsa bozuk metin görülebilir. Sorun her zaman yazı tipinin eksikliği değildir."
+          "title": "",
+          "text": "Bir metnin baytları UTF-8 ile yazılıp başka bir kodlamayla okunursa “Ş” gibi harfler garip sembollere dönüşebilir. Sorun harfin kendisinde değil, yazanla okuyanın farklı sözlük kullanmasındadır."
+        },
+        {
+          "title": "",
+          "text": "Yazı tipi ise karakterin nasıl çizileceğini belirler. Kodlama hatasıyla eksik yazı tipi iki farklı sorundur. Birini çözmek için doğru bayt yorumunu, diğerini çözmek için karakteri çizebilen fontu sağlamak gerekir."
         }
       ],
       "sources": [
@@ -443,7 +557,7 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/5-3-machine-level-information-representation"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "onurdefter",
@@ -461,7 +575,21 @@
           "name": "nisa.defter",
           "text": "Bunu birine basitçe anlatmak aslında zor."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#f7f3e9",
+        "ink": "#392e22",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-ondalik-hata",
@@ -469,7 +597,7 @@
       "layout": "punchline",
       "category": "Teknoloji",
       "title": "0,1 bilgisayarda her zaman tam 0,1 değil.",
-      "subtitle": "Sonlu bellek, yaklaşık gösterim.",
+      "subtitle": "Onluk sistemde 1/3'ü yazarken 0,3333… diye sonsuza uzayan basamaklarla karşılaşırsın.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -486,12 +614,16 @@
       "motion": "mosaic",
       "slides": [
         {
-          "title": "İkilik kesir",
-          "text": "Bazı ondalık kesirler ikilik sayı sisteminde sonlu sayıda basamakla tam gösterilemez. Yaygın kayan noktalı biçimler bunları yaklaşık saklar."
+          "title": "",
+          "text": "Onluk sistemde 1/3'ü yazarken 0,3333… diye sonsuza uzayan basamaklarla karşılaşırsın. Sonlu sayıda basamakla yazınca yaklaşım kullanmış olursun. İkilik sistemde de bazı ondalık kesirler benzer durumdadır."
         },
         {
-          "title": "Küçük fark birikebilir",
-          "text": "Bu yüzden hesap sonucunda beklenmedik son basamaklar görülebilir. Bu durum “bilgisayar toplama bilmiyor” anlamına gelmez."
+          "title": "",
+          "text": "Yaygın kayan noktalı sayı biçimlerinde 0,1 ve 0,2 tam temsil edilemez. Bu yüzden bazı dillerde toplamları 0,30000000000000004 gibi görünebilir. İşlem, bellekteki yaklaşık değerler üzerinde doğru yapılmıştır."
+        },
+        {
+          "title": "",
+          "text": "Para gibi tam ondalık hesap isteyen işlerde uygun ondalık türler veya kuruş cinsinden tam sayılar kullanılabilir. Temsil biçimini seçmek, sonucun nasıl görüneceğinin ve hangi hata payıyla hesaplanacağının bir parçasıdır."
         }
       ],
       "sources": [
@@ -500,7 +632,7 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/5-3-machine-level-information-representation"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
@@ -510,7 +642,21 @@
           "name": "duru.not",
           "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "single",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-ram-depo",
@@ -518,7 +664,7 @@
       "layout": "comparison",
       "category": "Teknoloji",
       "title": "RAM ile depolama aynı raf değil.",
-      "subtitle": "İkisi de veri tutar, işi farklı.",
+      "subtitle": "Bilgisayarda bir belgeyi açınca programın çalışırken hızlıca erişeceği veriler RAM'de bulunabilir.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -535,12 +681,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Çalışma alanı",
-          "text": "RAM, çalışan programların verilerine hızlı erişim sağlar. Yaygın RAM türleri güç kesildiğinde içeriğini korumaz."
+          "title": "",
+          "text": "Bilgisayarda bir belgeyi açınca programın çalışırken hızlıca erişeceği veriler RAM'de bulunabilir. RAM, çalışma masası gibi düşünülebilir: İşlenen şeyler yakındadır. Yaygın RAM türleri elektrik kesilince içeriğini korumaz."
         },
         {
-          "title": "Kalıcı saklama",
-          "text": "SSD gibi depolama birimleri veriyi güç olmadan da saklamak üzere tasarlanır. Kapasite, hız ve maliyet arasında farklı dengeler kurulur."
+          "title": "",
+          "text": "SSD gibi depolama birimleri ise veriyi güç yokken de saklamak üzere tasarlanır. Belgeyi kaydettiğinde kalıcı kopyanın depolamada bulunmasını beklersin. Büyük bir SSD, tek başına daha büyük RAM anlamına gelmez."
+        },
+        {
+          "title": "",
+          "text": "Masanın genişliğiyle arşiv dolabının kapasitesini ayırmak gibi. İkisi de eşya tutar ama kullanım amacı, hız ve maliyet dengeleri farklıdır. “Bilgisayarın hafızası dolu” dendiğinde önce hangi katmanın kastedildiğini sormak gerekir."
         }
       ],
       "sources": [
@@ -549,13 +699,27 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/5-5-memory-hierarchy"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "iremce",
           "text": "Ben bunu tam ters biliyormuşum 😅"
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Caveat",
+        "paper": "#ead9f0",
+        "ink": "#35223f",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-onbellek",
@@ -563,7 +727,7 @@
       "layout": "notebook",
       "category": "Teknoloji",
       "title": "İşlemcinin masasındaki küçük notluk.",
-      "subtitle": "Önbelleği böyle düşünebilirsin.",
+      "subtitle": "Bir dosyaya sürekli ihtiyaç duyuyorsan her seferinde uzak arşive yürümek yerine masanda bir kopyasını tutabilirsin.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -580,12 +744,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Yakında tutmak",
-          "text": "Önbellek, daha yavaş bellekten getirilen bazı verilerin hızlı erişilen kopyalarını tutar. Aynı veriye yeniden ihtiyaç duyulursa zaman kazanılır."
+          "title": "",
+          "text": "Bir dosyaya sürekli ihtiyaç duyuyorsan her seferinde uzak arşive yürümek yerine masanda bir kopyasını tutabilirsin. Önbellek aynı düşünceyi uygular: Daha yavaş yerden gelen verinin bazı kopyaları hızlı erişilen küçük bir alanda tutulur."
         },
         {
-          "title": "Sınırsız değil",
-          "text": "Her veri önbelleğe sığmaz. Hangi bilginin tutulacağı ve hangi kopyanın güncel olduğu, tasarımın önemli parçalarıdır."
+          "title": "",
+          "text": "İşlemci aynı veriye yeniden ihtiyaç duyduğunda kopya oradaysa zaman kazanır. Ama bütün veriler sığmaz. Hangisinin saklanacağı, dolunca hangisinin çıkarılacağı ve kopyanın güncel kalması için kurallar gerekir."
+        },
+        {
+          "title": "",
+          "text": "Tarayıcı önbelleği de benzer temel fikri farklı ölçekte kullanır. Bu yüzden bazen bir sayfanın eski dosyasını görmek mümkündür. Hızlı erişim kazanırken, kopyanın hâlâ doğru veriyi temsil edip etmediğini yönetmek de sistemin işidir."
         }
       ],
       "sources": [
@@ -594,7 +762,7 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/5-5-memory-hierarchy"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ahmet.a",
@@ -635,12 +803,22 @@
         {
           "name": "gokce",
           "text": "Bunu birine basitçe anlatmak aslında zor."
-        },
-        {
-          "name": "ardabirbak",
-          "text": "Bu konudan başka bir şey de okuyasım geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "single",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-yerellik",
@@ -648,7 +826,7 @@
       "layout": "split",
       "category": "Teknoloji",
       "title": "Bilgisayar da yakındaki işleri sever.",
-      "subtitle": "Bellek erişiminde yerellik.",
+      "subtitle": "Bir tarifle yemek yaparken aynı malzemeye birkaç kez uzanırsın.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -665,12 +843,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Zamansal yakınlık",
-          "text": "Az önce kullanılan bir verinin kısa süre sonra tekrar kullanılması, zamansal yerellik örneğidir. Önbellek bundan yararlanabilir."
+          "title": "",
+          "text": "Bir tarifle yemek yaparken aynı malzemeye birkaç kez uzanırsın. Bilgisayar programları da bazen kısa süre önce kullandığı veriye yeniden döner. Buna zamansal yerellik denir; önbellek, yakın zamanda kullanılanı tutarak bundan yararlanabilir."
         },
         {
-          "title": "Mekânsal yakınlık",
-          "text": "Bir adresin yakınındaki verilere peş peşe erişmek de mekânsal yerelliktir. Programın veriye hangi sırada baktığı hızını etkileyebilir."
+          "title": "",
+          "text": "Bir dizinin elemanlarını sırayla okumak ise mekânsal yerelliğe örnektir. Az önce okunan adresin yakınındaki adreslere yakında ihtiyaç duyulabilir. Bellekten birlikte getirilen komşu veriler böylece işe yarar."
+        },
+        {
+          "title": "",
+          "text": "Bu nedenle aynı işlemleri yapan iki program, veriye farklı sırayla eriştiğinde farklı hızlarda çalışabilir. Yalnız hesap sayısı değil, verinin nerede olduğu ve hangi sırayla istendiği de performansı belirler."
         }
       ],
       "sources": [
@@ -679,7 +861,7 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/5-5-memory-hierarchy"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
@@ -713,7 +895,21 @@
           "name": "iremce",
           "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-es-zamanlilik",
@@ -721,7 +917,7 @@
       "layout": "comparison",
       "category": "Teknoloji",
       "title": "Bilgisayar iki işi aynı anda mı yapıyor?",
-      "subtitle": "Bazen evet, bazen sırayı hızla değiştiriyor.",
+      "subtitle": "Bir aşçı çorba kaynarken salatayı hazırlayıp sonra yeniden tencereye dönebilir.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -738,12 +934,16 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Eşzamanlılık",
-          "text": "Birden çok işin ilerlemesini birlikte yönetmek, hepsinin fiziksel olarak aynı anda çalıştığı anlamına gelmez. Tek çekirdek işler arasında geçiş yapabilir."
+          "title": "",
+          "text": "Bir aşçı çorba kaynarken salatayı hazırlayıp sonra yeniden tencereye dönebilir. İki iş birlikte ilerler ama aşçı tek anda iki ayrı kesme hareketi yapmaz. Eşzamanlılık, birden çok işin ilerlemesini birlikte yönetme fikridir."
         },
         {
-          "title": "Paralellik",
-          "text": "Ayrı işlem kaynaklarının gerçekten aynı anda çalışması paralelliktir. Günlük dilde birbirine karışan bu kavramlar aynı değildir."
+          "title": "",
+          "text": "Tek işlemci çekirdeği de işler arasında hızlı geçiş yapabilir. Kullanıcı müzik çalarken belge yazdığında her iş kesintisizmiş gibi görünebilir. Ayrı işlem kaynakları gerçekten aynı anda çalışıyorsa buna paralellik deriz."
+        },
+        {
+          "title": "",
+          "text": "Mutfakta iki aşçının aynı anda farklı işler yapması paralelliğe daha yakın benzetmedir. Programın birden fazla işi yönetmesi, otomatik olarak birden fazla çekirdeği aynı anda kullandığını göstermez. Düzenleme ile fiziksel eşzamanı ayırmak gerekir."
         }
       ],
       "sources": [
@@ -752,8 +952,22 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/6-3-processes-and-concurrency"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-thread",
@@ -761,7 +975,7 @@
       "layout": "network",
       "category": "Teknoloji",
       "title": "Programın içinde birden fazla yürütme yolu.",
-      "subtitle": "İş parçacığı denen şey.",
+      "subtitle": "Bir programın içinde farklı görevleri yürüten iş parçacıkları bulunabilir.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -778,12 +992,16 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Ortak çalışma alanı",
-          "text": "Aynı süreçteki iş parçacıkları, sürecin belleğini paylaşabilir. Her biri ayrı bir yürütme akışı izler."
+          "title": "",
+          "text": "Bir programın içinde farklı görevleri yürüten iş parçacıkları bulunabilir. İngilizcede thread denir. Aynı süreçteki iş parçacıkları ortak belleğe erişebilir; bu paylaşım hızlı iletişim sağlarken dikkat de gerektirir."
         },
         {
-          "title": "Paylaşmanın bedeli",
-          "text": "Birden fazlası aynı veriyi değiştirirse işlemlerin düzenlenmesi gerekir. Aksi hâlde sonuç zamanlamaya bağlı olarak bozulabilir."
+          "title": "",
+          "text": "İki iş parçacığı aynı sayaçta 10 değerini okusun. İkisi de bir artırıp 11 yazarsa, iki artış beklediğin hâlde sonuç 11 kalabilir. Çünkü okuma ve yazma adımları birbirinin arasına girmiştir."
+        },
+        {
+          "title": "",
+          "text": "Bu tür zamanlamaya bağlı sorunları önlemek için işlemler uygun biçimde eşgüdümlenir. Birden fazla işçi aynı deftere kayıt düşerken kimin hangi anda yazdığının belirlenmesi gibi. Çok iş parçacığı yalnız hız fırsatı değil, paylaşımı düzenleme sorumluluğu da getirir."
         }
       ],
       "sources": [
@@ -792,7 +1010,7 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/6-3-processes-and-concurrency"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "selin.jpg",
@@ -833,12 +1051,22 @@
         {
           "name": "deniz.k",
           "text": "Okurken durup düşündüm biraz."
-        },
-        {
-          "name": "aliokuyor",
-          "text": "Bunu birine basitçe anlatmak aslında zor."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Oswald",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-deadlock",
@@ -846,7 +1074,7 @@
       "layout": "comic",
       "category": "Teknoloji",
       "title": "Sen bırak, ben bırakayım. İkisi de bekliyor.",
-      "subtitle": "Yazılımda kilitlenmenin bir biçimi.",
+      "subtitle": "Bir iş yazıcıyı tutup tarayıcıyı bekliyor.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -863,12 +1091,16 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Karşılıklı bekleme",
-          "text": "Bir iş A kaynağını tutup B’yi beklerken diğeri B’yi tutup A’yı beklerse ilerleme durabilir. Buna kilitlenme, yani deadlock denir."
+          "title": "",
+          "text": "Bir iş yazıcıyı tutup tarayıcıyı bekliyor. Başka bir iş tarayıcıyı tutup yazıcıyı bekliyor. İkisi de elindekini bırakmadan diğerini alamıyorsa, hiçbirinin ilerleyemediği bir döngü oluşur."
         },
         {
-          "title": "Yavaşlıktan farklı",
-          "text": "Bekleyen işler daha fazla zaman verilince kendiliğinden bitmeyebilir. Sorun hız değil, kaynaklara erişim düzenidir."
+          "title": "",
+          "text": "Yazılımda buna deadlock, yani kilitlenme denir. İşlemciyi hızlandırmak veya biraz daha beklemek tek başına çözüm olmaz; bekleme ilişkisi aynı kalır. Sorun işin uzun sürmesi değil, işlerin birbirini şart koşmasıdır."
+        },
+        {
+          "title": "",
+          "text": "Kaynakların her yerde aynı sırayla alınması gibi tasarım kuralları bazı kilitlenmeleri önleyebilir. İki kişinin dar kapıda birbirinin yolunu açmasını beklemesi gibi düşün: Daha hızlı yürümek değil, geçiş düzenini değiştirmek gerekir."
         }
       ],
       "sources": [
@@ -877,7 +1109,7 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/6-3-processes-and-concurrency"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "cemden",
@@ -891,7 +1123,21 @@
           "name": "ecebirnot",
           "text": "İkinci kez okuyunca daha anlaşılır geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#f4bd65",
+        "ink": "#332710",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-metaveri",
@@ -899,7 +1145,7 @@
       "layout": "profile",
       "category": "Teknoloji",
       "title": "Fotoğrafın kendisiyle bilgisi aynı şey değil.",
-      "subtitle": "Dosyanın bir de etiketi var.",
+      "subtitle": "Bir fotoğraf dosyasının görüntü pikselleri asıl içeriğidir.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -916,12 +1162,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Veri hakkında veri",
-          "text": "Boyut, oluşturulma zamanı ve erişim izinleri gibi bilgiler dosyanın metaverisidir. Dosyanın asıl içeriğinden ayrı değerlendirilir."
+          "title": "",
+          "text": "Bir fotoğraf dosyasının görüntü pikselleri asıl içeriğidir. Dosyanın boyutu, oluşturulma zamanı veya erişim izinleri gibi onu tanımlayan bilgiler ise metaveridir. Bazı fotoğraflarda çekim ayarları ve konum bilgisi de bulunabilir."
         },
         {
-          "title": "Etiket de bilgi taşır",
-          "text": "Bir dosyayı incelerken yalnız görünen içeriği değil, onu tanımlayan kayıtları da hesaba katmak gerekir. Hangi bilgiler tutulduğu sisteme bağlıdır."
+          "title": "",
+          "text": "Her dosya bütün bu bilgileri taşımaz. Hangi kayıtların bulunduğu aygıta, biçime ve sonradan yapılan işlemlere bağlıdır. Bir fotoğrafı küçültmek veya başka biçime çevirmek bazı metaverileri değiştirebilir."
+        },
+        {
+          "title": "",
+          "text": "Kütüphanedeki kitabın metniyle katalog kaydını ayırmaya benzer. Katalog kitabın kendisi değildir ama onu bulmayı ve yönetmeyi kolaylaştırır. Dijital bir dosyayı paylaşırken yalnız ekranda görünen içerik değil, eşlik eden bilgiler de düşünülmelidir."
         }
       ],
       "sources": [
@@ -930,7 +1180,7 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/6-5-file-systems"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "elif.k",
@@ -964,7 +1214,21 @@
           "name": "ahmet.a",
           "text": "Teknik kısmı gözümde daha iyi canlandı."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Caveat",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-dizin",
@@ -972,7 +1236,7 @@
       "layout": "route",
       "category": "Teknoloji",
       "title": "Klasör, bilgisayarın içindeki gerçek çekmece değil.",
-      "subtitle": "İsimlerle konumlar arasında bir düzen.",
+      "subtitle": "Ekrandaki klasör simgesi, dosya sistemindeki dizin yapısını temsil eder.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -989,12 +1253,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Bir eşleme yapısı",
-          "text": "Dosya sistemindeki dizinler, adlarla dosyaları ilişkilendirir. İç içe dizinler, alıştığımız klasör ağacını oluşturabilir."
+          "title": "",
+          "text": "Ekrandaki klasör simgesi, dosya sistemindeki dizin yapısını temsil eder. Dizin, adlarla dosyalar veya başka dizinler arasındaki ilişkileri tutar. İç içe klasörler sayesinde bir adres yolu kurabiliriz."
         },
         {
-          "title": "Yolun anlamı",
-          "text": "Bir dosya yolu, bu yapıda hangi adımların izleneceğini söyler. Ekrandaki klasör simgesi, alttaki düzenin görsel anlatımıdır."
+          "title": "",
+          "text": "“Fotoğraflar / 2025 / yaz.jpg” yolunu düşün. Önce Fotoğraflar adlı dizine, sonra 2025'e, ardından yaz.jpg adına gidilir. Her adım, o düzeydeki bir adı çözmek demektir."
+        },
+        {
+          "title": "",
+          "text": "Bu nedenle aynı dosya adı farklı dizinlerde bulunabilir: İki ayrı evde aynı oda adı olması gibi. Tam yol, hangi dosyayı kastettiğini ayırt eder. Ekrandaki çekmece benzetmesi kullanışlıdır; altta çalışan şey ise adları ve bağlantıları düzenleyen kayıtlardır."
         }
       ],
       "sources": [
@@ -1003,13 +1271,27 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/6-5-file-systems"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "berk.b",
           "text": "Şuraya bir yer imi bırakayım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Bebas Neue",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-inode",
@@ -1017,7 +1299,7 @@
       "layout": "terminal",
       "category": "Teknoloji",
       "title": "Linux’ta dosyanın adı, bütün kimliği değil.",
-      "subtitle": "Bir ara kayıt daha var.",
+      "subtitle": "UNIX benzeri birçok dosya sisteminde dosyanın adıyla sistemin dosya hakkında tuttuğu kayıt ayrıdır.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -1034,12 +1316,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Inode",
-          "text": "UNIX benzeri dosya sistemlerinde inode, dosyanın metaverisini ve veri bloklarına ilişkin bilgileri tutar. Dosya adı bu kaydın içinde olmak zorunda değildir."
+          "title": "",
+          "text": "UNIX benzeri birçok dosya sisteminde dosyanın adıyla sistemin dosya hakkında tuttuğu kayıt ayrıdır. Inode denen yapı; izinler, boyut ve verinin nerede bulunduğuna ilişkin bilgiler gibi metaverileri tutar."
         },
         {
-          "title": "Adı dizin tutar",
-          "text": "Dizin, dosya adını ilgili inode ile eşleştirir. Kullanıcının gördüğü adla sistemin takip ettiği yapı bu yüzden ayrılabilir."
+          "title": "",
+          "text": "Dizin ise bir dosya adını ilgili inode numarasıyla eşleştirir. Yani ad, dosyanın bütün kimliği değildir. Aynı dosyaya farklı adlarla bağlantı kurulabilmesi bu ayrımla anlaşılır hâle gelir."
+        },
+        {
+          "title": "",
+          "text": "Bir kişinin adıyla nüfus kaydını ayırmaya benzetebilirsin. Etiket değişse de alttaki kayıt aynı kalabilir. Dosya sistemini anlamak için ekranda gördüğün ada ek olarak, adın hangi kayda işaret ettiğini de düşünmek gerekir."
         }
       ],
       "sources": [
@@ -1048,7 +1334,7 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/6-5-file-systems"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "zeynepce",
@@ -1082,7 +1368,21 @@
           "name": "birseda",
           "text": "İnsan bir kere öğrenince her yerde fark ediyor."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Space Mono",
+        "paper": "#172b24",
+        "ink": "#cbeaac",
+        "align": "end",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-birincil-anahtar",
@@ -1090,7 +1390,7 @@
       "layout": "profile",
       "category": "Teknoloji",
       "title": "İki kişinin adı aynıysa kayıtları karıştırma.",
-      "subtitle": "Veritabanının ayırt edici işareti.",
+      "subtitle": "Bir müşteri listesinde iki ayrı “Ayşe Yılmaz” bulunabilir.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -1107,12 +1407,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Benzersiz kimlik",
-          "text": "Birincil anahtar, tablodaki bir kaydı diğerlerinden ayırt eder. Ad-soyad gibi tekrar edebilen alanlar tek başına buna uygun olmayabilir."
+          "title": "",
+          "text": "Bir müşteri listesinde iki ayrı “Ayşe Yılmaz” bulunabilir. Siparişleri yalnız ad-soyada bağlarsan hangi Ayşe'nin alışveriş yaptığını karıştırabilirsin. Veritabanında her kaydı benzersiz ayıran alan veya alan grubuna birincil anahtar denir."
         },
         {
-          "title": "İsimden bağımsız",
-          "text": "Bir müşterinin adı değişse bile kayıt kimliği korunabilir. Kimliği görünür adla aynı şey saymamak, ilişkileri daha sağlam kurmaya yardım eder."
+          "title": "",
+          "text": "Örneğin birine müşteri 104, diğerine müşteri 287 kimliğini verirsin. Görünen adları aynı olsa da sistem iki ayrı kaydı takip eder. Bir kişinin adı değiştiğinde kimliğinin de değişmesi gerekmez."
+        },
+        {
+          "title": "",
+          "text": "Bu ayrım Learnie'de de işe yarar: Gönderinin başlığı düzeltilse bile kalıcı kimliği aynı tutulur. Paylaşım bağlantısı görünen cümleye değil, değişmeyen kayda gider. İyi kimlik, etiket değişikliklerine dayanır."
         }
       ],
       "sources": [
@@ -1121,7 +1425,7 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/8-3-relational-database-management-systems"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "mert.y",
@@ -1135,7 +1439,21 @@
           "name": "ardabirbak",
           "text": "Benim aklıma da aynı soru takılmıştı."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#f4bd65",
+        "ink": "#332710",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-yabanci-anahtar",
@@ -1143,7 +1461,7 @@
       "layout": "diagram",
       "category": "Teknoloji",
       "title": "Sipariş, müşterisini nasıl buluyor?",
-      "subtitle": "Bilgiyi kopyalamadan bağlantı kurmak.",
+      "subtitle": "Bir tabloda müşteriler, başka tabloda siparişler bulunsun.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -1160,12 +1478,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Başka kayda işaret",
-          "text": "Yabancı anahtar, bir tablodaki değeri başka tablonun ilgili anahtarına bağlar. Siparişte müşteri kimliği saklamak buna örnektir."
+          "title": "",
+          "text": "Bir tabloda müşteriler, başka tabloda siparişler bulunsun. Her siparişe müşterinin bütün bilgilerini tekrar yazmak yerine müşteri kimliği ekleyebilirsin. Bu alan, müşteriler tablosundaki kayda işaret eder; yabancı anahtarın temel fikri budur."
         },
         {
-          "title": "Tutarlılık",
-          "text": "Uygun kısıtlar, var olmayan müşteriye bağlı sipariş gibi sorunları önleyebilir. Tabloyu doldurmak kadar ilişkisini korumak da önemlidir."
+          "title": "",
+          "text": "Veritabanındaki uygun kısıt, örneğin müşteri 104 yokken ona bağlı yeni bir sipariş yazılmasını engelleyebilir. Böylece iki tablo arasındaki ilişki yalnız programcının iyi niyetine bırakılmaz."
+        },
+        {
+          "title": "",
+          "text": "Okul listesindeki öğrenci numarasıyla ödünç kitap kaydını bağlamak gibi düşün. Numara, kaydın başka yerdeki ayrıntısını buldurur. Tabloları ayırmak düzen sağlar; aralarındaki bağın geçerli kalmasını denetlemek de verinin tutarlılığını korur."
         }
       ],
       "sources": [
@@ -1174,7 +1496,7 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/8-3-relational-database-management-systems"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "umutburada",
@@ -1184,7 +1506,21 @@
           "name": "berk.b",
           "text": "İkinci kartta anca oturdu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Lora",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-normalizasyon",
@@ -1192,7 +1528,7 @@
       "layout": "beforeafter",
       "category": "Teknoloji",
       "title": "Adres değişti. Beş yerde mi düzelteceğiz?",
-      "subtitle": "Tekrarlanan veri tutarsızlık doğurabilir.",
+      "subtitle": "Bir müşterinin güncel adresini yaptığı her siparişin yanına ayrı ayrı yazdığını düşün.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -1209,12 +1545,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Ayrı yerde saklamak",
-          "text": "Veritabanı normalizasyonu, veriyi ilişkilerine göre düzenleyerek gereksiz tekrarları ve güncelleme sorunlarını azaltmayı amaçlar."
+          "title": "",
+          "text": "Bir müşterinin güncel adresini yaptığı her siparişin yanına ayrı ayrı yazdığını düşün. Adres değişince beş kopyayı güncellemen gerekebilir. Birini unutursan aynı kişinin aynı anda iki farklı “güncel adresi” görünür."
         },
         {
-          "title": "Bir örnek",
-          "text": "Müşterinin adresi her siparişte ayrı ayrı tutulursa kopyalar çelişebilir. Tasarımda geçmiş adresi saklama ihtiyacı varsa o da açıkça modellenmelidir."
+          "title": "",
+          "text": "Veritabanı normalizasyonu, bilgiyi ilişkilerine göre düzenleyip gereksiz tekrarları ve bu tür güncelleme sorunlarını azaltmayı amaçlar. Güncel müşteri adresini müşteri kaydında tutup siparişleri kimlikle bağlamak bir örnektir."
+        },
+        {
+          "title": "",
+          "text": "Ama eski siparişin o gün hangi adrese gönderildiğini saklamak başka ihtiyaçtır. Bu tarihsel bilgi ayrı modellenebilir. Amaç her tekrarı körü körüne silmek değil; güncel bilgiyle geçmiş olay kaydının ne anlama geldiğini açıkça ayırmaktır."
         }
       ],
       "sources": [
@@ -1223,13 +1563,27 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/8-3-relational-database-management-systems"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "selin.jpg",
           "text": "Bunu arkadaşla tartışıyorduk geçen gün."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-oltalama",
@@ -1237,7 +1591,7 @@
       "layout": "newspaper",
       "category": "Teknoloji",
       "title": "Logo gerçek gibi, mesaj sahte olabilir.",
-      "subtitle": "Oltalama yalnız kötü yazılmış e-posta değil.",
+      "subtitle": "Bankanın logosunu taşıyan bir mesaj, senden hemen giriş yapmanı isteyebilir.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -1254,12 +1608,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Kimliğe bürünmek",
-          "text": "Oltalama, güvenilir bir kişi veya kurum gibi görünerek bilgi ya da işlem elde etmeye çalışan sosyal mühendislik yöntemidir."
+          "title": "",
+          "text": "Bankanın logosunu taşıyan bir mesaj, senden hemen giriş yapmanı isteyebilir. Oltalama, güvenilir bir kurum veya kişi gibi görünerek bilgi ya da işlem elde etmeye çalışan aldatma yöntemidir. Hedef çoğu zaman teknik açıktan önce insanın güvenidir."
         },
         {
-          "title": "Görüntü kanıt sayılmaz",
-          "text": "Bir sayfanın tanıdık tasarıma sahip olması, onu o kurumun yönettiğini göstermez. Saldırı bazen teknik açıktan önce güven ilişkisini hedefler."
+          "title": "",
+          "text": "Logo ve sayfa tasarımı kopyalanabilir. Bu yüzden tanıdık görünüş, sayfayı gerçekten o kurumun yönettiğini kanıtlamaz. Acele ettiren mesajdaki bağlantıya güvenmek yerine kuruma bildiğin uygulama veya adres üzerinden ulaşmak daha sağlam bir kontroldür."
+        },
+        {
+          "title": "",
+          "text": "Şifreyi isteyen ekranın güzel tasarlanması bir kimlik belgesi değildir. Güvenlikte sorulması gereken, “bunu tanıdım mı?” kadar “gerçekten beklediğim yere mi geldim?” sorusudur."
         }
       ],
       "sources": [
@@ -1268,7 +1626,7 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/14-2-cybersecurity-deep-dive"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "berk.b",
@@ -1294,7 +1652,21 @@
           "name": "onurdefter",
           "text": "Bunu birine anlatmayı deneyeceğim."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-sifreleme",
@@ -1302,7 +1674,7 @@
       "layout": "glossary",
       "category": "Teknoloji",
       "title": "Şifreleme ile parola aynı kelime değil.",
-      "subtitle": "İşleri farklı.",
+      "subtitle": "Şifreleme, okunabilir veriyi bir anahtar ve yöntem kullanarak farklı bir biçime dönüştürür.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -1319,12 +1691,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Veriyi dönüştürmek",
-          "text": "Şifreleme, veriyi uygun anahtar olmadan okunması zor bir biçime dönüştürür. Parola ise bir sisteme girişte kullanılan doğrulama bilgisi olabilir."
+          "title": "",
+          "text": "Şifreleme, okunabilir veriyi bir anahtar ve yöntem kullanarak farklı bir biçime dönüştürür. Doğru anahtarı olmayan kişinin içeriği anlamasını zorlaştırmayı amaçlar. Mesajın taşındığı yerde bir kopyası görülse bile içeriği korunabilir."
         },
         {
-          "title": "Birlikte kullanılabilir",
-          "text": "Bir parola anahtarın korunmasına yardım edebilir; yine de kavramlar aynı değildir. Güvenlik tek bir düğmeden oluşmaz."
+          "title": "",
+          "text": "Parola ise çoğunlukla bir sisteme kim olduğunu kanıtlamak için sunduğun gizli bilgidir. Bir parola şifreleme anahtarını korumada kullanılabilir, ama kavramlar aynı değildir. Kapıyı açmakla içerideki belgeleri okunamaz biçimde saklamak farklı işlerdir."
+        },
+        {
+          "title": "",
+          "text": "Bir hizmetin parola istemesi, bütün veriyi her yerde şifrelediğini tek başına göstermez. Güvenlik özelliğini değerlendirirken giriş kontrolünün mü, aktarımın mı, saklanan içeriğin mi korunduğunu ayrı ayrı sormak gerekir."
         }
       ],
       "sources": [
@@ -1333,7 +1709,7 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/14-2-cybersecurity-deep-dive"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "duru.not",
@@ -1367,7 +1743,21 @@
           "name": "berk.b",
           "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#f4bd65",
+        "ink": "#332710",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "single",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-yetkilendirme",
@@ -1375,7 +1765,7 @@
       "layout": "door",
       "category": "Teknoloji",
       "title": "“Sen kimsin?” ile “Ne yapabilirsin?” farklı.",
-      "subtitle": "İki ayrı kontrol.",
+      "subtitle": "Bir uygulamaya giriş yaparken sistem, iddia ettiğin kullanıcı olup olmadığını denetler.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -1392,12 +1782,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Kimlik doğrulama",
-          "text": "Sisteme gelen kişinin iddia ettiği kişi olup olmadığı kontrol edilir. Bu, kimlik doğrulamadır."
+          "title": "",
+          "text": "Bir uygulamaya giriş yaparken sistem, iddia ettiğin kullanıcı olup olmadığını denetler. Parola veya başka bir yöntemle yapılan bu işleme kimlik doğrulama denir. Ama başarılı giriş, bütün işlemlere izin verildiği anlamına gelmez."
         },
         {
-          "title": "Yetkilendirme",
-          "text": "Doğrulanan kişinin hangi veriye ve işleme erişebileceği ayrıca belirlenir. İçeri girmek, her odanın anahtarını almak demek değildir."
+          "title": "",
+          "text": "Yetkilendirme, bu kullanıcının ne yapabileceğini belirler. Bir çalışan raporu okuyabilir ama silemeyebilir; yönetici başka izinlere sahip olabilir. Her önemli işlemde uygun yetkinin kontrol edilmesi gerekir."
+        },
+        {
+          "title": "",
+          "text": "Otel örneğiyle düşün: Resepsiyon kimliğini doğrular, oda kartın ise hangi kapıyı açabileceğini belirler. Otelde kayıtlı olmak bütün odalara girmek demek değildir. Yazılımda da “sen kimsin?” ve “buna iznin var mı?” ayrı sorulardır."
         }
       ],
       "sources": [
@@ -1406,7 +1800,7 @@
           "url": "https://openstax.org/books/introduction-computer-science/pages/14-2-cybersecurity-deep-dive"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "keremca",
@@ -1416,7 +1810,21 @@
           "name": "deniz.k",
           "text": "İkinci kez okuyunca daha anlaşılır geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Space Mono",
+        "paper": "#f9edbc",
+        "ink": "#363220",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     }
   ]
 }

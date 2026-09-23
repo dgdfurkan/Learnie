@@ -7,7 +7,7 @@
       "layout": "newspaper",
       "category": "Spor",
       "title": "Maçta yalnız skor tutulmuyor.",
-      "subtitle": "Antropolog tribüne de bakar.",
+      "subtitle": "Bir futbol maçında topun kurallara göre kaleye girmesi skoru değiştirir.",
       "account": "Saha Kenarı",
       "handle": "sahakenari",
       "cover": {
@@ -24,12 +24,16 @@
       "motion": "football",
       "slides": [
         {
-          "title": "Toplumun içinde",
-          "text": "Spor antropolojisi; oyunları, sporcuları ve izleyicileri toplumsal bağlamlarıyla inceler. Kimlerin katılabildiği ve neyin ödüllendirildiği de sorudur."
+          "title": "",
+          "text": "Bir futbol maçında topun kurallara göre kaleye girmesi skoru değiştirir. Ama tribündeki aynı gol, bir aile hatırasını, mahalle aidiyetini veya ezeli rekabeti de harekete geçirebilir. Spor antropolojisi bu toplumsal anlamlarla ilgilenir."
         },
         {
-          "title": "Sahadan fazlası",
-          "text": "Bir sporun anlamı yalnız hareket kurallarından çıkmaz. Taraftarlık, kimlik ve ortak deneyim de oyunun çevresini oluşturur."
+          "title": "",
+          "text": "Basketbol, hentbol veya yerel bir güreş geleneğini araştırırken yalnız sayı sistemini sormaz. Kimler katılabiliyor, kim izliyor, hangi davranış alkışlanıyor, hangisi ayıplanıyor? Oyun çevresindeki ilişkiler de inceleme konusudur."
+        },
+        {
+          "title": "",
+          "text": "Bu yüzden sporun kültürünü öğrenmek, maç sonucunu ezberlemekten farklıdır. Aynı kuralları oynayan iki topluluk spora başka anlamlar yükleyebilir. Forma bazen bir takımın rengi kadar, insanın nereden geldiğini anlatma biçimidir."
         }
       ],
       "sources": [
@@ -38,8 +42,22 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/16-3-an-anthropological-view-of-sport-throughout-time"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#f7f3e9",
+        "ink": "#392e22",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-spor-yetenek",
@@ -47,7 +65,7 @@
       "layout": "profile",
       "category": "Spor",
       "title": "Yetenek var. Peki sahası, hocası, zamanı var mı?",
-      "subtitle": "Başarı bir çevrenin içinde gelişir.",
+      "subtitle": "Bir çocuğun topa çok iyi vurması önemli bir beceridir.",
       "account": "Saha Kenarı",
       "handle": "sahakenari",
       "cover": {
@@ -64,12 +82,16 @@
       "motion": "football",
       "slides": [
         {
-          "title": "Koşulların payı",
-          "text": "Bireysel beceri önemli olsa da spor, eğitim ve toplumsal destek içinde öğrenilir. Yeteneklerin görünür olacağı kurumlar ve fırsatlar gerekir."
+          "title": "",
+          "text": "Bir çocuğun topa çok iyi vurması önemli bir beceridir. Ama düzenli antrenman yapabileceği saha, zaman, ekipman ve öğretici olmadan bu becerinin gelişmesi zorlaşabilir. Sporda yetenek, tek başına çevreden bağımsız büyümez."
         },
         {
-          "title": "Tek kişilik açıklama eksik",
-          "text": "Bir şampiyonun hikâyesini yalnız doğuştan gelen özelliklerle anlatmak, bu çevreyi görünmez kılabilir."
+          "title": "",
+          "text": "Bir branşın o bölgede yaygın olması bile fırsatları etkiler. Basketbol salonu olan yerdeki çocukla en yakın salona saatlerce giden çocuğun başlangıç koşulları aynı değildir. Kurumlar hangi yeteneklerin görünür olacağını da belirler."
+        },
+        {
+          "title": "",
+          "text": "Bu, bireysel emeği küçültmez. Başarının hikâyesine eksik parçaları ekler. Bir şampiyonu izlerken onun kadar antrenörleri, erişebildiği imkânları ve sporun öğrenildiği çevreyi de düşünmek daha tam bir açıklama sağlar."
         }
       ],
       "sources": [
@@ -78,7 +100,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/16-3-an-anthropological-view-of-sport-throughout-time"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ayse.tr",
@@ -119,12 +141,22 @@
         {
           "name": "berk.b",
           "text": "Bir çay molasına sığdı, iyi geldi."
-        },
-        {
-          "name": "ecebirnot",
-          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#f7f3e9",
+        "ink": "#392e22",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-spor-arkeoloji",
@@ -132,7 +164,7 @@
       "layout": "casefile",
       "category": "Spor",
       "title": "Eski bir oyun aleti de insanlık tarihi anlatır.",
-      "subtitle": "Sporun geçmişine bakmak.",
+      "subtitle": "Arkeologlar eski toplumların oyunlarını araştırırken oyun alanları, tasvirler ve kullanılan nesnelerden yararlanır.",
       "account": "Saha Kenarı",
       "handle": "sahakenari",
       "cover": {
@@ -149,12 +181,16 @@
       "motion": "football",
       "slides": [
         {
-          "title": "Nesnelerden iz sürmek",
-          "text": "Arkeolojik spor araştırmaları, oyun alanları ve kullanılan nesneler üzerinden geçmiş pratikleri anlamaya çalışır."
+          "title": "",
+          "text": "Arkeologlar eski toplumların oyunlarını araştırırken oyun alanları, tasvirler ve kullanılan nesnelerden yararlanır. Bir top veya çizgili alan, insanların boş zaman ve yarışma pratikleri hakkında soru açabilir. Sporun tarihi yalnız yazılı skor kayıtlarından oluşmaz."
         },
         {
-          "title": "Aynısını varsayma",
-          "text": "Bugünkü bir oyuna benzeyen buluntu, bütün kuralların aynı olduğunu göstermez. Nesnenin kullanımını kendi bağlamında değerlendirmek gerekir."
+          "title": "",
+          "text": "Ama bugünkü bir alete benzemesi, aynı oyunun aynı kurallarla oynandığını kanıtlamaz. Taş bir halka görmek, hemen basketbol potası gördüğümüz anlamına gelmez. Nesnenin dönemi ve çevresindeki kanıtlar birlikte değerlendirilir."
+        },
+        {
+          "title": "",
+          "text": "Maddi izler bize hareketin olası biçimini gösterebilir; bütün kuralları veya izleyicilerin duygularını geri getirmez. Eski oyunu öğrenirken kanıtla tahmini ayırmak, hikâyenin hem daha doğru hem daha ilginç olmasını sağlar."
         }
       ],
       "sources": [
@@ -163,7 +199,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/16-3-an-anthropological-view-of-sport-throughout-time"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "mert.y",
@@ -177,7 +213,21 @@
           "name": "birseda",
           "text": "Ben de yeni öğrendim, yalnız değilmişim."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Bebas Neue",
+        "paper": "#192f2a",
+        "ink": "#f3eddc",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-lig-mac-sayisi",
@@ -185,7 +235,7 @@
       "layout": "equation",
       "category": "Spor",
       "title": "6 takım herkesle bir kez oynasa kaç maç eder?",
-      "subtitle": "Fikstürün küçük hesabı.",
+      "subtitle": "Altı takımlı bir turnuvada herkes herkesle bir kez oynayacak.",
       "account": "Saha Kenarı",
       "handle": "sahakenari",
       "cover": {
@@ -202,12 +252,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "İkişer eşleştir",
-          "text": "Tek devreli ligde her takım diğer beş takımla oynar. 6 × 5 sayınca her maçı iki kez saymış oluruz."
+          "title": "",
+          "text": "Altı takımlı bir turnuvada herkes herkesle bir kez oynayacak. Bir takımın beş rakibi var. Altı takımı beşle çarpınca 30 bulursun, ama burada her karşılaşmayı iki kez saydın: A–B ve B–A aynı maç."
         },
         {
-          "title": "İkiye böl",
-          "text": "Toplam 6 × 5 / 2 = 15 maç gerekir. Genel formül n takım için n × (n − 1) / 2'dir."
+          "title": "",
+          "text": "Bu yüzden ikiye böleriz: 6 × 5 / 2 = 15 maç. Genel olarak n takım için tek devreli ligde n × (n − 1) / 2 karşılaşma gerekir. Takım sayısı arttıkça takvim hızla kalabalıklaşır."
+        },
+        {
+          "title": "",
+          "text": "Ev ve deplasman olmak üzere iki kez oynanacaksa sayı iki katına çıkar: Bu örnekte 30. Formülü ezberlemek yerine “aynı maçı kaç kez sayıyorum?” sorusunu anlamak, farklı turnuva biçimlerinde hesabı yeniden kurmanı sağlar."
         }
       ],
       "sources": [
@@ -216,7 +270,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/13-5-math-and-sports"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "duru.not",
@@ -230,7 +284,21 @@
           "name": "ardabirbak",
           "text": "Son cümle önemli bence."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Lora",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-eleme-mac",
@@ -238,7 +306,7 @@
       "layout": "route",
       "category": "Spor",
       "title": "32 takımdan şampiyon çıkarmak için 31 maç yeter.",
-      "subtitle": "Üçüncülük maçı olmayan tek eleme.",
+      "subtitle": "Otuz iki takımın katıldığı tek maçlı eleme turnuvasında her karşılaşma bir takımı eler.",
       "account": "Saha Kenarı",
       "handle": "sahakenari",
       "cover": {
@@ -255,12 +323,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Her maç birini eler",
-          "text": "Tek maçlı elemede her karşılaşma bir takımı yarıştan çıkarır. Bir şampiyon kalması için 31 takım elenmelidir."
+          "title": "",
+          "text": "Otuz iki takımın katıldığı tek maçlı eleme turnuvasında her karşılaşma bir takımı eler. Sonunda bir şampiyon kalacaksa 31 takımın elenmesi gerekir. Dolayısıyla şampiyonu belirlemek için 31 eleme maçı yeterlidir."
         },
         {
-          "title": "Kısa yolun bedeli",
-          "text": "Bu nedenle 32 − 1 = 31 maç gerekir. Lig düzenine göre az maç oynanır; her takım herkesle karşılaşmaz."
+          "title": "",
+          "text": "Turları da sayabiliriz: 16 ilk tur, 8 sonraki tur, 4 çeyrek final, 2 yarı final, 1 final. Toplam yine 31. Ama ilk yöntem, bütün tabloyu çizmeden sonucu verir."
+        },
+        {
+          "title": "",
+          "text": "Bu hesap üçüncülük maçı, çift maçlı turlar veya başka klasman karşılaşmaları eklenmediği durum içindir. Kuralın neden çalıştığını bilince sınırını da görürsün: Her maç tam bir takım eliyor ve yalnız tek kazanan bırakıyoruz."
         }
       ],
       "sources": [
@@ -269,13 +341,27 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/13-5-math-and-sports"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "aliokuyor",
           "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Oswald",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-spor-veri",
@@ -283,7 +369,7 @@
       "layout": "terminal",
       "category": "Spor",
       "title": "Gol sayısı tek başına oyuncunun bütün hikâyesi değil.",
-      "subtitle": "Spor analitiği neye bakar?",
+      "subtitle": "Bir basketbolcu maçta 20 sayı, diğeri 15 sayı atmış olsun.",
       "account": "Saha Kenarı",
       "handle": "sahakenari",
       "cover": {
@@ -300,12 +386,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Örüntü aramak",
-          "text": "Spor verileri; oyuncu değerlendirmesi, rakip analizi ve strateji geliştirmede kullanılabilir. Kararlar yalnız gözle görülen sonuca dayanmak zorunda değildir."
+          "title": "",
+          "text": "Bir basketbolcu maçta 20 sayı, diğeri 15 sayı atmış olsun. Yalnız toplama bakarak ilkinin daha verimli hücum ettiğini söyleyemeyiz. Kaç şut kullandıkları, serbest atışlar ve sahada kaldıkları süre gibi bilgiler de gerekir."
         },
         {
-          "title": "Ölçüm de seçimdir",
-          "text": "Hangi verinin soruya uygun olduğunu belirlemek gerekir. Bir tablo çok sayı içeriyor diye otomatik olarak iyi değerlendirme yapmaz."
+          "title": "",
+          "text": "Futbolda gol sayısı da benzer biçimde rol, süre ve takımın oyunuyla birlikte okunur. Beyzbolda ise vuruş, yürüyüş ve üs kazanma gibi farklı sonuçlar ayrı ölçülerle izlenir. Her sporun sorduğu performans soruları farklıdır."
+        },
+        {
+          "title": "",
+          "text": "İstatistik, gözün yerini alan sihirli puan değil; belirli bir soruyu daha açık sormanın aracıdır. Önce “Neyi karşılaştırıyorum?” de. Sonra o soruya uygun ölçüyü ve ölçünün dışarıda bıraktıklarını seç."
         }
       ],
       "sources": [
@@ -314,7 +404,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/13-5-math-and-sports"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ardabirbak",
@@ -324,15 +414,29 @@
           "name": "aliokuyor",
           "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Space Mono",
+        "paper": "#172b24",
+        "ink": "#cbeaac",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-hertz",
       "topic": "Müziğin sayıları",
-      "layout": "comparison",
+      "layout": "gallery",
       "category": "Sanat",
       "title": "Sesi açtın. Nota otomatik olarak incelmedi.",
-      "subtitle": "Gürlükle frekans farklı.",
+      "subtitle": "Bir ses dalgası, havadaki basıncın tekrar tekrar değişmesiyle yayılır.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -349,12 +453,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Titreşim sayısı",
-          "text": "Hertz, saniyedeki titreşim döngüsü sayısını belirtir. Frekans, sesin ince veya kalın algılanmasıyla ilişkilidir."
+          "title": "",
+          "text": "Bir ses dalgası, havadaki basıncın tekrar tekrar değişmesiyle yayılır. Saniyede kaç tam titreşim olduğu frekanstır; birimi hertz, kısaca Hz'dir. 440 Hz, saniyede 440 döngü demektir."
         },
         {
-          "title": "Başka bir özellik",
-          "text": "Ses düzeyini artırmak frekansı aynı oranda artırmak demek değildir. Gürlük ve perdeyi ayrı özellikler olarak düşünmek gerekir."
+          "title": "",
+          "text": "Frekans, sesin ince veya kalın algılanmasıyla ilişkilidir. Sesin yüksekliği anlamında kullandığımız gürlük ise başka bir özelliktir. Hoparlörün sesini açtığında aynı notayı daha güçlü duyabilirsin; nota sırf bu yüzden incelmez."
+        },
+        {
+          "title": "",
+          "text": "Piyanoda sağa doğru tuşlara ilerlemekle aynı tuşa daha güçlü basmayı ayır. İlkinde temel frekans, ikincide sesin şiddeti değişir. Günlük dilde ikisine de “yüksek ses” diyebilmemiz, müzik konuşurken kavramların karışmasına neden olur."
         }
       ],
       "sources": [
@@ -367,7 +475,7 @@
           "url": "https://www.cs.cmu.edu/~15322/book/ch04/01.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "gokce",
@@ -401,7 +509,21 @@
           "name": "ardabirbak",
           "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Fraunces",
+        "paper": "#192f2a",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-oktav",
@@ -409,7 +531,7 @@
       "layout": "number",
       "category": "Sanat",
       "title": "Aynı nota adı, farklı yükseklik.",
-      "subtitle": "Oktavın frekans ilişkisi.",
+      "subtitle": "Bir sesin frekansını iki katına çıkardığında bir oktav yukarı gidersin.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -426,12 +548,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "İki kat",
-          "text": "Bir sesin frekansı iki katına çıktığında bir oktav yukarıya gider. Örneğin 220 Hz ile 440 Hz arasında bir oktav vardır."
+          "title": "",
+          "text": "Bir sesin frekansını iki katına çıkardığında bir oktav yukarı gidersin. Örneğin 220 Hz ile 440 Hz arasında bir oktav vardır. 440 Hz'den sonraki oktav ise 880 Hz'dir."
         },
         {
-          "title": "Oran sabit",
-          "text": "440 Hz'den bir oktav yukarısı 880 Hz olur. Artan miktar aynı kalmaz; korunan şey ikiye bir frekans oranıdır."
+          "title": "",
+          "text": "Dikkat et: İlk fark 220, ikinci fark 440 Hz. Yani oktav sabit bir frekans farkı değil, ikiye bir orandır. Her basamakta aynı miktarı eklemiyor, aynı çarpanı uyguluyoruz."
+        },
+        {
+          "title": "",
+          "text": "Piyanoda aynı nota adının daha tiz bir yerde yeniden gelmesi bu düzenle ilişkilidir. Sesler aynı yükseklikte değildir ama müzikte bir yakınlık içinde adlandırılırlar. Oktavı anlamak için sayıların farkından çok birbirlerine oranına bakmak gerekir."
         }
       ],
       "sources": [
@@ -444,7 +570,7 @@
           "url": "https://www.cs.cmu.edu/~15322/book/ch04/01.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "gokce",
@@ -485,24 +611,22 @@
         {
           "name": "zeynepce",
           "text": "Benim aklıma da aynı soru takılmıştı."
-        },
-        {
-          "name": "keremca",
-          "text": "Bu ayrımı unutmayayım."
-        },
-        {
-          "name": "aliokuyor",
-          "text": "Ben bunu tam ters biliyormuşum 😅"
-        },
-        {
-          "name": "ayse.tr",
-          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
-        },
-        {
-          "name": "duru.not",
-          "text": "Bugünün cebime attığım bilgisi bu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-yarim-adim",
@@ -510,7 +634,7 @@
       "layout": "sequence",
       "category": "Sanat",
       "title": "Piyanoda yan tuşa geçmek bazen siyaha basmaktır.",
-      "subtitle": "Yarım sesin küçük haritası.",
+      "subtitle": "Piyanoda soldan sağa ilerledikçe sesler tizleşir.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -527,12 +651,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Komşu tuşlar",
-          "text": "Batı müziğindeki standart klavyede, siyahlar dahil yan yana iki tuş arasındaki aralık yarım sestir."
+          "title": "",
+          "text": "Piyanoda soldan sağa ilerledikçe sesler tizleşir. Siyah tuşlar da dahil, birbirine komşu iki tuş arasındaki en küçük standart aralığa yarım ses denir. Yalnız beyaz tuşları saymak bu adımları doğru vermez."
         },
         {
-          "title": "Bir oktavlık yol",
-          "text": "On iki yarım ses adımı bir oktavı tamamlar. Yalnız beyaz tuşları saymak bu aralık düzenini göstermeye yetmez."
+          "title": "",
+          "text": "Örneğin mi ile fa arasında siyah tuş yoktur; yan yana iki beyaz tuş yarım ses oluşturur. Do ile re arasında ise bir siyah tuş vardır, dolayısıyla iki yarım seslik mesafe bulunur."
+        },
+        {
+          "title": "",
+          "text": "Standart on iki eşit aralıklı düzende on iki yarım ses bir oktavı tamamlar. Klavyedeki siyah-beyaz düzen, bu on iki adımı görsel olarak gruplar. Tuşun rengi ses aralığının büyüklüğünü tek başına belirlemez; gerçek komşuluğa bakarız."
         }
       ],
       "sources": [
@@ -545,7 +673,7 @@
           "url": "https://www.cs.cmu.edu/~15322/book/ch04/01.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "deniz.k",
@@ -586,32 +714,30 @@
         {
           "name": "ahmet.a",
           "text": "Kısa ama tekrar okumalık."
-        },
-        {
-          "name": "mert.y",
-          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
-        },
-        {
-          "name": "ayse.tr",
-          "text": "İkinci kartta anca oturdu."
-        },
-        {
-          "name": "berk.b",
-          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
-        },
-        {
-          "name": "birseda",
-          "text": "Ben renklerine bakıp geçiyordum."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Oswald",
+        "paper": "#f9edbc",
+        "ink": "#363220",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-etnomuzikoloji",
       "topic": "Müziği kültürle dinlemek",
-      "layout": "glossary",
+      "layout": "postcard",
       "category": "Sanat",
       "title": "Şarkının notasını öğrendin. Nerede söyleniyor?",
-      "subtitle": "Müzik araştırmasının başka kulağı.",
+      "subtitle": "Bir ezginin notalarını yazmak onun ses düzenini gösterir.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -628,12 +754,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Bağlamı dinlemek",
-          "text": "Etnomüzikoloji, müziği toplumsal ve kültürel bağlamlarıyla inceler. Kimlerin, hangi ortamda, ne amaçla müzik yaptığıyla ilgilenir."
+          "title": "",
+          "text": "Bir ezginin notalarını yazmak onun ses düzenini gösterir. Ama o ezginin düğünde mi, yas sırasında mı, çocuk uyuturken mi söylendiğini anlatmaz. Etnomüzikoloji, müziği toplumsal ve kültürel yaşamı içinde inceleyen alandır."
         },
         {
-          "title": "Sesin çevresi",
-          "text": "Aynı ezginin törende veya gündelik eğlencede söylenmesi farklı anlamlar taşıyabilir. Yalnız ses kaydına bakmak her şeyi anlatmaz."
+          "title": "",
+          "text": "Kim söylüyor, kim dinliyor, hangi ortamda öğreniliyor, söylemek kime açık? Bu sorular, aynı ses dizisinin farklı topluluklarda neden farklı anlamlar taşıyabildiğini açar. Müzik yalnız seslerden oluşan soyut bir nesne gibi ele alınmaz."
+        },
+        {
+          "title": "",
+          "text": "Bir stadyum marşını boş odada tek başına dinlemekle binlerce kişiyle söylemek arasındaki farkı düşün. Nota benzer kalabilir; yaşanan ortaklık değişir. Müziğin anlamının bir bölümü de bu birlikte yapılan eylemde oluşur."
         }
       ],
       "sources": [
@@ -642,13 +772,27 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/16-2-anthropology-of-music"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "keremca",
           "text": "Kaynağı ayrıca vermeniz iyi olmuş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Lora",
+        "paper": "#efe6d5",
+        "ink": "#24211e",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-densmore",
@@ -656,7 +800,7 @@
       "layout": "profile",
       "category": "Sanat",
       "title": "Eski bir ses kaydı tek başına konuşmaz.",
-      "subtitle": "Frances Densmore'un araştırmaları.",
+      "subtitle": "Frances Densmore, Yerli Amerikan topluluklarının müziklerini kaydeden araştırmacılardan biriydi.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -673,12 +817,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Kayıt ve yorum",
-          "text": "Densmore, Yerli Amerikan topluluklarının müziklerini kaydeden araştırmacılardandı. Kaydedilen müziğin anlamını öğrenmek için insanlarla da çalıştı."
+          "title": "",
+          "text": "Frances Densmore, Yerli Amerikan topluluklarının müziklerini kaydeden araştırmacılardan biriydi. Eski kayıt aygıtları sesin bir bölümünü saklayabiliyordu; ama kaydın hangi bağlamda kullanıldığını makine kendi kendine anlatmıyordu."
         },
         {
-          "title": "Kimin bilgisi?",
-          "text": "Arşivdeki sesin bağlamını anlamak, o müziği üreten insanların bilgisine dayanır. Kaydı yapan kişi hikâyenin tek sahibi değildir."
+          "title": "",
+          "text": "Şarkıların anlamı, kullanım ortamı ve öğrenilmesi hakkında bilgi edinmek için müziği yapan insanlarla çalışmak gerekiyordu. Arşivdeki ses, bu kişilerin bilgisinden bağımsız okunabilecek eksiksiz bir kültür paketi değildir."
+        },
+        {
+          "title": "",
+          "text": "Bugün böyle kayıtları incelerken kimin kaydettiği kadar kimin söylediğini ve hangi koşullarda kayda alındığını da sorarız. Kayıt cihazını kullanan kişi arşivde görünür olabilir; müziğin bilgisi ve geleneği ise onu yaşayan topluluklara aittir."
         }
       ],
       "sources": [
@@ -687,7 +835,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/16-2-anthropology-of-music"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "aliokuyor",
@@ -705,7 +853,21 @@
           "name": "mert.y",
           "text": "Kaynağı ayrıca vermeniz iyi olmuş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-muzik-arkeoloji",
@@ -713,7 +875,7 @@
       "layout": "gallery",
       "category": "Sanat",
       "title": "Kırık bir flüt de geçmişten haber verir.",
-      "subtitle": "Müzik nesneleri arkeolojinin içinde.",
+      "subtitle": "Kazıda eski bir flüt bulunduğunda deliklerin konumu, malzemesi ve yapım izleri incelenebilir.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -730,12 +892,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Malzemenin izi",
-          "text": "Eski çalgıların yapısı ve bulundukları yerler, üretim becerileriyle müziğin kullanımına dair ipuçları sağlar."
+          "title": "",
+          "text": "Kazıda eski bir flüt bulunduğunda deliklerin konumu, malzemesi ve yapım izleri incelenebilir. Bunlar üretim becerisi ve olası sesler hakkında bilgi verir. Bulunduğu yer de çalgının hangi faaliyetlerle ilişkili olabileceğini düşündürür."
         },
         {
-          "title": "Ses kaydı yoksa",
-          "text": "Bir çalgının bulunması, çalınan her ezgiyi bildiğimiz anlamına gelmez. Maddi kanıtla kaybolmuş performansı ayırmak gerekir."
+          "title": "",
+          "text": "Ama elimizde çalgı olması, o çalgıyla çalınan bütün ezgilerin de elimizde olduğu anlamına gelmez. Performansın ritmi, sözleri ve toplumsal kullanımı için başka kanıtlara ihtiyaç vardır."
+        },
+        {
+          "title": "",
+          "text": "Bir gitarı bulup sahibinin bütün şarkı listesini çıkaramamaya benzer. Nesne güçlü bir izdir, fakat kaybolmuş müziğin tamamı değildir. Deneysel yeniden yapımlar bazı olasılıkları sınayabilir; ortaya çıkan sesi kesin tarihsel kayıt gibi sunmak doğru olmaz."
         }
       ],
       "sources": [
@@ -744,7 +910,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/16-2-anthropology-of-music"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "umutburada",
@@ -785,12 +951,22 @@
         {
           "name": "berk.b",
           "text": "Okurken durup düşündüm biraz."
-        },
-        {
-          "name": "mert.y",
-          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#f4bd65",
+        "ink": "#332710",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-ari-dansi",
@@ -798,7 +974,7 @@
       "layout": "route",
       "category": "Gündelik",
       "title": "Arı adresi dans ederek tarif ediyor.",
-      "subtitle": "Kovanda yön ve uzaklık.",
+      "subtitle": "Bal arıları buldukları besin hakkında kovandaki diğer arılara hareketlerle bilgi aktarabilir.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -815,12 +991,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Sallanma dansı",
-          "text": "Bal arısının sallanma dansındaki yön ve süre, besin kaynağının yönüyle uzaklığı hakkında bilgi aktarabilir."
+          "title": "",
+          "text": "Bal arıları buldukları besin hakkında kovandaki diğer arılara hareketlerle bilgi aktarabilir. Sallanma dansı denen davranışta yön ve süre, kaynağın yönü ve uzaklığıyla ilişkilidir. Böylece bilgi yalnız koklayarak veya rastgele arayarak edinilmez."
         },
         {
-          "title": "Sınırı da var",
-          "text": "Bu etkili iletişim, insan dilinin her konuda yeni cümle kurabilmesiyle aynı değildir. İletişimin tek biçimi konuşmak değildir."
+          "title": "",
+          "text": "Arıların yaptığı şey insan gibi sözcüklerle adres söylemek değildir; türüne özgü bir iletişim düzenidir. Yine de başka bireyin davranışını değiştirecek bilgi taşır. Konuşma, iletişimin tek biçimi değildir."
+        },
+        {
+          "title": "",
+          "text": "Buradan arıların insan dilinin bütün olanaklarına sahip olduğu sonucunu çıkarmayız. Hayalî olaylar ve sınırsız yeni konular hakkında cümle kurmak başka özelliklerdir. İki sistemi karşılaştırırken hem benzer işlevi hem farklı sınırları görmek gerekir."
         }
       ],
       "sources": [
@@ -829,7 +1009,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/6-1-the-emergence-and-development-of-language"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "iremce",
@@ -863,7 +1043,21 @@
           "name": "mert.y",
           "text": "Her gün gözümün önündeymiş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Caveat",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     },
     {
       "id": "kesif-dil-uretkenligi",
@@ -871,7 +1065,7 @@
       "layout": "terminal",
       "category": "Gündelik",
       "title": "Daha önce kimsenin kurmadığı bir cümle kurabilirsin.",
-      "subtitle": "Dilin açık uçlu tarafı.",
+      "subtitle": "“Mor şemsiyeli bir fil yarın tramvaya binecek” cümlesini daha önce hiç duymamış olabilirsin.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -888,12 +1082,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Yeniden birleştirmek",
-          "text": "İnsan dili, sınırlı öğeleri kurallarla birleştirerek çok sayıda yeni anlam üretmeye izin verir."
+          "title": "",
+          "text": "“Mor şemsiyeli bir fil yarın tramvaya binecek” cümlesini daha önce hiç duymamış olabilirsin. Yine de dilin sözcüklerini ve kurallarını bildiğin için ne dendiğini anlayabilirsin. İnsan dilinin üretkenliği bu tür yeni birleşimlere olanak verir."
         },
         {
-          "title": "Hazır mesaj listesi değil",
-          "text": "Yalnız ezberlenmiş uyarıları tekrarlamayız; geçmiş, gelecek ve hayalî durumlar hakkında da konuşabiliriz. Üretkenlik dilin önemli özelliklerindendir."
+          "title": "",
+          "text": "Her cümleyi önceden ezberlememiz gerekmez. Sınırlı sayıda öğe ve birleştirme kuralıyla yeni durumlar anlatabiliriz. Geçmişi, geleceği ve hiç gerçekleşmemiş hayalî olayları da konuşmaya dahil ederiz."
+        },
+        {
+          "title": "",
+          "text": "Bu, insan dilini yalnız belirli bir uyarıya verilen sabit işaretler listesi olarak düşünemeyeceğimizi gösterir. Konuşurken sözlükten hazır bütün cümleleri çekmiyorsun; kuralları kullanarak daha önce kurulmamış ifadeler oluşturabiliyorsun."
         }
       ],
       "sources": [
@@ -902,13 +1100,27 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/6-1-the-emergence-and-development-of-language"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "duru.not",
           "text": "İnsan bir kere öğrenince her yerde fark ediyor."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Space Mono",
+        "paper": "#172b24",
+        "ink": "#cbeaac",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     },
     {
       "id": "kesif-dil-fosili",
@@ -916,7 +1128,7 @@
       "layout": "casefile",
       "category": "Gündelik",
       "title": "İlk konuşmayı toprağın altından çıkaramıyoruz.",
-      "subtitle": "Dil tarihinin kanıt sorunu.",
+      "subtitle": "Eski bir çömlek toprağın altında kalabilir ama binlerce yıl önce söylenen bir cümle normal koşullarda aynı biçimde korunmaz.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -933,12 +1145,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Doğrudan iz az",
-          "text": "Konuşma, eski bir çömlek gibi arkeolojik kayıtta doğrudan korunmaz. Dilin kökenini araştırırken dolaylı kanıtlara başvurulur."
+          "title": "",
+          "text": "Eski bir çömlek toprağın altında kalabilir ama binlerce yıl önce söylenen bir cümle normal koşullarda aynı biçimde korunmaz. Bu yüzden dilin kökenini araştırmak, ilk konuşmayı kazıp çıkarmak gibi bir iş değildir."
         },
         {
-          "title": "Birçok parçayı birleştirmek",
-          "text": "Anatomi, genetik ve arkeoloji bulguları birlikte değerlendirilir. Bu yüzden dilin ilk ne zaman ortaya çıktığına tek ve kesin bir tarih vermek zordur."
+          "title": "",
+          "text": "Araştırmacılar anatomi, genetik ve arkeolojik davranış izlerini birlikte değerlendirir. Ses üretmeye uygun yapıların bulunması önemli olabilir; fakat o canlının tam olarak hangi dili ve ne ölçüde kullandığını doğrudan göstermez."
+        },
+        {
+          "title": "",
+          "text": "Bir müzik aleti bulmakla geçmişte çalınan ezgiyi bilmek arasındaki farkı düşün. Dolaylı kanıtlar olasılıkları sınırlar ama her boşluğu doldurmaz. İnsan dilinin başlangıcı için tek ve tartışmasız bir gün verilememesinin nedenlerinden biri budur."
         }
       ],
       "sources": [
@@ -947,7 +1163,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/6-1-the-emergence-and-development-of-language"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ayse.tr",
@@ -988,24 +1204,22 @@
         {
           "name": "deniz.k",
           "text": "Ben bunu tam ters biliyormuşum 😅"
-        },
-        {
-          "name": "duru.not",
-          "text": "Gündelik şeylerin arkasını okumak hoşuma gidiyor."
-        },
-        {
-          "name": "aliokuyor",
-          "text": "Kaynağı ayrıca vermeniz iyi olmuş."
-        },
-        {
-          "name": "ecebirnot",
-          "text": "İkinci kartta anca oturdu."
-        },
-        {
-          "name": "nisa.defter",
-          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#f4bd65",
+        "ink": "#332710",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     },
     {
       "id": "kesif-kod-degistirme",
@@ -1013,7 +1227,7 @@
       "layout": "chat",
       "category": "Gündelik",
       "title": "Evde başka, toplantıda başka konuşuyorsun.",
-      "subtitle": "Bu mutlaka tutarsızlık değil.",
+      "subtitle": "Evde kullandığın ifadelerle resmî bir toplantıdaki konuşman aynı olmayabilir.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -1030,12 +1244,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Üslup ve dil seçimi",
-          "text": "İnsanlar muhataplarına ve ortama göre dil, lehçe veya konuşma tarzı değiştirebilir. Birden fazla dil arasında geçiş de bunun içindedir."
+          "title": "",
+          "text": "Evde kullandığın ifadelerle resmî bir toplantıdaki konuşman aynı olmayabilir. Birden fazla dil bilen biri de konuşma içinde diller arasında geçebilir. Dilbilimde kod değiştirme, bu tür dilsel çeşitler arasındaki geçişleri inceleyen kavramlardan biridir."
         },
         {
-          "title": "Aidiyet işareti",
-          "text": "Seçilen ifadeler, hangi toplulukla ilişki kurulduğunu gösterebilir. Konuşma yalnız sözlükteki anlamları iletmez."
+          "title": "",
+          "text": "Geçiş yalnız bir sözcüğü unutunca yapılmaz. Muhataba yakınlık kurmak, ortak kimliği göstermek veya ortamın beklentilerine uymakla ilişkili olabilir. Hangi biçimin seçildiği sosyal anlam taşır."
+        },
+        {
+          "title": "",
+          "text": "Arkadaşına “napıyon” deyip iş görüşmesinde başka bir üslup kullanman, ilk biçimin rastgele hatalı olduğu anlamına gelmez. İnsanlar farklı ortamların konuşma kurallarını öğrenir. Söylediğin şey kadar nasıl söylediğin de ilişkinin parçasıdır."
         }
       ],
       "sources": [
@@ -1044,7 +1262,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/6-3-language-community-and-culture"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "aliokuyor",
@@ -1066,7 +1284,21 @@
           "name": "gokce",
           "text": "Benim aklıma da aynı soru takılmıştı."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#f7f3e9",
+        "ink": "#392e22",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     },
     {
       "id": "kesif-konusma-toplulugu",
@@ -1074,7 +1306,7 @@
       "layout": "comic",
       "category": "Gündelik",
       "title": "Grubun şakasını dışarıdan biri anlamadı.",
-      "subtitle": "Ortak dilin içinde küçük dünyalar var.",
+      "subtitle": "Bir arkadaş grubuna sonradan katıldığında herkesin güldüğü bir ifadeyi anlayamayabilirsin.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -1091,12 +1323,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Paylaşılan alışkanlık",
-          "text": "Konuşma topluluğu, dili belirli ortak biçimlerde kullanan insan grubudur. Özel sözcükler ve söyleyiş biçimleri gelişebilir."
+          "title": "",
+          "text": "Bir arkadaş grubuna sonradan katıldığında herkesin güldüğü bir ifadeyi anlayamayabilirsin. Sözcükleri biliyorsundur ama ortak geçmişi ve kullanım kuralını bilmiyorsundur. Konuşma topluluğu fikri, dili ortak biçimlerde kullanan gruplara dikkat çeker."
         },
         {
-          "title": "Üyeliğin sesi",
-          "text": "Bu biçimleri yerinde kullanmak gruba aidiyet gösterebilir. Aynı dili bilmek, her grubun bütün göndermelerini bilmek değildir."
+          "title": "",
+          "text": "Bir meslek, oyun grubu veya mahallede özel sözler ve anlatım alışkanlıkları gelişebilir. Bunları yerinde kullanmak, gruba aidiyetin işareti olabilir. Sadece sözlükteki anlamı bilmek her göndermeyi çözmeye yetmez."
+        },
+        {
+          "title": "",
+          "text": "Dil bu yüzden yalnız bireyin kafasındaki kelime listesi değildir; birlikte kullanılan bir toplumsal pratiktir. Bir şakayı anlamak için bazen dilbilgisi değil, o grubun hangi olayı hatırladığını öğrenmek gerekir."
         }
       ],
       "sources": [
@@ -1105,7 +1341,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/6-3-language-community-and-culture"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ardabirbak",
@@ -1131,7 +1367,21 @@
           "name": "zeynepce",
           "text": "Böyle düşünmemiştim hiç."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#d9e9cc",
+        "ink": "#283824",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     },
     {
       "id": "kesif-lehce",
@@ -1139,7 +1389,7 @@
       "layout": "myth",
       "category": "Gündelik",
       "title": "Başka türlü söylemesi, bozuk konuştuğu anlamına gelmez.",
-      "subtitle": "Bölgesel çeşitlilik dilin parçası.",
+      "subtitle": "Bir bölgede insanlar bazı sesleri ve sözcükleri başka türlü kullanabilir.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -1156,12 +1406,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Düzenli farklılıklar",
-          "text": "Lehçeler ve bölgesel konuşma biçimleri; ses, sözcük ve dil bilgisi bakımından sistemli farklılıklar gösterebilir."
+          "title": "",
+          "text": "Bir bölgede insanlar bazı sesleri ve sözcükleri başka türlü kullanabilir. Bu farklar çoğu zaman sistemlidir; konuşanlar hangi durumda hangi biçimi kullandıklarını ortaklaşa öğrenir. Dil çeşitliliğini rastgele bozulma olarak görmek bu düzeni kaçırır."
         },
         {
-          "title": "Prestij başka şey",
-          "text": "Bir biçimin okulda veya resmî işlerde tercih edilmesi, diğerlerinin kuralsız olduğunu kanıtlamaz. Toplumsal değerle dil yapısını ayırmak gerekir."
+          "title": "",
+          "text": "Okulda ve resmî yazışmada tercih edilen standart biçim, toplumsal kurumlarla desteklenir. Bunun yaygın veya saygın olması, diğer konuşma biçimlerinin hiç kural taşımadığı anlamına gelmez."
+        },
+        {
+          "title": "",
+          "text": "Bir yöresel söyleyişi duyar duymaz “yanlış” demeden önce hangi düzenin içinde kullanıldığını düşün. Resmî bağlamda standart biçimi öğrenmekle, başka çeşitleri dilbilimsel olarak eksik saymak farklı işlerdir. İnsanların konuşmasına verilen sosyal değer, yapının kendisiyle aynı ölçüm değildir."
         }
       ],
       "sources": [
@@ -1170,7 +1424,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/6-3-language-community-and-culture"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "mert.y",
@@ -1192,7 +1446,21 @@
           "name": "keremca",
           "text": "Bu ayrımı unutmayayım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     }
   ]
 }

@@ -7,7 +7,7 @@
       "layout": "chat",
       "category": "İnanç",
       "title": "İletmeden önce bir durmak da ahlak meselesi.",
-      "subtitle": "Hucurât 49:6 üzerine.",
+      "subtitle": "Kur'an'ın Hucurât sûresi, insanlar arasındaki ilişkilerle ilgili öğütler de içerir.",
       "account": "Metnin İzinde",
       "handle": "metninizinde",
       "cover": {
@@ -24,12 +24,16 @@
       "motion": "geometry",
       "slides": [
         {
-          "title": "Haberin doğruluğu",
-          "text": "Kur'an'da Hucurât 49:6, gelen haber karşısında araştırmayı ve bilgisizlikle insanlara zarar vermemeyi öğütler."
+          "title": "",
+          "text": "Kur'an'ın Hucurât sûresi, insanlar arasındaki ilişkilerle ilgili öğütler de içerir. 49:6'da, gelen bir haber üzerine bilgisizce hareket edip bir topluluğa zarar vermemek için haberin araştırılması istenir. Sonradan duyulacak pişmanlığa dikkat çekilir."
         },
         {
-          "title": "Bugüne bir düşünce",
-          "text": "Bir mesajı hemen yaymadan kaynağına bakmak, bu öğüdün günümüzde düşündürdüğü davranışlardan biri. Bu bağlantı bir yorumdur; ayetin birebir çevirisi değil."
+          "title": "",
+          "text": "Burada doğrulama yalnız teknik bir doğruluk meselesi değildir; başkasına zarar verme sorumluluğuyla bağlantılıdır. Haberi doğru sanmakla onun sonucundan etkilenmeyecek olmak aynı şey değildir."
+        },
+        {
+          "title": "",
+          "text": "Bugüne uyarlarsak, bir iddiayı paylaşmadan kaynağını ve bağlamını kontrol etmek bu öğütle birlikte düşünülebilir. Bu sosyal medya bağlantısı bizim örneğimizdir; ayetin birebir meali değildir. Kaynaktaki meal ve tefsir, ayetin bağlamını daha ayrıntılı açıklar."
         }
       ],
       "sources": [
@@ -46,7 +50,7 @@
           "url": "https://kuran.diyanet.gov.tr/tefsir/Hucur%C3%A2t-suresi/4624/12-ayet-tefsiri"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "duru.not",
@@ -60,7 +64,21 @@
           "name": "ardabirbak",
           "text": "Kaynağı ayrıca vermeniz iyi olmuş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Caveat",
+        "paper": "#192f2a",
+        "ink": "#f3eddc",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-lakap",
@@ -68,7 +86,7 @@
       "layout": "notebook",
       "category": "İnanç",
       "title": "Şaka sana komik, ona kırıcı olabilir.",
-      "subtitle": "Hucurât 49:11 üzerine.",
+      "subtitle": "Kur'an'da Hucurât 49:11, insanların birbirini alaya almasını, karalamasını ve incitici lakaplarla çağırmasını eleştirir.",
       "account": "Metnin İzinde",
       "handle": "metninizinde",
       "cover": {
@@ -85,12 +103,16 @@
       "motion": "geometry",
       "slides": [
         {
-          "title": "Küçümsememek",
-          "text": "Hucurât 49:11'de alay etme, birbirini karalama ve incitici lakaplarla çağırma eleştirilir."
+          "title": "",
+          "text": "Kur'an'da Hucurât 49:11, insanların birbirini alaya almasını, karalamasını ve incitici lakaplarla çağırmasını eleştirir. Metin, küçümsenen kişinin küçümseyenden daha iyi olabileceğini de hatırlatır. Dışarıdan verilen değer yargısının kesinliğini sorgular."
         },
         {
-          "title": "Sözün muhatabı",
-          "text": "Bir hitabın eğlenceli bulunması, muhatabını küçültmediğini garanti etmez. Bu kısa açıklama ayetin anlamı üzerine bir özettir; doğrudan meal değildir."
+          "title": "",
+          "text": "Gündelik bir örnek düşün: Bir arkadaş grubunun komik bulduğu hitap, o kişinin sürekli aşağılanmasına dönüşebilir. Gruptakilerin gülmesi, muhatabın kendini nasıl hissettiğini ortadan kaldırmaz."
+        },
+        {
+          "title": "",
+          "text": "Bu örnek ayetin bugüne uygulanması üzerine bir düşünmedir, doğrudan çeviri değildir. Ana mesele şakayı yasaklayan tek cümle aramak değil; sözün bir insanı küçültme aracına dönüşüp dönüşmediğini fark etmektir. Söyleyenin niyeti kadar ilişkinin etkisi de düşünülür."
         }
       ],
       "sources": [
@@ -107,7 +129,7 @@
           "url": "https://kuran.diyanet.gov.tr/tefsir/Hucur%C3%A2t-suresi/4624/12-ayet-tefsiri"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "mert.y",
@@ -125,7 +147,21 @@
           "name": "onurdefter",
           "text": "Bağlamını okuyunca daha iyi anlaşılıyor."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#192f2a",
+        "ink": "#f3eddc",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-mahremiyet",
@@ -133,7 +169,7 @@
       "layout": "door",
       "category": "İnanç",
       "title": "Merak etmek, her şeyi kurcalama hakkı vermiyor.",
-      "subtitle": "Hucurât 49:12 üzerine.",
+      "subtitle": "Hucurât 49:12'de zannın bir kısmından sakınma, insanların gizli hâllerini araştırmama ve gıybetten kaçınma öğütleri birlikte yer alır.",
       "account": "Metnin İzinde",
       "handle": "metninizinde",
       "cover": {
@@ -150,12 +186,16 @@
       "motion": "geometry",
       "slides": [
         {
-          "title": "Zan ve gizlilik",
-          "text": "Hucurât 49:12'de zannın bir kısmından sakınma, insanların gizlisini araştırmama ve gıybetten kaçınma öğütleri yer alır."
+          "title": "",
+          "text": "Hucurât 49:12'de zannın bir kısmından sakınma, insanların gizli hâllerini araştırmama ve gıybetten kaçınma öğütleri birlikte yer alır. Gıybet, bir kişinin yokluğunda onun hoşlanmayacağı biçimde konuşulmasıyla ilişkilendirilen ahlaki kavramdır."
         },
         {
-          "title": "Birlikte yaşamak",
-          "text": "Ayet, başkaları hakkında konuşmanın ve bilgi toplamanın ahlaki sınırlarını düşündürür. Buradaki anlatım kısa bir anlam özeti; meal alıntısı değil."
+          "title": "",
+          "text": "Bu yan yana geliş, bir düşünce zincirini sorgulatır: Önce birinden şüphelenmek, sonra özelini kurcalamak, ardından hakkında konuşmak. Merakın her aşaması kendiliğinden haklı veya zararsız sayılmaz."
+        },
+        {
+          "title": "",
+          "text": "Birinin çevrimiçi hareketlerinden kesin hikâye kurmak güncel bir örnek olabilir. Ancak bu, ayette sosyal medya anlatıldığı iddiası değildir. Metnin ana öğüdünü kendi hayatındaki bilgi toplama ve konuşma alışkanlıklarıyla birlikte düşünmenin bir yoludur."
         }
       ],
       "sources": [
@@ -172,7 +212,7 @@
           "url": "https://kuran.diyanet.gov.tr/tefsir/Hucur%C3%A2t-suresi/4624/12-ayet-tefsiri"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ecebirnot",
@@ -186,7 +226,21 @@
           "name": "duru.not",
           "text": "Bunu kaydettim, sonra bir daha bakacağım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#cbdcdb",
+        "ink": "#253c3a",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-gizli-yardim",
@@ -194,7 +248,7 @@
       "layout": "poster",
       "category": "İnanç",
       "title": "İyilik mutlaka seyirci ister mi?",
-      "subtitle": "Matta 6:1–4'teki öğreti.",
+      "subtitle": "Matta, Hristiyan kutsal metnindeki dört İncil'den biridir.",
       "account": "Metnin İzinde",
       "handle": "metninizinde",
       "cover": {
@@ -211,12 +265,16 @@
       "motion": "geometry",
       "slides": [
         {
-          "title": "Gösterişten uzak",
-          "text": "Matta İncili'nde yardımın insanların takdirini toplamak için yapılmaması öğütlenir. Vurgu, yardımın görünürlüğünden çok niyet üzerindedir."
+          "title": "",
+          "text": "Matta, Hristiyan kutsal metnindeki dört İncil'den biridir. Altıncı bölümün başında yardımın başkalarının övgüsünü toplamak için yapılması eleştirilir. Yardımın yalnız görünen sonucu değil, kişinin onu hangi amaçla yaptığı da konu edilir."
         },
         {
-          "title": "Metnin bağlamı",
-          "text": "Bu, Hristiyan kutsal metnindeki ahlaki öğretilerden biridir. Burada doğrudan alıntı yerine bölümün kısa bir özeti veriliyor."
+          "title": "",
+          "text": "Buradaki soru, iyiliğin seyirciye bağımlı hâle gelmesidir. Kimse görmediğinde de aynı yardımı yapar mıydım? Bu, metnin niyet vurgusunu gündelik hayatta düşünmeye yarayan bir sorudur."
+        },
+        {
+          "title": "",
+          "text": "Her görünür yardım faaliyetinin kötü olduğu gibi tek cümlelik bir hüküm çıkarmak yerine bölümün gösteriş eleştirisine bakmak gerekir. Bu gönderi Hristiyan öğretisini tanıtan bir anlam özetidir; metnin kelime kelime çevirisi değildir."
         }
       ],
       "sources": [
@@ -225,7 +283,7 @@
           "url": "https://bible.usccb.org/bible/matthew/6"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
@@ -243,7 +301,21 @@
           "name": "mert.y",
           "text": "Bağlamını okuyunca daha iyi anlaşılıyor."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "end",
+        "position": "top"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-matta-dua",
@@ -251,7 +323,7 @@
       "layout": "book",
       "category": "İnanç",
       "title": "Duanın etkisi kelime sayısıyla ölçülür mü?",
-      "subtitle": "Matta 6:5–8 üzerine.",
+      "subtitle": "Matta İncili'nin altıncı bölümünde dua, insanlara dindar görünmenin aracı hâline getirilmemesi gereken bir yöneliş olarak anlatılır.",
       "account": "Metnin İzinde",
       "handle": "metninizinde",
       "cover": {
@@ -268,12 +340,16 @@
       "motion": "geometry",
       "slides": [
         {
-          "title": "İçtenlik vurgusu",
-          "text": "Bu bölümde başkalarına dindar görünme amacıyla dua etmek ve mekanik biçimde söz çoğaltmak eleştirilir."
+          "title": "",
+          "text": "Matta İncili'nin altıncı bölümünde dua, insanlara dindar görünmenin aracı hâline getirilmemesi gereken bir yöneliş olarak anlatılır. Ayrıca sözleri mekanik biçimde çoğaltmanın kendiliğinden değer sağlayacağı düşüncesi eleştirilir."
         },
         {
-          "title": "Bir düşünce",
-          "text": "Metin, ibadetin dışarıdan nasıl göründüğü ile kişinin yönelişi arasındaki farkı öne çıkarır. Bu anlatım Hristiyan metninin açıklamasıdır."
+          "title": "",
+          "text": "Bir konuşmayı yalnız uzun olduğu için anlamlı saymamamız gibi, burada da dış biçimle iç yöneliş arasında ayrım yapılır. Metindeki eleştiri, kişinin kimin takdirini aradığı ve dua ederken neye odaklandığıyla ilgilidir."
+        },
+        {
+          "title": "",
+          "text": "Bu açıklama, Hristiyan kutsal metninin kendi bağlamını tanıtır. Farklı geleneklerdeki bütün duaları tek bir ölçüyle değerlendirme iddiası taşımaz. Kaynağı okurken bölümün devamındaki dua örneğini de görmek, kısa özetteki vurguyu tamamlar."
         }
       ],
       "sources": [
@@ -282,8 +358,22 @@
           "url": "https://bible.usccb.org/bible/matthew/6"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#d9e9cc",
+        "ink": "#283824",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-hazine-kalp",
@@ -291,7 +381,7 @@
       "layout": "balance",
       "category": "İnanç",
       "title": "Neye değer veriyorsan dikkatin de oraya gidiyor.",
-      "subtitle": "Matta 6:19–21 üzerine.",
+      "subtitle": "Matta İncili 6:19–21'de geçici dünyevi birikimle manevi değerler karşılaştırılır.",
       "account": "Metnin İzinde",
       "handle": "metninizinde",
       "cover": {
@@ -308,12 +398,16 @@
       "motion": "geometry",
       "slides": [
         {
-          "title": "Hazine benzetmesi",
-          "text": "Matta'da dünyevi birikimin geçiciliğiyle manevi değerler karşılaştırılır. Hazineyle kalp arasındaki ilişki üzerinden insanın bağlılıkları sorgulanır."
+          "title": "",
+          "text": "Matta İncili 6:19–21'de geçici dünyevi birikimle manevi değerler karşılaştırılır. Hazine ve kalp arasında kurulan ilişki, insanın en çok değer verdiği şeyin bağlılıklarını nasıl yönlendirdiğini düşündürür. Kalp burada yalnız bedensel organ anlamında kullanılmaz."
         },
         {
-          "title": "Benzetmeyi okumak",
-          "text": "Buradaki dil bir finans tavsiyesi değil, dinî ve ahlaki bir anlatımdır. Kısa özet, bölümün kendi bağlamıyla okunmalıdır."
+          "title": "",
+          "text": "Birinin bütün dikkatini statüsünü korumaya vermesi veya başkalarının iyiliğini öncelemesi farklı bağlılıkları gösterebilir. Bu gündelik örnekler, metindeki değer verme fikrini anlamayı kolaylaştırır."
+        },
+        {
+          "title": "",
+          "text": "Bölümün dili dinî ve ahlakidir; bir yatırım aracı seçme hesabı değildir. Sorduğu şey, birikimin teknik getirisi kadar insanın neye bağlandığıdır. Bu kısa anlatım doğrudan alıntı değil, metnin ana düşüncesini tanıtan yorumlu özettir."
         }
       ],
       "sources": [
@@ -322,7 +416,7 @@
           "url": "https://bible.usccb.org/bible/matthew/6"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
@@ -344,7 +438,21 @@
           "name": "duru.not",
           "text": "Bölümün tamamını da okuyacağım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "DM Sans",
+        "paper": "#f7f3e9",
+        "ink": "#392e22",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-dusmanlik",
@@ -352,7 +460,7 @@
       "layout": "comic",
       "category": "İnanç",
       "title": "Öfkeye öfke eklemek döngüyü bitirir mi?",
-      "subtitle": "Dhammapada'nın ilk bölümünden.",
+      "subtitle": "Dhammapada, Budist geleneğinde ahlaki ve manevi öğütler içeren kısa dizelerden oluşan bir metindir.",
       "account": "Metnin İzinde",
       "handle": "metninizinde",
       "cover": {
@@ -369,12 +477,16 @@
       "motion": "geometry",
       "slides": [
         {
-          "title": "Karşılık verme döngüsü",
-          "text": "Budist Dhammapada'nın 3–6. dizelerinde geçmişteki incinmelere tutunmak ve düşmanlığa düşmanlıkla karşılık vermek tartışılır."
+          "title": "",
+          "text": "Dhammapada, Budist geleneğinde ahlaki ve manevi öğütler içeren kısa dizelerden oluşan bir metindir. Açılış bölümündeki 3–6. dizeler, geçmişte uğranılan incinmelere tutunmayı ve düşmanlığa yeni düşmanlık eklemeyi ele alır."
         },
         {
-          "title": "Öğüdün yönü",
-          "text": "Metin, düşmanlığın yeni düşmanlıkla dinmeyeceğini vurgular. Bu bir Budist ahlak öğretisinin özeti; deneysel psikoloji sonucu olarak sunulmuyor."
+          "title": "",
+          "text": "Bir tartışmadan sonra aynı kırgınlık cümlesini zihinde durmadan tekrar etmek, bu öğüdü düşünmek için gündelik bir örnektir. Metin, düşmanlığın yine düşmanlıkla sona erdirilemeyeceği fikrini öne çıkarır."
+        },
+        {
+          "title": "",
+          "text": "Bunu her çatışmanın tek yöntemle çözüleceğine dair bilimsel sonuç gibi sunmayız. Budist ahlak öğretisinin insanın tutumuna yönelttiği bir çağrıdır. Anlamak için önce metnin hangi gelenekten geldiğini ve hangi tür iddiada bulunduğunu bilmek gerekir."
         }
       ],
       "sources": [
@@ -383,8 +495,22 @@
           "url": "https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.than.html"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#d9e9cc",
+        "ink": "#283824",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-zihin-eylem",
@@ -392,7 +518,7 @@
       "layout": "network",
       "category": "İnanç",
       "title": "Düşünceyle davranışın bağı çok eski bir soru.",
-      "subtitle": "Dhammapada 1–2 üzerine.",
+      "subtitle": "Dhammapada'nın ilk dizeleri, zihinsel yönelişle söz ve davranış arasındaki bağı vurgular.",
       "account": "Metnin İzinde",
       "handle": "metninizinde",
       "cover": {
@@ -409,12 +535,16 @@
       "motion": "geometry",
       "slides": [
         {
-          "title": "Zihnin rolü",
-          "text": "Dhammapada'nın açılışı, kişinin zihinsel yönelişiyle söz ve eylemleri arasındaki ilişkiyi öne çıkarır."
+          "title": "",
+          "text": "Dhammapada'nın ilk dizeleri, zihinsel yönelişle söz ve davranış arasındaki bağı vurgular. Budist öğreti içinde, insanın yalnız dışarıdan görünen eylemlerine değil onları besleyen tutumlarına da dikkat çekilir."
         },
         {
-          "title": "Geleneğin içinde",
-          "text": "Bu dizeler Budist öğreti bağlamında okunur. Buradaki kısa anlatım bir çeviri alıntısı değil, bölümün ana fikrini tanıtan bir özettir."
+          "title": "",
+          "text": "Aynı cümleyi birini küçük düşürmek veya gerçekten yardımcı olmak için söylemeyi düşün. Sözcükler benzer kalsa bile onları hazırlayan niyet farklıdır. Bu örnek, metnin zihinsel yöneliş vurgusunu anlamaya yardım eder."
+        },
+        {
+          "title": "",
+          "text": "Buradan “düşündüğün her şey dış dünyada mutlaka gerçekleşir” sonucu çıkmaz. Metin böyle bir doğa yasası anlatmaz. Dinî-ahlaki bir çerçevede, kişinin kendi söz ve eylemlerinin hangi zihinsel alışkanlıklardan beslendiğine bakmasını ister."
         }
       ],
       "sources": [
@@ -423,8 +553,22 @@
           "url": "https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.than.html"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "diagram",
+        "font": "Bebas Neue",
+        "paper": "#cbdcdb",
+        "ink": "#253c3a",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-bilmek-uygulamak",
@@ -432,7 +576,7 @@
       "layout": "split",
       "category": "İnanç",
       "title": "Öğüdü ezberledin. Peki uyguladın mı?",
-      "subtitle": "Dhammapada 19–20 üzerine.",
+      "subtitle": "Dhammapada'nın açılış bölümünün sonundaki 19–20.",
       "account": "Metnin İzinde",
       "handle": "metninizinde",
       "cover": {
@@ -449,12 +593,16 @@
       "motion": "geometry",
       "slides": [
         {
-          "title": "Söz ile pratik",
-          "text": "Bu dizelerde çok sayıda öğretiyi söylemekle onları yaşayarak uygulamak karşılaştırılır."
+          "title": "",
+          "text": "Dhammapada'nın açılış bölümünün sonundaki 19–20. dizeler, çok öğreti söylemekle onu yaşayarak uygulamak arasındaki farkı ele alır. Budist bağlamda manevi ilerlemenin yalnız ezberlenmiş sözlerle ölçülemeyeceği vurgulanır."
         },
         {
-          "title": "Vurgu nerede?",
-          "text": "Metin, manevi yaşamda yalnız tekrarın yeterli olmadığını anlatır. Bilgi ve uygulama ayrımı, burada dinî bir çerçevede kuruluyor."
+          "title": "",
+          "text": "Birinin sabır üzerine uzun konuşup en küçük anlaşmazlıkta herkesi kırmasını düşün. Kavramı anlatabilmek, davranışın ona uygun olduğunu göstermiyor. Bu gündelik örnek, metindeki bilgi-uygulama ayrımını görünür kılar."
+        },
+        {
+          "title": "",
+          "text": "Burada okumanın gereksiz olduğu söylenmiyor; öğrenilenin yaşama nasıl katıldığı sorgulanıyor. Öğüdü hatırlamak başlangıç olabilir, fakat alışkanlıkların değişmesi ayrı bir emek ister. Bu gönderi dizelerin anlamını özetler; doğrudan çeviri değildir."
         }
       ],
       "sources": [
@@ -463,7 +611,7 @@
           "url": "https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.than.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "gokce",
@@ -489,7 +637,21 @@
           "name": "birseda",
           "text": "İnsan bir kere öğrenince her yerde fark ediyor."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-sabat-dinlenme",
@@ -497,7 +659,7 @@
       "layout": "checklist",
       "category": "İnanç",
       "title": "Dinlenme yalnız evin sahibine ayrılmıyor.",
-      "subtitle": "Tesniye 5:12–15 üzerine.",
+      "subtitle": "Şabat, Yahudi geleneğinde haftalık dinlenme ve kutsal zamanla ilişkili gündür.",
       "account": "Metnin İzinde",
       "handle": "metninizinde",
       "cover": {
@@ -514,12 +676,16 @@
       "motion": "geometry",
       "slides": [
         {
-          "title": "Kapsamlı bir duruş",
-          "text": "Şabat buyruğunda dinlenmenin ev halkı, hizmet edenler, yabancılar ve çalışma hayvanlarını da kapsadığı belirtilir."
+          "title": "",
+          "text": "Şabat, Yahudi geleneğinde haftalık dinlenme ve kutsal zamanla ilişkili gündür. Tesniye 5'teki buyruk, dinlenmeyi yalnız evin sahibine ayırmaz; çocukları, hizmet edenleri, yabancıları ve çalışma hayvanlarını da kapsayan bir düzen tarif eder."
         },
         {
-          "title": "Metnin yeri",
-          "text": "Tesniye, Yahudilikte Tora'nın; Hristiyanlıkta Eski Ahit'in bir parçasıdır. Bu açıklama tarihsel dinî metindeki kapsamı özetler."
+          "title": "",
+          "text": "Bu kapsam önemli: Dinlenme, güçlü olanın kendisine tanıdığı bir ayrıcalık olarak bırakılmaz. Ev ve çalışma düzenindeki başkalarının durumu da metne dahil edilir. Bölümde Mısır'daki kölelik hatırasıyla bağlantı da kurulur."
+        },
+        {
+          "title": "",
+          "text": "Tesniye Yahudilikte Tora'nın, Hristiyanlıkta Eski Ahit'in parçasıdır. Buradaki anlatım bu dinî metnin kapsamını tanıtır. Geleneği anlamak için yalnız günün adını değil, buyruğun kimleri dinlenmeye dahil ettiğini de görmek gerekir."
         }
       ],
       "sources": [
@@ -528,7 +694,7 @@
           "url": "https://bible.usccb.org/bible/deuteronomy/5"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "duru.not",
@@ -542,7 +708,21 @@
           "name": "ahmet.a",
           "text": "Bir çay molasına sığdı, iyi geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#d9e9cc",
+        "ink": "#283824",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-yalan-taniklik",
@@ -550,7 +730,7 @@
       "layout": "casefile",
       "category": "İnanç",
       "title": "Birine dair söylediğin şey onun hayatını etkiler.",
-      "subtitle": "Tesniye 5:20 üzerine.",
+      "subtitle": "Tesniye 5:20, komşu aleyhine yalan tanıklığı yasaklayan buyruğu içerir.",
       "account": "Metnin İzinde",
       "handle": "metninizinde",
       "cover": {
@@ -567,12 +747,16 @@
       "motion": "geometry",
       "slides": [
         {
-          "title": "Tanıklık sorumluluğu",
-          "text": "Bu ayette komşu aleyhine dürüst olmayan tanıklık yasaklanır. Sözün başkasına verebileceği zarar, ahlaki sorumlulukla ilişkilendirilir."
+          "title": "",
+          "text": "Tesniye 5:20, komşu aleyhine yalan tanıklığı yasaklayan buyruğu içerir. Tanıklık, bir olay hakkında başkalarının kararını etkileyebilecek bilgi vermektir. Bu yüzden söz yalnız söyleyenin ağzında kalmaz; başka birinin hayatına dokunabilir."
         },
         {
-          "title": "Kısa metin, ağır sonuç",
-          "text": "Burada dinî bir buyruğun anlamı özetleniyor. Güncel bir davada hangi hukuk kuralının uygulanacağına ilişkin bir açıklama yapılmıyor."
+          "title": "",
+          "text": "Birinin yapmadığı işi ona yükleyen anlatım, dinleyenlerin davranışını değiştirebilir. Buyruk sözün doğruluğunu bu toplumsal sorumlulukla birlikte düşündürür. Metindeki ahlaki vurgu, başkası hakkında konuşurken gerçeğe sadık kalmaktır."
+        },
+        {
+          "title": "",
+          "text": "Bu, Yahudi ve Hristiyan geleneklerinde yer alan bir öğretinin kısa açıklamasıdır. Günümüzdeki hukuki tanıklık kurallarının bütün ayrıntısını anlatmaz. Önce metnin söylediği ahlaki ilkeyi, sonra farklı bağlamlardaki uygulama sorularını ayrı okumak gerekir."
         }
       ],
       "sources": [
@@ -581,7 +765,7 @@
           "url": "https://bible.usccb.org/bible/deuteronomy/5"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "duru.not",
@@ -595,7 +779,21 @@
           "name": "ecebirnot",
           "text": "Bir çay molasına sığdı, iyi geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#f7f3e9",
+        "ink": "#392e22",
+        "align": "end",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-anne-baba-hurmet",
@@ -603,7 +801,7 @@
       "layout": "notebook",
       "category": "İnanç",
       "title": "On Emir'de aile ilişkileri de yer alıyor.",
-      "subtitle": "Tesniye 5:16 üzerine.",
+      "subtitle": "On Emir, Yahudi ve Hristiyan geleneklerinde önemli yer tutan buyruklar bütünüdür.",
       "account": "Metnin İzinde",
       "handle": "metninizinde",
       "cover": {
@@ -620,12 +818,16 @@
       "motion": "geometry",
       "slides": [
         {
-          "title": "Saygı buyruğu",
-          "text": "Tesniye'de anneye ve babaya saygı gösterilmesi öğütlenir. Bu, metindeki toplumsal ilişkilere yön veren buyruklardan biridir."
+          "title": "",
+          "text": "On Emir, Yahudi ve Hristiyan geleneklerinde önemli yer tutan buyruklar bütünüdür. Tesniye 5:16'da anneye ve babaya saygı gösterilmesi yer alır. Metin yalnız ibadetle değil, aile ilişkileriyle de ilgilenir."
         },
         {
-          "title": "Bağlamıyla okumak",
-          "text": "Kısa özet, geleneğin öğretisini tanıtır. Bu ifadeden her aile davranışının koşulsuz onaylandığı sonucu çıkarılmaz."
+          "title": "",
+          "text": "Bu öğretiyi anlamak için ailede bakımın, kuşaklar arası bağın ve sorumluluğun önemini düşünmek gerekir. Saygı kavramının farklı topluluklarda nasıl yaşandığı ise yorum ve uygulama konusudur."
+        },
+        {
+          "title": "",
+          "text": "Bu kısa tanıtımdan, aile içinde yapılan her davranışın koşulsuz onaylandığı sonucunu çıkaramayız. Metnin buyruğunu öğrenmekle bütün aile sorunlarına tek cümlelik cevap vermek farklıdır. Kaynak, ifadenin bulunduğu daha geniş bağlamı görmeyi sağlar."
         }
       ],
       "sources": [
@@ -634,7 +836,7 @@
           "url": "https://bible.usccb.org/bible/deuteronomy/5"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
@@ -648,7 +850,21 @@
           "name": "gokce",
           "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     }
   ]
 }

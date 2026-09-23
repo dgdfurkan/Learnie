@@ -7,7 +7,7 @@
       "layout": "comparison",
       "category": "Coğrafya",
       "title": "Deniz niye düzenli olarak yükselip alçalıyor?",
-      "subtitle": "Kıyının saati gökyüzüne bağlı.",
+      "subtitle": "Kıyıda aynı kayaya sabah yürüyerek ulaşıp birkaç saat sonra su yüzünden ulaşamayabilirsin.",
       "account": "Harita Kenarı",
       "handle": "haritakenari",
       "cover": {
@@ -24,12 +24,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Ay ve Güneş",
-          "text": "Gelgit, Ay ve Güneş’in kütleçekim etkileriyle oluşan uzun dönemli deniz seviyesi değişimidir. Kıyıda suyun yükselip çekilmesi olarak görünür."
+          "title": "",
+          "text": "Kıyıda aynı kayaya sabah yürüyerek ulaşıp birkaç saat sonra su yüzünden ulaşamayabilirsin. Deniz seviyesinin düzenli yükselip alçalmasına gelgit denir. Başlıca neden, Ay'ın ve Güneş'in Dünya üzerindeki kütleçekim etkilerinin yerden yere farklı olmasıdır."
         },
         {
-          "title": "Rüzgâr dalgası değil",
-          "text": "Kumsala peş peşe vuran kısa dalgalarla aynı zaman ölçeğinde işlemez. İkisi aynı anda görülebilir ama oluşumları farklıdır."
+          "title": "",
+          "text": "Bu etki okyanuslarda çok uzun dalgalar oluşturur. Dünya dönerken kıyılar bu düzenin farklı bölümlerinden geçer. Ancak karaların konumu, deniz tabanı ve kıyının şekli, bir yerde gelgitin saatini ve büyüklüğünü değiştirir."
+        },
+        {
+          "title": "",
+          "text": "Sahile birkaç saniyede bir vuran rüzgâr dalgalarıyla gelgit aynı hareket değildir. Biri kısa aralıklarla kırılırken öteki kıyıdaki genel su seviyesini saatler içinde değiştirir. Aynı gün ikisini birden görebilirsin."
         }
       ],
       "sources": [
@@ -42,7 +46,7 @@
           "url": "https://oceanservice.noaa.gov/facts/springtide.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "deniz.k",
@@ -68,7 +72,21 @@
           "name": "birseda",
           "text": "Bunu arkadaşla tartışıyorduk geçen gün."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "end",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      }
     },
     {
       "id": "kesif-gelgit-araligi",
@@ -76,7 +94,7 @@
       "layout": "number",
       "category": "Coğrafya",
       "title": "“Gelgit yüksek” derken hangi fark?",
-      "subtitle": "İki su seviyesi arasındaki mesafe.",
+      "subtitle": "Bir limanda yüksek gelgitte su seviyesi işaretli cetvelde beş metre, alçak gelgitte bir metre olsun.",
       "account": "Harita Kenarı",
       "handle": "haritakenari",
       "cover": {
@@ -93,12 +111,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Yüksekten düşüğe",
-          "text": "Bir yerdeki yüksek su seviyesiyle alçak su seviyesi arasındaki farka gelgit aralığı denir."
+          "title": "",
+          "text": "Bir limanda yüksek gelgitte su seviyesi işaretli cetvelde beş metre, alçak gelgitte bir metre olsun. Aradaki dört metrelik fark, o gözlemdeki gelgit aralığıdır. Hesap için iki seviyeyi aynı referanstan ölçmek gerekir."
         },
         {
-          "title": "Bir sayı ne anlatır?",
-          "text": "Denizin toplam derinliğini söylemez. Örneğin dört metrelik aralık, aynı yerdeki bu iki seviyenin dört metre farklı olmasıdır."
+          "title": "",
+          "text": "Bu sayı limanın derinliğini söylemez. Taban, cetvelin sıfırından daha aşağıda olabilir. Bir teknenin karaya oturup oturmayacağını değerlendirirken su seviyesinin değişimini ve tabanın konumunu birlikte bilmek gerekir."
+        },
+        {
+          "title": "",
+          "text": "Banyo küvetindeki suyun on santimetre alçalmasıyla küvetin toplam derinliğini ayırmaya benzer. Haberlerde “gelgit dört metre” dendiğinde, bunun çoğu zaman iki su seviyesi arasındaki fark olduğunu hatırla."
         }
       ],
       "sources": [
@@ -111,7 +133,7 @@
           "url": "https://oceanservice.noaa.gov/facts/springtide.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "zeynepce",
@@ -137,7 +159,21 @@
           "name": "iremce",
           "text": "Şuraya bir yer imi bırakayım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#ead9f0",
+        "ink": "#35223f",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      }
     },
     {
       "id": "kesif-buyuk-gelgit",
@@ -145,7 +181,7 @@
       "layout": "diagram",
       "category": "Coğrafya",
       "title": "Dolunayda denizin düzeni de değişir.",
-      "subtitle": "Ay’ın yalnız görünüşü değişmiyor.",
+      "subtitle": "Ay ve Güneş, denizdeki gelgitlere birlikte etki eder.",
       "account": "Harita Kenarı",
       "handle": "haritakenari",
       "cover": {
@@ -162,12 +198,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Aynı doğrultuya yaklaşınca",
-          "text": "Yeniay ve dolunay çevresinde Ay ile Güneş’in gelgit etkileri birbirini güçlendirir; gelgit aralığı genellikle büyür."
+          "title": "",
+          "text": "Ay ve Güneş, denizdeki gelgitlere birlikte etki eder. Yeniayda ve dolunayda Dünya, Ay ve Güneş yaklaşık aynı doğrultudadır. Bu yerleşimde gelgit etkileri birbirini güçlendirir; yüksek ve alçak su arasındaki fark genellikle büyür."
         },
         {
-          "title": "Dik açıya yaklaşınca",
-          "text": "İlk ve son dördün çevresinde etkiler kısmen birbirini azaltır. Yerel kıyı biçimi ve hava koşulları da gerçek su seviyesini etkiler."
+          "title": "",
+          "text": "İlk ve son dördün evrelerinde doğrultular yaklaşık dikleşir. Etkiler kısmen birbirini azaltır ve gelgit aralığı küçülür. Dolayısıyla değişen şey yalnız Ay'ın gökyüzündeki aydınlık yüzü değil, üç cismin geometrisidir."
+        },
+        {
+          "title": "",
+          "text": "Yine de bulunduğun kıyıda kesin su seviyesini sadece Ay evresinden hesaplayamazsın. Rüzgâr, hava basıncı ve koyun biçimi de etkili olur. Ay evresi düzenin önemli parçasıdır; yerel koşullar son tabloyu biçimlendirir."
         }
       ],
       "sources": [
@@ -180,16 +220,30 @@
           "url": "https://oceanservice.noaa.gov/facts/springtide.html"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "diagram",
+        "font": "Bebas Neue",
+        "paper": "#f7f3e9",
+        "ink": "#392e22",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      }
     },
     {
       "id": "kesif-mercan-hayvan",
       "topic": "Mercanların yaşamı",
-      "layout": "myth",
+      "layout": "postcard",
       "category": "Doğa",
       "title": "Saksıya koymalık gibi. Ama hayvan.",
-      "subtitle": "Mercan görüntüsü yanıltabilir.",
+      "subtitle": "Mercan resifine bakınca renkli bir sualtı bahçesi görmüş gibi olursun.",
       "account": "Dışarı Çık",
       "handle": "disaricik",
       "cover": {
@@ -206,12 +260,16 @@
       "motion": "growth",
       "slides": [
         {
-          "title": "Küçük polipler",
-          "text": "Mercanlar hayvandır. Birçok mercan kolonisi, polip adı verilen küçük canlı birimlerinden oluşur."
+          "title": "",
+          "text": "Mercan resifine bakınca renkli bir sualtı bahçesi görmüş gibi olursun. Ama mercanlar hayvandır. Birçok mercan kolonisi, polip denen küçük canlı birimlerinin bir arada yaşamasıyla oluşur."
         },
         {
-          "title": "Yerinden oynamıyor diye",
-          "text": "Bir canlının deniz tabanına bağlı yaşaması, onu bitki yapmaz. Canlıları sınıflandırırken hareket edebilmek tek ölçüt değildir."
+          "title": "",
+          "text": "Bir polibin ağzı ve çevresinde besin yakalamaya yarayan dokunaçları vardır. Resif oluşturan mercanlar sert bir iskelet de üretir. Çok sayıda polibin ve kuşakların oluşturduğu bu yapı zamanla büyük bir yaşam alanına dönüşebilir."
+        },
+        {
+          "title": "",
+          "text": "Hayvan olmak için sürekli dolaşmak gerekmez. Denizin tabanına bağlı yaşamak da bitki olmanın ölçütü değildir. Mercanın renkli dallarına bir daha baktığında, şeklin arkasında beslenen ve üreyen küçük hayvanlar olduğunu düşün."
         }
       ],
       "sources": [
@@ -220,7 +278,7 @@
           "url": "https://oceanservice.noaa.gov/facts/coral.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "zeynepce",
@@ -230,7 +288,21 @@
           "name": "gokce",
           "text": "Örneği görünce anladım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Lora",
+        "paper": "#f0ded6",
+        "ink": "#24211e",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Leaf_Varieties_%2815_sp%29.png/960px-Leaf_Varieties_%2815_sp%29.png",
+      "avatarCredit": {
+        "label": "Andrew Z. Colvin",
+        "url": "https://commons.wikimedia.org/wiki/File:Leaf_Varieties_(15_sp).png"
+      }
     },
     {
       "id": "kesif-mercan-ortak",
@@ -238,7 +310,7 @@
       "layout": "chat",
       "category": "Doğa",
       "title": "Resifin renklerinde bir ortaklık var.",
-      "subtitle": "Mercan yalnız çalışmaz.",
+      "subtitle": "Birçok resif mercanının dokularında mikroskobik algler yaşar.",
       "account": "Dışarı Çık",
       "handle": "disaricik",
       "cover": {
@@ -255,12 +327,16 @@
       "motion": "growth",
       "slides": [
         {
-          "title": "Dokularda yaşayan algler",
-          "text": "Birçok resif oluşturan mercanın dokusunda fotosentez yapan küçük algler yaşar. Mercan bu ortaklıktan besin açısından yararlanır."
+          "title": "",
+          "text": "Birçok resif mercanının dokularında mikroskobik algler yaşar. Algler ışık enerjisiyle fotosentez yaparak organik madde üretir; mercan da bu ürünlerden yararlanır. Mercanın hayvan olması, içinde fotosentez yapan bir ortak bulunmasına engel değildir."
         },
         {
-          "title": "Karşılıklı ilişki",
-          "text": "Algler de korunmuş bir ortam bulur. Görkemli resifleri anlamak için yalnız büyük yapıya değil, bu mikroskobik ortaklığa da bakmak gerekir."
+          "title": "",
+          "text": "Algler korunmuş bir ortam ve işlerine yarayan bazı maddeler bulur. İlişki, mercanın beslenmesine önemli katkı sağlar. Bu yüzden ışık alan sığ sulardaki koşullar, birçok resif için özellikle önemlidir."
+        },
+        {
+          "title": "",
+          "text": "Büyük bir mercan kolonisini anlamak için mikroskobik ölçekteki bu alışverişe bakmak gerekir. Fotoğrafta gördüğün gösterişli yapı, yalnız taş gibi bir iskeletin değil, birbirine bağlı canlı süreçlerin sonucudur."
         }
       ],
       "sources": [
@@ -269,7 +345,7 @@
           "url": "https://oceanservice.noaa.gov/facts/coral.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "deniz.k",
@@ -291,7 +367,21 @@
           "name": "gokce",
           "text": "Bu ayrımı unutmayayım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Bebas Neue",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Leaf_Varieties_%2815_sp%29.png/960px-Leaf_Varieties_%2815_sp%29.png",
+      "avatarCredit": {
+        "label": "Andrew Z. Colvin",
+        "url": "https://commons.wikimedia.org/wiki/File:Leaf_Varieties_(15_sp).png"
+      }
     },
     {
       "id": "kesif-mercan-beyaz",
@@ -299,7 +389,7 @@
       "layout": "beforeafter",
       "category": "Doğa",
       "title": "Beyazlayan mercan hemen ölmüş müdür?",
-      "subtitle": "Hayır; ama ciddi stres altındadır.",
+      "subtitle": "Mercanın canlı dokusu, içindeki küçük alglerle birlikte renkli görünür.",
       "account": "Dışarı Çık",
       "handle": "disaricik",
       "cover": {
@@ -316,12 +406,16 @@
       "motion": "growth",
       "slides": [
         {
-          "title": "Ortaklar ayrılınca",
-          "text": "Sıcaklık gibi koşulların değişmesi, mercanın dokusundaki algleri kaybetmesine yol açabilir. Rengi açılır; buna beyazlama denir."
+          "title": "",
+          "text": "Mercanın canlı dokusu, içindeki küçük alglerle birlikte renkli görünür. Sıcaklık gibi koşullar mercanı strese soktuğunda bu ortaklık bozulabilir ve algler kaybedilebilir. Açık renkli iskelet daha görünür olur; buna mercan beyazlaması denir."
         },
         {
-          "title": "Geri dönebilir mi?",
-          "text": "Uygun koşullarda toparlanabilir. Fakat uzun süren stres ölüm riskini artırır; beyazlama “sadece renk değişikliği” diye geçiştirilemez."
+          "title": "",
+          "text": "Beyaz mercan mutlaka o anda ölmüş değildir. Canlı doku hâlâ bulunabilir ve koşullar düzelirse ortaklık yeniden kurulabilir. Fakat alglerden gelen besin desteğinin azalması mercanı zorlar."
+        },
+        {
+          "title": "",
+          "text": "Stres uzun sürerse ölüm riski artar. Dolayısıyla fotoğraftaki beyazlığı yalnız bir renk değişimi olarak okumayız. Bir beslenme ilişkisinin bozulduğunu ve canlının toparlanmak için sınırlı bir zaman aralığına sahip olabileceğini gösteren işarettir."
         }
       ],
       "sources": [
@@ -330,7 +424,7 @@
           "url": "https://oceanservice.noaa.gov/facts/coral.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ayse.tr",
@@ -371,24 +465,22 @@
         {
           "name": "ahmet.a",
           "text": "Bunu arkadaşla tartışıyorduk geçen gün."
-        },
-        {
-          "name": "elif.k",
-          "text": "Ben de yeni öğrendim, yalnız değilmişim."
-        },
-        {
-          "name": "mert.y",
-          "text": "Fotoğrafa bakıp geçecektim az daha."
-        },
-        {
-          "name": "cemden",
-          "text": "Detay sevenlere güzel konu."
-        },
-        {
-          "name": "gokce",
-          "text": "Okurken durup düşündüm biraz."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#f9edbc",
+        "ink": "#363220",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Leaf_Varieties_%2815_sp%29.png/960px-Leaf_Varieties_%2815_sp%29.png",
+      "avatarCredit": {
+        "label": "Andrew Z. Colvin",
+        "url": "https://commons.wikimedia.org/wiki/File:Leaf_Varieties_(15_sp).png"
+      }
     },
     {
       "id": "kesif-mangrov-ayak",
@@ -396,7 +488,7 @@
       "layout": "postcard",
       "category": "Doğa",
       "title": "Bu ağaçlar sanki suyun üstünde duruyor.",
-      "subtitle": "Kökler zeminden daha görünür.",
+      "subtitle": "Mangrov, sıcak bölgelerde gelgitin etkilediği kıyılarda yaşayan ağaç ve çalılara verilen addır.",
       "account": "Dışarı Çık",
       "handle": "disaricik",
       "cover": {
@@ -413,12 +505,16 @@
       "motion": "growth",
       "slides": [
         {
-          "title": "Gelgitin içinde",
-          "text": "Mangrovlar tropikal ve subtropikal kıyıların gelgit kuşağında yaşayan ağaç ve çalılardır. Dallanan destek kökleri bazı türlere ayaklı görünüm verir."
+          "title": "",
+          "text": "Mangrov, sıcak bölgelerde gelgitin etkilediği kıyılarda yaşayan ağaç ve çalılara verilen addır. Kökleri sık sık suya giren, tuzlu ve oksijeni az çamurlu bir yerde yaşamak çoğu kara bitkisi için zordur."
         },
         {
-          "title": "Ortam seçici",
-          "text": "Oksijeni az, ince tortulu topraklara uyum sağlayabilirler. Soğuğa dayanıklılıkları sınırlı olduğu için her kıyıda mangrov yetişmez."
+          "title": "",
+          "text": "Mangrov türleri bu koşullara farklı uyumlar taşır. Bazılarının destek kökleri gövdeden aşağıya uzanır ve ağaca çok ayaklı bir görünüm verir. Farklı kök yapıları tutunma ve gaz alışverişi gibi işlerde rol alabilir."
+        },
+        {
+          "title": "",
+          "text": "Bu görüntüyü “ağaç suyun üstünde duruyor” diye tarif ederiz ama kökler zemine bağlıdır. Mangrovları her kıyıda görmememizin bir nedeni de soğuğa sınırlı dayanıklılıklarıdır. Kıyı olması yeterli değildir; uygun iklim de gerekir."
         }
       ],
       "sources": [
@@ -427,8 +523,22 @@
           "url": "https://oceanservice.noaa.gov/facts/mangroves.html"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "photo",
+        "font": "Lora",
+        "paper": "#cbdcdb",
+        "ink": "#24211e",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Leaf_Varieties_%2815_sp%29.png/960px-Leaf_Varieties_%2815_sp%29.png",
+      "avatarCredit": {
+        "label": "Andrew Z. Colvin",
+        "url": "https://commons.wikimedia.org/wiki/File:Leaf_Varieties_(15_sp).png"
+      }
     },
     {
       "id": "kesif-mangrov-tortu",
@@ -436,7 +546,7 @@
       "layout": "layers",
       "category": "Doğa",
       "title": "Kökler suyu yavaşlatınca çamur birikiyor.",
-      "subtitle": "Orman zemini de şekillendirir.",
+      "subtitle": "Bir akarsu hızlandığında taşıdığı kum ve çamurun bir kısmını daha kolay sürükler.",
       "account": "Dışarı Çık",
       "handle": "disaricik",
       "cover": {
@@ -453,12 +563,16 @@
       "motion": "growth",
       "slides": [
         {
-          "title": "Akış kesilir",
-          "text": "Mangrovların karmaşık kökleri suyun hareketini yavaşlatır. Suda taşınan ince tortuların dibe çökmesi kolaylaşır."
+          "title": "",
+          "text": "Bir akarsu hızlandığında taşıdığı kum ve çamurun bir kısmını daha kolay sürükler. Akış yavaşlayınca parçacıkların dibe çökmesi kolaylaşır. Mangrov kökleri kıyıda bu yavaşlamayı sağlayan karmaşık bir engel ağı oluşturur."
         },
         {
-          "title": "Kıyıya etkisi",
-          "text": "Bu yapı kıyının dengelenmesine ve erozyonun azalmasına katkı sağlar. Ağaç yalnız toprağın üzerinde duran bir süs değildir."
+          "title": "",
+          "text": "Su köklerin arasından geçerken enerjisinin bir kısmını kaybeder. Taşıdığı ince tortular birikebilir. Köklerle tutulan zemin ve biriken malzeme, bazı kıyılarda aşınmanın azalmasına katkı verir."
+        },
+        {
+          "title": "",
+          "text": "Yani mangrov yalnız kıyıda duran bir ağaç sırası değildir; suyun ve tortunun hareketini değiştirir. Elbette her fırtınayı durduran bir duvar gibi düşünülmez. Etki, ormanın genişliğine, kök yapısına ve dalga koşullarına bağlıdır."
         }
       ],
       "sources": [
@@ -467,7 +581,7 @@
           "url": "https://oceanservice.noaa.gov/facts/mangroves.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "deniz.k",
@@ -489,7 +603,21 @@
           "name": "zeynepce",
           "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Space Mono",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Leaf_Varieties_%2815_sp%29.png/960px-Leaf_Varieties_%2815_sp%29.png",
+      "avatarCredit": {
+        "label": "Andrew Z. Colvin",
+        "url": "https://commons.wikimedia.org/wiki/File:Leaf_Varieties_(15_sp).png"
+      }
     },
     {
       "id": "kesif-mangrov-siginak",
@@ -497,7 +625,7 @@
       "layout": "cutaway",
       "category": "Doğa",
       "title": "Balıklar için köklerin arası mahalle gibi.",
-      "subtitle": "Saklanacak çok yer var.",
+      "subtitle": "Bir yavru balık için açık suda olmakla iç içe geçmiş köklerin arasında bulunmak aynı şey değildir.",
       "account": "Dışarı Çık",
       "handle": "disaricik",
       "cover": {
@@ -514,12 +642,16 @@
       "motion": "growth",
       "slides": [
         {
-          "title": "Dar geçitler",
-          "text": "Mangrov köklerinin oluşturduğu karmaşık ortam, balıklar ve başka canlılar için beslenme ve saklanma alanı olabilir."
+          "title": "",
+          "text": "Bir yavru balık için açık suda olmakla iç içe geçmiş köklerin arasında bulunmak aynı şey değildir. Mangrov kökleri, saklanılabilecek aralıklar ve üzerinde ya da çevresinde besin bulunabilen yüzeyler oluşturur."
         },
         {
-          "title": "Korumanın başka yüzü",
-          "text": "Kıyı ormanının kaybı yalnız ağaç sayısını azaltmaz. Bu alanı kullanan canlıların yaşam alanını da değiştirir."
+          "title": "",
+          "text": "Bu karmaşık ortam, bazı türlerin genç bireyleri için büyüme alanı olabilir. Bir canlının yaşamı boyunca kullandığı yerler değişebilir: Gençken kıyıda saklanır, büyüyünce başka bölgelere geçer."
+        },
+        {
+          "title": "",
+          "text": "Bu nedenle kıyı ormanını kaldırmak sadece ağaç sayısını azaltmaz. Köklerin kurduğu sualtı mekânını da değiştirir. Balığı korumak bazen balığın sürekli görünmediği bir ağacı korumayı da gerektirir; yaşam alanları birbirine böyle bağlanır."
         }
       ],
       "sources": [
@@ -528,13 +660,27 @@
           "url": "https://oceanservice.noaa.gov/facts/mangroves.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "mert.y",
           "text": "Kaynağı ayrıca vermeniz iyi olmuş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "DM Sans",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Leaf_Varieties_%2815_sp%29.png/960px-Leaf_Varieties_%2815_sp%29.png",
+      "avatarCredit": {
+        "label": "Andrew Z. Colvin",
+        "url": "https://commons.wikimedia.org/wiki/File:Leaf_Varieties_(15_sp).png"
+      }
     },
     {
       "id": "kesif-acisu",
@@ -542,7 +688,7 @@
       "layout": "split",
       "category": "Coğrafya",
       "title": "Nehirle deniz buluşunca su nasıl olur?",
-      "subtitle": "Ne tam tatlı, ne tam tuzlu.",
+      "subtitle": "Nehirden gelen tatlı su, deniz suyuyla bir haliçte buluşabilir.",
       "account": "Harita Kenarı",
       "handle": "haritakenari",
       "cover": {
@@ -559,12 +705,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "Karışım bölgesi",
-          "text": "Birçok haliçte nehirden gelen tatlı su, deniz suyuyla karışır. Bu karışım için acısu denir."
+          "title": "",
+          "text": "Nehirden gelen tatlı su, deniz suyuyla bir haliçte buluşabilir. İkisinin karışmasıyla oluşan, tuzluluğu tatlı suyla deniz suyu arasında kalan suya acısu denir. Buradaki “acı” bir tat değerlendirmesi değildir; su türünün adıdır."
         },
         {
-          "title": "Sınır sabit değil",
-          "text": "Tuzluluk; nehir akışı, gelgit ve karışmaya göre değişebilir. Orada yaşayan canlılar bu değişken koşullara uyum sağlar."
+          "title": "",
+          "text": "Nehir daha çok su getirdiğinde tuzluluk azalabilir. Gelgit deniz suyunu içeri taşıdığında artabilir. Karışmanın gücüne göre farklı derinliklerde farklı tuzluluklar da bulunabilir."
+        },
+        {
+          "title": "",
+          "text": "Böyle bir yerde yaşayan canlı yalnız sabit bir tuz oranına uyum sağlamaz; değişime de dayanmak zorundadır. Haritada nehirle denizin birleştiği çizgi tek noktadır ama doğada bu karşılaşma sürekli hareket eden geniş bir geçiş alanı oluşturabilir."
         }
       ],
       "sources": [
@@ -573,13 +723,27 @@
           "url": "https://oceanservice.noaa.gov/facts/estuary.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "birseda",
           "text": "İkinci kez okuyunca daha anlaşılır geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#f7f3e9",
+        "ink": "#392e22",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      }
     },
     {
       "id": "kesif-halic-yavru",
@@ -587,7 +751,7 @@
       "layout": "route",
       "category": "Coğrafya",
       "title": "Bir kıyı, balıklar için büyüme alanı olabilir.",
-      "subtitle": "Sulak alanın işi yalnız güzel görünmek değil.",
+      "subtitle": "Haliç, birçok yerde nehir suyuyla deniz suyunun buluştuğu kıyı ortamıdır.",
       "account": "Harita Kenarı",
       "handle": "haritakenari",
       "cover": {
@@ -604,12 +768,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "Korunaklı başlangıç",
-          "text": "Haliçler ve çevresindeki sulak alanlar, birçok balık ve kuş türünün beslenmesi ve genç bireylerin gelişmesi için önemli yaşam alanlarıdır."
+          "title": "",
+          "text": "Haliç, birçok yerde nehir suyuyla deniz suyunun buluştuğu kıyı ortamıdır. Çevresindeki sığ alanlar ve sulak bölgeler, çeşitli balıklar için beslenme ve büyüme alanı olabilir. Yavruların ihtiyacı yetişkinlerle aynı değildir."
         },
         {
-          "title": "Bağlantıyı gör",
-          "text": "Denizdeki bir türün yaşamı, karayla denizin buluştuğu küçük bir bölgeye de bağlı olabilir. Ekosistem sınırları duvar gibi işlemez."
+          "title": "",
+          "text": "Küçük bir balık hem yeterli besin bulmalı hem de avcılardan saklanabilmelidir. Sığ ve karmaşık kıyı habitatları bu iki ihtiyacı bir arada karşılayabilir. Kuşlar ve başka canlılar da aynı üretken ortamdan yararlanır."
+        },
+        {
+          "title": "",
+          "text": "Bu yüzden açık denizde görülen bir türün geleceği kıyıdaki küçük bir alana bağlı olabilir. Yaşam döngüsünü tek fotoğrafa sığdıramayız. “Bu balık denizde yaşıyor” demek, bütün hayatını aynı yerde geçirdiğini söylemez."
         }
       ],
       "sources": [
@@ -618,7 +786,7 @@
           "url": "https://oceanservice.noaa.gov/facts/estuary.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "zeynepce",
@@ -659,12 +827,22 @@
         {
           "name": "ardabirbak",
           "text": "Ben bunu tam ters biliyormuşum 😅"
-        },
-        {
-          "name": "mert.y",
-          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Bebas Neue",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "end",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      }
     },
     {
       "id": "kesif-sulak-filtre",
@@ -672,7 +850,7 @@
       "layout": "receipt",
       "category": "Coğrafya",
       "title": "Kıyıdaki sazlık doğal filtre gibi çalışabilir.",
-      "subtitle": "Suyun yolunu yavaşlatır.",
+      "subtitle": "Karadan gelen su, içinde tortu ve çözünmüş maddeler taşıyabilir.",
       "account": "Harita Kenarı",
       "handle": "haritakenari",
       "cover": {
@@ -689,12 +867,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "Geçerken değişir",
-          "text": "Sulak alanlar karadan gelen suyun taşınan maddelerini tutabilir ve suyun niteliğini etkileyebilir. Bu, sağladıkları ekosistem işlevlerinden biridir."
+          "title": "",
+          "text": "Karadan gelen su, içinde tortu ve çözünmüş maddeler taşıyabilir. Bir sulak alana yayıldığında akış yavaşlar; bazı parçacıklar dibe çöker. Bitkiler ve mikroorganizmalar da su içindeki bazı maddelerin dönüşümüne katılır."
         },
         {
-          "title": "Sınırsız temizlik değil",
-          "text": "“Doğal filtre” benzetmesi her türlü kirliliği yok edebilecekleri anlamına gelmez. Bir alanın taşıyabileceği yükün sınırları vardır."
+          "title": "",
+          "text": "Bu yüzden sulak alanlar için doğal filtre benzetmesi kullanılır. Etki tek bir süzgeçten geçmek gibi değildir; fiziksel tutulma ile biyolojik ve kimyasal süreçler birlikte çalışır. Suyun orada ne kadar kaldığı bile önemlidir."
+        },
+        {
+          "title": "",
+          "text": "Ama bu kapasite sınırsız değildir. Aşırı kirlilik, alanın kendisine zarar verebilir. “Doğa temizler” deyip her şeyi suya bırakmak, filtrenin nasıl çalıştığını anlamak değil, ne kadar yük taşıyabileceğini görmezden gelmektir."
         }
       ],
       "sources": [
@@ -703,13 +885,27 @@
           "url": "https://oceanservice.noaa.gov/facts/estuary.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "aliokuyor",
           "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      }
     },
     {
       "id": "kesif-yukselim",
@@ -717,7 +913,7 @@
       "layout": "process",
       "category": "Coğrafya",
       "title": "Rüzgâr suyu kenara iterse alttan yenisi gelir.",
-      "subtitle": "Okyanusun düşey hareketi.",
+      "subtitle": "Okyanusun yüzeyindeki su rüzgârın etkisiyle hareket eder.",
       "account": "Harita Kenarı",
       "handle": "haritakenari",
       "cover": {
@@ -734,12 +930,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "Boşluğu doldurmak",
-          "text": "Yüzeydeki su rüzgâr etkisiyle uzaklaştığında, derindeki su onun yerini almak üzere yükselebilir. Buna yükselim denir."
+          "title": "",
+          "text": "Okyanusun yüzeyindeki su rüzgârın etkisiyle hareket eder. Bazı bölgelerde yüzey suyu uzaklaştırıldığında altında bir boşluk kalmaz; daha derindeki su yukarı gelerek yerini doldurur. Bu düşey harekete yükselim denir."
         },
         {
-          "title": "Kıyıda da açıkta da",
-          "text": "Yükselim yalnız kıyıda olmaz; açık okyanusta da görülebilir. Gelen su genellikle yüzey suyundan daha soğuktur."
+          "title": "",
+          "text": "Yukarı gelen su genellikle yüzeydekinden soğuktur. Bu nedenle aynı enlemdeki iki kıyıdan biri beklediğinden serin olabilir. Deniz sıcaklığını yalnız Güneş'in o gün ne kadar ısıttığı belirlemez; suyun nereden geldiği de önemlidir."
+        },
+        {
+          "title": "",
+          "text": "Yükselim kıyılarda görülebildiği gibi açık okyanusta da oluşabilir. Akıntı haritasında sağa sola çizilen okların yanına bir de yukarı-aşağı hareketleri eklediğinde, okyanus dolaşımı daha anlaşılır hâle gelir."
         }
       ],
       "sources": [
@@ -748,7 +948,7 @@
           "url": "https://oceanservice.noaa.gov/facts/upwelling.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ardabirbak",
@@ -758,7 +958,21 @@
           "name": "onurdefter",
           "text": "Kısa ama tekrar okumalık."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "DM Sans",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      }
     },
     {
       "id": "kesif-besin-yukselim",
@@ -766,7 +980,7 @@
       "layout": "network",
       "category": "Coğrafya",
       "title": "Soğuk su bazen bol yaşam getirir.",
-      "subtitle": "Derinlikten gelen besin tuzları.",
+      "subtitle": "Denizdeki mikroskobik fotosentez canlılarının ışığın yanında besin maddelerine de ihtiyacı vardır.",
       "account": "Harita Kenarı",
       "handle": "haritakenari",
       "cover": {
@@ -783,12 +997,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "Yüzeye taşınan kaynak",
-          "text": "Yükselen derin su, besin maddeleri bakımından zengin olabilir. Işık alan yüzeye ulaşınca biyolojik üretimi destekler."
+          "title": "",
+          "text": "Denizdeki mikroskobik fotosentez canlılarının ışığın yanında besin maddelerine de ihtiyacı vardır. Yüzeyde ışık bulunur ama kullanılabilir besinler azalabilir. Derinlerde ise ayrışan canlı maddelerinden gelen besinler birikebilir."
         },
         {
-          "title": "Balığa kadar uzanır",
-          "text": "Bu yüzden bazı yükselim bölgeleri verimli balıkçılık alanlarıdır. Bağlantı, suyun sıcaklığından çok besin ağının beslenmesiyle ilgilidir."
+          "title": "",
+          "text": "Yükselim, bu derin suyu ışık alan yüzeye taşır. Böylece bitkisel planktonların üretimi desteklenebilir. Onlarla beslenen canlılar, sonra daha büyük balıklar aynı besin ağına bağlanır."
+        },
+        {
+          "title": "",
+          "text": "Bazı yükselim kıyılarında güçlü balıkçılık görülmesinin bağlantısı budur. “Soğuk su balığı çoğaltır” demek tek başına eksik kalır. Asıl zincir, derindeki besinin yüzeye gelmesi, üretimin artması ve bunun besin ağına aktarılmasıdır."
         }
       ],
       "sources": [
@@ -797,8 +1015,22 @@
           "url": "https://oceanservice.noaa.gov/facts/upwelling.html"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "diagram",
+        "font": "Fraunces",
+        "paper": "#d9e9cc",
+        "ink": "#283824",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      }
     },
     {
       "id": "kesif-asagisalma",
@@ -806,7 +1038,7 @@
       "layout": "diagram",
       "category": "Coğrafya",
       "title": "Deniz suyu yalnız yukarı çıkmıyor.",
-      "subtitle": "Akışın aşağı yönlü eşi de var.",
+      "subtitle": "Kıyıya doğru taşınan yüzey suyu orada sonsuza kadar üst üste yığılamaz.",
       "account": "Harita Kenarı",
       "handle": "haritakenari",
       "cover": {
@@ -823,12 +1055,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "Yüzeyde birikirse",
-          "text": "Rüzgârın kıyıya doğru yığdığı yüzey suyu aşağıya doğru hareket edebilir. Bu süreç aşağısalım olarak adlandırılır."
+          "title": "",
+          "text": "Kıyıya doğru taşınan yüzey suyu orada sonsuza kadar üst üste yığılamaz. Uygun koşullarda aşağıya doğru hareket eder. Bu düşey su hareketine aşağısalım denir; yükselimin ters yönlü akrabası gibi düşünebilirsin."
         },
         {
-          "title": "Üç boyutlu okyanus",
-          "text": "Akıntı deyince haritada sağa sola giden okları düşünürüz. Oysa suyun düşey hareketleri de dolaşımın önemli bir parçasıdır."
+          "title": "",
+          "text": "Okyanus suyu böylece yalnız kıyı boyunca veya doğudan batıya gitmez. Yüzeydeki suyun daha derine taşınması, taşıdığı özelliklerin de başka katmanlara aktarılmasına katkı verir."
+        },
+        {
+          "title": "",
+          "text": "Bir tenceredeki suyun yalnız yüzeyini izleyerek içerideki dolaşımın tamamını anlayamamak gibi. Deniz haritaları iki boyutlu olduğu için akıntıları yatay hayal etmek kolaydır. Oysa yükselme ve alçalma, üç boyutlu dolaşımın temel parçalarıdır."
         }
       ],
       "sources": [
@@ -837,8 +1073,22 @@
           "url": "https://oceanservice.noaa.gov/facts/upwelling.html"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "diagram",
+        "font": "Bebas Neue",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      }
     },
     {
       "id": "kesif-suda-ses",
@@ -846,7 +1096,7 @@
       "layout": "comparison",
       "category": "Bilim",
       "title": "Ses, suda havadan hızlı ilerler.",
-      "subtitle": "Sessiz görünen deniz boş bir ortam değil.",
+      "subtitle": "Ses bir titreşimin ortamda yayılmasıdır.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -863,12 +1113,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Ortam önemlidir",
-          "text": "Sesin yayılma hızı ortama bağlıdır. Deniz suyunda hız, havadakinden belirgin biçimde yüksektir."
+          "title": "",
+          "text": "Ses bir titreşimin ortamda yayılmasıdır. Havada da suda da parçacıklar bu titreşimi birbirine aktarır, ama aktarımın hızı aynı değildir. Deniz suyunda ses yaklaşık saniyede 1.500 metre, havada ise oda sıcaklığında yaklaşık 340 metre yol alır."
         },
         {
-          "title": "Tek bir sabit sayı değil",
-          "text": "Suyun sıcaklığı ve basıncı değiştikçe ses hızı da değişir. Derinlik boyunca aynı hızla gittiğini varsaymak her zaman doğru değildir."
+          "title": "",
+          "text": "Bu değerler her koşulda sabit değildir. Suyun sıcaklığı, tuzluluğu ve basıncı ses hızını etkiler. Derinlik değiştikçe bu özellikler de değişebildiği için okyanusu tek hız değerine sahip bir blok gibi düşünemeyiz."
+        },
+        {
+          "title": "",
+          "text": "Bir ses kaynağının uzaklığını geliş süresinden hesaplamak istersen ortamın hızını bilmen gerekir. Aynı bekleme süresi, hava ve su içinde farklı mesafelere karşılık gelir. Yol aynı olabilir; yolculuğun hızı farklıdır."
         }
       ],
       "sources": [
@@ -877,8 +1131,22 @@
           "url": "https://oceanservice.noaa.gov/facts/sound.html"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "Space Mono",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-ses-kanali",
@@ -886,7 +1154,7 @@
       "layout": "route",
       "category": "Bilim",
       "title": "Okyanusta sesi taşıyan görünmez bir koridor var.",
-      "subtitle": "Duvarları taştan değil.",
+      "subtitle": "Okyanusta sıcaklık ve basınç derinlikle değişir.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -903,12 +1171,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Kırılarak yön değiştirir",
-          "text": "Ses hızı derinlikle değişince ses dalgaları bükülebilir. Uygun koşullarda yukarı ve aşağı kırılarak bir derinlik aralığında tutulurlar."
+          "title": "",
+          "text": "Okyanusta sıcaklık ve basınç derinlikle değişir. Bunlar ses hızını da değiştirdiği için bir ses dalgasının yolu her zaman dümdüz kalmaz. Farklı hızdaki katmanlara geçerken yol bükülebilir; buna kırılma denir."
         },
         {
-          "title": "Uzaklara ulaşabilir",
-          "text": "Ses kanalı denen bu yapı, bazı seslerin çok uzun mesafeler katetmesine yardım eder. Okyanus, ses açısından tekdüze bir havuz değildir."
+          "title": "",
+          "text": "Uygun koşullarda sesin daha yavaş ilerlediği bir derinlik çevresinde dalgalar tekrar tekrar geri yönelir. Böylece enerji belirli bir derinlik aralığında uzun mesafelere taşınabilir. Bu yapıya ses kanalı denir."
+        },
+        {
+          "title": "",
+          "text": "Ortada borudan yapılmış gerçek bir tünel yoktur. Koridoru oluşturan şey suyun özelliklerinin dağılımıdır. Bir balina sesi ya da araştırma sinyali, bu koşullardan yararlanarak beklenmedik kadar uzaktan algılanabilir."
         }
       ],
       "sources": [
@@ -917,8 +1189,22 @@
           "url": "https://oceanservice.noaa.gov/facts/sound.html"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "diagram",
+        "font": "Space Mono",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-hidrofon",
@@ -926,7 +1212,7 @@
       "layout": "terminal",
       "category": "Bilim",
       "title": "Suyun altındaki mikrofonun adı hidrofon.",
-      "subtitle": "Denizi dinlemek de bir ölçüm yöntemi.",
+      "subtitle": "Mikrofon havadaki ses değişimlerini elektrik sinyaline dönüştürür.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -943,12 +1229,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Sesleri kaydeder",
-          "text": "Hidrofonlar su içindeki sesleri algılar. Uygun derinliklere yerleştirildiklerinde uzaktaki balina seslerini ve insan kaynaklı gürültüyü kaydedebilirler."
+          "title": "",
+          "text": "Mikrofon havadaki ses değişimlerini elektrik sinyaline dönüştürür. Suyun altında benzer işi yapan aygıta hidrofon denir. Araştırmacılar bu aygıtlarla balina seslerini, gemi gürültüsünü ve başka sualtı olaylarını kaydedebilir."
         },
         {
-          "title": "Görüntü olmadan bilgi",
-          "text": "Bu kayıtlar, gözle göremediğimiz geniş alanlardaki olayları incelemeye yardım eder. Araştırmada duymak da görmek kadar işe yarayabilir."
+          "title": "",
+          "text": "Bir kaydın anlamı yalnız “bir ses duydum” değildir. Sesin zamanı, frekansları, değişimi ve başka alıcılara ne zaman ulaştığı incelenebilir. Uygun yerleştirilmiş birden fazla aygıt daha fazla bilgi sağlar."
+        },
+        {
+          "title": "",
+          "text": "Görüşün sınırlı olduğu derin ve karanlık sularda dinlemek önemli bir gözlem yoludur. Ama bir kaydı tanımak yorumlama ister; duyulan her uğultunun kaynağı kendiliğinden belli olmaz. Aygıt veri toplar, araştırma o verinin ne anlattığını sınar."
         }
       ],
       "sources": [
@@ -957,7 +1247,7 @@
           "url": "https://oceanservice.noaa.gov/facts/sound.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "berk.b",
@@ -998,24 +1288,22 @@
         {
           "name": "zeynepce",
           "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
-        },
-        {
-          "name": "ecebirnot",
-          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
-        },
-        {
-          "name": "ardabirbak",
-          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
-        },
-        {
-          "name": "ayse.tr",
-          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
-        },
-        {
-          "name": "umutburada",
-          "text": "Bugünün cebime attığım bilgisi bu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Space Mono",
+        "paper": "#172b24",
+        "ink": "#cbeaac",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-deniz-mavi",
@@ -1023,7 +1311,7 @@
       "layout": "myth",
       "category": "Coğrafya",
       "title": "Deniz sadece gökyüzünü kopyalamıyor.",
-      "subtitle": "Suyun ışıkla kendi meselesi var.",
+      "subtitle": "Bir bardak suya bakınca neredeyse renksiz görünür.",
       "account": "Harita Kenarı",
       "handle": "haritakenari",
       "cover": {
@@ -1040,12 +1328,16 @@
       "motion": "prism",
       "slides": [
         {
-          "title": "Kırmızı daha çok soğurulur",
-          "text": "Su, görünür ışığın kırmızı bölümünü maviye göre daha güçlü soğurur. Bu seçicilik denizin mavi görünmesine katkı verir."
+          "title": "",
+          "text": "Bir bardak suya bakınca neredeyse renksiz görünür. Uzun bir su yolundan geçen ışıkta ise suyun seçiciliği belirginleşir. Su, görünür ışığın kırmızı bölümünü maviye göre daha güçlü soğurur."
         },
         {
-          "title": "Yansımayı da unutma",
-          "text": "Gökyüzünün yansıması görüntüyü etkileyebilir; fakat açıklama yalnızca bundan ibaret değildir. Suyun kendi optik özellikleri önemlidir."
+          "title": "",
+          "text": "Kırmızı ışığın daha çok kaybolması, bize ulaşan ışıkta mavinin baskın kalmasına katkı verir. Denizin maviliğini yalnız gökyüzünün yüzeydeki yansımasıyla açıklayamamamızın nedeni budur. Suyun kendisi de ışığı değiştirir."
+        },
+        {
+          "title": "",
+          "text": "Elbette fotoğraftaki son renk tek etkiden oluşmaz. Gökyüzü, parçacıklar, derinlik ve taban da görüntüye katılır. Aynı suyun sığ bir kapta renksiz, büyük bir kütlede mavi görünmesi, ışığın aldığı yolun uzunluğuyla ilişkilidir."
         }
       ],
       "sources": [
@@ -1054,7 +1346,7 @@
           "url": "https://oceanservice.noaa.gov/facts/oceanblue.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
@@ -1068,7 +1360,21 @@
           "name": "deniz.k",
           "text": "Okurken durup düşündüm biraz."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#ead9f0",
+        "ink": "#35223f",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      }
     },
     {
       "id": "kesif-deniz-ton",
@@ -1076,7 +1382,7 @@
       "layout": "gallery",
       "category": "Coğrafya",
       "title": "Aynı deniz bugün başka renkte.",
-      "subtitle": "Suyun içindekiler de görüntüye katılır.",
+      "subtitle": "Deniz bazen mavi, bazen yeşil, bazen çamur renginde görünür.",
       "account": "Harita Kenarı",
       "handle": "haritakenari",
       "cover": {
@@ -1093,12 +1399,16 @@
       "motion": "prism",
       "slides": [
         {
-          "title": "Asılı parçacıklar",
-          "text": "Suda yüzen tortular ve başka parçacıklar ışığı farklı biçimde saçabilir. Deniz bu yüzden yeşil, kırmızı veya başka tonlarda görünebilir."
+          "title": "",
+          "text": "Deniz bazen mavi, bazen yeşil, bazen çamur renginde görünür. Çünkü ışık yalnız suyla karşılaşmaz. İçeride asılı duran tortular, mikroskobik canlılar ve başka maddeler de ışığı soğurur veya farklı yönlere saçar."
         },
         {
-          "title": "Renk tek başına yetmez",
-          "text": "Bir fotoğraftaki renkten suyun bütün kimyasını çıkaramayız. Aydınlatma ve bakış açısı da gördüğümüz görüntüyü değiştirir."
+          "title": "",
+          "text": "Nehirden taşınan ince çamur, kıyı rengini değiştirebilir. Planktonların yoğunluğu da görünen tonu etkileyebilir. Üstüne Güneş'in açısı ve gökyüzünün yansıması eklenince aynı yer farklı günlerde bambaşka görünebilir."
+        },
+        {
+          "title": "",
+          "text": "Bu yüzden tek bir fotoğrafa bakarak suyun temizliğini ya da bütün kimyasını kesin belirleyemeyiz. Renk bir ipucudur; ölçümün yerini tutmaz. “Dün daha maviydi” gözlemi güzel bir başlangıç sorusudur: Işık mı değişti, sudaki maddeler mi?"
         }
       ],
       "sources": [
@@ -1107,7 +1417,7 @@
           "url": "https://oceanservice.noaa.gov/facts/oceanblue.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ayse.tr",
@@ -1121,7 +1431,21 @@
           "name": "zeynepce",
           "text": "Örneği görünce anladım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      }
     },
     {
       "id": "kesif-derin-karanlik",
@@ -1129,7 +1453,7 @@
       "layout": "reveal",
       "category": "Coğrafya",
       "title": "Okyanusun büyük kısmında öğle vakti yok.",
-      "subtitle": "Güneş ışığı derine aynı güçle inmez.",
+      "subtitle": "Güneş ışığı suya girince yoluna kayıpsız devam etmez.",
       "account": "Harita Kenarı",
       "handle": "haritakenari",
       "cover": {
@@ -1146,12 +1470,16 @@
       "motion": "prism",
       "slides": [
         {
-          "title": "Işık azalır",
-          "text": "Su ışığı soğurup saçtığı için derine indikçe güneş ışığı zayıflar. Yaklaşık bin metrenin altında güneş ışığına dayalı bir aydınlık beklemeyiz."
+          "title": "",
+          "text": "Güneş ışığı suya girince yoluna kayıpsız devam etmez. Su ve içindeki maddeler ışığın bir bölümünü soğurur, bir bölümünü saçar. Bu nedenle derinlik arttıkça yüzeyden gelen aydınlık azalır."
         },
         {
-          "title": "Karanlık, boşluk değil",
-          "text": "Derin denizi incelemek için dışarıdan ışık ve özel araçlar gerekir. Yüzeyde gündüz olması, tabanın aydınlandığı anlamına gelmez."
+          "title": "",
+          "text": "Yaklaşık bin metrenin altında Güneş kaynaklı anlamlı bir aydınlık beklemeyiz. Kesin sınır suyun koşullarına bağlıdır. Yüzeyde öğle vakti olması, okyanusun tabanında da gündüz yaşandığı anlamına gelmez."
+        },
+        {
+          "title": "",
+          "text": "Bu karanlıkta kendi ışığını üreten canlılar bulunabilir; ama bu, Güneş'in orayı aydınlatması değildir. Derin deniz araçlarının güçlü ışık taşımasının nedeni de budur. Kameranın gördüğü aydınlık sahne, çoğu zaman aracın beraberinde götürdüğü ışıkla oluşur."
         }
       ],
       "sources": [
@@ -1160,7 +1488,7 @@
           "url": "https://oceanservice.noaa.gov/facts/oceanblue.html"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "gokce",
@@ -1178,15 +1506,29 @@
           "name": "onurdefter",
           "text": "Ben bunu tam ters biliyormuşum 😅"
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Bebas Neue",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      }
     },
     {
       "id": "kesif-kita-sahanligi",
       "topic": "Okyanus tabanı",
-      "layout": "cutaway",
+      "layout": "postcard",
       "category": "Coğrafya",
       "title": "Kıta kıyıda birden bitmiyor.",
-      "subtitle": "Denizin altında da devam ediyor.",
+      "subtitle": "Kıyıda denize girince kıta bir çizgide aniden sona ermez.",
       "account": "Harita Kenarı",
       "handle": "haritakenari",
       "cover": {
@@ -1203,12 +1545,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Sığ uzantı",
-          "text": "Kıta sahanlığı, kıtanın deniz altında kalan görece sığ kenar bölümüdür. Ardından daha dik kıta yamacı gelebilir."
+          "title": "",
+          "text": "Kıyıda denize girince kıta bir çizgide aniden sona ermez. Karanın devamı su altında uzanabilir. Kıtanın görece sığ, su altında kalmış kenar bölümüne kıta sahanlığı denir."
         },
         {
-          "title": "Kıyıya göre değişir",
-          "text": "Bu sığ bölgenin genişliği her yerde aynı değildir. Haritadaki kıyı çizgisi, kıtanın jeolojik sınırını tek başına göstermez."
+          "title": "",
+          "text": "Bu alanın ardından tabanın daha hızlı derinleştiği kıta yamacı gelebilir. Ama sahanlığın genişliği her yerde aynı değildir. Bazı kıyılarda uzun süre sığ kalırken bazılarında derin suya daha çabuk ulaşılır."
+        },
+        {
+          "title": "",
+          "text": "Haritadaki kıyı çizgisi suyla havanın bugünkü buluşmasını gösterir. Altındaki jeolojik yapı daha öteye uzanır. Bir ülkenin kıyı haritasıyla deniz tabanı haritasını yan yana koyduğunda neden farklı sınırlar gördüğünü bu ayrım açıklar."
         }
       ],
       "sources": [
@@ -1217,7 +1563,7 @@
           "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-floor-features"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "onurdefter",
@@ -1235,7 +1581,21 @@
           "name": "duru.not",
           "text": "Bir dakika diye girdim yine konu uzadı bende."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Lora",
+        "paper": "#f4bd65",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      }
     },
     {
       "id": "kesif-okyanus-sirti",
@@ -1243,7 +1603,7 @@
       "layout": "route",
       "category": "Coğrafya",
       "title": "Dünya’nın uzun dağ sistemi suyun altında.",
-      "subtitle": "Okyanus ortası sırtları.",
+      "subtitle": "Deniz tabanı dev bir düz çukur değildir.",
       "account": "Harita Kenarı",
       "handle": "haritakenari",
       "cover": {
@@ -1260,12 +1620,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Levhalar ayrılırken",
-          "text": "Okyanus ortası sırtları, birçok yerde levhaların birbirinden uzaklaştığı bölgelerle ilişkilidir. Yükselen magma yeni okyanus kabuğu oluşturur."
+          "title": "",
+          "text": "Deniz tabanı dev bir düz çukur değildir. Okyanusların içinden uzun dağ sıraları geçer. Okyanus ortası sırtlarının birçok bölümünde, Dünya'nın dış kabuğunu oluşturan levhalar birbirinden uzaklaşır."
         },
         {
-          "title": "Tek tepe değil",
-          "text": "Bu sırtlar, okyanuslar boyunca uzanan büyük bir sistemdir. Deniz tabanı düz bir çukurdan ibaret değildir."
+          "title": "",
+          "text": "Araları açıldıkça aşağıdan yükselen sıcak madde yerleşir ve yeni okyanus kabuğu oluşur. Böylece sırt çevresi yalnız yüksek bir yer değil, deniz tabanının yenilendiği bir bölgedir."
+        },
+        {
+          "title": "",
+          "text": "İki yana ayrılan bantların arasına yeni malzeme eklenmesini düşün. Benzetme, yeni tabanın neden sırtın çevresinde oluştuğunu canlandırır. Okyanus tabanını anlamak için suyun altındaki şekle ek olarak onun zaman içinde nasıl üretildiğini de sormak gerekir."
         }
       ],
       "sources": [
@@ -1274,8 +1638,22 @@
           "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-floor-features"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "diagram",
+        "font": "Lora",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      }
     },
     {
       "id": "kesif-okyanus-hendegi",
@@ -1283,7 +1661,7 @@
       "layout": "comparison",
       "category": "Coğrafya",
       "title": "Denizin dibindeki dar, derin çukurlar.",
-      "subtitle": "Hendeklerin levhalarla ilişkisi var.",
+      "subtitle": "Okyanus hendekleri, deniz tabanındaki uzun ve dar derin çukurlardır.",
       "account": "Harita Kenarı",
       "handle": "haritakenari",
       "cover": {
@@ -1300,12 +1678,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Biri alta dalar",
-          "text": "Okyanus hendekleri çoğunlukla bir tektonik levhanın diğerinin altına daldığı bölgelerde oluşur."
+          "title": "",
+          "text": "Okyanus hendekleri, deniz tabanındaki uzun ve dar derin çukurlardır. Çoğu, iki tektonik levhanın karşılaştığı ve birinin diğerinin altına doğru eğildiği bölgelerle ilişkilidir. Bu harekete dalma-batma denir."
         },
         {
-          "title": "İki süreci karıştırma",
-          "text": "Okyanus sırtlarında yeni kabuk oluşurken dalma-batma bölgelerinde eski kabuk derine taşınabilir. Deniz tabanı zaman içinde yenilenir."
+          "title": "",
+          "text": "Aşağı yönelen levha, yüzeydeki yapıyı da derine doğru büker. Hendek bu büyük ölçekli hareketin deniz tabanında görülen izlerinden biridir. Derin olması yalnız oradaki suyun daha çok birikmesinden kaynaklanmaz; tabanın kendisi daha aşağıdadır."
+        },
+        {
+          "title": "",
+          "text": "Okyanus sırtlarında yeni kabuk oluşurken dalma-batma bölgelerinde eski kabuk derine taşınabilir. İkisini birlikte düşününce deniz tabanı sabit bir kap değil, jeolojik zaman boyunca değişen bir yüzey olarak görünür."
         }
       ],
       "sources": [
@@ -1314,8 +1696,22 @@
           "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-floor-features"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#f4bd65",
+        "ink": "#332710",
+        "align": "end",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      }
     }
   ]
 }

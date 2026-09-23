@@ -1,0 +1,504 @@
+{
+  "version": 1,
+  "title": "Sahadan ve ekrandan",
+  "posts": [
+    {
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Tennis_ball_on_ground.jpg/960px-Tennis_ball_on_ground.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_ground.jpg",
+        "alt": "Zeminde duran sarı tenis topunun yakın görünümü",
+        "credit": "Santeri Viinamäki",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "account": "Oyunun İçinden",
+      "handle": "oyununicinden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tennis_ball_on_tennis_court_20170619.jpg/960px-Tennis_ball_on_tennis_court_20170619.jpg",
+      "avatarCredit": {
+        "label": "Santeri Viinamäki",
+        "url": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_tennis_court_20170619.jpg"
+      },
+      "id": "spor-basketbol-24-saniye",
+      "title": "Basketbolda neden iki saat var?",
+      "topic": "Basketbol",
+      "category": "Spor",
+      "subtitle": "Basketbolda maç saati, periyodun bitmesine kalan süreyi gösterir.",
+      "layout": "number",
+      "display": "carousel",
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#475c45",
+      "motion": "geometry",
+      "slides": [
+        {
+          "title": "",
+          "text": "Basketbolda maç saati, periyodun bitmesine kalan süreyi gösterir. Potanın üzerindeki daha küçük saat ise o hücumun süresini sayar. Takım topun kontrolünü aldığında normal olarak 24 saniye içinde şut denemelidir."
+        },
+        {
+          "title": "",
+          "text": "Sürenin dolmasından önce topun oyuncunun elinden çıkması gerekir. Sonrasında top çembere değmeli veya basket olmalıdır. Son anda topu havaya atıp hiçbir yere değdirmemek, bu şartı karşılamaz."
+        },
+        {
+          "title": "",
+          "text": "Şut çembere çarpıp dışarı çıkarsa ve hücum eden takım topu yeniden alırsa hücum süresi 14 saniyeye ayarlanır. Yani aynı takımın kaçırdığı şutu geri alması, her seferinde yepyeni bir 24 saniye kazandırmaz."
+        }
+      ],
+      "sources": [
+        {
+          "label": "FIBA · Basketbol Oyun Kuralları, madde 29",
+          "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+        }
+      ],
+      "updatedAt": "2026-09-23",
+      "comments": [
+        {
+          "name": "cizgikenari",
+          "text": "Şu 14 saniye meselesini hep karıştırıyordum."
+        }
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Bebas Neue",
+        "paper": "#e8b789",
+        "ink": "#222c27",
+        "align": "start",
+        "position": "top",
+        "label": "Basketbol"
+      }
+    },
+    {
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Tennis_ball_on_ground.jpg/960px-Tennis_ball_on_ground.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_ground.jpg",
+        "alt": "Zeminde duran sarı tenis topunun yakın görünümü",
+        "credit": "Santeri Viinamäki",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "account": "Oyunun İçinden",
+      "handle": "oyununicinden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tennis_ball_on_tennis_court_20170619.jpg/960px-Tennis_ball_on_tennis_court_20170619.jpg",
+      "avatarCredit": {
+        "label": "Santeri Viinamäki",
+        "url": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_tennis_court_20170619.jpg"
+      },
+      "id": "spor-hentbol-uc-adim",
+      "title": "Top sende. Üçe kadar vaktin var.",
+      "topic": "Hentbol",
+      "category": "Spor",
+      "subtitle": "Hentbolda oyuncular topu elle taşıyıp paslaşarak rakibin kalesine gol atmaya çalışır.",
+      "layout": "sequence",
+      "display": "carousel",
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#475c45",
+      "motion": "geometry",
+      "slides": [
+        {
+          "title": "",
+          "text": "Hentbolda oyuncular topu elle taşıyıp paslaşarak rakibin kalesine gol atmaya çalışır. Ama topu kucaklayıp sahanın öbür ucuna kadar koşamazsın: elinde tutarken en fazla üç adım atabilir, en fazla üç saniye bekleyebilirsin."
+        },
+        {
+          "title": "",
+          "text": "Daha uzun ilerlemek için topu tek elle yere sektirirsin; buna dripling denir. Sektirmeyi bitirip topu tuttuğunda tekrar üç adım ve üç saniye sınırına uyarsın. Artık pas veya şut gibi bir devam seçmen gerekir."
+        },
+        {
+          "title": "",
+          "text": "Bir oyuncunun kaleye doğru hızlanıp art arda üç adım atarak sıçradığını görürsen saymayı dene. O hareket rastgele bir koşu değil; sınırlı adımları hız kazanmak ve atış açısı bulmak için kullanır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "IHF · Salon Hentbolu Kuralları, madde 7",
+          "url": "https://www.ihf.info/sites/default/files/2025-02/09A%20-%20Rules%20of%20the%20Game_Indoor%20Handball_E.pdf"
+        }
+      ],
+      "updatedAt": "2026-09-23",
+      "comments": [
+        {
+          "name": "mertizliyor",
+          "text": "Maç izlerken adımları sayacağım artık."
+        }
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Oswald",
+        "paper": "#dce7ee",
+        "ink": "#222c27",
+        "align": "center",
+        "position": "middle",
+        "label": "Hentbol"
+      }
+    },
+    {
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Tennis_ball_on_ground.jpg/960px-Tennis_ball_on_ground.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_ground.jpg",
+        "alt": "Zeminde duran sarı tenis topunun yakın görünümü",
+        "credit": "Santeri Viinamäki",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "account": "Oyunun İçinden",
+      "handle": "oyununicinden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tennis_ball_on_tennis_court_20170619.jpg/960px-Tennis_ball_on_tennis_court_20170619.jpg",
+      "avatarCredit": {
+        "label": "Santeri Viinamäki",
+        "url": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_tennis_court_20170619.jpg"
+      },
+      "id": "spor-amerikan-futbolu-down",
+      "title": "Ekranda “2nd & 6” yazıyor. Ne demek?",
+      "topic": "Amerikan futbolu",
+      "category": "Spor",
+      "subtitle": "Amerikan futbolunda hücum takımı topu koşarak veya pasla rakibin tarafına ilerletmeye çalışır.",
+      "layout": "diagram",
+      "display": "carousel",
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#475c45",
+      "motion": "geometry",
+      "slides": [
+        {
+          "title": "",
+          "text": "Amerikan futbolunda hücum takımı topu koşarak veya pasla rakibin tarafına ilerletmeye çalışır. Ekrandaki “down”, bir hücum denemesidir. Takımın en az 10 yard, yani yaklaşık 9,1 metre ilerlemek için normal olarak dört denemesi vardır."
+        },
+        {
+          "title": "",
+          "text": "İlk denemede dört yard ilerlediklerini düşün. Geriye altı yard kalır ve sıra ikinci denemeye gelir. Ekran bu yüzden “2nd & 6” yazar: ikinci deneme, hedefe altı yard."
+        },
+        {
+          "title": "",
+          "text": "Gerekli mesafeyi dört deneme dolmadan geçerlerse yeni bir ilk hak, yani “first down” kazanırlar. Yeni hedefe ulaşmak için dört hakları daha olur. Maç artık sadece birbirine çarpan insanlar gibi görünmez: her oyun, mesafe ile kalan hak arasında bir karardır."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NFL Football Operations · Down ve first down",
+          "url": "https://operations.nfl.com/rules-officiating/nfl-football-basics/football-terms"
+        }
+      ],
+      "updatedAt": "2026-09-23",
+      "comments": [
+        {
+          "name": "selin.e",
+          "text": "O yazı sonunda bir anlam kazandı 😄"
+        }
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Space Mono",
+        "paper": "#dce7d8",
+        "ink": "#222c27",
+        "align": "start",
+        "position": "bottom",
+        "label": "Amerikan futbolu"
+      }
+    },
+    {
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Tennis_ball_on_ground.jpg/960px-Tennis_ball_on_ground.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_ground.jpg",
+        "alt": "Zeminde duran sarı tenis topunun yakın görünümü",
+        "credit": "Santeri Viinamäki",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "account": "Oyunun İçinden",
+      "handle": "oyununicinden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tennis_ball_on_tennis_court_20170619.jpg/960px-Tennis_ball_on_tennis_court_20170619.jpg",
+      "avatarCredit": {
+        "label": "Santeri Viinamäki",
+        "url": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_tennis_court_20170619.jpg"
+      },
+      "id": "spor-beyzbol-kale-turu",
+      "title": "Beyzbolda sayı, top gidince değil sen dönünce.",
+      "topic": "Beyzbol",
+      "category": "Spor",
+      "subtitle": "Beyzbolda vurucu, atılan topa sopayla vurduktan sonra birinci kaleye ulaşmaya çalışır.",
+      "layout": "route",
+      "display": "carousel",
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#475c45",
+      "motion": "geometry",
+      "slides": [
+        {
+          "title": "",
+          "text": "Beyzbolda vurucu, atılan topa sopayla vurduktan sonra birinci kaleye ulaşmaya çalışır. Sahadaki elmas biçimli düzende sıra birinci, ikinci ve üçüncü kale, ardından başladığı “home plate” noktasıdır."
+        },
+        {
+          "title": "",
+          "text": "Koşucu bu sırayı kurallara uygun tamamlayıp eve döndüğünde takımı bir “run”, yani sayı kazanır. Her vuruşta turu tek seferde bitirmek zorunda değildir; bir kalede güvenle kalıp sonraki takım arkadaşının vuruşunda ilerleyebilir."
+        },
+        {
+          "title": "",
+          "text": "Savunmanın işi, koşucuları veya vurucuları “out”, yani oyun dışı bırakmaktır. Üç out olunca o takımın hücumu biter. Bu yüzden uzak bir vuruşu görünce yalnız topu değil, kalelerde bekleyen koşucuların nereye ilerlediğini de izle."
+        }
+      ],
+      "sources": [
+        {
+          "label": "WBSC · Official Rules of Baseball 2025–2026",
+          "url": "https://static.wbsc.org/uploads/federations/0/cms/documents/d3d36a7c-4a8a-1cca-adc1-d4edff1efc30.pdf"
+        }
+      ],
+      "updatedAt": "2026-09-23",
+      "comments": [
+        {
+          "name": "birtribun",
+          "text": "Topa bakarken koşucuları kaçırıyormuşum."
+        }
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Fraunces",
+        "paper": "#efe8d6",
+        "ink": "#222c27",
+        "align": "start",
+        "position": "top",
+        "label": "Beyzbol"
+      }
+    },
+    {
+      "cover": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Tennis_ball_on_ground.jpg/960px-Tennis_ball_on_ground.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_ground.jpg",
+        "alt": "Zeminde duran sarı tenis topunun yakın görünümü",
+        "credit": "Santeri Viinamäki",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "account": "Oyunun İçinden",
+      "handle": "oyununicinden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tennis_ball_on_tennis_court_20170619.jpg/960px-Tennis_ball_on_tennis_court_20170619.jpg",
+      "avatarCredit": {
+        "label": "Santeri Viinamäki",
+        "url": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_tennis_court_20170619.jpg"
+      },
+      "id": "spor-curling-sayi",
+      "title": "Curling’de kırmızı halka kaç puan? Sıfır.",
+      "topic": "Curling",
+      "category": "Spor",
+      "subtitle": "Curling, buz üzerinde taşları hedefe doğru kaydırdığın bir takım oyunu.",
+      "layout": "diagram",
+      "display": "carousel",
+      "format": "carousel",
+      "minutes": 1,
+      "accent": "#475c45",
+      "motion": "geometry",
+      "slides": [
+        {
+          "title": "",
+          "text": "Curling, buz üzerinde taşları hedefe doğru kaydırdığın bir takım oyunu. Hedefteki iç içe halkalara “ev” denir. Darttaki gibi her halkanın ayrı puanı yoktur. Önemli olan taşların merkeze ne kadar yakın durduğudur."
+        },
+        {
+          "title": "",
+          "text": "Tüm taşlar oynanıp “end” denen bölüm bitince merkeze en yakın taşın takımına bakılır. Bu takım, rakibin en yakın taşından daha içeride duran kendi taşlarının her biri için bir puan alır. Sayılan taşın evin içinde olması veya eve değmesi gerekir."
+        },
+        {
+          "title": "",
+          "text": "Örnek: merkeze en yakın iki taş kırmızı, üçüncü taş sarı olsun. Kırmızı takım o bölümden iki puan çıkarır. Daha dışarıda üç kırmızı taş daha bulunması skoru beşe çıkarmaz; sarı taş, sayılabilecek taşların sınırını belirler."
+        }
+      ],
+      "sources": [
+        {
+          "label": "World Curling · 2026 Kuralları, R11",
+          "url": "https://worldcurling.org/wp-content/uploads/2026/08/Rules2026.pdf"
+        }
+      ],
+      "updatedAt": "2026-09-23",
+      "comments": [
+        {
+          "name": "buzdaiz",
+          "text": "Ben de dart gibi puanlanıyor sanıyordum."
+        }
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "DM Sans",
+        "paper": "#e4ecf3",
+        "ink": "#222c27",
+        "align": "center",
+        "position": "middle",
+        "label": "Curling"
+      }
+    },
+    {
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "id": "video-kediler-neden",
+      "title": "Kedi yine evin içinde yarışa başladı.",
+      "topic": "Kedi davranışları",
+      "category": "Doğa",
+      "subtitle": "Bir kutuya sığma ısrarı, yüksek bir rafa çıkma hevesi, ansızın başlayan av oyunu… Bu kısa animasyon, ev kedisinin davranışlarını avcı ve av olarak geçirdiği evrimsel geçmişle ilişkilendiriyor.",
+      "layout": "gallery",
+      "display": "video",
+      "format": "reel",
+      "minutes": 5,
+      "accent": "#7698a1",
+      "slides": [
+        {
+          "title": "",
+          "text": "Bir kutuya sığma ısrarı, yüksek bir rafa çıkma hevesi, ansızın başlayan av oyunu… Bu kısa animasyon, ev kedisinin davranışlarını avcı ve av olarak geçirdiği evrimsel geçmişle ilişkilendiriyor. Videoyu aç; Türkçe altyazıyı oynatıcının ayarlarından seçebilirsin."
+        }
+      ],
+      "sources": [
+        {
+          "label": "TED-Ed · Tony Buffington",
+          "url": "https://ed.ted.com/lessons/why-do-cats-act-so-weird-tony-buffington"
+        }
+      ],
+      "updatedAt": "2026-09-23",
+      "comments": [
+        {
+          "name": "ekrandabirazmerak",
+          "text": "Altyazıyı açınca çok rahat takip ettim."
+        }
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#ece9df",
+        "ink": "#24211e",
+        "align": "start",
+        "position": "bottom"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/sI8NsYIyQ2A/hqdefault.jpg",
+        "alt": "Kedi yine evin içinde yarışa başladı. video önizlemesi",
+        "credit": "TED-Ed · Tony Buffington",
+        "source": "https://ed.ted.com/lessons/why-do-cats-act-so-weird-tony-buffington",
+        "license": "Yayıncının video önizlemesi · YouTube",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "video": {
+        "kind": "youtube",
+        "url": "sI8NsYIyQ2A",
+        "title": "Kedi yine evin içinde yarışa başladı.",
+        "duration": 298,
+        "language": "İngilizce · Türkçe altyazı mevcut"
+      }
+    },
+    {
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "id": "video-kaslar-nasil-buyur",
+      "title": "Bir kas büyürken içeride ne oluyor?",
+      "topic": "Kas biyolojisi",
+      "category": "Bilim",
+      "subtitle": "Kasını gerdiğinde tek bir ipi çekmiş olmuyorsun; çok sayıda kas lifi birlikte çalışıyor.",
+      "layout": "gallery",
+      "display": "video",
+      "format": "reel",
+      "minutes": 4,
+      "accent": "#7698a1",
+      "slides": [
+        {
+          "title": "",
+          "text": "Kasını gerdiğinde tek bir ipi çekmiş olmuyorsun; çok sayıda kas lifi birlikte çalışıyor. Bu animasyon, yüklenmeye verilen hücresel yanıtı ve onarımın büyümeyle ilişkisini anlatıyor. Bir egzersiz programı değil, hareketin içerideki hikâyesi. Türkçe altyazı mevcut."
+        }
+      ],
+      "sources": [
+        {
+          "label": "TED-Ed · Jeffrey Siegel",
+          "url": "https://ed.ted.com/lessons/what-makes-muscles-grow-jeffrey-siegel"
+        }
+      ],
+      "updatedAt": "2026-09-23",
+      "comments": [
+        {
+          "name": "ekrandabirazmerak",
+          "text": "Altyazıyı açınca çok rahat takip ettim."
+        }
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#ece9df",
+        "ink": "#24211e",
+        "align": "start",
+        "position": "bottom"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/2tM1LFFxeKg/hqdefault.jpg",
+        "alt": "Bir kas büyürken içeride ne oluyor? video önizlemesi",
+        "credit": "TED-Ed · Jeffrey Siegel",
+        "source": "https://ed.ted.com/lessons/what-makes-muscles-grow-jeffrey-siegel",
+        "license": "Yayıncının video önizlemesi · YouTube",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "video": {
+        "kind": "youtube",
+        "url": "2tM1LFFxeKg",
+        "title": "Bir kas büyürken içeride ne oluyor?",
+        "duration": 260,
+        "language": "İngilizce · Türkçe altyazı mevcut"
+      }
+    },
+    {
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "id": "video-gunes-tutulmasi",
+      "title": "Gündüzün ortasında Güneş nereye gitti?",
+      "topic": "Güneş tutulması",
+      "category": "Uzay",
+      "subtitle": "Güneş tutulmasında Ay, Dünya ile Güneş arasına girer; gölgesi Dünya yüzeyine düşer.",
+      "layout": "gallery",
+      "display": "video",
+      "format": "reel",
+      "minutes": 2,
+      "accent": "#7698a1",
+      "slides": [
+        {
+          "title": "",
+          "text": "Güneş tutulmasında Ay, Dünya ile Güneş arasına girer; gölgesi Dünya yüzeyine düşer. Bu kısa NASA animasyonu, nerede durduğuna göre neden farklı bir tutulma gördüğünü gösteriyor. 2017 tutulması için hazırlanmış, temel mekanizmayı anlatan bir video. Güneş’e korumasız bakma."
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Space Place",
+          "url": "https://science.nasa.gov/resource/what-is-a-solar-eclipse/"
+        }
+      ],
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#ece9df",
+        "ink": "#24211e",
+        "align": "start",
+        "position": "bottom"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/nBN3jheTBG0/hqdefault.jpg",
+        "alt": "Gündüzün ortasında Güneş nereye gitti? video önizlemesi",
+        "credit": "NASA Space Place",
+        "source": "https://science.nasa.gov/resource/what-is-a-solar-eclipse/",
+        "license": "Yayıncının video önizlemesi · YouTube",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "video": {
+        "kind": "youtube",
+        "url": "nBN3jheTBG0",
+        "title": "Gündüzün ortasında Güneş nereye gitti?",
+        "duration": 131,
+        "language": "İngilizce"
+      }
+    }
+  ]
+}

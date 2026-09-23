@@ -4,10 +4,10 @@
     {
       "id": "kesif-merkur-buz",
       "topic": "Merkür",
-      "layout": "reveal",
+      "layout": "gallery",
       "category": "Uzay",
       "title": "Güneş’in dibinde buz saklanabilir mi?",
-      "subtitle": "Merkür’ün gölgeleri başka bir dünya.",
+      "subtitle": "Merkür, Güneş'e en yakın gezegendir.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -24,12 +24,16 @@
       "motion": "orbit",
       "slides": [
         {
-          "title": "Güneş hiç değmezse",
-          "text": "Merkür’ün kutuplarındaki bazı derin kraterlerin tabanı sürekli gölgede kalır. Bu bölgelerde su buzunun korunabileceğine ilişkin bulgular vardır."
+          "title": "",
+          "text": "Merkür, Güneş'e en yakın gezegendir. Bu yüzden orada buz bulunması ilk anda tuhaf gelir. Ama sıcaklığı belirleyen yalnız Güneş'e uzaklık değildir; ışığın belirli bir yere ulaşıp ulaşmadığı da önemlidir."
         },
         {
-          "title": "Mesafe tek başına yetmez",
-          "text": "Bir gezegenin Güneş’e yakın olması, yüzeyinin her noktasının sürekli sıcak olduğu anlamına gelmez. Gölge ve ısının tutulması da önemlidir."
+          "title": "",
+          "text": "Gezegenin kutuplarındaki bazı derin kraterlerin tabanı sürekli gölgede kalır. Güneş ışığı bu çukurlara doğrudan ulaşmadığı için çevrede çok sıcak bölgeler bulunsa bile içerisi soğuk kalabilir. Gözlemler, bu alanlarda su buzu bulunduğunu destekler."
+        },
+        {
+          "title": "",
+          "text": "Bunu yazın güneş gören bir taşla, ışığın hiç girmediği derin bir oyuk arasındaki farkın çok daha uç hâli gibi düşün. “Gezegen sıcak” cümlesi, gezegenin her noktası için aynı sıcaklığı söylemez."
         }
       ],
       "sources": [
@@ -38,8 +42,22 @@
           "url": "https://science.nasa.gov/mercury/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "photo",
+        "font": "Oswald",
+        "paper": "#f7f3e9",
+        "ink": "#24211e",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-merkur-gece",
@@ -47,7 +65,7 @@
       "layout": "number",
       "category": "Uzay",
       "title": "Merkür geceleri fena soğuyor.",
-      "subtitle": "Gündüz fırın, gece dondurucu benzetmesi boşuna değil.",
+      "subtitle": "Merkür'ün Güneş gören yüzeyi yaklaşık 430 °C'ye çıkabilir; gece tarafında sıcaklık yaklaşık −180 °C'ye inebilir.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -64,12 +82,16 @@
       "motion": "orbit",
       "slides": [
         {
-          "title": "Geniş sıcaklık farkı",
-          "text": "Güneş alan bölgelerde sıcaklık yaklaşık 430 °C’ye çıkabilirken gece yaklaşık −180 °C’ye düşebilir."
+          "title": "",
+          "text": "Merkür'ün Güneş gören yüzeyi yaklaşık 430 °C'ye çıkabilir; gece tarafında sıcaklık yaklaşık −180 °C'ye inebilir. Bu değerler aynı anda her yerde ölçülen tek bir gezegen sıcaklığı değildir. Gündüz ve gece koşullarını anlatırlar."
         },
         {
-          "title": "Isıyı tutamıyor",
-          "text": "Merkür’ün Dünya’daki gibi kalın bir atmosferi yoktur. Gündüz alınan ısıyı gece boyunca koruma koşulları bu yüzden çok farklıdır."
+          "title": "",
+          "text": "Dünya'da atmosfer ısıyı tutmaya ve taşımaya katılır. Merkür'de buna benzer kalın bir atmosfer bulunmaz. Güneş almayan yüzeyin enerji kaybını sınırlayacak koşullar çok farklıdır."
+        },
+        {
+          "title": "",
+          "text": "O yüzden Güneş'e yakın olmak, gecenin de sıcak kalacağını garanti etmez. Isı kazanımı kadar ısının nasıl kaybedildiğini de sormalıyız. Bir gezegenin hava durumunu yalnız uzaydaki adresinden çıkaramayız."
         }
       ],
       "sources": [
@@ -78,7 +100,7 @@
           "url": "https://science.nasa.gov/mercury/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "berk.b",
@@ -100,7 +122,21 @@
           "name": "ecebirnot",
           "text": "Bir çay molasına sığdı, iyi geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#192f2a",
+        "ink": "#f3eddc",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-merkur-ekzosfer",
@@ -108,7 +144,7 @@
       "layout": "glossary",
       "category": "Uzay",
       "title": "Merkür’ün çevresindeki gaz, bildiğin hava değil.",
-      "subtitle": "Çok seyrek bir dış örtü.",
+      "subtitle": "Merkür'ün çevresinde gaz vardır ama Dünya'daki gibi yoğun bir hava örtüsü yoktur.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -125,12 +161,16 @@
       "motion": "orbit",
       "slides": [
         {
-          "title": "Ekzosfer",
-          "text": "Yüzeyden kopan atomlar gezegenin çevresinde ince bir ekzosfer oluşturur. Güneş rüzgârı ve göktaşı çarpmaları bu atomların kaynağı olabilir."
+          "title": "",
+          "text": "Merkür'ün çevresinde gaz vardır ama Dünya'daki gibi yoğun bir hava örtüsü yoktur. Son derece seyrek atomlardan oluşan bu çevreye ekzosfer denir. Atomlar birbirleriyle çok az karşılaşır; bildiğimiz havanın davranışını göstermezler."
         },
         {
-          "title": "Neler var?",
-          "text": "Oksijen, sodyum, hidrojen, helyum ve potasyum bulunur. Oksijen kelimesini görmek, orada nefes alınabileceği anlamına gelmez."
+          "title": "",
+          "text": "Güneş'ten gelen parçacıklar ve küçük göktaşı çarpmaları, yüzeyden atom koparabilir. Bu atomlar ekzosfere katılır. Oksijen, sodyum, hidrojen, helyum ve potasyum burada karşılaşılabilen türler arasındadır."
+        },
+        {
+          "title": "",
+          "text": "Listede oksijen görmek, nefes alınabilecek ortam demek değildir. Miktar ve basınç da belirleyicidir. Bir salonda tek bir su damlası bulunması orayı havuza çevirmediği gibi, oksijen atomlarının bulunması da Merkür'e solunabilir atmosfer kazandırmaz."
         }
       ],
       "sources": [
@@ -139,7 +179,7 @@
           "url": "https://science.nasa.gov/mercury/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
@@ -153,15 +193,29 @@
           "name": "keremca",
           "text": "Bir çay molasına sığdı, iyi geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "end",
+        "position": "top"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-mars-pas",
       "topic": "Mars",
-      "layout": "poster",
+      "layout": "gallery",
       "category": "Uzay",
       "title": "Mars’ın kırmızısında tanıdık bir kimya var.",
-      "subtitle": "Pas rengi demek pek de yanlış değil.",
+      "subtitle": "Mars'ın kızıl görünüşü, yüzeyindeki demir içeren minerallerle ilişkilidir.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -178,12 +232,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Demirli toprak",
-          "text": "Mars yüzeyindeki demir minerallerinin oksitlenmesi, gezegene kırmızımsı görünümünü veren nedenlerden biridir."
+          "title": "",
+          "text": "Mars'ın kızıl görünüşü, yüzeyindeki demir içeren minerallerle ilişkilidir. Demir oksijenle farklı bileşikler oluşturduğunda, ortaya çıkan demir oksitleri kırmızımsı ve kahverengimsi renkler verebilir. Paslı bir metalde gördüğün kimyanın akrabasıdır."
         },
         {
-          "title": "Her yeri aynı ton değil",
-          "text": "Toz, kayalar ve yüzey biçimleri farklı görünebilir. “Kızıl gezegen” adı bütün zeminin tek renk boyalı olduğu anlamına gelmez."
+          "title": "",
+          "text": "Bu maddeleri içeren ince toz yüzeye yayılır ve gezegenin uzaktan görülen renginde etkili olur. “Kızıl gezegen” adı buradan gelir. Ama her kaya aynı mineralden, her bölge aynı toz örtüsünden oluşmaz."
+        },
+        {
+          "title": "",
+          "text": "Dolayısıyla Mars fotoğraflarında koyu, açık veya başka tonlu alanlar görmen çelişki değildir. Bir şehre uzaktan bakınca baskın bir renk seçmen, bütün binalarının o renkte olduğu anlamına gelmez. Genel görünüş ile yerel çeşitlilik farklı ölçeklerdir."
         }
       ],
       "sources": [
@@ -192,7 +250,7 @@
           "url": "https://science.nasa.gov/mars/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "birseda",
@@ -210,7 +268,21 @@
           "name": "elif.k",
           "text": "Son cümle önemli bence."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Caveat",
+        "paper": "#ee5350",
+        "ink": "#24211e",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-olympos",
@@ -218,7 +290,7 @@
       "layout": "newspaper",
       "category": "Uzay",
       "title": "Mars’taki yanardağı mahalleye sığdıramazsın.",
-      "subtitle": "Olympus Mons dev bir kalkan volkanı.",
+      "subtitle": "Olympus Mons, Mars'ta bulunan dev bir yanardağdır.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -235,12 +307,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Yüksek ve çok geniş",
-          "text": "Olympus Mons, Güneş Sistemi’nin en büyük yanardağıdır. Yalnız zirvesiyle değil, çok geniş bir alana yayılan tabanıyla da dikkat çeker."
+          "title": "",
+          "text": "Olympus Mons, Mars'ta bulunan dev bir yanardağdır. Güneş Sistemi'nin en büyük yanardağı olarak tanınır. Onu yalnız sivri bir zirve gibi düşünmek yanıltır: Geniş bir alana yayılan, çok büyük bir volkanik yapıdır."
         },
         {
-          "title": "Cetvelin başlangıcı önemli",
-          "text": "Dağ yükseklikleri yerel tabana veya seçilen referans düzeyine göre değişebilir. Farklı ölçümleri yan yana koyarken başlangıç noktasını kontrol etmek gerekir."
+          "title": "",
+          "text": "Dağ yüksekliği söylenirken nereden ölçüldüğünü bilmek gerekir. Çevresindeki tabandan zirveye olan farkla, gezegen için seçilen referans düzeyinden ölçülen yükseklik aynı sayı olmayabilir. Mars'ta Dünya'daki gibi bir deniz seviyesi de yoktur."
+        },
+        {
+          "title": "",
+          "text": "Bu yüzden iki kaynak farklı yükseklik verdiğinde hemen birini yanlış saymayız. Önce başlangıç noktalarını karşılaştırırız. “Hangi dağ daha yüksek?” sorusu bile, ölçümün neyi esas aldığını bilmeden tam bir soru değildir."
         }
       ],
       "sources": [
@@ -249,7 +325,7 @@
           "url": "https://science.nasa.gov/mars/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "iremce",
@@ -263,7 +339,21 @@
           "name": "zeynepce",
           "text": "Şuraya bir yer imi bırakayım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#192f2a",
+        "ink": "#f3eddc",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-mars-uydular",
@@ -271,7 +361,7 @@
       "layout": "gallery",
       "category": "Uzay",
       "title": "Mars’ın iki uydusu patatese benziyor.",
-      "subtitle": "Yuvarlak olmak zorunda değiller.",
+      "subtitle": "Mars'ın iki doğal uydusunun adları Phobos ve Deimos'tur.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -288,12 +378,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Phobos ve Deimos",
-          "text": "Mars’ın iki küçük doğal uydusu vardır. Biçimleri Dünya’nın Ay’ı kadar küresel değildir."
+          "title": "",
+          "text": "Mars'ın iki doğal uydusunun adları Phobos ve Deimos'tur. Doğal uydu, bir gezegenin çevresinde dolanan doğal gök cismidir. Dünya'nın Ay'ından çok daha küçüktürler ve biçimleri düzgün bir küreye benzemez."
         },
         {
-          "title": "Kütlenin etkisi",
-          "text": "Küçük cisimlerde yerçekimi, kayalık yapıyı düzgün bir küreye çekecek kadar güçlü olmayabilir. Şekil, cismin boyutu ve geçmişiyle ilişkilidir."
+          "title": "",
+          "text": "Bir gök cismi yeterince büyük olduğunda kendi kütleçekimi, malzemesini daha yuvarlak bir biçime doğru zorlayabilir. Küçük cisimlerde ise kayanın dayanımı bu etkiye karşı önemli kalır. Girintili çıkıntılı şekiller korunabilir."
+        },
+        {
+          "title": "",
+          "text": "Bu nedenle fotoğraflarda “patates” gibi görünmeleri yalnız komik bir ayrıntı değildir; boyutun fiziksel sonucu hakkında ipucu verir. Ama şekillerinden tek başına bütün oluşum geçmişlerini çıkaramayız. Bunun için yörünge ve malzeme gibi başka bilgiler de gerekir."
         }
       ],
       "sources": [
@@ -302,7 +396,7 @@
           "url": "https://science.nasa.gov/mars/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "cemden",
@@ -320,15 +414,29 @@
           "name": "onurdefter",
           "text": "Yorumlara bakmadan önce kendim tahmin ettim."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Caveat",
+        "paper": "#f7f3e9",
+        "ink": "#392e22",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-jupiter-leke",
       "topic": "Jüpiter",
-      "layout": "profile",
+      "layout": "gallery",
       "category": "Uzay",
       "title": "Jüpiter’deki leke bir fırtına.",
-      "subtitle": "Üstelik Dünya’dan daha geniş.",
+      "subtitle": "Jüpiter'in fotoğraflarındaki Büyük Kırmızı Leke, katı yüzeye çizilmiş bir işaret değildir.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -345,12 +453,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "Katı bir iz değil",
-          "text": "Büyük Kırmızı Leke, Jüpiter’in atmosferinde uzun zamandır gözlenen dev bir fırtına sistemidir."
+          "title": "",
+          "text": "Jüpiter'in fotoğraflarındaki Büyük Kırmızı Leke, katı yüzeye çizilmiş bir işaret değildir. Gezegenin atmosferindeki çok büyük, dönen bir fırtına sistemidir. Jüpiter'e bakarken çoğunlukla bulut katmanlarının görünüşünü görürüz."
         },
         {
-          "title": "Fotoğrafta donmuş görünüyor",
-          "text": "Bulutların biçimi ve fırtınanın boyutu zamanla değişir. Gezegen fotoğrafındaki desenleri sabit bir harita gibi düşünmemek gerekir."
+          "title": "",
+          "text": "Dünya haritasındaki bir dağın yerini sabit kabul edebilirsin. Bulut desenlerinde ise hava sürekli hareket eder. Lekenin biçimi, rengi ve boyutu da zamanla değişebilir; farklı tarihlerdeki fotoğrafların aynı görünmemesi normaldir."
+        },
+        {
+          "title": "",
+          "text": "Uzun süredir gözleniyor olması, donmuş bir şekil olduğu anlamına gelmez. Bir girdabın sürmesi, içindeki suyun durması demek değildir. Burada da kalıcı görünen büyük desenin içinde devam eden atmosfer hareketleri vardır."
         }
       ],
       "sources": [
@@ -359,7 +471,7 @@
           "url": "https://science.nasa.gov/jupiter/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
@@ -400,24 +512,22 @@
         {
           "name": "umutburada",
           "text": "Kaynağı ayrıca vermeniz iyi olmuş."
-        },
-        {
-          "name": "mert.y",
-          "text": "Bu konudan başka bir şey de okuyasım geldi."
-        },
-        {
-          "name": "ayse.tr",
-          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
-        },
-        {
-          "name": "birseda",
-          "text": "Bunu kaydettim, sonra bir daha bakacağım."
-        },
-        {
-          "name": "ahmet.a",
-          "text": "Şuraya bir yer imi bırakayım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Oswald",
+        "paper": "#f9edbc",
+        "ink": "#24211e",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-metalik-hidrojen",
@@ -425,7 +535,7 @@
       "layout": "cutaway",
       "category": "Uzay",
       "title": "Jüpiter’in içinde metal gibi davranan hidrojen.",
-      "subtitle": "Demir okyanusu demedik.",
+      "subtitle": "Hidrojeni genellikle hafif bir gaz olarak tanırız.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -442,12 +552,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "Basınç işi değiştirir",
-          "text": "Jüpiter’in derinlerinde çok yüksek basınç altında hidrojenin elektrik ileten, metalik davranış gösteren bir sıvı hâlinde bulunduğu düşünülür."
+          "title": "",
+          "text": "Hidrojeni genellikle hafif bir gaz olarak tanırız. Ama maddenin davranışı basınç ve sıcaklıkla değişir. Jüpiter'in derinlerinde basınç o kadar büyüktür ki hidrojenin elektrik ileten, metalik özellikli bir sıvı hâlinde bulunduğu düşünülür."
         },
         {
-          "title": "Manyetik alanla bağlantı",
-          "text": "Bu iletken bölgedeki hareketler, gezegenin güçlü manyetik alanını açıklayan modellerde önemli bir yer tutar."
+          "title": "",
+          "text": "“Metalik” sözcüğü burada demirden bir tabaka anlamına gelmez. Elektronların hareketi ve elektrik iletkenliği bakımından metal benzeri davranışı anlatır. Aynı element farklı koşullarda çok farklı fiziksel özellikler gösterebilir."
+        },
+        {
+          "title": "",
+          "text": "Gezegenin içindeki bu iletken maddenin hareketi, güçlü manyetik alanını açıklayan modellerde rol oynar. Oraya inip bir bardak örnek almış değiliz; iç yapı, ölçümlerle fizik modellerinin birlikte değerlendirilmesiyle çıkarılır."
         }
       ],
       "sources": [
@@ -456,7 +570,7 @@
           "url": "https://science.nasa.gov/jupiter/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ardabirbak",
@@ -474,7 +588,21 @@
           "name": "ayse.tr",
           "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Fraunces",
+        "paper": "#f9edbc",
+        "ink": "#363220",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-jupiter-on-saat",
@@ -482,7 +610,7 @@
       "layout": "number",
       "category": "Uzay",
       "title": "Koca Jüpiter, yaklaşık on saatte dönüyor.",
-      "subtitle": "Boyuna bakıp ağır sanmıştık.",
+      "subtitle": "Jüpiter çok büyük olsa da kendi ekseni çevresinde yaklaşık on Dünya saatinde döner.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -499,12 +627,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "Hızlı dönüş",
-          "text": "Jüpiter kendi ekseninde bir turunu yaklaşık on Dünya saatinde tamamlar. Güneş Sistemi’nin en kısa gezegen günü ondadır."
+          "title": "",
+          "text": "Jüpiter çok büyük olsa da kendi ekseni çevresinde yaklaşık on Dünya saatinde döner. Dönme, gezegenin kendi etrafındaki harekettir. Güneş'in çevresinde dolanması ise başka bir hareket; onun süresi yılı belirler."
         },
         {
-          "title": "Kuşaklar hareketli",
-          "text": "Hızlı dönüş ve atmosfer dolaşımı, gezegenin belirgin bulut kuşaklarıyla ilişkilidir. Yan yana kuşaklar farklı yönlerde akabilir."
+          "title": "",
+          "text": "Jüpiter'in fotoğraflarındaki yatay kuşaklar atmosfer akımlarıyla ilişkilidir. Yan yana bölgelerde rüzgârlar farklı yönlerde ilerleyebilir. Hızlı dönüş, bu büyük ölçekli dolaşımın biçimlenmesinde önemli etkenlerden biridir."
+        },
+        {
+          "title": "",
+          "text": "Gezegenin tamamını katı bir top gibi düşünmek de eksik kalır. Gaz ve sıvı katmanları bulunan bir yapıda, bulutların hareketiyle iç bölümlerin dönüşü birebir aynı ölçüm değildir. “Gün yaklaşık on saat” ifadesi bu karmaşık yapının kullanışlı bir özetidir."
         }
       ],
       "sources": [
@@ -513,7 +645,7 @@
           "url": "https://science.nasa.gov/jupiter/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "aliokuyor",
@@ -547,15 +679,29 @@
           "name": "iremce",
           "text": "Kısa ama tekrar okumalık."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#cbdcdb",
+        "ink": "#253c3a",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-saturn-halka",
       "topic": "Satürn",
-      "layout": "cutaway",
+      "layout": "profile",
       "category": "Uzay",
       "title": "Satürn’ün halkası tek parça bilezik değil.",
-      "subtitle": "Uzaktan düzgün görünmesine aldanma.",
+      "subtitle": "Satürn'ün halkaları uzaktan tek parça bir plak gibi görünür.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -572,12 +718,16 @@
       "motion": "orbit",
       "slides": [
         {
-          "title": "Sayısız parça",
-          "text": "Halkalar, büyük ölçüde buz içeren ve boyutları değişen çok sayıda parçadan oluşur. Her parça gezegenin çevresinde dolanır."
+          "title": "",
+          "text": "Satürn'ün halkaları uzaktan tek parça bir plak gibi görünür. Yakından düşününce tablo değişir: Büyük ölçüde buz içeren, farklı boyutlarda sayısız parçacık gezegenin çevresinde ayrı ayrı dolanır."
         },
         {
-          "title": "Boşluklar da var",
-          "text": "Halka sistemi birçok bölüm ve aralık içerir. Fotoğraftaki tek bir çizgi, yakından karmaşık bir parçacık topluluğudur."
+          "title": "",
+          "text": "Bütün parçalar birbirine yapışmış bir bilezik değildir. Her birinin kendi yörünge hareketi vardır. Halka sistemindeki aralıklar ve yoğunluk farkları, bu parçaların dağılımında ve uydularla etkileşimlerinde ortaya çıkar."
+        },
+        {
+          "title": "",
+          "text": "Bir stadyum tribünündeki insanları uzaktan tek bir renk şeridi gibi görmeye benzetebilirsin. Çizginin düzgün görünmesi, içinin tek madde parçası olduğu anlamına gelmez. Satürn fotoğrafındaki zarif şeritler aslında hareket hâlindeki bir parçacık topluluğudur."
         }
       ],
       "sources": [
@@ -586,7 +736,7 @@
           "url": "https://science.nasa.gov/saturn/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "iremce",
@@ -612,7 +762,21 @@
           "name": "gokce",
           "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Caveat",
+        "paper": "#cbdcdb",
+        "ink": "#24211e",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-saturn-yogunluk",
@@ -620,7 +784,7 @@
       "layout": "punchline",
       "category": "Uzay",
       "title": "Satürn sudan hafif mi? Cümleyi düzeltelim.",
-      "subtitle": "Hafif olan toplam ağırlığı değil.",
+      "subtitle": "Yoğunluk, belirli bir hacimde ne kadar kütle bulunduğunu anlatır.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -637,12 +801,16 @@
       "motion": "orbit",
       "slides": [
         {
-          "title": "Ortalama yoğunluk",
-          "text": "Satürn’ün ortalama yoğunluğu suyun yoğunluğundan küçüktür. Yoğunluk, belli bir hacimde ne kadar kütle bulunduğunu anlatır."
+          "title": "",
+          "text": "Yoğunluk, belirli bir hacimde ne kadar kütle bulunduğunu anlatır. Aynı büyüklükte bir taşla süngerin farklı ağırlıkta olması bu fikri kavramayı kolaylaştırır. Toplam ağırlık ile yoğunluk aynı şey değildir."
         },
         {
-          "title": "Dev küvet şakası",
-          "text": "“Suda yüzerdi” benzetmesi bunu anlatmak içindir. Gerçekte bir gaz devini dev bir küvete koyabileceğimiz fiziksel bir deney tarif etmez."
+          "title": "",
+          "text": "Satürn'ün toplam kütlesini toplam hacmine böldüğümüzde, ortalama yoğunluğu suyun yoğunluğundan küçük çıkar. Bu yüzden sıkça “dev bir küvette yüzebilirdi” denir. Cümle, yoğunluk karşılaştırmasını akılda tutmak için kullanılan bir benzetmedir."
+        },
+        {
+          "title": "",
+          "text": "Gerçekten gaz devini su dolu bir küvete koyabileceğimiz anlamına gelmez. Böyle bir ortamda gezegenin yapısı ve fiziksel koşullar aynı kalmazdı. Buradan alınacak doğru bilgi, Satürn'ün ortalama yoğunluğunun düşük olduğudur; uygulanabilir bir yüzdürme deneyi değil."
         }
       ],
       "sources": [
@@ -651,7 +819,7 @@
           "url": "https://science.nasa.gov/saturn/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "onurdefter",
@@ -673,7 +841,21 @@
           "name": "deniz.k",
           "text": "Bunu kaydettim, sonra bir daha bakacağım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#f7f3e9",
+        "ink": "#392e22",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-saturn-altigen",
@@ -681,7 +863,7 @@
       "layout": "mosaic",
       "category": "Uzay",
       "title": "Bir gezegenin tepesinde altıgen var.",
-      "subtitle": "Çizilmiş bir yol tabelası değil.",
+      "subtitle": "Satürn'ün kuzey kutbu yakınında altı köşeli bir desen görülür.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -698,12 +880,16 @@
       "motion": "orbit",
       "slides": [
         {
-          "title": "Atmosferde desen",
-          "text": "Satürn’ün kuzey kutbundaki altıgen, atmosferdeki güçlü bir jet akımıyla bağlantılı dalga desenidir."
+          "title": "",
+          "text": "Satürn'ün kuzey kutbu yakınında altı köşeli bir desen görülür. Bu, gezegenin üzerinde duran dev bir altıgen kaya değildir. Hızlı akan atmosfer kuşağındaki bir dalga deseniyle ilişkilidir."
         },
         {
-          "title": "Katı kenar arama",
-          "text": "Altı köşeli bir kaya veya duvar değildir. Akışkanların hareketi de beklenmedik derecede düzenli biçimler oluşturabilir."
+          "title": "",
+          "text": "Akışkan hareketleri bazen düzenli biçimler oluşturur. Lavabodaki suyun dönerek bir şekil kazanması bunun daha tanıdık, ama aynı mekanizma olmayan bir örneğidir. Düzenli şekil görmek için mutlaka sert bir kalıp bulunması gerekmez."
+        },
+        {
+          "title": "",
+          "text": "Burada önemli ayrım, şeklin maddeden yapılmış sabit bir nesne mi yoksa hareket eden maddenin oluşturduğu desen mi olduğudur. Satürn'ün altıgenini anlamak için duvar geometrisinden çok atmosferdeki akışa bakmak gerekir."
         }
       ],
       "sources": [
@@ -712,21 +898,35 @@
           "url": "https://science.nasa.gov/saturn/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ardabirbak",
           "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Caveat",
+        "paper": "#ead9f0",
+        "ink": "#35223f",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-uranus-egim",
       "topic": "Uranüs",
-      "layout": "postcard",
+      "layout": "profile",
       "category": "Uzay",
       "title": "Uranüs neredeyse yan yatmış dönüyor.",
-      "subtitle": "Gezegenlerin duruşu da farklı.",
+      "subtitle": "Bir gezegenin dönme ekseni, kendi çevresinde dönerken hayal ettiğimiz çizgidir.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -743,12 +943,16 @@
       "motion": "orbit",
       "slides": [
         {
-          "title": "Yaklaşık 98 derece",
-          "text": "Uranüs’ün dönme ekseni, yörüngesine göre alışılmadık ölçüde eğiktir. Bu yüzden yuvarlanarak ilerliyormuş gibi betimlenir."
+          "title": "",
+          "text": "Bir gezegenin dönme ekseni, kendi çevresinde dönerken hayal ettiğimiz çizgidir. Dünya'da bu çizgi eğiktir; Uranüs'te eğiklik çok daha büyüktür. Gezegen neredeyse yan yatmış biçimde döner."
         },
         {
-          "title": "Uzayan mevsimler",
-          "text": "Bu eğiklik, kutuplarda çok uzun aydınlık ve karanlık dönemler yaratır. Dünya’daki günlük deneyimimizi doğrudan buraya taşıyamayız."
+          "title": "",
+          "text": "Bu nedenle Güneş çevresindeki uzun yolculuğunun bazı bölümlerinde bir kutup uzun süre Güneş'e dönük kalırken öbürü karanlıkta kalabilir. Yalnız günlük doğuş ve batış alışkanlığımızla düşünürsek bu mevsimleri anlamakta zorlanırız."
+        },
+        {
+          "title": "",
+          "text": "“Yuvarlanarak gidiyor” benzetmesi eksenin duruşunu anlatır; gezegen uzayda bir zemine değerek yuvarlanmaz. Bir benzetmenin hangi özelliği açıkladığını ayırmak, gökyüzünü kafamızda canlandırırken yanlış bir mekanizma kurmamızı önler."
         }
       ],
       "sources": [
@@ -757,7 +961,7 @@
           "url": "https://science.nasa.gov/uranus/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "keremca",
@@ -791,7 +995,21 @@
           "name": "duru.not",
           "text": "Fotoğrafı yakınlaştırıp kaldım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Fraunces",
+        "paper": "#d9e9cc",
+        "ink": "#24211e",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-uranus-renk",
@@ -799,7 +1017,7 @@
       "layout": "prism",
       "category": "Uzay",
       "title": "Uranüs’ün mavisinde metanın payı var.",
-      "subtitle": "Gezegen boyası diye bir şey yok.",
+      "subtitle": "Beyaz güneş ışığı birçok dalga boyunu birlikte içerir.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -816,12 +1034,16 @@
       "motion": "orbit",
       "slides": [
         {
-          "title": "Kırmızı ışık azalır",
-          "text": "Atmosferdeki metan, gelen ışığın kırmızı bölümünü soğurur. Geriye kalan ışık mavi-yeşil görünümün oluşmasına katkı verir."
+          "title": "",
+          "text": "Beyaz güneş ışığı birçok dalga boyunu birlikte içerir. Bir gezegene bakarken, o ışığın atmosfer ve bulutlarla etkileştikten sonra bize ulaşan kısmını görürüz. Uranüs'ün mavi-yeşil görünüşünde metan gazının payı vardır."
         },
         {
-          "title": "Gördüğümüz dış katman",
-          "text": "Fotoğrafta gördüğümüz renk, atmosferle ışığın etkileşimidir. Gezegenin tüm içinin aynı renkte olduğu sonucu çıkmaz."
+          "title": "",
+          "text": "Metan, görünür ışığın kırmızı bölümünü daha güçlü soğurur. Kırmızı ışığın bir kısmı geri dönemeyince kalan ışığın renk dengesi değişir. Atmosferin yapısı ve pus gibi başka özellikler de gözlenen tonu etkiler."
+        },
+        {
+          "title": "",
+          "text": "Dolayısıyla gezegenin içinin mavi boya dolu olduğunu düşünmeyiz. Gördüğün renk, gelen ışığın seçilerek değişmesinin sonucudur. Renkli bir camdan bakarken ışığın değişmesi gibi, burada da malzeme ile ışığın ilişkisi vardır."
         }
       ],
       "sources": [
@@ -830,7 +1052,7 @@
           "url": "https://science.nasa.gov/uranus/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ayse.tr",
@@ -852,7 +1074,21 @@
           "name": "onurdefter",
           "text": "Ben de yeni öğrendim, yalnız değilmişim."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "DM Sans",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-uranus-halka",
@@ -860,7 +1096,7 @@
       "layout": "reveal",
       "category": "Uzay",
       "title": "Halka deyince hep Satürn geliyor ama…",
-      "subtitle": "Uranüs’ün de halkaları var.",
+      "subtitle": "Uranüs'ün çevresinde de halkalar vardır.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -877,12 +1113,16 @@
       "motion": "orbit",
       "slides": [
         {
-          "title": "Daha sönük bir sistem",
-          "text": "Uranüs çevresinde dar ve koyu halkalar bulunur. Bunlar Satürn’ün parlak, geniş halkaları kadar kolay fark edilmez."
+          "title": "",
+          "text": "Uranüs'ün çevresinde de halkalar vardır. Satürn'ünkiler kadar geniş ve parlak görünmedikleri için günlük gezegen çizimlerinde çoğu zaman unutulurlar. Halkalar dar, koyu parçacık topluluklarıdır."
         },
         {
-          "title": "Görünmemek, yokluk değil",
-          "text": "Bir yapının belirginliği; boyutuna, yansıttığı ışığa ve gözlem koşullarına bağlıdır. İlk bakışta seçemediğimiz şeyler orada olabilir."
+          "title": "",
+          "text": "Bir uzay fotoğrafında bir şeyi fark etmemiz yalnız var olmasına bağlı değildir. Ne kadar ışık yansıttığı, çevresine göre ne kadar belirgin olduğu ve nasıl gözlendiği de sonucu etkiler. Soluk bir yapıyı parlak gezegenin yanında seçmek zor olabilir."
+        },
+        {
+          "title": "",
+          "text": "Bu yüzden “fotoğrafta görmedim” ile “orada yok” aynı iddia değildir. Gözlem aracının sınırlarını bilmek gerekir. Uranüs'ün halkaları, evrende yalnız belirgin görünen yapılara bakarsak ne kadar eksik bir resim kurabileceğimizi hatırlatır."
         }
       ],
       "sources": [
@@ -891,7 +1131,7 @@
           "url": "https://science.nasa.gov/uranus/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "zeynepce",
@@ -901,15 +1141,29 @@
           "name": "iremce",
           "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-neptun-hesap",
       "topic": "Neptün",
-      "layout": "timeline",
+      "layout": "punchline",
       "category": "Uzay",
       "title": "Neptün önce hesapta yakalandı.",
-      "subtitle": "Teleskop doğru adrese çevrildi.",
+      "subtitle": "Bir gezegenin yörüngesi, üzerine etki eden kütleçekimine bağlıdır.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -926,12 +1180,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Yörüngedeki ipucu",
-          "text": "Uranüs’ün gözlenen hareketindeki sapmalar, başka bir gezegenin etkisi olabileceğini düşündürdü. Le Verrier olası konumu hesapladı."
+          "title": "",
+          "text": "Bir gezegenin yörüngesi, üzerine etki eden kütleçekimine bağlıdır. Uranüs'ün gözlenen hareketi hesapla tam uyuşmayınca, henüz görülmemiş başka bir gezegenin çekimi olabileceği düşünüldü. Bu, açıklanması gereken ölçülebilir bir sapmaydı."
         },
         {
-          "title": "Sonra gözlem",
-          "text": "Galle, 1846’da bu tahminin yakınında Neptün’ü gözledi. Burada matematik, gökyüzünde nereye bakılacağını söylemişti."
+          "title": "",
+          "text": "Urbain Le Verrier, olası gezegenin gökyüzünde nerede bulunacağını hesapladı. Johann Galle ve çalışma arkadaşı Heinrich d'Arrest, 1846'da tahmin edilen bölge yakınında Neptün'ü gözledi. Hesap, teleskobun nereye çevrileceğine yol göstermişti."
+        },
+        {
+          "title": "",
+          "text": "Burada bilimsel tahmin “içime doğdu” değildir. Bilinen hareket yasalarından, gözlemle sınanabilecek bir sonuç çıkarılır. Sonra gökyüzüne bakılarak kontrol edilir. Matematik ile gözlem iki ayrı rakip değil, birbirini denetleyen araçlardır."
         }
       ],
       "sources": [
@@ -940,7 +1198,7 @@
           "url": "https://science.nasa.gov/neptune/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "deniz.k",
@@ -954,7 +1212,21 @@
           "name": "elif.k",
           "text": "Benim aklıma da aynı soru takılmıştı."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Bebas Neue",
+        "paper": "#efe6d5",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-neptun-ruzgar",
@@ -962,7 +1234,7 @@
       "layout": "number",
       "category": "Uzay",
       "title": "Güneş’ten uzak ama rüzgârı sert.",
-      "subtitle": "Neptün sakin bir buz topu değil.",
+      "subtitle": "Neptün Güneş'ten çok uzaktadır ama atmosferi sakin değildir.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -979,12 +1251,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Çok hızlı akımlar",
-          "text": "Neptün atmosferindeki rüzgârlar saatte yaklaşık 2.000 kilometreyi aşabilir. Soğuk ve uzak olması, atmosferinin hareketsiz olduğu anlamına gelmez."
+          "title": "",
+          "text": "Neptün Güneş'ten çok uzaktadır ama atmosferi sakin değildir. Bulut hareketlerinden çıkarılan bazı rüzgâr hızları saatte yaklaşık iki bin kilometreyi aşabilir. Soğuk olmakla hareketsiz olmak aynı özellik değildir."
         },
         {
-          "title": "Neyi ölçüyoruz?",
-          "text": "Gezegenin bulut hareketleri, atmosferdeki akımları incelemenin yollarından biridir. Bu hızlar yürüyebileceğimiz katı bir zeminin hava durumu değildir."
+          "title": "",
+          "text": "Bu hız, üzerinde yürüdüğümüz katı bir zeminin kenarındaki rüzgâr ölçümü gibi düşünülmemeli. Bilim insanları atmosferde seçilebilen bulut ve desenlerin zaman içindeki yer değiştirmesinden akımları inceler."
+        },
+        {
+          "title": "",
+          "text": "Bir nehirde yüzen yaprakları izleyerek akış hakkında fikir edinmeye benzer; yaprak suyun kendisi değildir ama hareketini görünür kılar. Neptün'ün bulutları da uzaktan erişemediğimiz bir atmosferde neler olduğunu anlamak için izlenebilen işaretlerdir."
         }
       ],
       "sources": [
@@ -993,8 +1269,22 @@
           "url": "https://science.nasa.gov/neptune/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#ead9f0",
+        "ink": "#35223f",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-triton-ters",
@@ -1002,7 +1292,7 @@
       "layout": "route",
       "category": "Uzay",
       "title": "Triton ters yönde dolanıyor.",
-      "subtitle": "Büyük uydular arasında sıra dışı.",
+      "subtitle": "Neptün kendi ekseni çevresinde bir yönde döner.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -1019,12 +1309,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Neptün’e karşı yön",
-          "text": "Triton, Neptün’ün kendi dönüş yönünün tersinde dolanan büyük bir uydudur. Buna geriye doğru, yani retrograd yörünge denir."
+          "title": "",
+          "text": "Neptün kendi ekseni çevresinde bir yönde döner. Büyük uydusu Triton ise gezegenin çevresindeki yörüngesinde bu dönüşe ters yönde ilerler. Böyle bir yörüngeye retrograd, yani ters yönlü yörünge denir."
         },
         {
-          "title": "Geçmişten bir iz",
-          "text": "Bu özellik, Triton’un Neptün tarafından sonradan yakalanmış olabileceği görüşünü destekler. Tek gözlem, bütün geçmişi ayrıntısıyla anlatmaz."
+          "title": "",
+          "text": "Bu alışılmadık özellik, Triton'un Neptün'le aynı disk içinde oluşmak yerine sonradan yakalanmış olabileceği görüşünü destekler. Bir cismin bugün nasıl hareket ettiği, geçmişi hakkında ipucu taşıyabilir."
+        },
+        {
+          "title": "",
+          "text": "Ama tek bir ipucu bütün hikâyeyi kesin olarak yazdırmaz. Yakalanma senaryoları başka ölçümler ve fizik modelleriyle birlikte değerlendirilir. “Ters dönüyor” gözlemdir; “sonradan yakalandı” ise bu ve diğer verilerle desteklenen açıklamadır. İkisini ayırmak önemlidir."
         }
       ],
       "sources": [
@@ -1033,7 +1327,7 @@
           "url": "https://science.nasa.gov/neptune/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "berk.b",
@@ -1074,12 +1368,22 @@
         {
           "name": "cemden",
           "text": "Görünüşüne bakıp karar veriyormuşum."
-        },
-        {
-          "name": "duru.not",
-          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Caveat",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-pluton-kalp",
@@ -1087,7 +1391,7 @@
       "layout": "gallery",
       "category": "Uzay",
       "title": "Plüton’un kalbi fotoğraftan ibaret değil.",
-      "subtitle": "Biçimi kalbe benzeyen bir yüzey bölgesi.",
+      "subtitle": "2015'te New Horizons uzay aracının Plüton görüntülerinde açık renkli bir kalp biçimi belirginleşti.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -1104,12 +1408,16 @@
       "motion": "orbit",
       "slides": [
         {
-          "title": "Tombaugh Regio",
-          "text": "New Horizons görüntülerinde belirginleşen açık renkli kalp biçimli bölgeye Tombaugh Regio adı verildi."
+          "title": "",
+          "text": "2015'te New Horizons uzay aracının Plüton görüntülerinde açık renkli bir kalp biçimi belirginleşti. Bölgeye Tombaugh Regio adı verildi. Kalbin batı tarafındaki geniş havzanın adı ise Sputnik Planitia'dır."
         },
         {
-          "title": "Bir kısmı buz ovası",
-          "text": "Bölgenin batı kısmındaki Sputnik Planitia, azot buzuyla kaplı geniş bir havzadır. Buradaki buz, yalnız donmuş su demek değildir."
+          "title": "",
+          "text": "Bu havzada azot buzu bulunur. Dünya'da azotu çoğunlukla havanın gaz hâlindeki bileşeni olarak tanırız. Plüton'un çok soğuk koşullarında aynı madde katı hâlde bulunabilir. “Buz” sözcüğü her gezegende yalnız donmuş su demek değildir."
+        },
+        {
+          "title": "",
+          "text": "Fotoğraftaki kalp benzetmesi bir şekli hatırlamaya yarar. Bilimsel açıdan asıl soru, hangi maddelerin bulunduğu ve yüzeyin nasıl değiştiğidir. Tanıdık bir şekil görmek başlangıçtır; yüzeyin ne olduğunu öğrenmek ayrı adımdır."
         }
       ],
       "sources": [
@@ -1122,7 +1430,7 @@
           "url": "https://science.nasa.gov/photojournal/pluto-and-charon-in-color-barycentric-view-animation/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "berk.b",
@@ -1163,12 +1471,22 @@
         {
           "name": "deniz.k",
           "text": "Detay sevenlere güzel konu."
-        },
-        {
-          "name": "aliokuyor",
-          "text": "Bunu birine anlatmayı deneyeceğim."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Bebas Neue",
+        "paper": "#ece7ff",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-charon",
@@ -1176,7 +1494,7 @@
       "layout": "diagram",
       "category": "Uzay",
       "title": "Plüton’un uydusu ona göre epey büyük.",
-      "subtitle": "Charon küçük bir eşlikçi sayılmaz.",
+      "subtitle": "Charon, Plüton'un en büyük uydusudur ve çapı Plüton'un yaklaşık yarısı kadardır.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -1193,12 +1511,16 @@
       "motion": "orbit",
       "slides": [
         {
-          "title": "Boyut oranı",
-          "text": "Charon’un çapı Plüton’un yaklaşık yarısıdır. Gezegen-uydu ilişkilerini düşünürken alıştığımız boyut farkı burada küçülür."
+          "title": "",
+          "text": "Charon, Plüton'un en büyük uydusudur ve çapı Plüton'un yaklaşık yarısı kadardır. Dünya ile Ay ilişkisinden alıştığımız fark burada daha küçüktür. İki cismin hareketini anlamak için ortak kütle merkezi fikri gerekir."
         },
         {
-          "title": "Ortak merkez",
-          "text": "İkisi, Plüton’un dışında kalan ortak bir kütle merkezi çevresinde dolanır. Bu yüzden bazen çift sistem olarak anlatılırlar."
+          "title": "",
+          "text": "İki cisim aslında birbirinin etrafında dönerken ortak bir denge noktası çevresinde dolanır. Kütlelerden biri çok büyükse bu nokta büyük cismin içinde kalabilir. Plüton ve Charon'da ise ortak merkez Plüton'un dışındadır."
+        },
+        {
+          "title": "",
+          "text": "Ağır ve hafif iki kişinin birbirlerinin elini tutup dönmesini düşün: Denge noktası ağır kişiye yaklaşır. Charon göreli olarak büyük olduğu için nokta dışarıda kalır. Bu nedenle sistem bazen çift sistem olarak betimlenir."
         }
       ],
       "sources": [
@@ -1211,7 +1533,7 @@
           "url": "https://science.nasa.gov/photojournal/pluto-and-charon-in-color-barycentric-view-animation/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ecebirnot",
@@ -1245,7 +1567,21 @@
           "name": "ahmet.a",
           "text": "Bu konudan başka bir şey de okuyasım geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Caveat",
+        "paper": "#f4bd65",
+        "ink": "#332710",
+        "align": "end",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-pluton-sinif",
@@ -1253,7 +1589,7 @@
       "layout": "myth",
       "category": "Uzay",
       "title": "Plüton kaybolmadı. Etiketi değişti.",
-      "subtitle": "Cüce gezegen de bir gök cismi.",
+      "subtitle": "Plüton 2006'da küçülmedi, yörüngesinden çıkmadı, kaybolmadı.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -1270,12 +1606,16 @@
       "motion": "orbit",
       "slides": [
         {
-          "title": "Sınıflandırma meselesi",
-          "text": "2006’da kabul edilen tanımda gezegen olmak için Güneş çevresindeki yörünge bölgesine kütleçekimsel olarak hâkim olmak da gerekir."
+          "title": "",
+          "text": "Plüton 2006'da küçülmedi, yörüngesinden çıkmadı, kaybolmadı. Uluslararası Astronomi Birliğinin gezegen tanımı değişince cüce gezegen olarak sınıflandırıldı. Sınıflandırma, gök cisimlerini ortak özelliklerine göre ayırma işidir."
         },
         {
-          "title": "Neden farklı grupta?",
-          "text": "Plüton, benzer cisimlerle paylaştığı Kuiper Kuşağı’nda bu koşulu sağlamaz. Küçük olduğu için tek başına listeden çıkarılmış değildir."
+          "title": "",
+          "text": "Tanıma göre bir gezegen Güneş çevresinde dolanmalı, kendi kütleçekimiyle yaklaşık yuvarlak olmalı ve yörünge çevresine kütleçekimsel olarak hâkim olmalıdır. Son koşul, çevresinde hiçbir küçük taş kalmaması demek değildir; dinamik baskınlıkla ilgilidir."
+        },
+        {
+          "title": "",
+          "text": "Plüton, Kuiper Kuşağı'ndaki birçok benzer cisimle aynı bölgeyi paylaşır ve bu koşulu sağlamaz. Yani yalnız “çok küçükmüş” diye listeden çıkarılmadı. Aynı nesne hakkında yeni ve daha açık bir sınıflandırma ölçütü kullanıldı."
         }
       ],
       "sources": [
@@ -1288,7 +1628,7 @@
           "url": "https://science.nasa.gov/photojournal/pluto-and-charon-in-color-barycentric-view-animation/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "duru.not",
@@ -1322,15 +1662,29 @@
           "name": "ahmet.a",
           "text": "Benim aklıma da aynı soru takılmıştı."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Bebas Neue",
+        "paper": "#f7f3e9",
+        "ink": "#392e22",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-kuyruk-yon",
       "topic": "Kuyrukluyıldızlar",
-      "layout": "punchline",
+      "layout": "poster",
       "category": "Uzay",
       "title": "Kuyrukluyıldızın kuyruğu hep arkasında değil.",
-      "subtitle": "Yönü belirleyen yalnız hareketi değil.",
+      "subtitle": "Kuyrukluyıldız Güneş'e yaklaşınca yüzeyindeki bazı buzlar gaz hâline geçer ve toz açığa çıkar.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -1347,12 +1701,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "Güneş etkisi",
-          "text": "Güneş ışığının basıncı ve Güneş rüzgârı, kuyrukluyıldızdan çıkan maddeleri Güneş’ten uzaklaştırır."
+          "title": "",
+          "text": "Kuyrukluyıldız Güneş'e yaklaşınca yüzeyindeki bazı buzlar gaz hâline geçer ve toz açığa çıkar. Ortaya çıkan madde bulutu, Güneş'ten gelen ışık ve parçacık akışıyla etkileşir. Kuyrukların yönünü bu etkiler biçimlendirir."
         },
         {
-          "title": "İki farklı kuyruk",
-          "text": "Toz kuyruğu eğrilebilir; iyon kuyruğu genellikle Güneş’in tersine yönelir. “Arabanın egzozu gibi arkada kalır” benzetmesi burada yanıltır."
+          "title": "",
+          "text": "İyon kuyruğu genellikle Güneş'in ters yönüne uzanır. Toz kuyruğu ise parçacıkların hareketi nedeniyle eğrilebilir. İki kuyruk aynı kalemle çizilmiş tek bir iz değildir; farklı maddelerin farklı davranışlarını gösterir."
+        },
+        {
+          "title": "",
+          "text": "Bu yüzden kuyruğu otomobilin egzoz izi gibi, cismin gittiği yönün arkasında düşünmek yanıltır. Kuyrukluyıldız Güneş'ten uzaklaşırken kuyruk hareket yönünün önüne bile uzanabilir. Önce “Güneş nerede?” diye sormak gerekir."
         }
       ],
       "sources": [
@@ -1361,8 +1719,22 @@
           "url": "https://science.nasa.gov/solar-system/comets/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "photo",
+        "font": "Fraunces",
+        "paper": "#f9edbc",
+        "ink": "#24211e",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-kuyruk-cekirdek",
@@ -1370,7 +1742,7 @@
       "layout": "cutaway",
       "category": "Uzay",
       "title": "Kocaman bulutun ortası küçücük olabilir.",
-      "subtitle": "Görünen boyut, katı cismin boyutu değil.",
+      "subtitle": "Kuyrukluyıldızın fotoğrafta görülen büyük parlak kısmı, bütünüyle katı bir cisim değildir.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -1387,12 +1759,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "Donmuş çekirdek",
-          "text": "Kuyrukluyıldızın çekirdeğinde buzlar, donmuş gazlar ve toz bulunur. Güneş’e yaklaştıkça bazı buzlar gaz hâline geçer."
+          "title": "",
+          "text": "Kuyrukluyıldızın fotoğrafta görülen büyük parlak kısmı, bütünüyle katı bir cisim değildir. Merkezde buz ve tozdan oluşan daha küçük bir çekirdek vardır. Güneş'e yaklaşınca ısınma bazı buzların gaz hâline geçmesine yol açar."
         },
         {
-          "title": "Çevresinde koma",
-          "text": "Çıkan maddeler çekirdeğin çevresinde geniş bir gaz ve toz bulutu oluşturur. Bu örtüye koma denir."
+          "title": "",
+          "text": "Açığa çıkan gaz ve sürüklenen toz, çekirdeğin çevresinde geniş bir örtü oluşturur. Bu buluta koma denir. Gördüğümüz parlaklık ve büyüklük, bu seyrek örtünün geniş alan kaplamasından da gelir."
+        },
+        {
+          "title": "",
+          "text": "Sis içindeki bir lambanın çevresindeki parıltıyı lambanın gerçek boyutuyla karıştırmamaya benzetebilirsin. Kuyrukluyıldızda da çekirdeğin çapıyla görünür bulutun çapı aynı ölçü değildir. Bir fotoğraftaki parlak sınır her zaman katı yüzeyin sınırı olmaz."
         }
       ],
       "sources": [
@@ -1401,13 +1777,27 @@
           "url": "https://science.nasa.gov/solar-system/comets/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ardabirbak",
           "text": "Bir çay molasına sığdı, iyi geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Caveat",
+        "paper": "#f4bd65",
+        "ink": "#332710",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     },
     {
       "id": "kesif-kuyruk-arsiv",
@@ -1415,7 +1805,7 @@
       "layout": "notebook",
       "category": "Uzay",
       "title": "Eski gökyüzü notları hâlâ işe yarıyor.",
-      "subtitle": "Kuyrukluyıldız gözlemleri bir zaman arşivi.",
+      "subtitle": "Kuyrukluyıldız gözleyen eski gökbilimciler yalnız “gökyüzünde tuhaf bir şey var” demekle kalmadı.",
       "account": "Yukarı Bak",
       "handle": "yukaribak",
       "cover": {
@@ -1432,12 +1822,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "Gözlem kaydı",
-          "text": "Çinli gökbilimciler yüzyıllar boyunca kuyrukluyıldızların görünüşlerini, konumlarını ve görülme zamanlarını kaydetti."
+          "title": "",
+          "text": "Kuyrukluyıldız gözleyen eski gökbilimciler yalnız “gökyüzünde tuhaf bir şey var” demekle kalmadı. Çin'de yüzyıllar boyunca görülme zamanı, konum ve görünüş gibi ayrıntılar kayda geçirildi. Bu ayrıntılar bugün tarihsel gözlem verisi sayılır."
         },
         {
-          "title": "Bugüne kalan bilgi",
-          "text": "Bu kayıtlar daha sonraki gökbilimcilere tarihsel gözlemleri karşılaştırma olanağı verdi. Bilim yalnız yeni cihazdan değil, iyi tutulmuş eski nottan da beslenir."
+          "title": "",
+          "text": "Bir cismin geçmişteki geçişini araştırırken tarih ve konum bilgisi, başka kayıtlarla karşılaştırılabilir. Tek başına bir benzetme yerine tekrarlanabilir ayrıntılar bırakmak, notun bilimsel değerini artırır."
+        },
+        {
+          "title": "",
+          "text": "Kendi gözlemini yazarken de aynı fark vardır: “Çok parlaktı” yerine ne zaman, nereden ve hangi yönde gördüğünü eklemek daha kullanışlıdır. Eski araçlarla tutulmuş dikkatli bir kayıt, yeni bir soruya yüzyıllar sonra katkı verebilir."
         }
       ],
       "sources": [
@@ -1446,7 +1840,7 @@
           "url": "https://science.nasa.gov/solar-system/comets/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "selin.jpg",
@@ -1468,7 +1862,21 @@
           "name": "gokce",
           "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#cbdcdb",
+        "ink": "#253c3a",
+        "align": "end",
+        "position": "top"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/960px-Mercury_in_true_color.jpg",
+      "avatarCredit": {
+        "label": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+        "url": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg"
+      }
     }
   ]
 }

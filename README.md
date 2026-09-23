@@ -21,11 +21,11 @@ Node.js 24 önerilir. Yayın dizini `dist/`, repo tabanı `/Learnie/`.
 - Sanallaştırılmış akış ve reels; ekranda olmayan anlatım oynatıcıları durur.
 - Beğeniler, kayıtlar, yanıtlar, görülen gönderiler ve kişisel yorumlar için cihazda IndexedDB / Dexie.
 - Keşfet, Türkçe arama, konu seçimi, okuma paneli, iki etkileşimli deney ve açıklamalı sorular.
-- Kurgu sosyal etkileşimlerin görünür etiketi ve bunları kapatma ayarı. Gerçek ortak yorum hizmeti yoktur.
+- Profilde kurgu sosyal etkileşim açıklaması ve bunları kapatma ayarı. Gerçek ortak yorum hizmeti yoktur.
 - JSON yedek indirme / geri yükleme.
 - PWA manifesti, build sırasında üretilen yükleme simgeleri, sürümlenmiş service worker ve çevrimdışı uygulama kabuğu.
 - Her gönderi için `/Learnie/p/<id>/` statik sayfası; Open Graph etiketleri ve kart numarasıyla paylaşım.
-- Kaynak, görsel kredisi ve kullanım bilgisini içeren 22 gönderi (13 başlangıç + 9 yeni keşif).
+- Kaynak, görsel kredisi ve kullanım bilgisini içeren 339 gönderi.
 
 ## GitHub Pages
 
@@ -55,7 +55,7 @@ PWA yükleme, tarayıcı desteğine bağlıdır. iOS'ta Safari paylaş menüsü,
 - `scripts/validate-content.mjs`: içerik şemasının ve benzersiz kimliklerin kontrolü.
 - `scripts/postbuild.mjs`: gönderi sayfaları, uygulama simgeleri ve service worker üretimi.
 
-İçerik havuzu tükenince akış devam eder; tekrar eden kartlar “Yeniden keşif” etiketi taşır. Görüntülenme öğrenme başarısı sayılmaz. Mevcut arşiv 22 gönderidir; 10.000 kayda yönelik test yalnızca sıra motorunun benzersizlik davranışını doğrular.
+İçerik havuzu tükenince akış devam eder. Görüntülenme öğrenme başarısı sayılmaz. Mevcut arşiv 339 gönderidir; 10.000 kayda yönelik test yalnızca sıra motorunun benzersizlik davranışını doğrular.
 
 ## Bağımlılık lisansları
 
@@ -69,10 +69,18 @@ React, Motion, Swiper, TanStack Virtual ve Dexie kendi lisanslarına tabidir. Re
 - İsteğe bağlı Türkçe cihaz seslendirmesi ve uygulamanın kendi ürettiği hafif ambient tonlar. Tarayıcı kısıtları nedeniyle ses, kullanıcının dokunuşuyla başlar. Ses kalitesi ve Türkçe ses bulunması cihaza bağlıdır.
 - Kaydedilenlerde ızgara/liste, arama, sonra okunacaklar ve okunanlar. Okundu işareti kullanıcıya aittir; sadece ekranda görünmek okuma sayılmaz.
 - Eski kişisel veriler korunur; yeni yedekler görünüm ve odak tercihlerini de içerir.
-- Toplam 22 kaynaklı gönderi; 9 otomatik kontrol.
+- Toplam 339 kaynaklı gönderi; 17 otomatik kontrol.
 
 ## Keşif atlası güncellemesi
 
 331 gönderi (309 yeni), 103 yeni konu başlığı, 37 farklı sunum düzeni. Kaynak bağlantıları ve dış görsel kredileri her gönderide bulunur. Keşfet konu filtresi ve rastgele keşif içerir. Reels üst/alt uygulama gezinmesi olmadan açılır; yorumlar yazma alanı sabit kalan alt paneldedir. Paylaşım yalnız kalıcı URL gönderir. Kaydedilenler kullanıcı koleksiyonlarıyla düzenlenir; koleksiyonlar yerel yedeğe dahildir.
 
-`npm test` içerik çeşitliliğini, koleksiyon göçünü/üyeliğini, paylaşım kimliklerini, anlatım bütünlüğünü ve 10.000 öğelik sıra davranışını denetler. `npm run build` 331 kalıcı paylaşım sayfasını ve sürümlü PWA önbelleğini üretir. Gerçek iOS/Android ekran klavyesi ve ana ekrana yükleme, ilgili cihazda ayrıca kontrol edilmelidir.
+`npm test` içerik çeşitliliğini, koleksiyon göçünü/üyeliğini, paylaşım kimliklerini, anlatım bütünlüğünü ve 10.000 öğelik sıra davranışını denetler. `npm run build` 339 kalıcı paylaşım sayfasını ve sürümlü PWA önbelleğini üretir. Gerçek iOS/Android ekran klavyesi ve ana ekrana yükleme, ilgili cihazda ayrıca kontrol edilmelidir.
+
+## Eylül 2026: arayüz ve anlatım yenilemesi
+
+Mevcut 331 gönderinin kimlikleri korunarak bütün anlatımlar yeniden yazıldı. Tanım, mekanizma ve somut örneklerle ilerleyen paragraflar artık her kartta büyük bir başlıkla kesilmiyor. Gönderi paleti ve fontu uygulama temasından bağımsız; karanlık uygulama zemini `#000`. Fotoğraf kullanılan 64 eski kapakta aynı URL ikinci kez kullanılmıyor; diğer kapaklar tipografik veya çizimli. 37 tek sayfalık gönderi, 37 sunum düzeni ve farklı yazı tipleri var.
+
+Keşfet üç sütunlu sanal sonsuz ızgaradır; seçilen gönderiden başlayan tam ekran Reels açılır. Ana Sayfa/Keşfet sekmesine yeniden dokunma sadece en üste götürür; aynı düğmeyi basılı tutup yukarı sürükleme sıralamayı yeniler. Kaydet ilk dokunuşta kaydeder ve koleksiyon seçiciyi açar. Yeni koleksiyon oluşturulduğunda gönderi içine doğrudan eklenir. Profilde beğenilen gönderiler bulunur. Yorum sayıları paneldeki yorumlarla eşleşir; paylaşım yalnız URL içerir.
+
+Beş yeni spor anlatımı (basketbol, hentbol, Amerikan futbolu, beyzbol, curling) ve üç video gönderisi eklendi. Video süreleri 2:11, 4:20 ve 4:58; TED-Ed videolarında Türkçe altyazı mevcut. Gömülü videolar dokunmayla başlar, ekran dışına çıkınca durur. Dış yayıncı erişimi, reklam ve altyazı kullanılabilirliği yayıncının kontrolündedir.

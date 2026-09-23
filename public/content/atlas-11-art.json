@@ -7,7 +7,7 @@
       "layout": "cutaway",
       "category": "Sanat",
       "title": "Bazen resmi çizmek için etrafını oymak gerekir.",
-      "subtitle": "Ağaç baskıda yüksekte kalan basılır.",
+      "subtitle": "Ağaç baskıda resim, ahşap kalıbın yüzeyinde hazırlanır.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -24,12 +24,16 @@
       "motion": "art",
       "slides": [
         {
-          "title": "Kalıptan kâğıda",
-          "text": "Ağaç baskıda basılmayacak alanlar oyulur. Yüzeyde kalan bölümlere sürülen mürekkep kâğıda aktarılır."
+          "title": "",
+          "text": "Ağaç baskıda resim, ahşap kalıbın yüzeyinde hazırlanır. Basılmasını istemediğin yerleri oyarsın; yüksekte kalan alanlara mürekkep sürersin. Kâğıdı bastırdığında mürekkep bu yüksek bölümlerden kâğıda geçer."
         },
         {
-          "title": "Tek kalıp, çok iz",
-          "text": "Aynı kalıp birden fazla baskı üretebilir. Bu özellik, görüntülerin farklı yerlere yayılmasını kolaylaştırmıştır."
+          "title": "",
+          "text": "Bir patates baskısında dışarıda bıraktığın şeklin iz vermesini düşün. Oyduğun boşluklar genellikle beyaz kalır. Yani sanatçı bazen çizgiyi doğrudan çizmek yerine onun çevresini kaldırarak oluşturur."
+        },
+        {
+          "title": "",
+          "text": "Kalıp yeniden mürekkeplenerek birden fazla baskı alınabilir. Görüntülerin dolaşımını kolaylaştıran özellik budur. Yine de her baskıda mürekkep ve basınç gibi etkenler küçük farklar yaratabilir; kalıp ortak olsa da basılan kâğıtlar tek bir fiziksel nesne değildir."
         }
       ],
       "sources": [
@@ -38,7 +42,7 @@
           "url": "https://www.metmuseum.org/essays/the-printed-image-in-the-west-history-and-techniques"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ayse.tr",
@@ -79,12 +83,22 @@
         {
           "name": "cemden",
           "text": "Ben renklerine bakıp geçiyordum."
-        },
-        {
-          "name": "birseda",
-          "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Caveat",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-kazima-baski",
@@ -92,7 +106,7 @@
       "layout": "diagram",
       "category": "Sanat",
       "title": "Bu kez mürekkep çukurda bekliyor.",
-      "subtitle": "Gravürün baskı mantığı ters.",
+      "subtitle": "Kazıma baskıda metal levhanın yüzeyine çizgiler açılır.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -109,12 +123,16 @@
       "motion": "art",
       "slides": [
         {
-          "title": "Metal çizgiler",
-          "text": "Metal yüzeye kazınan çizgilere mürekkep doldurulur; üst yüzey temizlenir. Basınç altındaki kâğıt çizgilerdeki mürekkebi alır."
+          "title": "",
+          "text": "Kazıma baskıda metal levhanın yüzeyine çizgiler açılır. Mürekkep levhaya sürüldükten sonra üst yüzey temizlenir; mürekkep oyuk çizgilerin içinde kalır. Nemlendirilmiş kâğıt basınç altında bu mürekkebi alır."
         },
         {
-          "title": "Çizginin karakteri",
-          "text": "Oyma aletinin hareketi ve çizginin derinliği görüntüyü etkiler. Aynı konu farklı baskı tekniklerinde bambaşka görünebilir."
+          "title": "",
+          "text": "Ağaç baskıdaki yüksek yüzey mantığının tersini düşün: Burada izi veren yer çukurdur. Çizginin derinliği ve genişliği, taşıdığı mürekkebi ve elde edilen görüntüyü etkiler. Sanatçının aletle kurduğu iz baskıda görünür olur."
+        },
+        {
+          "title": "",
+          "text": "Aynı konunun farklı tekniklerde başka türlü görünmesi bu yüzden şaşırtıcı değildir. Resmi yalnız “ne çizilmiş?” diye değil, “mürekkep hangi yüzeyden geçmiş?” diye de okuyabilirsin. Teknik, çizginin karakterinin bir parçasıdır."
         }
       ],
       "sources": [
@@ -123,8 +141,22 @@
           "url": "https://www.metmuseum.org/essays/the-printed-image-in-the-west-history-and-techniques"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "diagram",
+        "font": "DM Sans",
+        "paper": "#ead9f0",
+        "ink": "#35223f",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-asit-oyma",
@@ -132,7 +164,7 @@
       "layout": "process",
       "category": "Sanat",
       "title": "Gravürde çizgiyi bazen alet değil asit derinleştirir.",
-      "subtitle": "Sanatta tekniğin farkı.",
+      "subtitle": "Asitle oyma tekniğinde metal levha önce aside dayanıklı koruyucu bir tabakayla kaplanır.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -149,12 +181,16 @@
       "motion": "art",
       "slides": [
         {
-          "title": "Koruyucu tabaka",
-          "text": "Asitle oymada metalin üstü koruyucu bir tabakayla kaplanır. Çizilen yerlerde metal açığa çıkar; asit bu alanları aşındırır."
+          "title": "",
+          "text": "Asitle oyma tekniğinde metal levha önce aside dayanıklı koruyucu bir tabakayla kaplanır. Sanatçı bu tabakayı çizerek bazı yerlerde metali açığa çıkarır. Ardından asit yalnız açıkta kalan alanları aşındırabilir."
         },
         {
-          "title": "Baskıya dönüşür",
-          "text": "Oluşan oyuklar mürekkep taşır. Teknik, sanatçının çizime yakın hareketlerle metal üzerinde baskı kalıbı oluşturmasına olanak verir."
+          "title": "",
+          "text": "Böylece çizgiler levhada oyuklara dönüşür. Sonraki baskı aşamasında mürekkep bu oyuklarda kalır ve kâğıda aktarılır. Çizme hareketiyle kimyasal aşındırma aynı üretim zincirinin farklı adımlarıdır."
+        },
+        {
+          "title": "",
+          "text": "Bu tekniğin sağladığı olanak, metali her çizgide doğrudan aletle derinleştirmek zorunda olmamaktır. Sanatçının çizgisi baskı kalıbına başka bir yoldan dönüşür. Buradaki anlatım bir sanat tekniğinin açıklamasıdır; asitle çalışma kontrollü atölye koşulları gerektirir."
         }
       ],
       "sources": [
@@ -163,7 +199,7 @@
           "url": "https://www.metmuseum.org/essays/the-printed-image-in-the-west-history-and-techniques"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "umutburada",
@@ -204,12 +240,22 @@
         {
           "name": "zeynepce",
           "text": "İlk akla gelen cevap başka oluyor."
-        },
-        {
-          "name": "aliokuyor",
-          "text": "Örneği görünce anladım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Caveat",
+        "paper": "#192f2a",
+        "ink": "#f3eddc",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-biskuvi-seramik",
@@ -217,7 +263,7 @@
       "layout": "glossary",
       "category": "Sanat",
       "title": "Seramikçinin “bisküvisi” çayın yanına gelmez.",
-      "subtitle": "Atölyede aynı kelime başka işte.",
+      "subtitle": "Seramik atölyesinde “bisküvi hazır” dendiğinde tabakta yiyecek bekleme.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -234,12 +280,16 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Sırsız gövde",
-          "text": "Bisküvi, pişirilmiş fakat sırlanmamış seramik için kullanılan terimdir. Nesne bir sonraki yüzey işlemini bekliyor olabilir."
+          "title": "",
+          "text": "Seramik atölyesinde “bisküvi hazır” dendiğinde tabakta yiyecek bekleme. Bisküvi, pişirilmiş fakat sırlanmamış seramik gövde için kullanılan addır. Kil, fırınlama sonucunda artık başlangıçtaki yoğrulabilir çamur gibi davranmaz."
         },
         {
-          "title": "Kelimenin izi",
-          "text": "Terim Fransızcadaki pişirmeyle ilgili bir sözcükten gelir. Atölye dilini bilmeyince malzemeyle yiyeceği karıştırmak kolay."
+          "title": "",
+          "text": "Bazı üretimlerde bu aşamadan sonra yüzeye sır uygulanır ve nesne yeniden pişirilir. Sır, uygun fırın koşullarında cam benzeri bir yüzey oluşturabilir. Bisküvi ve sır, nesnenin farklı üretim aşamalarını anlatır."
+        },
+        {
+          "title": "",
+          "text": "Çıplak, mat bir seramik gövdeyle parlak son ürün arasındaki farkı böyle okuyabilirsin. Atölye dilindeki tek bir kelime, nesnenin hangi işlemden geçtiğini ve hangisini beklediğini söyler. Aynı gündelik sözcük, başka bir işte bambaşka anlam taşıyabilir."
         }
       ],
       "sources": [
@@ -248,7 +298,7 @@
           "url": "https://www.vam.ac.uk/articles/a-z-of-ceramics"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ardabirbak",
@@ -289,12 +339,22 @@
         {
           "name": "elif.k",
           "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
-        },
-        {
-          "name": "deniz.k",
-          "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-sert-porselen",
@@ -302,7 +362,7 @@
       "layout": "reveal",
       "category": "Sanat",
       "title": "İncecik görünüyor, yapısı gayet sert.",
-      "subtitle": "Porselenin malzemesi belirleyici.",
+      "subtitle": "Porselen, yalnız beyaza boyanmış seramik değildir.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -319,12 +379,16 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Yüksek sıcaklıkta",
-          "text": "Sert porselen, bileşimi ve yüksek pişirme sıcaklığı sayesinde dayanıklı, gözeneksiz bir gövde oluşturur."
+          "title": "",
+          "text": "Porselen, yalnız beyaza boyanmış seramik değildir. Sert porselenin belirli bileşimi ve yüksek sıcaklıkta pişirilmesi, yoğun ve düşük gözenekli bir gövde oluşturur. Malzemenin yapısı üretim sırasında değişir."
         },
         {
-          "title": "Işığa tutunca",
-          "text": "Beyazlık ve ince yerlerde yarı saydamlık, bu malzemenin ayırt edici özelliklerindendir. Her beyaz seramik otomatik olarak porselen değildir."
+          "title": "",
+          "text": "İnce yerlerde yarı saydamlık gösterebilmesi ayırt edici özelliklerindendir. Bir porselen fincanı ışığa tuttuğunda kenarında hafif ışık geçişi görebilirsin. Bu, üstündeki desenin değil gövdenin özelliğidir."
+        },
+        {
+          "title": "",
+          "text": "Beyaz renk tek başına yeterli tanı değildir; başka seramikler de beyaz görünebilir. Müzede bir nesnenin malzemesini okurken etiketteki terim, sadece estetik bir ad değil, bileşim ve fırınlama yöntemine ilişkin teknik bilgidir."
         }
       ],
       "sources": [
@@ -333,7 +397,7 @@
           "url": "https://www.vam.ac.uk/articles/a-z-of-ceramics"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "birseda",
@@ -367,7 +431,21 @@
           "name": "keremca",
           "text": "Şuraya bir yer imi bırakayım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Bebas Neue",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-delftware",
@@ -375,7 +453,7 @@
       "layout": "comparison",
       "category": "Sanat",
       "title": "Mavi beyaz gördün diye Çin porseleni demeyelim.",
-      "subtitle": "Hollanda'nın kalay sırlı seramikleri.",
+      "subtitle": "Mavi desenli beyaz bir tabak gördüğünde akla hemen Çin porseleni gelebilir.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -392,12 +470,16 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Beyaz yüzey",
-          "text": "Delft seramiklerinde kalay içeren sır, gövde üzerinde beyaz ve örtücü bir yüzey sağlar. Bu yüzeye desenler işlenebilir."
+          "title": "",
+          "text": "Mavi desenli beyaz bir tabak gördüğünde akla hemen Çin porseleni gelebilir. Delft seramikleri ise farklı bir üretim geleneğine aittir. Kalay içeren sır, seramik gövdenin üzerinde beyaz ve örtücü bir yüzey oluşturur."
         },
         {
-          "title": "Etkilenmek ve üretmek",
-          "text": "Çin porseleninin etkisi önemli olsa da malzeme ve üretim tekniği aynı değildir. Görünüş benzerliği, teknik kimlik anlamına gelmez."
+          "title": "",
+          "text": "Desen bu beyaz zemine işlenebilir. Çin porseleninin görünüşü önemli bir esin kaynağı olsa da alttaki gövde ve üretim tekniği aynı değildir. Benzer renk düzeni, farklı malzemelerle elde edilmiş olabilir."
+        },
+        {
+          "title": "",
+          "text": "Bir fotoğraftan malzemeyi kesin tanımanın neden zor olduğunu bu örnek gösterir. Sadece yüzeydeki renge değil, gövdeye, sır yapısına ve üretim bağlamına bakmak gerekir. Sanat tarihindeki etkileşim bazen aynı tekniğin kopyası değil, aynı görünüşe başka yoldan ulaşmaktır."
         }
       ],
       "sources": [
@@ -406,7 +488,7 @@
           "url": "https://www.vam.ac.uk/articles/a-z-of-ceramics"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
@@ -428,7 +510,21 @@
           "name": "mert.y",
           "text": "İkinci kez okuyunca daha anlaşılır geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-daguerreotip",
@@ -436,7 +532,7 @@
       "layout": "gallery",
       "category": "Sanat",
       "title": "İlk fotoğrafını çoğaltmak bugünkü kadar kolay değildi.",
-      "subtitle": "Daguerreotip tekil bir nesneydi.",
+      "subtitle": "1839'da tanıtılan daguerreotip, erken fotoğraf yöntemlerinden biridir.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -453,12 +549,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Metal üstünde görüntü",
-          "text": "Daguerreotip, gümüş kaplı bakır levha üzerinde görüntü oluşturuyordu. Kâğıt fotoğraf gibi görünse de metal bir yüzeydi."
+          "title": "",
+          "text": "1839'da tanıtılan daguerreotip, erken fotoğraf yöntemlerinden biridir. Görüntü, gümüş kaplı bakır levha üzerinde oluşur. Dolayısıyla gördüğün nesne kâğıda basılmış sıradan bir fotoğraf değil, görüntü taşıyan metal yüzeydir."
         },
         {
-          "title": "Bir tane daha?",
-          "text": "Negatiften sınırsız kopya basma düzeni yoktu. Bu özellik, daguerreotipi kendine özgü tekil bir görüntü nesnesi yapıyordu."
+          "title": "",
+          "text": "Negatiften tekrar tekrar pozitif baskı çıkaran sistemden farklı olarak, doğrudan tekil bir görüntü elde edilir. Bir portreyi çoğaltmak bugünkü dosyayı kopyalama rahatlığına sahip değildir. Fotoğrafın kendisi değerli bir nesne olarak saklanır."
+        },
+        {
+          "title": "",
+          "text": "Bu fark, erken fotoğrafların neden özel kutularda korunduğunu anlamaya yardım eder. Fotoğraf tarihi yalnız görüntünün netleşmesi değil, görüntünün hangi yüzeye kaydedildiği ve kaç kişiye ulaştırılabildiğinin de tarihidir."
         }
       ],
       "sources": [
@@ -467,7 +567,7 @@
           "url": "https://www.metmuseum.org/essays/the-daguerreian-era-and-early-american-photography-on-paper-1839-1860"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
@@ -485,7 +585,21 @@
           "name": "cemden",
           "text": "Okurken durup düşündüm biraz."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Bebas Neue",
+        "paper": "#f7f3e9",
+        "ink": "#392e22",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-negatif-kopya",
@@ -493,7 +607,7 @@
       "layout": "process",
       "category": "Sanat",
       "title": "Fotoğrafın yayılmasında görünmeyen kahraman: negatif.",
-      "subtitle": "Bir görüntü, birçok baskı.",
+      "subtitle": "Fotoğrafik negatifte ışık ve koyuluk ilişkisi, elde edilmek istenen görüntünün tersidir.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -510,12 +624,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Ara görüntü",
-          "text": "Negatif kullanan teknikler, aynı görüntüden birden fazla pozitif baskı üretmeyi mümkün kıldı."
+          "title": "",
+          "text": "Fotoğrafik negatifte ışık ve koyuluk ilişkisi, elde edilmek istenen görüntünün tersidir. Bu ara görüntü kullanılarak pozitif baskılar üretilebilir. Aynı negatiften birden fazla kâğıt fotoğraf çıkarılması, çoğaltmayı mümkün kılar."
         },
         {
-          "title": "Dolaşım değişti",
-          "text": "Fotoğrafın kopyalanabilmesi, portrelerin ve kent görüntülerinin daha geniş çevrelere ulaşmasını kolaylaştırdı. Yenilik yalnız netlik değildi."
+          "title": "",
+          "text": "Böylece bir portre tek kişinin sakladığı levhadan ibaret kalmaz; aile üyelerine gönderilebilir, bir yerin görüntüsü farklı izleyicilere ulaşabilir. Fotoğrafın toplumsal etkisini büyüten şeylerden biri bu kopyalanabilirliktir."
+        },
+        {
+          "title": "",
+          "text": "Bir baskının kâğıdı eskise bile uygun koşullarda korunan negatiften başka baskı alınabilir. Görüntü ile tek fiziksel kopyayı ayırmak burada önem kazanır. Teknik yenilik bazen daha güzel görüntü değil, aynı görüntünün daha çok insana erişmesidir."
         }
       ],
       "sources": [
@@ -524,7 +642,7 @@
           "url": "https://www.metmuseum.org/essays/the-daguerreian-era-and-early-american-photography-on-paper-1839-1860"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "keremca",
@@ -550,7 +668,21 @@
           "name": "mert.y",
           "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Space Mono",
+        "paper": "#192f2a",
+        "ink": "#f3eddc",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-islak-plaka",
@@ -558,7 +690,7 @@
       "layout": "newspaper",
       "category": "Sanat",
       "title": "Fotoğraf makinesi küçüktü sanma; işin atölyesi de vardı.",
-      "subtitle": "Islak plaka döneminden.",
+      "subtitle": "19.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -575,12 +707,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Cam negatif",
-          "text": "19. yüzyılın ortalarında kolodyumlu cam negatifler yaygınlaşmaya başladı. Hassasiyetleri, pozlama sürelerinin kısalmasına katkı sağladı."
+          "title": "",
+          "text": "19. yüzyıl ortalarında kullanılan ıslak kolodyum yönteminde cam levha ışığa duyarlı bir yüzeyle hazırlanıyordu. İşlemlerin levha hâlâ ıslakken yürütülmesi gerektiği için fotoğrafçı yalnız makineyi değil, hazırlama ve geliştirme düzenini de yanında düşünmeliydi."
         },
         {
-          "title": "Yeni görüntüler",
-          "text": "Daha kısa pozlamalar, şehirdeki insanları ve sokakları kaydetmeyi kolaylaştırdı. Fotoğraf tarihi, hareketi yakalama koşullarının da tarihidir."
+          "title": "",
+          "text": "Cam negatifler ince ayrıntı ve daha kısa pozlama olanaklarına katkı sağladı. Ama bunun karşılığında çalışma düzeni zahmetliydi. Dışarıda çekim yapmak, küçük bir kimya atölyesini sahaya taşımaya benzeyebilirdi."
+        },
+        {
+          "title": "",
+          "text": "Bugün telefonu çıkarıp çektiğimiz bir sokak görüntüsünün geçmişte neden büyük hazırlık istediğini böyle anlarız. Fotoğraf tarihinde her teknik, görüntü kalitesiyle birlikte hız, taşınabilirlik ve emek arasında da farklı bir denge kurmuştur."
         }
       ],
       "sources": [
@@ -589,7 +725,7 @@
           "url": "https://www.metmuseum.org/essays/the-daguerreian-era-and-early-american-photography-on-paper-1839-1860"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
@@ -630,32 +766,30 @@
         {
           "name": "berk.b",
           "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
-        },
-        {
-          "name": "onurdefter",
-          "text": "İkinci kez okuyunca daha anlaşılır geldi."
-        },
-        {
-          "name": "ahmet.a",
-          "text": "Yapılışını bilince daha ilginç oluyor."
-        },
-        {
-          "name": "aliokuyor",
-          "text": "Bugünün cebime attığım bilgisi bu."
-        },
-        {
-          "name": "deniz.k",
-          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#192f2a",
+        "ink": "#f3eddc",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-fresk",
       "topic": "Resmin malzemesi",
-      "layout": "timeline",
+      "layout": "gallery",
       "category": "Sanat",
       "title": "Ressamın saati bu kez duvarla yarışıyor.",
-      "subtitle": "Freskte sıva kurumadan çalışılır.",
+      "subtitle": "Fresk tekniğinde pigment, suyla karıştırılarak henüz yaş olan sıvaya uygulanır.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -672,12 +806,16 @@
       "motion": "art",
       "slides": [
         {
-          "title": "Yaş yüzey",
-          "text": "Freskte suyla karıştırılan pigmentler yaş sıvaya uygulanır. Sıva kururken pigment yüzeyle bağ kurar."
+          "title": "",
+          "text": "Fresk tekniğinde pigment, suyla karıştırılarak henüz yaş olan sıvaya uygulanır. Sıvanın kuruma ve sertleşme sürecinde boya yüzeyle bütünleşir. Bu nedenle resmin yapıldığı duvar, yalnız pasif bir altlık değildir."
         },
         {
-          "title": "Her duvar resmi değil",
-          "text": "Kuru duvara yapılan boyama farklı davranır. “Duvara çizilmiş” olması, bir resmi tek başına fresk yapmaz."
+          "title": "",
+          "text": "Ressamın çalışma süresi sıvanın durumuna bağlıdır. Çok geniş bir yüzeyi bir kerede hazırlamak yerine, zamanında boyanabilecek bölümler üzerinde çalışmak gerekir. Malzemenin ritmi, sanatçının iş planını belirler."
+        },
+        {
+          "title": "",
+          "text": "Kuru duvara yapılan her resme fresk diyemeyiz; bağlanma yöntemi farklı olabilir. Bir duvar resmine bakarken konuya ek olarak bu soruyu sorabilirsin: Boya, duvarın üstünde mi duruyor, yoksa yaş sıvanın süreciyle mi bağlanmış?"
         }
       ],
       "sources": [
@@ -686,7 +824,7 @@
           "url": "https://www.metmuseum.org/essays/italian-painting-of-the-later-middle-ages"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "selin.jpg",
@@ -727,24 +865,22 @@
         {
           "name": "duru.not",
           "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
-        },
-        {
-          "name": "keremca",
-          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
-        },
-        {
-          "name": "elif.k",
-          "text": "Müzede bu detayı atlamışımdır kesin."
-        },
-        {
-          "name": "iremce",
-          "text": "Bunu birine anlatmayı deneyeceğim."
-        },
-        {
-          "name": "cemden",
-          "text": "Bugünün cebime attığım bilgisi bu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Fraunces",
+        "paper": "#efe6d5",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-tempera",
@@ -752,7 +888,7 @@
       "layout": "receipt",
       "category": "Sanat",
       "title": "Tabloda yumurta var. Kahvaltı dökülmedi.",
-      "subtitle": "Pigmenti tutan bir bağlayıcı.",
+      "subtitle": "Pigment, boyaya rengini veren taneciklerdir.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -769,12 +905,16 @@
       "motion": "art",
       "slides": [
         {
-          "title": "Yumurta sarısı",
-          "text": "Ortaçağ panel resminde yumurta sarısıyla karıştırılan pigmentlerden tempera boya hazırlanıyordu."
+          "title": "",
+          "text": "Pigment, boyaya rengini veren taneciklerdir. Bu taneciklerin yüzeye tutunması için bir bağlayıcı gerekir. Ortaçağ panel resimlerinde yaygın kullanılan yumurta temperasında bağlayıcı olarak yumurta sarısı kullanılıyordu."
         },
         {
-          "title": "Malzeme anlatımı etkiler",
-          "text": "Boyanın kuruması ve çalışma özellikleri ressamın tekniğini şekillendirir. Resme bakarken yalnız konuyu değil, nasıl yapıldığını da sorabiliriz."
+          "title": "",
+          "text": "Renkli toz bağlayıcıyla karıştırılınca uygulanabilir boya elde edilir. Boyanın kuruma hızı ve ince katmanlarla çalışma biçimi, ressamın çizgisini ve yüzey etkisini şekillendirir. Malzeme yalnız resmin altında saklı bir ayrıntı değildir."
+        },
+        {
+          "title": "",
+          "text": "Tabloda yumurta bulunması bu yüzden tuhaf bir kaza değil, bilinçli üretim tekniğidir. Bir eserin hangi boyayla yapıldığını öğrenmek, sanatçının hangi hareketleri kolayca yapabildiğini ve hangi sınırlara uyduğunu anlamaya yardım eder."
         }
       ],
       "sources": [
@@ -783,13 +923,27 @@
           "url": "https://www.metmuseum.org/essays/italian-painting-of-the-later-middle-ages"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "deniz.k",
           "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#f9edbc",
+        "ink": "#363220",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-altin-varak",
@@ -797,7 +951,7 @@
       "layout": "poster",
       "category": "Sanat",
       "title": "Tablodaki altın bazen gerçekten altın.",
-      "subtitle": "Sarı boyayla aynı şey değil.",
+      "subtitle": "Bazı eski tablolardaki altın zemin yalnız sarı boyayla yapılmamıştır.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -814,12 +968,16 @@
       "motion": "art",
       "slides": [
         {
-          "title": "İnce yaprak",
-          "text": "Altın dövülerek çok ince levhalar hâline getirilebilir. Varak, hazırlanmış yüzeye dikkatle uygulanır."
+          "title": "",
+          "text": "Bazı eski tablolardaki altın zemin yalnız sarı boyayla yapılmamıştır. Altın, çok ince levhalar hâline getirilip hazırlanmış yüzeye uygulanabilir. Bu ince yapraklara varak denir. Az miktarda metal geniş bir alanı kaplayabilir."
         },
         {
-          "title": "Yüzeydeki işçilik",
-          "text": "Parlatma ve damgalama gibi işlemler ışığın yüzeydeki etkisini değiştirir. Altın zemin, yalnız düz bir renk alanı değildir."
+          "title": "",
+          "text": "Yüzey parlatılabilir veya üzerine küçük desenler damgalanabilir. Böylece ışık farklı yönlere yansır. Eserin karşısında yer değiştirince yüzeyin etkisinin değişmesi, yalnız renginden değil gerçek metalin yansımasından gelir."
+        },
+        {
+          "title": "",
+          "text": "Bir fotoğraf bu deneyimin tamamını aktaramayabilir. Düz ekranda sarı görünen alan, bulunduğu mekânda ışıkla hareket eden bir yüzeydir. Malzemeyi bilmek, tablonun neden o yerde ve o ışık altında güçlü göründüğünü anlamayı sağlar."
         }
       ],
       "sources": [
@@ -828,7 +986,7 @@
           "url": "https://www.metmuseum.org/essays/italian-painting-of-the-later-middle-ages"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
@@ -842,7 +1000,21 @@
           "name": "deniz.k",
           "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#d9e9cc",
+        "ink": "#283824",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-kursun-serit",
@@ -850,7 +1022,7 @@
       "layout": "mosaic",
       "category": "Sanat",
       "title": "Vitraydaki koyu çizgiler sadece kontur değil.",
-      "subtitle": "Parçaları bir arada tutuyorlar.",
+      "subtitle": "Geleneksel vitray, tek bir büyük camın üzerine çizilmiş resim olmak zorunda değildir.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -867,12 +1039,16 @@
       "motion": "prism",
       "slides": [
         {
-          "title": "Birleştiren iskelet",
-          "text": "Geleneksel vitrayda cam parçaları kurşun şeritlerle birleştirilir. Görünen çizgi, kompozisyonun yanında yapının da parçasıdır."
+          "title": "",
+          "text": "Geleneksel vitray, tek bir büyük camın üzerine çizilmiş resim olmak zorunda değildir. Farklı cam parçaları kurşun şeritlerle birleştirilir. Şeritlerin oluşturduğu koyu çizgiler, parçaları bir arada tutan yapının da parçasıdır."
         },
         {
-          "title": "Parçalı tasarım",
-          "text": "Sanatçı, görüntüyü cam parçalara bölerken bu bağlantıları düşünür. Çizimle üretim tekniği aynı masada buluşur."
+          "title": "",
+          "text": "Sanatçı görüntüyü tasarlarken hangi sınırın bir cam parçasını bitireceğini düşünür. Bir giysi kıvrımı veya figürün çevresi, hem resimde çizgi hem üretimde birleşme yeri olabilir. Kompozisyonla malzeme aynı soruda buluşur."
+        },
+        {
+          "title": "",
+          "text": "Bu yüzden vitraydaki koyu konturları yalnız çizim tercihi diye okumayız. Pencerenin nasıl yapıldığını da gösterirler. Yakından bakınca bir resmin sınırlarıyla bir nesnenin bağlantı noktalarının aynı yerde çalıştığını fark edebilirsin."
         }
       ],
       "sources": [
@@ -881,7 +1057,7 @@
           "url": "https://www.vam.ac.uk/articles/stained-glass-an-introduction"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ecebirnot",
@@ -895,7 +1071,21 @@
           "name": "gokce",
           "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Lora",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-gumus-sari",
@@ -903,7 +1093,7 @@
       "layout": "reveal",
       "category": "Sanat",
       "title": "Gümüş kullanıp sarı elde etmek.",
-      "subtitle": "Vitrayın şaşırtıcı renk işlemi.",
+      "subtitle": "Vitrayda her renk değişimi için yeni bir cam parçası eklemek gerekmez.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -920,12 +1110,16 @@
       "motion": "prism",
       "slides": [
         {
-          "title": "Cam yüzeyinde",
-          "text": "Gümüş bileşikleriyle yapılan boyama, pişirme sırasında camda sarı tonlar oluşturabilir. Vitray tarihinde buna gümüş sarısı denir."
+          "title": "",
+          "text": "Vitrayda her renk değişimi için yeni bir cam parçası eklemek gerekmez. Gümüş bileşikleriyle yapılan bir yüzey uygulaması, uygun pişirme sırasında camda sarı tonlar oluşturabilir. Bu teknik gümüş sarısı olarak anılır."
         },
         {
-          "title": "Tek parçada ayrıntı",
-          "text": "Bu işlem, yeni bir cam parçası eklemeden renk ayrıntısı kazandırabilir. Her renk sınırı mutlaka kurşunla ayrılmaz."
+          "title": "",
+          "text": "Adındaki gümüş, sonuçta gümüş renkli bir yüzey göreceğin anlamına gelmez. Kullanılan maddenin camla ve ısıyla etkileşimi, görünen sarı rengi ortaya çıkarır. Malzemenin adıyla sonucun rengi farklı olabilir."
+        },
+        {
+          "title": "",
+          "text": "Tek bir cam parçasında yeni renk ayrıntıları oluşturabilmek, tasarımı daha esnek hâle getirir. Her küçük sarı bölümün çevresine kurşun çizgi koymak gerekmez. Teknik bir yenilik, sanatçının çizebildiği ayrıntıların sınırını böyle değiştirebilir."
         }
       ],
       "sources": [
@@ -934,7 +1128,7 @@
           "url": "https://www.vam.ac.uk/articles/stained-glass-an-introduction"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "onurdefter",
@@ -948,7 +1142,21 @@
           "name": "duru.not",
           "text": "Bir esere bakarken artık malzemesini de soracağım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#ead9f0",
+        "ink": "#35223f",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-vitray-isik",
@@ -956,7 +1164,7 @@
       "layout": "beforeafter",
       "category": "Sanat",
       "title": "Aynı pencere, sabah başka öğlen başka.",
-      "subtitle": "Vitrayın ışığı dışarıdan gelir.",
+      "subtitle": "Bir yağlıboya tabloyu çoğunlukla yüzeyinden yansıyan ışıkla görürüz.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -973,12 +1181,16 @@
       "motion": "prism",
       "slides": [
         {
-          "title": "Geçen ışık",
-          "text": "Vitray, içinden geçen ışıkla görünür. Güneşin konumu ve hava koşulları mekândaki renk etkisini değiştirir."
+          "title": "",
+          "text": "Bir yağlıboya tabloyu çoğunlukla yüzeyinden yansıyan ışıkla görürüz. Vitrayda ise ışık camın içinden geçerek mekâna ulaşır. Bu yüzden pencerenin etkisi dışarıdaki ışık koşullarıyla çok yakından ilişkilidir."
         },
         {
-          "title": "Mekânın parçası",
-          "text": "Bu yüzden vitrayı yalnız düz bir resim gibi düşünmek eksik kalır. Pencere, gün boyunca çevresiyle birlikte değişen bir yüzeydir."
+          "title": "",
+          "text": "Sabah ve öğlen Güneş'in açısı değişince renkli ışığın düştüğü yer de değişebilir. Bulutlu havada parlaklık ve kontrast başka görünür. Aynı pencere gün boyunca farklı bir mekân deneyimi oluşturur."
+        },
+        {
+          "title": "",
+          "text": "Vitrayı yalnız duvara asılmış sabit bir resim gibi düşünmek bu hareketi kaçırır. Eser, cam parçaları kadar içinden geçen ışıkla da tamamlanır. Bir dahaki ziyaretinde pencereye bakmanın yanında, renklerin zeminde ve duvarlarda nereye düştüğüne de bak."
         }
       ],
       "sources": [
@@ -987,7 +1199,7 @@
           "url": "https://www.vam.ac.uk/articles/stained-glass-an-introduction"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
@@ -1028,24 +1240,22 @@
         {
           "name": "umutburada",
           "text": "Benim aklıma da aynı soru takılmıştı."
-        },
-        {
-          "name": "ecebirnot",
-          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
-        },
-        {
-          "name": "keremca",
-          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
-        },
-        {
-          "name": "elif.k",
-          "text": "Müzede bu detayı atlamışımdır kesin."
-        },
-        {
-          "name": "deniz.k",
-          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Space Mono",
+        "paper": "#f9edbc",
+        "ink": "#363220",
+        "align": "end",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-netsuke",
@@ -1053,7 +1263,7 @@
       "layout": "profile",
       "category": "Sanat",
       "title": "Avuç içindeki heykel aslında bir tutucu.",
-      "subtitle": "Netsuke'nin gündelik görevi.",
+      "subtitle": "Geleneksel Japon giyiminde küçük kaplar kuşaktan iplerle sarkıtılabiliyordu.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -1070,12 +1280,16 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Kuşakta durmak",
-          "text": "Geleneksel Japon giyiminde küçük kaplar kuşaktan iplerle sarkıtılabiliyordu. Netsuke, ipin kayıp gitmesini önleyen bir dayanak görevi görüyordu."
+          "title": "",
+          "text": "Geleneksel Japon giyiminde küçük kaplar kuşaktan iplerle sarkıtılabiliyordu. İpin kuşaktan kayıp gitmemesi için üstte bir tutucuya ihtiyaç vardı. Netsuke denen küçük oyma parça bu dayanak işini görüyordu."
         },
         {
-          "title": "İşlevden koleksiyona",
-          "text": "Oyma ustaları bu parçaları hayvanlar ve insan figürleriyle işledi. Kullanışlı bir ayrıntı zamanla koleksiyon nesnesine de dönüştü."
+          "title": "",
+          "text": "Avuç içine sığan hayvan veya insan figürü böylece sadece süs değildir; bir taşıma sisteminin çalışan parçasıdır. Biçimin elde ve giyside kullanılmaya uygun olması da tasarımın koşullarındandır."
+        },
+        {
+          "title": "",
+          "text": "Ustalar bu küçük alanda çok ayrıntılı sahneler işleyebildi. Müzede bağımsız bir heykel gibi duran nesne, gündelik giyimin içinde işlev taşıyordu. Sanat nesnesinin eski kullanımını öğrenmek, biçimindeki bazı seçimleri birden anlaşılır kılar."
         }
       ],
       "sources": [
@@ -1084,7 +1298,7 @@
           "url": "https://www.metmuseum.org/essays/netsuke-from-fashion-fobs-to-coveted-collectibles"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "berk.b",
@@ -1125,24 +1339,22 @@
         {
           "name": "nisa.defter",
           "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
-        },
-        {
-          "name": "ahmet.a",
-          "text": "Okurken durup düşündüm biraz."
-        },
-        {
-          "name": "mert.y",
-          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
-        },
-        {
-          "name": "iremce",
-          "text": "Bunu kaydettim, sonra bir daha bakacağım."
-        },
-        {
-          "name": "duru.not",
-          "text": "Ben renklerine bakıp geçiyordum."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Space Mono",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-inro",
@@ -1150,7 +1362,7 @@
       "layout": "cutaway",
       "category": "Sanat",
       "title": "Cepte yer yoksa kutuyu kuşağa asarsın.",
-      "subtitle": "İnrō böyle bir ihtiyaçla ilişkili.",
+      "subtitle": "İnrō, küçük eşyaları taşımak için kullanılan Japon bölmeli kabıdır.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -1167,12 +1379,16 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Üst üste bölmeler",
-          "text": "İnrō, ilaç veya mühür gibi küçük nesneleri taşımak için kullanılan, iç içe oturan bölmeli bir kaptı."
+          "title": "",
+          "text": "İnrō, küçük eşyaları taşımak için kullanılan Japon bölmeli kabıdır. Üst üste oturan parçalar bir ip düzeniyle birlikte tutulur ve kap kuşaktan sarkıtılabilir. İlaç veya mühür gibi küçük nesneler için kullanılabiliyordu."
         },
         {
-          "title": "Taşınabilir tasarım",
-          "text": "İp düzeni bölmeleri birlikte tutar; kap kuşaktan sarkıtılırdı. Tasarım, giyimin taşıma alışkanlığına uyuyordu."
+          "title": "",
+          "text": "Bu tasarım, cep kullanımının bugünkü kıyafetlerimizdeki gibi olmadığı bir giyim düzenine uygundur. Taşıma sorunu giysinin yapısına göre çözülür. Kabın açılması, kapanması ve sabitlenmesi birbiriyle ilişkili parçalara bağlıdır."
+        },
+        {
+          "title": "",
+          "text": "Telefonunu cebe koymanın çok doğal gelmesi, bütün giyim geleneklerinin aynı çözümü kullandığı anlamına gelmez. İnrōyu anlamak için yalnız kutunun süsüne değil, insanın onu bedeninde nasıl taşıdığına bakmak gerekir."
         }
       ],
       "sources": [
@@ -1181,7 +1397,7 @@
           "url": "https://www.metmuseum.org/essays/netsuke-from-fashion-fobs-to-coveted-collectibles"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "berk.b",
@@ -1199,7 +1415,21 @@
           "name": "onurdefter",
           "text": "Yapılışını bilince daha ilginç oluyor."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Bebas Neue",
+        "paper": "#192f2a",
+        "ink": "#f3eddc",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-ojime",
@@ -1207,7 +1437,7 @@
       "layout": "sequence",
       "category": "Sanat",
       "title": "Küçücük boncuk, kutunun kapanmasını sağlıyor.",
-      "subtitle": "Süsün de görevi var.",
+      "subtitle": "Netsuke ve inrōdan oluşan taşıma düzeninde, ip üzerinde küçük bir boncuk bulunur: ojime.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -1224,12 +1454,16 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Kaydırılan parça",
-          "text": "Ojime, netsuke ile sarkıtılan kap arasında ip üzerinde hareket eden boncuktur."
+          "title": "",
+          "text": "Netsuke ve inrōdan oluşan taşıma düzeninde, ip üzerinde küçük bir boncuk bulunur: ojime. Bu parça, kabın bölmelerinin bir arada tutulmasına ve gerektiğinde açılmasına yardım eder. Küçüklüğü işlevinin önemsiz olduğunu göstermez."
         },
         {
-          "title": "Aç ve kapat",
-          "text": "Boncuğun konumu, kabın bölmelerini bir arada tutmayı veya açmayı kolaylaştırır. Bir aksesuarın en küçük parçası bile sistemi değiştirebilir."
+          "title": "",
+          "text": "Boncuğun ip üzerindeki konumu değiştirilerek bölmelerin hareketi düzenlenebilir. Sistemi yalnız büyük oyma tutucu ve güzel kutudan ibaret görürsen bu bağlantı parçasının görevini kaçırırsın."
+        },
+        {
+          "title": "",
+          "text": "Bir çantanın fermuar sürgüsünü düşün: Çantanın çoğunu kaplamaz ama kullanımı onsuz değişir. Ojime de gündelik bir mekanizmanın küçük ama anlamlı öğesidir. Müzede minik bir boncuğun etiketi, bütün nesnenin nasıl çalıştığını açabilir."
         }
       ],
       "sources": [
@@ -1238,7 +1472,7 @@
           "url": "https://www.metmuseum.org/essays/netsuke-from-fashion-fobs-to-coveted-collectibles"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "berk.b",
@@ -1248,7 +1482,21 @@
           "name": "cemden",
           "text": "Bu konudan başka bir şey de okuyasım geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Lora",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     }
   ]
 }

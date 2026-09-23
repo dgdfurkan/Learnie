@@ -6,12 +6,12 @@
       "id": "bilim-gokyuzu-mavi",
       "category": "Bilim",
       "title": "Gökyüzü neden mavi?",
-      "subtitle": "Her gün başımızın üstünde. Cevabı, ışığın küçücük bir yolculuğunda saklı.",
+      "subtitle": "Güneş ışığı gözümüze beyaz görünür ama farklı renklerdeki ışıkları birlikte taşır.",
       "account": "Bilimin İçinden",
       "handle": "bilimini̇cinden",
       "accent": "#699eab",
       "format": "experiment",
-      "minutes": 2,
+      "minutes": 1,
       "cover": {
         "url": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
         "alt": "Mavi gökyüzünde beyaz bulutlar",
@@ -21,19 +21,16 @@
       },
       "slides": [
         {
-          "title": "Beyazın içinde renkler var.",
-          "text": "Güneş ışığı tek bir renkten oluşmaz. Gözümüze beyaz görünse de farklı dalga boylarındaki ışıkları bir arada taşır. Mavi ışığın dalga boyu kırmızıdan daha kısadır.",
-          "kicker": "Işık"
+          "title": "",
+          "text": "Güneş ışığı gözümüze beyaz görünür ama farklı renklerdeki ışıkları birlikte taşır. Renkler, ışığın dalga boyuyla ilişkilidir. Mavi ışığın dalga boyu kırmızıdan daha kısadır. Bu fark, havayla karşılaşınca önemli olur."
         },
         {
-          "title": "Işık dümdüz gitmiyor.",
-          "text": "Güneş ışığı havadaki moleküllerle karşılaşınca farklı yönlere saçılır. Kısa dalga boylu görünür ışık daha güçlü saçıldığı için gökyüzünün birçok yönünden gözümüze mavi ışık ulaşır.",
-          "kicker": "Atmosfer"
+          "title": "",
+          "text": "Atmosferdeki moleküller ışığı farklı yönlere saçar. Görünür ışığın kısa dalga boyları daha güçlü saçıldığı için Güneş'in tam karşısına bakmasan da gökyüzünün birçok yönünden gözüne mavi ışık gelir."
         },
         {
-          "title": "Peki akşam neden kızarıyor?",
-          "text": "Güneş ufka yaklaşınca ışığı atmosferde daha uzun yol alır. Mavi ışığın önemli bir kısmı yoldan saçılır; gözümüze ulaşan doğrudan ışıkta kırmızı ve turuncu tonlar belirginleşir.",
-          "kicker": "Gün batımı"
+          "title": "",
+          "text": "Gün batımında ışık atmosferde daha uzun yol alır. Mavinin önemli bölümü doğrudan yoldan saçılınca sana ulaşan güneş ışığında kırmızı ve turuncu belirginleşir. Aynı atmosfer, yolun uzunluğu değişince başka bir renk gösterisi oluşturur."
         }
       ],
       "sources": [
@@ -42,7 +39,7 @@
           "url": "https://science.nasa.gov/ems/03_behaviors/"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "zeynepce",
@@ -80,19 +77,33 @@
         "explanation": "Güneş ışığı atmosfer molekülleriyle etkileşir. Mavi tonların güçlü saçılması, göğü mavi görmemizde temel etkendir."
       },
       "experiment": "light",
-      "layout": "prism",
-      "topic": "Gökyüzü neden mavi"
+      "layout": "punchline",
+      "topic": "Gökyüzü neden mavi",
+      "art": {
+        "kind": "photo",
+        "font": "Bebas Neue",
+        "paper": "#f0ded6",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      }
     },
     {
       "id": "uzay-dunya",
       "category": "Uzay",
       "title": "Bu mavi nokta, hepimizin evi.",
-      "subtitle": "Uzaktan bakınca sınırlar kayboluyor. Geriye su, bulutlar ve incecik bir atmosfer kalıyor.",
+      "subtitle": "Dünya'nın yüzeyinin yaklaşık yüzde 71'i suyla kaplıdır.",
       "account": "Kozmos",
       "handle": "kozmos",
       "accent": "#7b83b5",
       "format": "reel",
-      "minutes": 2,
+      "minutes": 1,
       "cover": {
         "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
         "alt": "Uzaydan Dünya, mavi okyanuslar ve bulutlar",
@@ -102,19 +113,16 @@
       },
       "slides": [
         {
-          "title": "Yüzeyin çoğu su.",
-          "text": "Dünya yüzeyinin yaklaşık yüzde 71’i suyla kaplıdır. Uzaydan gördüğümüz mavi rengin geniş alanlara yayılmasının nedeni de budur.",
-          "kicker": "Gezegenimiz"
+          "title": "",
+          "text": "Dünya'nın yüzeyinin yaklaşık yüzde 71'i suyla kaplıdır. Uzaydan görülen geniş mavi alanlar bu okyanuslarla ilişkilidir. Yüzeyin üzerinde de atmosfer denen gaz örtüsü bulunur; soluduğumuz hava bu örtünün parçasıdır."
         },
         {
-          "title": "Bir atmosferin içinde yaşıyoruz.",
-          "text": "Atmosfer, Dünya’yı saran gaz örtüsüdür. Soluduğumuz havayı sağlar; yüzey sıcaklıklarını etkiler ve Güneş’ten gelen bazı zararlı ışınımları soğurur.",
-          "kicker": "Koruyucu katman"
+          "title": "",
+          "text": "Dünya aynı anda iki temel hareket yapar. Kendi ekseni çevresinde döndüğü için bulunduğumuz yer sırayla Güneş'e bakar ve ondan uzağa döner: Gündüz ve gece böyle oluşur. Güneş çevresindeki bir tam dolanımı ise yılı tanımlar."
         },
         {
-          "title": "Dünya da hareket hâlinde.",
-          "text": "Gezegenimiz kendi ekseni etrafında dönerken Güneş’in çevresinde de dolanır. Gündüz ve gece, dönüşünün; bir yıl ise Güneş çevresindeki bir tam dolanımının sonucudur.",
-          "kicker": "Bir adım geri"
+          "title": "",
+          "text": "Bunu kendi çevresinde dönerken bir masa etrafında yürüyen kişiyle canlandırabilirsin. Dönme ve dolanma birlikte gerçekleşir ama aynı hareket değildir. Gökyüzündeki günlük değişimle yıllık değişimi ayırmak, gezegenleri anlamanın başlangıcıdır."
         }
       ],
       "sources": [
@@ -123,7 +131,7 @@
           "url": "https://science.nasa.gov/earth/facts/"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "iremce",
@@ -157,18 +165,32 @@
         "explanation": "Yaklaşık yüzde 71. Bu oran yüzey alanını ifade eder; Dünya’nın toplam kütlesini değil."
       },
       "layout": "poster",
-      "topic": "Bu mavi nokta, hepimizin evi"
+      "topic": "Bu mavi nokta, hepimizin evi",
+      "art": {
+        "kind": "photo",
+        "font": "Bebas Neue",
+        "paper": "#f9edbc",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      }
     },
     {
       "id": "bilim-mevsimler",
       "category": "Bilim",
       "title": "Yazı getiren şey mesafe değil.",
-      "subtitle": "Dünya biraz eğik duruyor. Bu küçük ayrıntı, yılın ritmini değiştiriyor.",
+      "subtitle": "Dünya'nın dönme ekseni yaklaşık 23,5 derece eğiktir.",
       "account": "Bilimin İçinden",
       "handle": "bilimini̇cinden",
       "accent": "#b99355",
       "format": "story",
-      "minutes": 2,
+      "minutes": 1,
       "cover": {
         "url": "https://svs.gsfc.nasa.gov/vis/a010000/a011100/a011141/cover-1024.jpg",
         "alt": "Mevsimlerin değişimini anlatan NASA görselleştirmesi",
@@ -178,19 +200,16 @@
       },
       "slides": [
         {
-          "title": "Dünya’nın ekseni eğik.",
-          "text": "Dünya’nın dönme ekseni yaklaşık 23,5 derece eğiktir. Gezegen Güneş’in çevresinde dolanırken bu eğiklik, yarımkürelerin ışığı alış biçimini değiştirir.",
-          "kicker": "Başlangıç"
+          "title": "",
+          "text": "Dünya'nın dönme ekseni yaklaşık 23,5 derece eğiktir. Gezegen Güneş çevresinde dolaşırken bu eksenin yönü yaklaşık korunur. Böylece yılın bir bölümünde Kuzey Yarımküre, başka bölümünde Güney Yarımküre Güneş'e doğru eğilmiş olur."
         },
         {
-          "title": "Daha dik ışık, daha uzun gün.",
-          "text": "Bir yarımküre Güneş’e dönük eğildiğinde ışınlar daha dik gelir ve gündüzler uzar. Yüzey daha fazla güneş enerjisi alır; o yarımkürede yaz yaşanır.",
-          "kicker": "Yaz"
+          "title": "",
+          "text": "Güneş'e dönük yarımkürede ışınlar daha dik gelir ve gündüz daha uzun sürer. Aynı ışık daha küçük bir yüzeye yayılır, ayrıca yüzey daha uzun süre enerji alır. Yazı hazırlayan temel düzen budur."
         },
         {
-          "title": "Aynı anda farklı mevsimler.",
-          "text": "Kuzey Yarımküre’de yaz yaşanırken Güney Yarımküre’de kış yaşanır. Bu karşıtlık, mevsimleri yalnızca Güneş’e uzaklıkla açıklayamayacağımızı gösterir.",
-          "kicker": "Karşı taraf"
+          "title": "",
+          "text": "Kuzeyde yazken güneyde kış olması, mevsimleri yalnız Güneş'e uzaklıkla açıklayamayacağımızı gösterir. Dünya'nın iki yarısı aynı anda kabaca aynı uzaklıktadır. Farkı yaratan, ışığın geliş açısı ve gün boyunca ne kadar süre geldiğidir."
         }
       ],
       "sources": [
@@ -199,7 +218,7 @@
           "url": "https://svs.gsfc.nasa.gov/11141"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "selin.jpg",
@@ -240,22 +259,6 @@
         {
           "name": "elif.k",
           "text": "Bir çay molasına sığdı, iyi geldi."
-        },
-        {
-          "name": "gokce",
-          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
-        },
-        {
-          "name": "duru.not",
-          "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
-        },
-        {
-          "name": "birseda",
-          "text": "İkinci kartta anca oturdu."
-        },
-        {
-          "name": "zeynepce",
-          "text": "Görünüşüne bakıp karar veriyormuşum."
         }
       ],
       "quiz": {
@@ -272,21 +275,36 @@
         "kind": "file",
         "url": "https://svs.gsfc.nasa.gov/vis/a010000/a011100/a011141/EO_Tahoe-540-MASTER_high.mp4",
         "title": "NASA: Mevsimlerin değişimi",
-        "language": "İngilizce · NASA kaynak videosu"
+        "language": "İngilizce · NASA kaynak videosu",
+        "duration": 22
       },
-      "layout": "diagram",
-      "topic": "Yazı getiren şey mesafe değil"
+      "layout": "punchline",
+      "topic": "Yazı getiren şey mesafe değil",
+      "art": {
+        "kind": "photo",
+        "font": "Bebas Neue",
+        "paper": "#ee5350",
+        "ink": "#24211e",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      }
     },
     {
       "id": "uzay-ay-tutulmasi",
       "category": "Uzay",
       "title": "Ay tutulunca neden kızarır?",
-      "subtitle": "Dünya’nın gölgesinde bile ışığın anlatacak bir hikâyesi var.",
+      "subtitle": "Ay tutulmasında Dünya, Güneş ile Ay'ın arasına girer; Ay Dünya'nın gölgesinden geçer.",
       "account": "Kozmos",
       "handle": "kozmos",
       "accent": "#a97970",
       "format": "carousel",
-      "minutes": 2,
+      "minutes": 1,
       "cover": {
         "url": "https://science.nasa.gov/wp-content/uploads/2024/01/preview-lunar-eclipses.jpg",
         "alt": "Ay tutulması sırasında Ayın görünümü",
@@ -296,19 +314,16 @@
       },
       "slides": [
         {
-          "title": "Dünya araya girer.",
-          "text": "Ay tutulmasında Dünya, Güneş ile Ay’ın arasına girer. Ay, Dünya’nın gölgesine ilerler. Bu olay dolunay evresinde gerçekleşebilir.",
-          "kicker": "Hizalanma"
+          "title": "",
+          "text": "Ay tutulmasında Dünya, Güneş ile Ay'ın arasına girer; Ay Dünya'nın gölgesinden geçer. Bu yerleşim dolunayda mümkün olur. Ama Ay'ın yörüngesi eğik olduğu için her dolunayda gölgeyle tam buluşma gerçekleşmez."
         },
         {
-          "title": "Atmosfer bir filtre gibi davranır.",
-          "text": "Dünya’nın atmosferinden geçen güneş ışığının bir bölümü Ay’a ulaşır. Mavi ışık daha çok saçılırken kırmızı tonlar gölgeye doğru ilerleyebilir. Ay bu nedenle kızılımsı görünür.",
-          "kicker": "Kırmızı ışık"
+          "title": "",
+          "text": "Tam tutulmada Ay bazen kızıl görünür. Çünkü Dünya atmosferinden geçen güneş ışığının bir bölümü bükülerek gölgeye ulaşabilir. Mavi ışık yolda daha çok saçılırken kırmızı tonlar Ay'a ulaşan ışıkta belirgin kalabilir."
         },
         {
-          "title": "Yörüngeler tam aynı düzlemde değil.",
-          "text": "Ay’ın yörüngesi Dünya’nın Güneş çevresindeki yörünge düzlemine göre eğiktir. Bu yüzden her dolunayda tam hizalanma ve tutulma olmaz.",
-          "kicker": "Her ay değil"
+          "title": "",
+          "text": "Ay o anda kendi kırmızı ışığını üretmez. Biz, Dünya'nın atmosferinden süzülüp Ay yüzeyinden yansıyan ışığı görürüz. Gün batımındaki kızıllıkla tutulmanın rengi arasında bu nedenle aynı ışık-atmosfer ilişkisinin izi bulunur."
         }
       ],
       "sources": [
@@ -317,7 +332,7 @@
           "url": "https://science.nasa.gov/moon/eclipses/"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "birseda",
@@ -362,19 +377,33 @@
         "answer": 2,
         "explanation": "Dünya’nın Güneş ile Ay arasında bulunduğu düzen, dolunay evresine karşılık gelir."
       },
-      "layout": "sequence",
-      "topic": "Ay tutulunca neden kızarır"
+      "layout": "postcard",
+      "topic": "Ay tutulunca neden kızarır",
+      "art": {
+        "kind": "photo",
+        "font": "Lora",
+        "paper": "#f0ded6",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      }
     },
     {
       "id": "sanat-buyuk-dalga",
       "category": "Sanat",
       "title": "Dalgayı gördün. Peki ya dağı?",
-      "subtitle": "Hokusai’nin ünlü baskısında gözümüzü ilk yakalayan şey, eserin tek başrolü değil.",
+      "subtitle": "Hokusai'nin Büyük Dalga'sına bakarken göz hemen öndeki dev dalgaya gider.",
       "account": "Sanata Bak",
       "handle": "sanatabak",
       "accent": "#b4936a",
       "format": "carousel",
-      "minutes": 2,
+      "minutes": 1,
       "cover": {
         "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP141063.jpg",
         "alt": "Hokusai, Kanagawa Açıklarında Büyük Dalga",
@@ -384,19 +413,16 @@
       },
       "slides": [
         {
-          "title": "Ufukta küçücük bir üçgen.",
-          "text": "Büyük dalganın gerisindeki küçük beyaz üçgen Fuji Dağı’dır. Ön plandaki dalga ile uzaktaki dağın boyut farkı, bakışımızı derinliğe taşır.",
-          "kicker": "Yakından bak"
+          "title": "",
+          "text": "Hokusai'nin Büyük Dalga'sına bakarken göz hemen öndeki dev dalgaya gider. Ama gerideki küçük beyaz üçgen Fuji Dağı'dır. Eser, Fuji Dağı'nın Otuz Altı Görünümü serisinin parçasıdır; dağ, küçücük görünse de konu içindeki yeri büyüktür."
         },
         {
-          "title": "Bu bir ahşap baskı.",
-          "text": "Hokusai bu eseri yaklaşık 1830–1832 yıllarında hazırladı. Görüntü, ahşap baskı tekniğiyle mürekkep ve renklerin kâğıda aktarılmasıyla oluşturuldu.",
-          "kicker": "Teknik"
+          "title": "",
+          "text": "Yaklaşık 1830–1832'ye tarihlenen görüntü ahşap baskıyla üretildi. Kalıplardaki mürekkep ve renkler kâğıda aktarılıyordu; bu yüzden tek bir tuval resminden farklı olarak birden fazla baskı yapılabiliyordu."
         },
         {
-          "title": "Bir dağın otuz altı görünümü.",
-          "text": "Eser, Fuji Dağı’nın Otuz Altı Görünümü adlı seriye aittir. Bir sonraki bakışında dalga, tekneler ve dağın birbirine göre konumlarını izle.",
-          "kicker": "Seri"
+          "title": "",
+          "text": "Şimdi tekrar bak: Dalganın kıvrımıyla uzaktaki dağın sivri biçimini karşılaştır. Ön plandaki hareket ve büyüklük, gerideki sakin dağla yan yana gelir. Bir eserde konunun en önemli öğesi, her zaman en büyük çizilen öğe değildir."
         }
       ],
       "sources": [
@@ -405,7 +431,7 @@
           "url": "https://www.metmuseum.org/art/collection/search/45434"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "keremca",
@@ -430,19 +456,33 @@
         "answer": 1,
         "explanation": "Fuji Dağı. Hokusai perspektifi kullanarak dağın uzakta, dalganın ise çok yakında görünmesini sağlar."
       },
-      "layout": "gallery",
-      "topic": "Dalgayı gördün. Peki ya dağı"
+      "layout": "postcard",
+      "topic": "Dalgayı gördün. Peki ya dağı",
+      "art": {
+        "kind": "photo",
+        "font": "Lora",
+        "paper": "#e4e4df",
+        "ink": "#24211e",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.metmuseum.org/CRDImages/as/web-large/DP141063.jpg",
+      "avatarCredit": {
+        "label": "Katsushika Hokusai / The Met",
+        "url": "https://www.metmuseum.org/art/collection/search/45434"
+      }
     },
     {
       "id": "cografya-kapadokya",
       "category": "Coğrafya",
       "title": "Taşın sabrı: Kapadokya.",
-      "subtitle": "Bu manzaranın iki ustası var: volkanik geçmiş ve zamanı bol olan aşınma.",
+      "subtitle": "Kapadokya'nın manzarası, volkanik kökenli malzemelerin bulunduğu bir bölgede uzun süreli aşınmayla biçimlendi.",
       "account": "Yeryüzü",
       "handle": "yeryuzu",
       "accent": "#b88865",
       "format": "story",
-      "minutes": 2,
+      "minutes": 1,
       "cover": {
         "url": "https://images.unsplash.com/photo-1643354809813-8f0fd28af678?auto=format&fit=crop&w=1200&q=85",
         "alt": "Kapadokya vadisindeki peri bacaları",
@@ -452,19 +492,16 @@
       },
       "slides": [
         {
-          "title": "Önce volkanik bir zemin.",
-          "text": "Kapadokya’nın kendine özgü manzarası volkanik bir bölgede gelişti. Farklı özellikteki kaya katmanları, sonraki aşınmanın üzerinde çalışacağı zemini oluşturdu.",
-          "kicker": "Başlangıç"
+          "title": "",
+          "text": "Kapadokya'nın manzarası, volkanik kökenli malzemelerin bulunduğu bir bölgede uzun süreli aşınmayla biçimlendi. Tüf gibi daha kolay aşınan tabakalarla daha dirençli kaya parçaları aynı hızda aşınmaz. Farklı dayanıklılık, şekil farkı yaratır."
         },
         {
-          "title": "Su ve rüzgâr şekil verir.",
-          "text": "Aşınma her kaya katmanını aynı hızda etkilemez. Daha dirençli bir bölüm, altındaki daha kolay aşınan malzemeyi bir süre koruyabilir. Vadiler ve sivri kaya oluşumları bu uzun sürecin izlerini taşır.",
-          "kicker": "Zaman"
+          "title": "",
+          "text": "Üstteki sert bölüm altındaki yumuşak malzemeyi bir süre koruyabilir. Çevredeki malzeme daha hızlı uzaklaşırken korunan bölüm sütun gibi kalır. Peribacalarının oluşumunu anlamanın temel adımlarından biri budur."
         },
         {
-          "title": "Manzaranın içinde bir yaşam.",
-          "text": "Bölgedeki kayalara oyulmuş yaşam alanları ve kiliseler, doğal oluşumlarla insan tarihini bir araya getirir. Göreme ve Kapadokya’nın kaya alanları UNESCO Dünya Mirası Listesi’ndedir.",
-          "kicker": "İnsan"
+          "title": "",
+          "text": "İnsanlar da bazı kayalara yaşam alanları ve kiliseler oydu. Böylece gördüğün manzara hem jeolojik süreçlerin hem insan emeğinin izini taşır. Göreme ve Kapadokya kaya alanlarının önemini anlamak için doğanın biçimlendirdiğiyle insanların dönüştürdüğünü birlikte okumak gerekir."
         }
       ],
       "sources": [
@@ -473,7 +510,7 @@
           "url": "https://whc.unesco.org/en/list/357/"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "duru.not",
@@ -499,18 +536,32 @@
         "explanation": "Volkanik kayaçlardan oluşan zemin zamanla farklı hızlarda aşınır. Bugünkü biçimler bu uzun sürecin ürünüdür."
       },
       "layout": "postcard",
-      "topic": "Taşın sabrı: Kapadokya"
+      "topic": "Taşın sabrı: Kapadokya",
+      "art": {
+        "kind": "photo",
+        "font": "Lora",
+        "paper": "#efe6d5",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1643354809813-8f0fd28af678?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Burak Arslan / Unsplash",
+        "url": "https://unsplash.com/photos/a-large-group-of-rocks-in-the-desert-AkOhcWuaNbE"
+      }
     },
     {
       "id": "felsefe-kontrol",
       "category": "Felsefe",
       "title": "Her şey senin elinde mi?",
-      "subtitle": "Bir Stoacı soruyla başlayalım: Şu anda gerçekten neyi seçebilirsin?",
+      "subtitle": "Epiktetos, Stoacı bir filozoftur.",
       "account": "Düşünce Arası",
       "handle": "dusuncearasi",
       "accent": "#92856b",
       "format": "perspective",
-      "minutes": 2,
+      "minutes": 1,
       "cover": {
         "url": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
         "alt": "Kitaplarla dolu kütüphane rafları; temsili görsel",
@@ -520,19 +571,16 @@
       },
       "slides": [
         {
-          "title": "Olay ile tepkiyi ayırmak.",
-          "text": "Epiktetos’un düşüncesinde kendi yargılarımız ve seçimlerimiz ile dış olaylar arasında önemli bir ayrım vardır. Başkalarının ne yapacağını tümüyle belirleyemeyiz.",
-          "kicker": "Bir ayrım"
+          "title": "",
+          "text": "Epiktetos, Stoacı bir filozoftur. Düşüncesinde kendi yargılarımız ve seçimlerimizle, bütünüyle belirleyemediğimiz dış olaylar arasında ayrım yapar. Bu ayrım, bütün hayatı kontrol edebileceğimiz beklentisini sorgular."
         },
         {
-          "title": "Bir plan iptal olduğunda…",
-          "text": "Arkadaşının kararını sen vermezsin. Fakat durumu nasıl değerlendireceğin, ne söyleyeceğin ve günün kalanını nasıl geçireceğin üzerine düşünebilirsin. Bu örnek, ayrımı gündelik hayata taşır.",
-          "kicker": "Gündelik hayat"
+          "title": "",
+          "text": "Bir iş görüşmesine hazırlanabilirsin ama görüşmecinin son kararını tek başına belirleyemezsin. Hazırlığın, sözlerin ve sonuca nasıl karşılık vereceğin üzerine çalışabilirsin. Dış sonucun belirsizliği, kendi seçiminin değersiz olduğu anlamına gelmez."
         },
         {
-          "title": "Hiçbir şey hissetmemek değil.",
-          "text": "Stoacılığı duyguları susturmak veya hiçbir şeye çaba göstermemek diye özetlemek eksik olur. Buradaki odak, yargıları incelemek ve seçimlerin sorumluluğunu almaktır.",
-          "kicker": "Yanlış anlaşılmasın"
+          "title": "",
+          "text": "Bu yaklaşımı “hiçbir şey hissetme” veya “uğraşma” diye özetlemek eksik olur. Odak, hangi alanda sorumluluk alabileceğini görmek ve olaylar hakkında kurduğun yargıları incelemektir. Enerjini yöneltmekle dünyayı tümüyle yönetmek farklı hedeflerdir."
         }
       ],
       "sources": [
@@ -541,7 +589,7 @@
           "url": "https://plato.stanford.edu/entries/epictetus/"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "elif.k",
@@ -558,19 +606,33 @@
         "answer": 1,
         "explanation": "Kendi değerlendirmene ve bundan sonra yapacağın seçime odaklanabilirsin. Dış koşulların tamamını yönetemezsin."
       },
-      "layout": "notebook",
-      "topic": "Her şey senin elinde mi"
+      "layout": "gallery",
+      "topic": "Her şey senin elinde mi",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#ece7ff",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "inanc-hat-sanati",
       "category": "İnanç",
       "title": "Bir yazı, nasıl sanata dönüşür?",
-      "subtitle": "İslam sanatında harfler hem anlam taşır hem de bir yüzeyin ritmini kurar.",
+      "subtitle": "Hat sanatı, yazının harflerini estetik bir düzen içinde kurma sanatıdır.",
       "account": "İnanç ve Kültür",
       "handle": "i̇nancvekultur",
       "accent": "#8b996c",
       "format": "carousel",
-      "minutes": 2,
+      "minutes": 1,
       "cover": {
         "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP251197.jpg",
         "alt": "Kanuni Sultan Süleymanın tezhipli tuğrası",
@@ -580,19 +642,16 @@
       },
       "slides": [
         {
-          "title": "Anlam ve biçim yan yana.",
-          "text": "Hat sanatı, yazıyı estetik bir düzen içinde kurar. İslam sanatında Arap yazısının farklı biçimleri, metin ile süslemeyi bir araya getirir.",
-          "kicker": "Hat"
+          "title": "",
+          "text": "Hat sanatı, yazının harflerini estetik bir düzen içinde kurma sanatıdır. İslam sanatında Arap yazısının farklı biçimleri, kitaplardan mimariye birçok yüzeyde kullanılmıştır. Harf okunabilir anlam taşırken aynı zamanda biçim ve ritim oluşturur."
         },
         {
-          "title": "Yalnızca bir sayfada değil.",
-          "text": "Yazı; mimaride, seramikte, metal eşyalarda ve kitaplarda görülebilir. Kullanıldığı yüzey değiştikçe harflerin ölçüsü, düzeni ve diğer bezemelerle ilişkisi de değişir.",
-          "kicker": "Kullanım"
+          "title": "",
+          "text": "Harflerin ölçüsü, aralarındaki boşluk ve satırların yerleşimi kompozisyonun parçasıdır. Bir kapının üstündeki yazıyla küçük bir kitabın sayfası aynı ölçekte okunmadığı için tasarım da değişir."
         },
         {
-          "title": "Tuğrada sanat ve resmiyet.",
-          "text": "Görselde Kanuni Sultan Süleyman’ın tuğrası yer alıyor. Bu örnekte resmî bir işaret, altın ve renkli bezemelerle özenli bir kompozisyona dönüşüyor.",
-          "kicker": "Görseldeki örnek"
+          "title": "",
+          "text": "Görseldeki Kanuni Sultan Süleyman tuğrası, hükümdarla ilişkili resmî işaretin bezemeyle birleştiği bir örnektir. Tuğrayı sıradan el yazısı imzası gibi düşünmek eksik kalır; belirli bir yazı düzeni ve siyasi kimlik işlevi vardır. Yazı burada hem bildirir hem görünür olur."
         }
       ],
       "sources": [
@@ -605,7 +664,7 @@
           "url": "https://www.metmuseum.org/art/collection/search/449534"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ahmet.a",
@@ -622,19 +681,33 @@
         "answer": 0,
         "explanation": "Metin bir anlam taşırken harflerin düzeni de estetik bir bütün oluşturur."
       },
-      "layout": "mosaic",
-      "topic": "Bir yazı, nasıl sanata dönüşür"
+      "layout": "gallery",
+      "topic": "Bir yazı, nasıl sanata dönüşür",
+      "art": {
+        "kind": "photo",
+        "font": "Bebas Neue",
+        "paper": "#f9edbc",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.metmuseum.org/CRDImages/is/web-large/DP251197.jpg",
+      "avatarCredit": {
+        "label": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/449534"
+      }
     },
     {
       "id": "inanc-chartres",
       "category": "İnanç",
       "title": "Taşın ve ışığın anlattıkları.",
-      "subtitle": "Chartres Katedrali, Hristiyanlık tarihiyle mimarlığın buluştuğu bir durak.",
+      "subtitle": "Chartres Katedrali Fransa'da bulunan, Gotik mimarinin önemli örneklerinden biridir.",
       "account": "İnanç ve Kültür",
       "handle": "i̇nancvekultur",
       "accent": "#9b8a9f",
       "format": "story",
-      "minutes": 2,
+      "minutes": 1,
       "cover": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Chartres2006_076.jpg",
         "alt": "Chartres Katedralinin heykellerle bezeli batı giriş kapısı",
@@ -644,19 +717,16 @@
       },
       "slides": [
         {
-          "title": "Fransa’da bir Gotik katedral.",
-          "text": "Chartres Katedrali, Fransız Gotik mimarisinin önemli örneklerinden biridir. UNESCO, yapının mimarisiyle bezemelerinin oluşturduğu bütüne dikkat çeker.",
-          "kicker": "Bir yapı"
+          "title": "",
+          "text": "Chartres Katedrali Fransa'da bulunan, Gotik mimarinin önemli örneklerinden biridir. Bir katedrali yalnız büyük bir taş bina olarak okumak eksik kalır; mimari, heykel ve renkli camlar ortak bir dinî mekân deneyimi kurar."
         },
         {
-          "title": "Pencereler de anlatının parçası.",
-          "text": "12. ve 13. yüzyıldan kalan vitraylar, yapının öne çıkan özelliklerindendir. Renkli camlar, iç mekândaki ışığın görünümünü değiştirirken dini sahneleri de aktarır.",
-          "kicker": "Işık"
+          "title": "",
+          "text": "Yapının 12. ve 13. yüzyıllardan kalan vitrayları, ışığı renkli camlardan geçirir. Figürler ve sahneler Hristiyan anlatılarını aktarırken, günün ışığı iç mekânın görünüşünü değiştirir. Pencere hem açıklık hem anlatım yüzeyidir."
         },
         {
-          "title": "Kapılara yeniden bak.",
-          "text": "Girişleri çevreleyen heykeller, mimarinin yüzeyini anlatımla birleştirir. Bir ibadet yapısını incelerken taşı, ışığı ve topluluğun inanç dünyasını birlikte düşünmek yeni ayrıntılar gösterir.",
-          "kicker": "Taş"
+          "title": "",
+          "text": "Girişleri çevreleyen heykellere de bu gözle bakabilirsin. İnsan binaya girerken yalnız kapıdan geçmez; belirli imgeler ve hikâyelerle karşılaşır. Chartres'ı anlamak, taşın taşıdığı yapıyla ışığın ve imgelerin taşıdığı anlamı birlikte görmeyi gerektirir."
         }
       ],
       "sources": [
@@ -665,7 +735,7 @@
           "url": "https://whc.unesco.org/en/list/81/"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "elif.k",
@@ -690,19 +760,33 @@
         "answer": 0,
         "explanation": "Vitray, renkli cam parçalarıyla oluşturulan görsel düzenlemelere verilen addır."
       },
-      "layout": "newspaper",
-      "topic": "Taşın ve ışığın anlattıkları"
+      "layout": "punchline",
+      "topic": "Taşın ve ışığın anlattıkları",
+      "art": {
+        "kind": "photo",
+        "font": "Bebas Neue",
+        "paper": "#ece7ff",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.metmuseum.org/CRDImages/is/web-large/DP251197.jpg",
+      "avatarCredit": {
+        "label": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/449534"
+      }
     },
     {
       "id": "doga-fotosentez",
       "category": "Doğa",
       "title": "Bir yaprak, güneşle ne yapar?",
-      "subtitle": "Ormanda yürürken etrafında sessiz bir enerji dönüşümü gerçekleşiyor.",
+      "subtitle": "Bir bitki büyürken yeni yaprak ve gövde oluşturur.",
       "account": "Doğanın Notları",
       "handle": "doganinnotlari",
       "accent": "#6b8e62",
       "format": "carousel",
-      "minutes": 2,
+      "minutes": 1,
       "cover": {
         "url": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
         "alt": "Ormandaki yüksek ağaçların arasından süzülen güneş ışığı",
@@ -712,19 +796,16 @@
       },
       "slides": [
         {
-          "title": "Işık, bir başlangıçtır.",
-          "text": "Bitkiler fotosentez sırasında ışık enerjisinden yararlanır. Su ve karbondioksiti kullanarak şeker üretirler; bu süreçte oksijen de açığa çıkar.",
-          "kicker": "Enerji"
+          "title": "",
+          "text": "Bir bitki büyürken yeni yaprak ve gövde oluşturur. Bunun için gereken organik maddelerin önemli bölümünü fotosentezle üretir. Işık enerjisini kullanarak su ve karbondioksitten şekerler oluşturur; süreçte oksijen de açığa çıkar."
         },
         {
-          "title": "Ağacın malzemesi nereden gelir?",
-          "text": "Bitki, havadan aldığı karbondioksitteki karbonu organik moleküllerine katar. Bu yüzden bir ağacı yalnızca topraktan oluşmuş gibi düşünmek doğru değildir.",
-          "kicker": "Madde"
+          "title": "",
+          "text": "Karbondioksit havadan gelir ve içindeki karbon bitkinin organik yapısına katılır. Bu nedenle ağacın büyüyen gövdesini yalnız topraktan çekilmiş madde gibi düşünemeyiz. Toprak su ve mineraller açısından önemlidir ama karbonun kaynağı farklıdır."
         },
         {
-          "title": "Bir yaprağın ötesinde.",
-          "text": "Fotosentezle ışık enerjisi kimyasal enerjiye dönüşür. Bu üretim, bitkilerle beslenen canlılardan başlayarak pek çok besin ağının temelini oluşturur.",
-          "kicker": "Büyük resim"
+          "title": "",
+          "text": "Şekerde depolanan kimyasal enerji, bitkinin kendi işlerinde ve onu yiyen canlıların yaşamında kullanılabilir. Yaprağın Güneş'le kurduğu ilişki böylece besin ağına yayılır. Fotosentez, ışığı yalnız yakalamak değil, kullanılabilir kimyasal enerjiye dönüştürmektir."
         }
       ],
       "sources": [
@@ -737,7 +818,7 @@
           "url": "https://qrius.si.edu/taxonomy/term/12215"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
@@ -774,19 +855,33 @@
         "answer": 0,
         "explanation": "Karbon, karbondioksitten gelir. Güneş ışığı ise sürecin enerji kaynağıdır."
       },
-      "layout": "growth",
-      "topic": "Bir yaprak, güneşle ne yapar"
+      "layout": "gallery",
+      "topic": "Bir yaprak, güneşle ne yapar",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#f4bd65",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      }
     },
     {
       "id": "teknoloji-matbaa",
       "category": "Teknoloji",
       "title": "Matbaanın hikâyesi tek kişilik değil.",
-      "subtitle": "Kitapların çoğalmasının arkasında, farklı coğrafyalarda gelişen uzun bir birikim var.",
+      "subtitle": "Baskıda hazırlanmış bir yüzeyden aynı görüntü veya metin birden fazla kez aktarılır.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "accent": "#7e93a2",
       "format": "carousel",
-      "minutes": 2,
+      "minutes": 1,
       "cover": {
         "url": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
         "alt": "Kitaplarla dolu kütüphane rafları; temsili görsel",
@@ -796,19 +891,16 @@
       },
       "slides": [
         {
-          "title": "Baskının Asya’daki geçmişi.",
-          "text": "Çin’de ahşap kalıpla baskı, Gutenberg’den yüzyıllar önce kullanılıyordu. 868 tarihli Elmas Sutra, bu uzun geçmişin günümüze ulaşan önemli örneklerinden biridir.",
-          "kicker": "Daha eski izler"
+          "title": "",
+          "text": "Baskıda hazırlanmış bir yüzeyden aynı görüntü veya metin birden fazla kez aktarılır. Ahşap kalıp baskıda bir sayfa kalıba oyulabilir. Hareketli harfte ise ayrı harf veya işaret parçaları yeniden dizilerek başka metinler kurulabilir."
         },
         {
-          "title": "Kore’den bir örnek: Jikji.",
-          "text": "1377’de Kore’de basılan Jikji, günümüze ulaşan en eski hareketli metal harf baskılı kitap olarak kabul edilir. Bu tarih, Avrupa’daki Gutenberg İncili’nden öncedir.",
-          "kicker": "Hareketli harf"
+          "title": "",
+          "text": "Çin'de ahşap baskı Gutenberg'den yüzyıllar önce kullanılıyordu; 868 tarihli Elmas Sutra önemli bir örnektir. Kore'de 1377'de basılan Jikji ise günümüze ulaşan en eski hareketli metal harf baskılı kitap olarak tanınır."
         },
         {
-          "title": "Bir buluşun birden fazla durağı.",
-          "text": "Gutenberg’in 15. yüzyılda Avrupa’da geliştirdiği sistemin büyük etkisi vardı. Fakat baskının dünya tarihini anlatırken Asya’daki önceki teknikleri de görmemiz gerekir.",
-          "kicker": "Bağlantı"
+          "title": "",
+          "text": "Gutenberg'in 15. yüzyılda Avrupa'da geliştirdiği sistem çok büyük etki yarattı. Ama dünya baskı tarihini tek kişinin icadına indirgemek önceki teknikleri siler. “Matbaa” sözcüğünün arkasında, farklı yerlerde gelişen kalıp, harf, mürekkep ve çoğaltma düzenleri vardır."
         }
       ],
       "sources": [
@@ -817,7 +909,7 @@
           "url": "https://blogs.loc.gov/preservation/2023/05/jikji-gutenberg/"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "aliokuyor",
@@ -858,22 +950,6 @@
         {
           "name": "birseda",
           "text": "İkinci kez okuyunca daha anlaşılır geldi."
-        },
-        {
-          "name": "ecebirnot",
-          "text": "Ben de yeni öğrendim, yalnız değilmişim."
-        },
-        {
-          "name": "nisa.defter",
-          "text": "Örneği görünce anladım."
-        },
-        {
-          "name": "berk.b",
-          "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
-        },
-        {
-          "name": "selin.jpg",
-          "text": "Şuraya bir yer imi bırakayım."
         }
       ],
       "quiz": {
@@ -887,18 +963,32 @@
         "explanation": "Jikji, 1377’de Kore’de hareketli metal harflerle basılmıştır."
       },
       "layout": "receipt",
-      "topic": "Matbaanın hikâyesi tek kişilik değil"
+      "topic": "Matbaanın hikâyesi tek kişilik değil",
+      "art": {
+        "kind": "type",
+        "font": "Bebas Neue",
+        "paper": "#ead9f0",
+        "ink": "#35223f",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "bilim-okyanus-basinci",
       "category": "Bilim",
       "title": "Derinlerde görünmeyen bir ağırlık var.",
-      "subtitle": "Suya indikçe yalnızca ışık azalmaz. Üzerindeki suyun uyguladığı basınç da artar.",
+      "subtitle": "Basınç, bir yüzeye etki eden kuvvetin alan başına düşen miktarıdır.",
       "account": "Bilimin İçinden",
       "handle": "bilimini̇cinden",
       "accent": "#547f87",
       "format": "experiment",
-      "minutes": 2,
+      "minutes": 1,
       "cover": {
         "url": "https://oceanservice.noaa.gov/facts/pressure.jpg",
         "alt": "Derin deniz araştırmalarında kullanılan Pisces V aracı",
@@ -908,19 +998,16 @@
       },
       "slides": [
         {
-          "title": "Üstündeki suyu düşün.",
-          "text": "Derine indikçe üzerinde daha fazla su bulunur. Suyun ağırlığından kaynaklanan basınç büyür; bu basınç yalnızca aşağıya değil, her yönde etki eder.",
-          "kicker": "Basınç"
+          "title": "",
+          "text": "Basınç, bir yüzeye etki eden kuvvetin alan başına düşen miktarıdır. Denizde derine indikçe üzerinde daha fazla su bulunur. Bu suyun ağırlığına bağlı basınç artar ve sıvıda yalnız aşağıya değil, her yönde etki eder."
         },
         {
-          "title": "Her 10 metrede bir atmosfer daha.",
-          "text": "Denizde yaklaşık her 10 metre derinlik artışı, su basıncına 1 atmosfer ekler. Yüzeydeki hava basıncı da dahil edildiğinde 20 metrede toplam yaklaşık 3 atmosfer olur.",
-          "kicker": "Yaklaşık hesap"
+          "title": "",
+          "text": "Yaklaşık her on metrede suyun eklediği basınç bir atmosfer artar. Yüzeyde zaten yaklaşık bir atmosfer hava basıncı vardır. Bu yüzden yirmi metrede toplam yaklaşık üç atmosfer olur: Bir havadan, iki sudan."
         },
         {
-          "title": "Araçlar buna göre tasarlanır.",
-          "text": "Derin deniz araştırma araçları, yüksek dış basınca dayanacak biçimde yapılır. Görseldeki Pisces V, araştırmacıların derin denizi doğrudan gözlemlemek için kullandığı araçlardan biridir.",
-          "kicker": "Keşif"
+          "title": "",
+          "text": "Bu yaklaşık hesap, deniz suyunun yoğunluğuna bağlıdır. Derin deniz araçları dışarıdaki bu büyük basınca dayanacak gövdelerle yapılır. Küçük bir alandaki kuvvet bile yüksek olabileceği için şekil ve malzeme seçimi hayati mühendislik konusudur."
         }
       ],
       "sources": [
@@ -929,7 +1016,7 @@
           "url": "https://oceanservice.noaa.gov/facts/pressure.html"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "deniz.k",
@@ -947,19 +1034,33 @@
         "explanation": "Yüzeydeki 1 atmosfere, 20 metrelik suyun yaklaşık 2 atmosferlik basıncı eklenir."
       },
       "experiment": "pressure",
-      "layout": "cutaway",
-      "topic": "Derinlerde görünmeyen bir ağırlık var"
+      "layout": "poster",
+      "topic": "Derinlerde görünmeyen bir ağırlık var",
+      "art": {
+        "kind": "photo",
+        "font": "Oswald",
+        "paper": "#ee5350",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      }
     },
     {
       "id": "tarih-gobeklitepe",
       "category": "Tarih",
       "title": "Bu taşlar ne kadar eski?",
-      "subtitle": "Şanlıurfa yakınlarında, insanlığın çok eski ortak yaşamına açılan bir pencere.",
+      "subtitle": "Göbekli Tepe, Şanlıurfa yakınındaki bir arkeolojik alandır.",
       "account": "Zamanın İzinde",
       "handle": "zamanini̇zinde",
       "accent": "#af8965",
       "format": "story",
-      "minutes": 2,
+      "minutes": 1,
       "cover": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/G%C3%B6beklitepe.jpg/960px-G%C3%B6beklitepe.jpg",
         "alt": "Göbekli Tepede dairesel yapı ve T biçimli dikilitaşlar",
@@ -970,19 +1071,16 @@
       },
       "slides": [
         {
-          "title": "Binlerce yıl geriye.",
-          "text": "Göbekli Tepe’deki anıtsal yapılar, Çanak Çömleksiz Neolitik döneme uzanır. UNESCO, alanı MÖ 9600–8200 arasındaki avcı-toplayıcı toplulukların inşa ettiği yapılarla tanımlar.",
-          "kicker": "Zaman"
+          "title": "",
+          "text": "Göbekli Tepe, Şanlıurfa yakınındaki bir arkeolojik alandır. Anıtsal yapıları, henüz çanak çömleğin kullanılmadığı Neolitik döneme uzanır. UNESCO alanı, MÖ 9600–8200 arasında avcı-toplayıcı topluluklarla ilişkili yapılar üzerinden tanımlar."
         },
         {
-          "title": "T biçimli dikilitaşlar.",
-          "text": "Yapılardaki belirgin T biçimli taşların bazılarında hayvan kabartmaları bulunur. Bu izler, o dönemde yaşayan insanların sembollerine ve ortak faaliyetlerine ilişkin ipuçları verir.",
-          "kicker": "Ayrıntı"
+          "title": "",
+          "text": "T biçimli büyük taşların bazılarında hayvan kabartmaları bulunur. Böyle taşları hazırlamak, taşımak ve ortak bir yapıda düzenlemek emek ve koordinasyon gerektirir. Bu nedenle alan, erken toplulukların ortak faaliyetlerini anlamak için önemlidir."
         },
         {
-          "title": "Bir bulgu, bir yorum değildir.",
-          "text": "Yapıların törensel kullanımları üzerine yorumlar vardır; ancak geçmişteki insanların bütün amaçlarını kesin olarak bilemeyiz. Arkeoloji, bulunan izleri yeni kanıtlarla birlikte değerlendirir.",
-          "kicker": "Arkeoloji"
+          "title": "",
+          "text": "Yapıların törensel kullanımı üzerine güçlü yorumlar vardır, ama insanların bütün inançlarını ve amaçlarını kesin biliyormuş gibi konuşamayız. Kazıda bulunan şey taş ve bağlamıdır; onların insan hayatındaki anlamı yeni kanıtlarla birlikte araştırılır."
         }
       ],
       "sources": [
@@ -991,7 +1089,7 @@
           "url": "https://whc.unesco.org/en/list/1572/"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "deniz.k",
@@ -1028,8 +1126,22 @@
         "answer": 0,
         "explanation": "T biçimli dikilitaşlar alanın belirgin mimari özelliklerindendir."
       },
-      "layout": "casefile",
-      "topic": "Bu taşlar ne kadar eski"
+      "layout": "gallery",
+      "topic": "Bu taşlar ne kadar eski",
+      "art": {
+        "kind": "photo",
+        "font": "Caveat",
+        "paper": "#d9e9cc",
+        "ink": "#24211e",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/G%C3%B6beklitepe.jpg/960px-G%C3%B6beklitepe.jpg",
+      "avatarCredit": {
+        "label": "Beytullah eles / Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6beklitepe.jpg"
+      }
     }
   ]
 }

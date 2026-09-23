@@ -7,7 +7,7 @@
       "layout": "chat",
       "category": "Felsefe",
       "title": "Felsefede argüman, kavga demek değil.",
-      "subtitle": "Bir sonuca gerekçe sunmak.",
+      "subtitle": "“Bu filmi izlemeliyiz” bir iddiadır.",
       "account": "Bir Soru Daha",
       "handle": "birsorudaha",
       "cover": {
@@ -24,12 +24,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Öncül ve sonuç",
-          "text": "Argüman, bir iddiayı desteklemek için gerekçeler kurar. Destek sağlayan ifadelere öncül, savunulan iddiaya sonuç denir."
+          "title": "",
+          "text": "“Bu filmi izlemeliyiz” bir iddiadır. “Yönetmenin önceki filmini sevdik ve konu ikimizin de ilgisini çekiyor; o yüzden bunu izleyelim” dediğinde iddiaya gerekçeler eklemiş olursun. Felsefede argüman bu gerekçelendirme yapısıdır."
         },
         {
-          "title": "Ses yüksekliği ölçüt değil",
-          "text": "Bir cümleyi güçlü söylemek gerekçesini güçlendirmez. “Neden bunu kabul etmeliyim?” sorusu, argümanı incelemenin başlangıcıdır."
+          "title": "",
+          "text": "Destek olarak sunulan cümlelere öncül, desteklenmek istenen iddiaya sonuç denir. Tartışmanın ses düzeyi veya konuşanın kendinden emin olması, öncüllerin sonucu ne kadar desteklediğini değiştirmez."
+        },
+        {
+          "title": "",
+          "text": "Bir yazıyı okurken küçük bir işlem yapabilirsin: Yazar neyi kabul etmemi istiyor, bunun için ne sunuyor? Bu iki parçayı ayırmak, bir görüşe katılmadan veya itiraz etmeden önce neyi değerlendirdiğini görmeni sağlar."
         }
       ],
       "sources": [
@@ -42,7 +46,7 @@
           "url": "https://openstax.org/books/introduction-philosophy/pages/5-4-types-of-inferences"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ardabirbak",
@@ -83,24 +87,22 @@
         {
           "name": "ayse.tr",
           "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
-        },
-        {
-          "name": "selin.jpg",
-          "text": "Tam “nasıl yani” diyecektim, devamında açıklanmış."
-        },
-        {
-          "name": "duru.not",
-          "text": "Bir çay molasına sığdı, iyi geldi."
-        },
-        {
-          "name": "gokce",
-          "text": "Görünüşüne bakıp karar veriyormuşum."
-        },
-        {
-          "name": "mert.y",
-          "text": "Kısa ama tekrar okumalık."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Space Mono",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      }
     },
     {
       "id": "kesif-gecerlilik",
@@ -108,7 +110,7 @@
       "layout": "checklist",
       "category": "Felsefe",
       "title": "Sonuç doğru diye akıl yürütme sağlam olmaz.",
-      "subtitle": "Şansla doğruya varmak başka.",
+      "subtitle": "“Bütün kediler memelidir.",
       "account": "Bir Soru Daha",
       "handle": "birsorudaha",
       "cover": {
@@ -125,12 +127,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Bağlantıya bak",
-          "text": "Tümdengelimde geçerlilik, öncüller doğru kabul edildiğinde sonucun yanlış olamamasıyla ilgilidir. Gerçekte öncüllerin doğru olduğunu tek başına söylemez."
+          "title": "",
+          "text": "“Bütün kediler memelidir. Pamuk bir kedidir. Öyleyse Pamuk memelidir.” Bu çıkarımda öncüller doğruysa sonucun yanlış olması mümkün değildir. Tümdengelimde buna geçerlilik denir; cümleler arasındaki bağlantıyı inceler."
         },
         {
-          "title": "İki ayrı kontrol",
-          "text": "Hem gerekçelerin doğruluğunu hem aralarındaki çıkarımı incelemek gerekir. Sonuca katılmak, kullanılan bütün gerekçeleri onaylamak değildir."
+          "title": "",
+          "text": "Şimdi “Bütün kediler uçar; Pamuk kedidir; öyleyse Pamuk uçar” de. İlk öncül gerçekte yanlış, fakat çıkarımın biçimi yine geçerlidir. Öncülleri doğru varsaydığımızda sonuç onları izler."
+        },
+        {
+          "title": "",
+          "text": "Dolayısıyla geçerlilikle öncüllerin gerçekte doğru olmasını ayrı kontrol ederiz. Mantık, yanlış bir bilgiyi sırf düzgün sıraya koyduk diye doğru yapmaz. Bir argümanı değerlendirmek hem başlangıç cümlelerini hem de onlardan sonuca geçişi incelemeyi gerektirir."
         }
       ],
       "sources": [
@@ -143,13 +149,27 @@
           "url": "https://openstax.org/books/introduction-philosophy/pages/5-4-types-of-inferences"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "onurdefter",
           "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      }
     },
     {
       "id": "kesif-tumevarim",
@@ -157,7 +177,7 @@
       "layout": "equation",
       "category": "Felsefe",
       "title": "Dün oldu, önceki gün oldu. Yarın kesin mi?",
-      "subtitle": "Tümevarımın gücü ve sınırı.",
+      "subtitle": "Her sabah aynı otobüsün 08.10'da geldiğini gözledin.",
       "account": "Bir Soru Daha",
       "handle": "birsorudaha",
       "cover": {
@@ -174,12 +194,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Örneklerden beklentiye",
-          "text": "Tümevarım, gözlenen örneklerden daha genel bir sonuca veya yeni duruma ilişkin beklentiye gider. Geçmiş deneyimlerden öğrenirken sıkça kullanırız."
+          "title": "",
+          "text": "Her sabah aynı otobüsün 08.10'da geldiğini gözledin. Yarın da o saatte geleceğini beklersin. Gözlenen örneklerden yeni bir duruma veya daha genel bir sonuca gitmeye tümevarım denir. Günlük öğrenmenin önemli kısmı böyle işler."
         },
         {
-          "title": "Kesinlik vermeyebilir",
-          "text": "Çok sayıda destekleyici örnek olsa da sonuç mantıksal olarak zorunlu olmayabilir. Güçlü bir beklentiyle kesin kanıt aynı şey değildir."
+          "title": "",
+          "text": "Çok sayıda düzenli gözlem beklentini güçlendirebilir. Ama yarın yol çalışması veya arıza olması mantıksal olarak imkânsız değildir. Sonuç desteklenir; başlangıçtaki bilgilerden zorunlu olarak çıkmaz."
+        },
+        {
+          "title": "",
+          "text": "Bu, geçmiş deneyimin işe yaramadığı anlamına gelmez. Beklentimizin ne kadar güçlü olduğunu ve hangi koşullarda değişebileceğini düşünmemiz gerektiğini gösterir. “Şimdiye kadar hep oldu” değerli bir bilgi; “başka türlü olması imkânsız” daha güçlü bir iddiadır."
         }
       ],
       "sources": [
@@ -192,7 +216,7 @@
           "url": "https://openstax.org/books/introduction-philosophy/pages/5-4-types-of-inferences"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ayse.tr",
@@ -218,7 +242,21 @@
           "name": "onurdefter",
           "text": "Bu ayrımı unutmayayım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "DM Sans",
+        "paper": "#ead9f0",
+        "ink": "#35223f",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      }
     },
     {
       "id": "kesif-korkuluk",
@@ -226,7 +264,7 @@
       "layout": "comic",
       "category": "Felsefe",
       "title": "“Biraz dinlenelim” dedim. “Tembelsin” dedi.",
-      "subtitle": "Söyleneni büyütüp vurmak kolay.",
+      "subtitle": "Bir çalışan “toplantıya on dakika ara verelim” diyor.",
       "account": "Bir Soru Daha",
       "handle": "birsorudaha",
       "cover": {
@@ -243,12 +281,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Zayıflatılmış rakip",
-          "text": "Korkuluk safsatası, karşı tarafın görüşünü daha kolay çürütülecek bir biçime dönüştürerek ona saldırmaktır."
+          "title": "",
+          "text": "Bir çalışan “toplantıya on dakika ara verelim” diyor. Diğeri “zaten hiç çalışmak istemiyorsun” diye cevap veriyor. İkinci kişi, önerinin kendisine değil, onu daha aşırı ve savunması zor hâle getirdiği bir sürümüne saldırıyor."
         },
         {
-          "title": "Asıl iddiaya dön",
-          "text": "Dinlenme önerisi “hiç çalışmayalım” anlamına gelmez. Tartışmada önce karşıdakinin gerçekten ne söylediğini doğru kurmak gerekir."
+          "title": "",
+          "text": "Bu hataya korkuluk safsatası denir. Asıl görüş yerine kolay devrilecek bir temsil kurulur. On dakikalık aranın gerekli olup olmadığı henüz tartışılmamıştır; konu tamamen çalışmayı reddetmeye çevrilmiştir."
+        },
+        {
+          "title": "",
+          "text": "Bunu fark etmek için karşı tarafın savunduğu cümleyi onun da kabul edeceği biçimde yeniden kur. Sonra itiraz et. Bazen “Söylediğin şu mu?” diye sormak, uzun bir tartışmayı yanlış hedefe yönelmekten kurtarır."
         }
       ],
       "sources": [
@@ -257,8 +299,22 @@
           "url": "https://openstax.org/books/introduction-philosophy/pages/5-5-informal-fallacies"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      }
     },
     {
       "id": "kesif-kisiye-saldiri",
@@ -266,7 +322,7 @@
       "layout": "myth",
       "category": "Felsefe",
       "title": "Fikre cevap yerine ayakkabısıyla dalga geçti.",
-      "subtitle": "Konu bir anda kişi oldu.",
+      "subtitle": "Bir öğrenci işlemde hata olduğunu gösteriyor.",
       "account": "Bir Soru Daha",
       "handle": "birsorudaha",
       "cover": {
@@ -283,12 +339,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "İddiadan uzaklaşmak",
-          "text": "Kişiye saldırı safsatasında, sav yerine savı ortaya atan kişinin ilgisiz özellikleri hedef alınır."
+          "title": "",
+          "text": "Bir öğrenci işlemde hata olduğunu gösteriyor. Cevap olarak “Sen önce kıyafetine bak” deniyor. Öğrencinin görünüşü, gösterdiği hesabın doğru olup olmadığıyla ilgili değildir. Sav yerine ilgisiz kişisel özelliği hedef almaya kişiye saldırı safsatası denir."
         },
         {
-          "title": "İlgili ayrıntıyı ayır",
-          "text": "Bir kişinin güvenilirliği bazı bağlamlarda önemlidir. Ama görünüşüyle alay etmek, sunduğu hesabın yanlış olduğunu göstermez."
+          "title": "",
+          "text": "Bu, konuşanın güvenilirliğinin hiçbir durumda önem taşımadığı demek değildir. Bir tanıklığı değerlendirirken olayın görülüp görülmediğini sorabiliriz. Ama bir matematik hesabını, onu söyleyenin tarzıyla çürütemeyiz."
+        },
+        {
+          "title": "",
+          "text": "Pratik kontrol şu: Kişiyle ilgili cümleyi silsem, iddiaya verilmiş bir cevap kalıyor mu? Kalmıyorsa tartışma büyük olasılıkla gerekçeden uzaklaşmıştır. Fikri sınamak, fikri söyleyeni küçümsemekten farklı bir iştir."
         }
       ],
       "sources": [
@@ -297,8 +357,22 @@
           "url": "https://openstax.org/books/introduction-philosophy/pages/5-5-informal-fallacies"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "Caveat",
+        "paper": "#f9edbc",
+        "ink": "#363220",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      }
     },
     {
       "id": "kesif-yanlis-ikilem",
@@ -306,7 +380,7 @@
       "layout": "door",
       "category": "Felsefe",
       "title": "“Ya hep ya hiç” dışında seçenek var mı?",
-      "subtitle": "Bazen seçenekler bilerek daraltılır.",
+      "subtitle": "“Bu uygulamayı kullanmıyorsan öğrenmeyi sevmiyorsun.” Cümle iki seçenek varmış gibi konuşuyor: Uygulamayı sevmek veya öğrenmeyi sevmemek.",
       "account": "Bir Soru Daha",
       "handle": "birsorudaha",
       "cover": {
@@ -323,12 +397,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "İki kapı dayatmak",
-          "text": "Yanlış ikilem, gerçekte daha fazla olasılık varken yalnız iki seçenek varmış gibi konuşmaktır."
+          "title": "",
+          "text": "“Bu uygulamayı kullanmıyorsan öğrenmeyi sevmiyorsun.” Cümle iki seçenek varmış gibi konuşuyor: Uygulamayı sevmek veya öğrenmeyi sevmemek. Oysa kitap, ders, sohbet ve başka uygulamalarla öğrenmek de mümkün."
         },
         {
-          "title": "Günlük örnek",
-          "text": "“Bu uygulamayı sevmiyorsan öğrenmeyi sevmiyorsun” cümlesi böyle bir tuzaktır. Başka araçlarla öğrenmek de mümkündür."
+          "title": "",
+          "text": "Gerçekte başka seçenekler varken yalnız iki yol sunmaya yanlış ikilem denir. İki seçenekli her soru hatalı değildir; sorun seçeneklerin bütün olasılıkları gerçekten kapsayıp kapsamadığıdır."
+        },
+        {
+          "title": "",
+          "text": "Böyle bir cümle duyduğunda üçüncü bir ihtimal aramak işe yarar. “İkisini de kısmen yapabilir miyim?”, “Başka bir yöntem var mı?” diye sor. Bazen tartışmayı çözen şey iki kutuptan birini seçmek değil, sorunun eksik kurulmuş olduğunu görmektir."
         }
       ],
       "sources": [
@@ -337,13 +415,27 @@
           "url": "https://openstax.org/books/introduction-philosophy/pages/5-5-informal-fallacies"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "selin.jpg",
           "text": "Katılmasam da ayrımı anlamak iyi oldu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#cbdcdb",
+        "ink": "#253c3a",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      }
     },
     {
       "id": "kesif-inanc-bilgi",
@@ -351,7 +443,7 @@
       "layout": "comparison",
       "category": "Felsefe",
       "title": "Çok emin olmak, bilmekle aynı mı?",
-      "subtitle": "Felsefenin eski sorusu.",
+      "subtitle": "Bir iddiaya inanmak, onu doğru kabul etmektir.",
       "account": "Bir Soru Daha",
       "handle": "birsorudaha",
       "cover": {
@@ -368,12 +460,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "İnanmak",
-          "text": "Bir iddiayı doğru kabul etmek, ona inanmaktır. İnsan yanlış bir iddiaya da içtenlikle inanabilir."
+          "title": "",
+          "text": "Bir iddiaya inanmak, onu doğru kabul etmektir. Yarın yağmur yağacağına çok güçlü biçimde inanabilirsin; yine de hava açık olabilir. İnancın gücü, dış dünyadaki durumun doğruluğunu tek başına belirlemez."
         },
         {
-          "title": "Bilgi daha fazlasını ister",
-          "text": "Bilgiyi yalnız kişinin eminliğiyle tanımlarsak yanlış ama güçlü kanaatleri de bilgi sayarız. Bu yüzden doğruluk ve gerekçe tartışmaya girer."
+          "title": "",
+          "text": "Bilgi tartışmalarında bu yüzden yalnız eminlik sorulmaz. İddia gerçekten doğru mu, onu kabul etmek için hangi gerekçeler var? Bu sorular, yanlış ama içten bir kanaatle bilgiyi ayırmaya çalışır."
+        },
+        {
+          "title": "",
+          "text": "Bir arkadaşın saatin üç olduğundan çok emin olabilir. Saatin yanlış ayarlı olduğunu öğrenince onun samimiyetinden şüphelenmen gerekmez; gerekçesinin güvenilirliğini yeniden değerlendirirsin. Dürüst olmak, yanılmamak için tek başına yeterli koşul değildir."
         }
       ],
       "sources": [
@@ -382,13 +478,27 @@
           "url": "https://openstax.org/books/introduction-philosophy/pages/7-2-knowledge"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "mert.y",
           "text": "Bu soru aklımda kaldı."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Caveat",
+        "paper": "#192f2a",
+        "ink": "#f3eddc",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      }
     },
     {
       "id": "kesif-gerekcelendirme",
@@ -396,7 +506,7 @@
       "layout": "notebook",
       "category": "Felsefe",
       "title": "Bir tahmin tuttu diye biliyor muydun?",
-      "subtitle": "Doğru cevabın nasıl bulunduğu önemli.",
+      "subtitle": "Kapalı bir kutuda kırmızı top olduğunu rastgele söyledin ve doğru çıktı.",
       "account": "Bir Soru Daha",
       "handle": "birsorudaha",
       "cover": {
@@ -413,12 +523,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Geleneksel yaklaşım",
-          "text": "Bilginin etkili bir tanımı, gerekçelendirilmiş doğru inançtır: iddia doğru olacak, kişi ona inanacak ve inancını destekleyen gerekçesi bulunacak."
+          "title": "",
+          "text": "Kapalı bir kutuda kırmızı top olduğunu rastgele söyledin ve doğru çıktı. Doğru cevap verdin; ama bunu bildiğini söylemek tartışmalıdır. Çünkü aynı rahatlıkla başka renk de söyleyebilirdin. Sonucun doğru olması tek başına yetmiyor."
         },
         {
-          "title": "Bu da son söz değil",
-          "text": "Filozoflar bu üç koşulun yeterli olup olmadığını tartışır. Tanım yapmak, karşı örnekleri incelemeyi de gerektirir."
+          "title": "",
+          "text": "Bilginin klasik bir açıklaması üç koşul önerir: İddiaya inanman, iddianın doğru olması ve onu destekleyen gerekçen bulunması. Buna gerekçelendirilmiş doğru inanç yaklaşımı denir."
+        },
+        {
+          "title": "",
+          "text": "Örneğin kutuya topu koyarken görmüş olman rastgele tahminden farklı bir dayanak sağlar. Yine de filozoflar bu üç koşulun her durumda yeterli olup olmadığını tartışır. İyi bir tanım kurmak, sadece uygun örnekleri değil onu zorlayan örnekleri de incelemektir."
         }
       ],
       "sources": [
@@ -427,7 +541,7 @@
           "url": "https://openstax.org/books/introduction-philosophy/pages/7-2-knowledge"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "keremca",
@@ -461,7 +575,21 @@
           "name": "selin.jpg",
           "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#f7f3e9",
+        "ink": "#392e22",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      }
     },
     {
       "id": "kesif-gettier",
@@ -469,7 +597,7 @@
       "layout": "casefile",
       "category": "Felsefe",
       "title": "Doğru cevap, yanlış yoldan gelebilir.",
-      "subtitle": "Bilgide şans sorunu.",
+      "subtitle": "Duvardaki saate bakıyorsun: 14.00 gösteriyor.",
       "account": "Bir Soru Daha",
       "handle": "birsorudaha",
       "cover": {
@@ -486,12 +614,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Gerekçeli ama talihli",
-          "text": "Gettier örnekleri, kişinin gerekçesi varmış gibi görünürken sonucunun tesadüfen doğru çıktığı durumları tartışır."
+          "title": "",
+          "text": "Duvardaki saate bakıyorsun: 14.00 gösteriyor. Saatin dün durduğunu bilmiyorsun. Tesadüfen şu an gerçekten 14.00. “Saat iki” inancın doğru ve normal koşullarda saate bakmak makul bir gerekçe. Yine de doğru sonuca şansla ulaştın."
         },
         {
-          "title": "Neyi zorluyor?",
-          "text": "Bu örnekler, gerekçelendirilmiş doğru inancın her zaman bilgi sayılacağı görüşüne itiraz eder. Tartışma, bilginin şansla ilişkisini görünür kılar."
+          "title": "",
+          "text": "Bu tür örnekler, doğru inanç ve görünürde iyi gerekçenin bilgi için yeterli olup olmadığını sorgular. Gettier problemi diye bilinen tartışmanın merkezinde, doğruluğun şansa bağlı kalması vardır."
+        },
+        {
+          "title": "",
+          "text": "Bir dakika önce baksan aynı saati görecek ve yanılacaktın. İşte bu kırılganlık, “cevabım doğru çıktı” ile “güvenilir biçimde biliyordum” arasındaki farkı görünür kılar. Felsefe bazen çok küçük bir saat örneğiyle büyük bir tanımı sınar."
         }
       ],
       "sources": [
@@ -500,7 +632,7 @@
           "url": "https://openstax.org/books/introduction-philosophy/pages/7-2-knowledge"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "duru.not",
@@ -541,12 +673,22 @@
         {
           "name": "selin.jpg",
           "text": "Bunu birine anlatmayı deneyeceğim."
-        },
-        {
-          "name": "aliokuyor",
-          "text": "Bugünün cebime attığım bilgisi bu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#cbdcdb",
+        "ink": "#253c3a",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      }
     },
     {
       "id": "kesif-sonucculuk",
@@ -554,7 +696,7 @@
       "layout": "comparison",
       "category": "Felsefe",
       "title": "Bir davranışı sonucuyla değerlendirmek.",
-      "subtitle": "Etikte önemli bir yaklaşım.",
+      "subtitle": "Bir kararın ahlaken iyi olup olmadığını nasıl değerlendireceğiz?",
       "account": "Bir Soru Daha",
       "handle": "birsorudaha",
       "cover": {
@@ -571,12 +713,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Etkilenenlere bak",
-          "text": "Sonuççu yaklaşımlar, eylemin ahlaki değerlendirmesinde sonuçlarını merkeze alır. Yalnız yapanın niyetini sormakla yetinmez."
+          "title": "",
+          "text": "Bir kararın ahlaken iyi olup olmadığını nasıl değerlendireceğiz? Sonuççu yaklaşımlar, eylemin ortaya çıkardığı sonuçları merkeze alır. “Niyetim iyiydi” açıklaması tek başına yeterli görülmez; gerçekte kime ne olduğu da sorulur."
         },
         {
-          "title": "Kolay bir hesap değil",
-          "text": "Hangi sonuçların önemli olduğu ve kimin yararının nasıl karşılaştırılacağı tartışmalıdır. Bu, bütün filozofların benimsediği tek ölçüt değildir."
+          "title": "",
+          "text": "Örneğin yardım dağıtma yöntemini seçerken kaç kişinin ihtiyacının karşılanacağını düşünmek sonuçlara bakmaktır. Ama hangi sonuçların daha önemli sayılacağı ve farklı insanların yararlarının nasıl karşılaştırılacağı ayrıca tartışılır."
+        },
+        {
+          "title": "",
+          "text": "Sonuççuluk tek bir hazır hesap makinesi değildir; farklı biçimleri vardır. Haklar, görevler veya erdemleri öne çıkaran başka etik yaklaşımlar da bulunur. Bu kavramı öğrenmek, bütün ahlak tartışmalarının çözüldüğü değil, belirli bir değerlendirme yolunu tanıdığın anlamına gelir."
         }
       ],
       "sources": [
@@ -585,7 +731,7 @@
           "url": "https://openstax.org/books/introduction-philosophy/pages/9-2-consequentialism"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "umutburada",
@@ -599,7 +745,21 @@
           "name": "ayse.tr",
           "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Bebas Neue",
+        "paper": "#f7f3e9",
+        "ink": "#392e22",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      }
     },
     {
       "id": "kesif-eylem-faydaciligi",
@@ -607,7 +767,7 @@
       "layout": "casefile",
       "category": "Felsefe",
       "title": "Her kararı ayrı ayrı hesaplamak.",
-      "subtitle": "Eylem faydacılığının yaklaşımı.",
+      "subtitle": "Eylem faydacılığı, her kararın beklenen sonuçlarını ayrı ayrı değerlendirerek toplam yararı veya mutluluğu artıran seçeneği arar.",
       "account": "Bir Soru Daha",
       "handle": "birsorudaha",
       "cover": {
@@ -624,12 +784,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Tekil duruma bak",
-          "text": "Eylem faydacılığı, her eylemi ortaya çıkaracağı toplam yarar veya mutluluk açısından değerlendirmeyi önerir."
+          "title": "",
+          "text": "Eylem faydacılığı, her kararın beklenen sonuçlarını ayrı ayrı değerlendirerek toplam yararı veya mutluluğu artıran seçeneği arar. Yalnız karar verenin kazancı değil, etkilenenlerin durumu da hesaba katılmalıdır."
         },
         {
-          "title": "Zor soru",
-          "text": "Benzer görünen iki durumda farklı sonuçlar beklenebilir. Bu yaklaşımın eleştirileri arasında hesabın belirsizliği ve bireysel haklarla gerilim bulunur."
+          "title": "",
+          "text": "Bir yardım bütçesini iki proje arasında paylaştırmayı düşün. Bu yaklaşım, her projenin kaç kişiye ne ölçüde fayda sağlayacağını karşılaştırmaya çalışır. Görünüşte benzer iki durumda farklı sonuçlar bekleniyorsa karar da değişebilir."
+        },
+        {
+          "title": "",
+          "text": "Zorluk, sonuçları önceden ne kadar iyi bilebildiğimiz ve yararları nasıl ölçtüğümüzdür. Ayrıca çoğunluğun kazancı uğruna tek kişinin hakkının zedelenmesi gibi itirazlar vardır. Kavram, bu sorulara bakış biçimi sunar; tartışmayı ortadan kaldırmaz."
         }
       ],
       "sources": [
@@ -638,13 +802,27 @@
           "url": "https://openstax.org/books/introduction-philosophy/pages/9-2-consequentialism"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "onurdefter",
           "text": "Bu konudan başka bir şey de okuyasım geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      }
     },
     {
       "id": "kesif-kural-faydaciligi",
@@ -652,7 +830,7 @@
       "layout": "split",
       "category": "Felsefe",
       "title": "Tek hareket yerine kuralı sınamak.",
-      "subtitle": "Aynı geleneğin başka yolu.",
+      "subtitle": "Tek bir olayda kısa vadeli kazanç sağlayan davranış, herkes tarafından kural hâline getirilince kötü sonuç verebilir.",
       "account": "Bir Soru Daha",
       "handle": "birsorudaha",
       "cover": {
@@ -669,12 +847,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Hangi kural daha iyi?",
-          "text": "Kural faydacılığı, genel olarak izlenmesi daha iyi sonuçlar doğuracak kuralları değerlendirmeye odaklanır."
+          "title": "",
+          "text": "Tek bir olayda kısa vadeli kazanç sağlayan davranış, herkes tarafından kural hâline getirilince kötü sonuç verebilir. Kural faydacılığı bu yüzden yalnız tekil eyleme değil, genel olarak izlenmesi daha iyi sonuçlar doğuran kurallara bakar."
         },
         {
-          "title": "Aradaki fark",
-          "text": "Tek bir durumda kazançlı görünen istisna, yaygınlaşınca güveni azaltabilir. Bu yüzden eylemin tekil getirisiyle kuralın genel etkisi ayrılır."
+          "title": "",
+          "text": "Örneğin sözünü bozmak bir seferliğine avantaj sağlayabilir. Ama kimsenin sözüne güvenemediği bir ortamda iş birliği zorlaşır. Kuralın toplumsal etkisini düşünmek, tek olayın kazancından farklı bir hesap açar."
+        },
+        {
+          "title": "",
+          "text": "Eylem faydacılığı “bu durumda hangi davranış?” diye sorarken bu yaklaşım “hangi kurallara bağlı yaşamak?” sorusunu öne çıkarır. İkisinin de sonuçlara ilgisi vardır; değerlendirdikleri temel birim farklıdır. Etik tartışmalarda benzer adların neden farklı kararlar üretebildiğini bu ayrım açıklar."
         }
       ],
       "sources": [
@@ -683,7 +865,7 @@
           "url": "https://openstax.org/books/introduction-philosophy/pages/9-2-consequentialism"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "berk.b",
@@ -717,7 +899,21 @@
           "name": "iremce",
           "text": "Okurken durup düşündüm biraz."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      }
     },
     {
       "id": "kesif-korelasyon",
@@ -725,7 +921,7 @@
       "layout": "comic",
       "category": "Bilim",
       "title": "Dondurma satıldı, güneş gözlüğü de satıldı.",
-      "subtitle": "Biri ötekine sebep olmak zorunda değil.",
+      "subtitle": "Yaz günlerinde dondurma satışıyla güneş gözlüğü satışı birlikte artabilir.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -742,12 +938,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Birlikte değişmek",
-          "text": "İki değişkenin birlikte değişmesine korelasyon denir. Bu ilişki tek başına hangisinin diğerine neden olduğunu göstermez."
+          "title": "",
+          "text": "Yaz günlerinde dondurma satışıyla güneş gözlüğü satışı birlikte artabilir. İki değişkenin birlikte değişmesine korelasyon denir. Ama bundan dondurma yemenin gözlük satın almaya neden olduğunu çıkaramayız."
         },
         {
-          "title": "Üçüncü etken",
-          "text": "Örnekte sıcak ve güneşli hava ikisini de etkileyebilir. Bir ilişki gördüğümüzde başka açıklamalar olup olmadığını sormamız gerekir."
+          "title": "",
+          "text": "Sıcak ve güneşli hava ikisini birden etkiliyor olabilir. Buna üçüncü değişken açıklaması diyebiliriz. Başka örneklerde nedenin yönü ters olabilir veya gözlenen ilişki tesadüfen ortaya çıkabilir."
+        },
+        {
+          "title": "",
+          "text": "İlişki bulmak değersiz değildir; araştırılacak bir ipucu verir. Nedensellik iddiası için başka açıklamaları elemek ve uygun araştırma düzeni kurmak gerekir. Bir grafikte iki çizginin beraber yükseldiğini gördüğünde önce “bunları birlikte etkileyen ne olabilir?” diye sor."
         }
       ],
       "sources": [
@@ -756,7 +956,7 @@
           "url": "https://openstax.org/books/psychology-2e/pages/2-3-analyzing-findings"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "mert.y",
@@ -778,7 +978,21 @@
           "name": "ayse.tr",
           "text": "Fotoğrafa bakıp geçecektim az daha."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Caveat",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-rastgele-atama",
@@ -786,7 +1000,7 @@
       "layout": "comparison",
       "category": "Bilim",
       "title": "Rastgele seçmekle rastgele gruba ayırmak farklı.",
-      "subtitle": "Araştırmada iki ayrı iş.",
+      "subtitle": "Bir şehirdeki öğrencilerin çalışma alışkanlıklarını araştıracaksın.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -803,12 +1017,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Örneklem seçmek",
-          "text": "Rastgele örnekleme, kimlerin araştırmaya alınacağını belirler. Amaç, daha geniş topluluğu uygun biçimde temsil etmektir."
+          "title": "",
+          "text": "Bir şehirdeki öğrencilerin çalışma alışkanlıklarını araştıracaksın. Kimin araştırmaya alınacağını rastgele seçmek, örnekleme meselesidir. Amaç, küçük grubun daha geniş topluluk hakkında bilgi verebilmesini desteklemektir."
         },
         {
-          "title": "Gruba atamak",
-          "text": "Rastgele atama ise katılımcıların deney koşullarına dağıtılmasıdır. Grupların başlangıç farklarını azaltmaya yardım eder; aynı işlem değildir."
+          "title": "",
+          "text": "Şimdi katılan öğrencilerin bir kısmına yöntem A, diğerlerine yöntem B uygulanacak. Onları gruplara rastgele dağıtmak ise rastgele atamadır. Böylece başlangıçtaki farkların gruplardan birine sistemli biçimde yığılması azaltılmaya çalışılır."
+        },
+        {
+          "title": "",
+          "text": "İki işlem farklı aşamalardadır. Gönüllülerden oluşan bir grubu rastgele ikiye bölmek iyi bir deney karşılaştırması sağlayabilir, ama gönüllüleri otomatik olarak bütün öğrencilerin temsilcisi yapmaz. “Rastgele” sözcüğünü duyunca neyin rastgele seçildiğini sormak gerekir."
         }
       ],
       "sources": [
@@ -817,13 +1035,27 @@
           "url": "https://openstax.org/books/psychology-2e/pages/2-3-analyzing-findings"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "cemden",
           "text": "Bu konudan başka bir şey de okuyasım geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Caveat",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-plasebo-kontrol",
@@ -831,7 +1063,7 @@
       "layout": "checklist",
       "category": "Bilim",
       "title": "İyileşme gördük. Sebebi uygulama mı?",
-      "subtitle": "Karşılaştırma grubu bu yüzden var.",
+      "subtitle": "Bir uygulamadan sonra insanların kendini daha iyi hissettiğini gözledin.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -848,12 +1080,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Birden çok açıklama",
-          "text": "Beklenti, zamanın geçmesi veya ölçüm koşulları sonuçları etkileyebilir. Bir değişimi görmek, nedeni tek başına ortaya koymaz."
+          "title": "",
+          "text": "Bir uygulamadan sonra insanların kendini daha iyi hissettiğini gözledin. Bu değişim gerçekten uygulamanın özel etkisi mi? Zamanın geçmesi, beklenti ve ölçüm koşulları da sonuca katkı vermiş olabilir. Önce-sonra farkı nedeni tek başına ayırmaz."
         },
         {
-          "title": "Kontrolün rolü",
-          "text": "Uygun kontrol grubu ve rastgele atama, araştırılan etkinin diğer etkilerden ayrılmasına yardım eder. Yine de çalışma tasarımı ayrıca değerlendirilir."
+          "title": "",
+          "text": "Araştırmada uygun bir kontrol grubuyla karşılaştırma bu yüzden önemlidir. Bazı çalışmalarda benzer görünen ama araştırılan etkin bileşeni taşımayan plasebo kullanılır. Amaç beklenti gibi etkileri karşılaştırmanın iki tarafında benzer tutmaktır."
+        },
+        {
+          "title": "",
+          "text": "Rastgele atama ve uygun körleme de bazı yanlılıkları azaltabilir. Yine de çalışmanın büyüklüğü, ölçümü ve kayıpları değerlendirilir. “İyileşenler olmuş” başlangıç gözlemidir; hangi etkiyi neyin oluşturduğunu göstermek daha dikkatli bir düzen gerektirir."
         }
       ],
       "sources": [
@@ -862,7 +1098,7 @@
           "url": "https://openstax.org/books/psychology-2e/pages/2-3-analyzing-findings"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "umutburada",
@@ -903,12 +1139,22 @@
         {
           "name": "berk.b",
           "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
-        },
-        {
-          "name": "ayse.tr",
-          "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#f9edbc",
+        "ink": "#363220",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-kodlama",
@@ -916,7 +1162,7 @@
       "layout": "book",
       "category": "Bilim",
       "title": "Bakmak, kaydetmekle aynı şey değil.",
-      "subtitle": "Belleğin ilk adımı.",
+      "subtitle": "Bir sayfaya uzun süre bakıp sonra hiçbir şey hatırlamadığın olmuştur.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -933,12 +1179,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Bilgiyi işlemek",
-          "text": "Kodlama, bilgiyi bellekte tutulabilir bir biçime dönüştürme sürecidir. Bir şeyi yalnızca gözünün önünden geçirmek, onu güçlü biçimde kodlamayı garanti etmez."
+          "title": "",
+          "text": "Bir sayfaya uzun süre bakıp sonra hiçbir şey hatırlamadığın olmuştur. Görüntünün gözünden geçmesiyle bilginin bellekte kullanılabilir biçimde işlenmesi aynı aşama değildir. Bilgiyi bu biçime dönüştürme sürecine kodlama denir."
         },
         {
-          "title": "Anlamla ilişki",
-          "text": "Bilgiyi anlamıyla işlemek ve mevcut bilgilerle ilişkilendirmek, yalnız görünüşüne dikkat etmekten farklı bir öğrenme yolu oluşturur."
+          "title": "",
+          "text": "Bir kavramı yalnız harflerinin şekline bakarak okumakla kendi örneğinle açıklamaya çalışmak farklı işlem düzeyleridir. Anlamı düşünmek ve bildiklerinle ilişki kurmak, hatırlamayı destekleyen bağlantılar oluşturabilir."
+        },
+        {
+          "title": "",
+          "text": "Mesela “kaldırma kuvveti”ni okuyup geçmek yerine sudaki taşın neden hafif geldiğini kendi cümlenle anlat. Böylece terimi bir deneyime bağlarsın. Metni gördüğünü değil, ne anladığını kontrol etmek öğrenmede daha açıklayıcı bir ölçüdür."
         }
       ],
       "sources": [
@@ -947,13 +1197,27 @@
           "url": "https://openstax.org/books/psychology-2e/pages/8-1-how-memory-functions"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "onurdefter",
           "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#ead9f0",
+        "ink": "#35223f",
+        "align": "end",
+        "position": "top"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-bellek-turleri",
@@ -961,7 +1225,7 @@
       "layout": "split",
       "category": "Bilim",
       "title": "Bisiklete binmekle bir tarihi bilmek farklı.",
-      "subtitle": "Belleğin tek çekmecesi yok.",
+      "subtitle": "Bisiklete binerken dengeni nasıl ayarladığını her saniye cümlelerle anlatmazsın.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -978,12 +1242,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Beceri belleği",
-          "text": "Bazı öğrenmeler, nasıl yaptığını her adımda anlatmadan uygulayabildiğin becerilerle ilgilidir. Bisiklete binmek buna örnek verilir."
+          "title": "",
+          "text": "Bisiklete binerken dengeni nasıl ayarladığını her saniye cümlelerle anlatmazsın. Bedenin öğrenilmiş bir beceriyi uygular. Bu tür beceriler, işlemsel bellek denen süreçlerle ilişkilidir."
         },
         {
-          "title": "Anlatılabilen bilgi",
-          "text": "Bir olayın tarihini veya kendi yaşadığın bir anıyı söylemek, açık bellekle ilişkilidir. Beceriyi yapmakla onu söze dökmek aynı iş değildir."
+          "title": "",
+          "text": "Bir ülkenin başkentini söylemek veya geçen yazki bir olayı anlatmak ise bilinçli olarak dile getirebildiğin açık bellek örnekleridir. Aynı “hatırlamak” sözcüğünü kullansak da görevler farklıdır."
+        },
+        {
+          "title": "",
+          "text": "Bu yüzden bisiklet sürmeyi çok iyi bilen birinin bunu sözle mükemmel açıklayamaması şaşırtıcı değildir. Tersine, denge kurmanın teorisini anlatmak da tek başına sürme becerisi sağlamaz. Öğrenmek istediğin şeyin bilgi mi, uygulama becerisi mi olduğunu bilmek çalışma biçimini etkiler."
         }
       ],
       "sources": [
@@ -992,8 +1260,22 @@
           "url": "https://openstax.org/books/psychology-2e/pages/8-1-how-memory-functions"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#f9edbc",
+        "ink": "#363220",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-hatirlama-tanima",
@@ -1001,7 +1283,7 @@
       "layout": "reveal",
       "category": "Bilim",
       "title": "Şıklarda görünce bildin. Kendin söyleyemedin.",
-      "subtitle": "Tanıma ile hatırlama farklı.",
+      "subtitle": "Bir oyuncunun adını sorunca bulamıyorsun.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -1018,12 +1300,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "İpucu sunulursa",
-          "text": "Tanımada, karşılaşılan bilginin daha önce görülüp görülmediği değerlendirilir. Çoktan seçmeli sorular bu desteği sağlayabilir."
+          "title": "",
+          "text": "Bir oyuncunun adını sorunca bulamıyorsun. Dört seçenek gösterilince doğru adı hemen seçiyorsun. İkinci durumda seçenekler dışarıdan ipucu sağlıyor; daha önce karşılaştığın bilgiyi tanıyorsun."
         },
         {
-          "title": "Kendin getirmek",
-          "text": "Serbest hatırlamada bilgi daha az dış ipucuyla geri çağrılır. Bir şeyi tanımak, her koşulda kendiliğinden söyleyebileceğin anlamına gelmez."
+          "title": "",
+          "text": "Serbest hatırlamada ise cevabı daha az dış destekle kendin üretmen gerekir. Bu iki görev aynı zorlukta değildir. Bir kavramı okurken tanıdık bulmak, kitaba bakmadan açıklayabileceğini garanti etmez."
+        },
+        {
+          "title": "",
+          "text": "Kendini kontrol etmek için sayfayı kapatıp tek cümleyle anlatmayı dene. Takılırsan bu her şeyi unuttuğun anlamına gelmez; bilginin hangi ipuçlarıyla erişilebilir olduğunu görmüş olursun. Öğrenmeyi değerlendirmek, yalnız “bunu bir yerde gördüm” hissinden fazlasını ister."
         }
       ],
       "sources": [
@@ -1032,13 +1318,27 @@
           "url": "https://openstax.org/books/psychology-2e/pages/8-1-how-memory-functions"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "keremca",
           "text": "Bunu arkadaşla tartışıyorduk geçen gün."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-ani-kamera",
@@ -1046,7 +1346,7 @@
       "layout": "myth",
       "category": "Bilim",
       "title": "Anı, açıp izlediğin değişmez video değil.",
-      "subtitle": "Hatırlarken yeniden kurarız.",
+      "subtitle": "Geçmiş bir olayı hatırlarken zihnin, değişmez bir video dosyasını oynatır gibi çalışmaz.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -1063,12 +1363,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Yeniden yapılandırma",
-          "text": "Eski bir olayı hatırlamak, kaydı birebir oynatmak gibi işlemez. Sonradan edinilen bilgiler, anının anlatılışına karışabilir."
+          "title": "",
+          "text": "Geçmiş bir olayı hatırlarken zihnin, değişmez bir video dosyasını oynatır gibi çalışmaz. Olaydan kalan bilgiler yeniden bir araya gelir. Sonradan duydukların, beklentilerin ve sorunun soruluşu bu yeniden kurmaya karışabilir."
         },
         {
-          "title": "Yalanla aynı değil",
-          "text": "Bir insan yaşadığını dürüstçe anlatırken de ayrıntılarda yanılabilir. Bellek hatasıyla bilinçli aldatmayı birbirine eşitlememek gerekir."
+          "title": "",
+          "text": "Bu nedenle bir insan samimiyetle anlattığı bir anıda ayrıntılarda yanılabilir. Yanlış hatırlamakla bilinçli yalan söylemek aynı süreç değildir. Çok canlı ve duygulu bir anı da her küçük ayrıntısında kusursuz olmak zorunda değildir."
+        },
+        {
+          "title": "",
+          "text": "İki arkadaşın aynı günü farklı anlatması bu yüzden hemen birinin yalan söylediğini göstermez. Zaman, yer ve bağımsız kayıtlar gibi başka bilgilerle karşılaştırmak gerekir. Belleğe güvenmekle onun sınırlarını bilmek birbirini dışlamaz."
         }
       ],
       "sources": [
@@ -1077,13 +1381,27 @@
           "url": "https://openstax.org/books/psychology-2e/pages/8-3-problems-with-memory"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ecebirnot",
           "text": "Kısa ama tekrar okumalık."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Space Mono",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-yaniltici-bilgi",
@@ -1091,7 +1409,7 @@
       "layout": "chat",
       "category": "Bilim",
       "title": "Sorunun kelimesi anıyı etkileyebilir.",
-      "subtitle": "Hatırlamanın çevresi de önemli.",
+      "subtitle": "Bir kazayı gördükten sonra sana “Kırık camları fark ettin mi?” diye sorulduğunu düşün.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -1108,12 +1426,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Sonradan gelen bilgi",
-          "text": "Yönlendirici sorular veya yanlış bilgiler, bir olayın sonradan nasıl hatırlandığını etkileyebilir. Buna yanlış bilgi etkisi denir."
+          "title": "",
+          "text": "Bir kazayı gördükten sonra sana “Kırık camları fark ettin mi?” diye sorulduğunu düşün. Sorunun içinde kırık cam bulunduğu varsayımı var. Oysa sen cam görmemiş olabilirsin. Sonraki bilgi, anıyı anlatma biçimine karışabilir."
         },
         {
-          "title": "Kaynağı ayır",
-          "text": "Gördüğümüz ayrıntıyla sonradan duyduğumuz ayrıntı zamanla karışabilir. “Bunu nereden biliyorum?” sorusu burada işe yarar."
+          "title": "",
+          "text": "Yanlış bilgi etkisi, olaydan sonra verilen yanıltıcı bilginin hatırlamayı etkilemesini anlatır. Etki, herkesin her soruyla aynı biçimde yönlendirileceği anlamına gelmez; fakat soru dilinin tarafsız olmadığını gösterir."
+        },
+        {
+          "title": "",
+          "text": "Bu nedenle “Ne gördün?” ile “Şunu gördün, değil mi?” farklı sorulardır. Bir olayı öğrenmeye çalışırken cevabı sorunun içine yerleştirmemek önemlidir. Hatırladığın ayrıntının görüntüden mi, sonradan duyduğun cümleden mi geldiğini ayırmak bazen zorlaşabilir."
         }
       ],
       "sources": [
@@ -1122,7 +1444,7 @@
           "url": "https://openstax.org/books/psychology-2e/pages/8-3-problems-with-memory"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "cemden",
@@ -1163,24 +1485,22 @@
         {
           "name": "mert.y",
           "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
-        },
-        {
-          "name": "keremca",
-          "text": "Fotoğrafa bakıp geçecektim az daha."
-        },
-        {
-          "name": "iremce",
-          "text": "Telefonu bırakmadan önce son bir bilgi olsun dedim."
-        },
-        {
-          "name": "birseda",
-          "text": "Bir dakika diye girdim yine konu uzadı bende."
-        },
-        {
-          "name": "onurdefter",
-          "text": "Ben bunu tam ters biliyormuşum 😅"
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Space Mono",
+        "paper": "#f9edbc",
+        "ink": "#363220",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-kaynak-yanilgisi",
@@ -1188,7 +1508,7 @@
       "layout": "casefile",
       "category": "Bilim",
       "title": "Bilgiyi hatırladın, nereden geldiğini unuttun.",
-      "subtitle": "Belleğin iki tarafı ayrılabilir.",
+      "subtitle": "Bir bilgiyi hatırlıyorsun ama nerede duyduğunu karıştırıyorsun: Kitapta mı okudun, arkadaşın mı söyledi, videoda mı gördün?",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -1205,12 +1525,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Yanlış adrese bağlamak",
-          "text": "Bir bilgiyi doğru hatırlayıp onu yanlış kişiye veya olaya bağlamak kaynak hatasıdır."
+          "title": "",
+          "text": "Bir bilgiyi hatırlıyorsun ama nerede duyduğunu karıştırıyorsun: Kitapta mı okudun, arkadaşın mı söyledi, videoda mı gördün? İçeriğin akılda kalıp kaynağın yanlış eşleştirilmesine kaynak hatası denir."
         },
         {
-          "title": "Gündelik örnek",
-          "text": "Bir fikri kendin bulduğunu sanıp aslında daha önce okumuş olabilirsin. İçeriğin tanıdıklığı, kaynağının da doğru hatırlandığını göstermez."
+          "title": "",
+          "text": "Bazen bir fikir sana çok tanıdık gelir ve onu kendin üretmiş gibi hissedebilirsin. Oysa daha önce görmüş, görme anını unutmuş olabilirsin. Tanıdıklık hissi, kaynağın doğru hatırlandığını göstermeye yetmez."
+        },
+        {
+          "title": "",
+          "text": "Not alırken bilginin yanına bağlantı veya eser adını eklemek bu yüzden yalnız akademik bir alışkanlık değildir. Daha sonra “bunu nereden biliyorum?” sorusuna dönmeyi kolaylaştırır. İçerikle kaynağı birlikte saklamak, belleğin iki farklı işine destek olur."
         }
       ],
       "sources": [
@@ -1219,8 +1543,22 @@
           "url": "https://openstax.org/books/psychology-2e/pages/8-3-problems-with-memory"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-yakinlik-ilkesi",
@@ -1228,7 +1566,7 @@
       "layout": "mosaic",
       "category": "Sanat",
       "title": "Yan yana duranları takım sanıyoruz.",
-      "subtitle": "Tasarımda boşluk da konuşur.",
+      "subtitle": "Altı noktayı eşit aralıklarla dizersen tek bir sıra gibi görebilirsin.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -1245,12 +1583,16 @@
       "motion": "mosaic",
       "slides": [
         {
-          "title": "Yakınlık",
-          "text": "Birbirine yakın öğeleri aynı gruba aitmiş gibi algılama eğilimimiz vardır. Aynı simgeler, aralarındaki mesafe değişince farklı kümeler gibi görünür."
+          "title": "",
+          "text": "Altı noktayı eşit aralıklarla dizersen tek bir sıra gibi görebilirsin. Aynı noktaların aralarını ikili gruplar oluşturacak biçimde açınca, üç çift algılamak kolaylaşır. Noktalar değişmedi; yalnız aralarındaki mesafe değişti."
         },
         {
-          "title": "Ekrandaki karşılığı",
-          "text": "Bir düğmeyi ilgili açıklamasına yaklaştırmak, ilişkilerini anlaşılır kılabilir. Tasarım yalnız renk seçmek değildir."
+          "title": "",
+          "text": "Birbirine yakın öğeleri birlikte gruplama eğilimine yakınlık ilkesi denir. Gestalt yaklaşımı, parçaları nasıl düzenli bütünler olarak algıladığımızı inceler. Yakınlık bu düzenleme ipuçlarından biridir."
+        },
+        {
+          "title": "",
+          "text": "Bir formdaki açıklamayı ilgili kutudan çok uzağa koyarsan insanlar yanlış kutuyla ilişkilendirebilir. Bu yüzden tasarımda boşluk, boş yere harcanmış alan değildir. Hangi parçaların birlikte okunacağını söyleyen sessiz bir işarettir."
         }
       ],
       "sources": [
@@ -1259,13 +1601,27 @@
           "url": "https://openstax.org/books/psychology-2e/pages/5-6-gestalt-principles-of-perception"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "duru.not",
           "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Oswald",
+        "paper": "#f7f3e9",
+        "ink": "#392e22",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-tamamlama",
@@ -1273,7 +1629,7 @@
       "layout": "puzzle",
       "category": "Sanat",
       "title": "Eksik çemberi yine çember görüyorsun.",
-      "subtitle": "Zihin parçaları birleştirir.",
+      "subtitle": "Kenarında küçük boşluklar bulunan bir çember çizildiğinde, çoğu zaman ayrı yay parçaları yerine bir çember görürsün.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -1290,12 +1646,16 @@
       "motion": "mosaic",
       "slides": [
         {
-          "title": "Tamamlama eğilimi",
-          "text": "Görsel sistem, eksik sınırları bütün bir şekil olarak örgütleyebilir. Gestalt yaklaşımında buna tamamlama ilkesi denir."
+          "title": "",
+          "text": "Kenarında küçük boşluklar bulunan bir çember çizildiğinde, çoğu zaman ayrı yay parçaları yerine bir çember görürsün. Görsel sistem, parçaları anlamlı bir bütün olarak düzenlerken eksik sınırları tamamlayabilir."
         },
         {
-          "title": "Bildiğin şeklin etkisi",
-          "text": "Her boşluğu gelişigüzel doldurmayız. Parçaların düzeni ve bağlam, hangi bütünü gördüğümüzü etkiler."
+          "title": "",
+          "text": "Gestalt yaklaşımında buna tamamlama ilkesi denir. Ortada gerçekten çizilmiş tam bir sınır olmayabilir; algıladığın bütün, parçaların düzeninden doğar. Logolarda az çizgiyle tanınan şekiller kurulabilmesinin yollarından biri budur."
+        },
+        {
+          "title": "",
+          "text": "Ama her dağınık çizgi aynı biçimde tamamlanmaz. Parçaların konumu, yönü ve çevresi hangi şeklin görüleceğini etkiler. Gözün yalnız ışığı toplayan bir kamera gibi değil, ilişkilerden bir düzen kuran sistemin parçası gibi çalışır."
         }
       ],
       "sources": [
@@ -1304,8 +1664,22 @@
           "url": "https://openstax.org/books/psychology-2e/pages/5-6-gestalt-principles-of-perception"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "end",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-sekil-zemin",
@@ -1313,7 +1687,7 @@
       "layout": "reveal",
       "category": "Sanat",
       "title": "Vazo mu gördün, iki yüz mü?",
-      "subtitle": "Bakışın seçtiği alan değişebilir.",
+      "subtitle": "Ünlü bir çizimde ortadaki beyaz bölgeye bakınca vazo, iki yandaki koyu bölgelere bakınca birbirine dönük iki yüz görebilirsin.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -1330,12 +1704,16 @@
       "motion": "mosaic",
       "slides": [
         {
-          "title": "Ön planı seçmek",
-          "text": "Şekil-zemin ilişkisinde bazı bölgeleri nesne, kalanını arka plan olarak algılarız. Belirsiz çizimlerde bu roller yer değiştirebilir."
+          "title": "",
+          "text": "Ünlü bir çizimde ortadaki beyaz bölgeye bakınca vazo, iki yandaki koyu bölgelere bakınca birbirine dönük iki yüz görebilirsin. Çizgiler yerinden oynamaz. Değişen, hangi bölgeyi nesne, hangisini arka plan olarak yorumladığındır."
         },
         {
-          "title": "Aynı çizgi, başka görüntü",
-          "text": "Görsel uyaran değişmeden algılanan şekil değişebilir. Görmek, ışığı kaydetmenin yanında onu örgütlemeyi de içerir."
+          "title": "",
+          "text": "Bu örgütlemeye şekil-zemin ilişkisi denir. Nesne saydığın alanın sınırı belirginleşirken diğer alan onun arkasındaki zemin gibi algılanır. Belirsiz çizimlerde roller yer değiştirebilir."
+        },
+        {
+          "title": "",
+          "text": "Bu deneyim, “görüyorum, demek ki yorum yok” düşüncesini zorlar. Işık örüntüsü aynı kalırken algın değişebiliyor. Görmek, dışarıdan gelen bilgiyi almak kadar onun içindeki sınırları ve ilişkileri kurmayı da içeriyor."
         }
       ],
       "sources": [
@@ -1344,7 +1722,7 @@
           "url": "https://openstax.org/books/psychology-2e/pages/5-6-gestalt-principles-of-perception"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "onurdefter",
@@ -1385,24 +1763,22 @@
         {
           "name": "selin.jpg",
           "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
-        },
-        {
-          "name": "gokce",
-          "text": "Bir şey öğrendim derken başka bir soru çıktı."
-        },
-        {
-          "name": "ecebirnot",
-          "text": "İnsan bir kere öğrenince her yerde fark ediyor."
-        },
-        {
-          "name": "umutburada",
-          "text": "Örneği görünce anladım."
-        },
-        {
-          "name": "nisa.defter",
-          "text": "Görünüşüne bakıp karar veriyormuşum."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     }
   ]
 }

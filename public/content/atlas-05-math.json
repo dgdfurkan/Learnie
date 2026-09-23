@@ -7,7 +7,7 @@
       "layout": "equation",
       "category": "Soru",
       "title": "Saat 10. Beş saat sonra neden 3?",
-      "subtitle": "Saatte 15 diye bir köşe yok.",
+      "subtitle": "On ikilik saatte ibre 12'yi geçince 13, 14 diye yeni işaretlere gitmez; yeniden 1'e döner.",
       "account": "Bir Tahmin",
       "handle": "birtahmin",
       "cover": {
@@ -24,12 +24,16 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Çemberin hesabı",
-          "text": "On ikilik saatte sayılar 12’de bir başa döner. 10 + 5 = 15; 15’in 12’ye bölümünden kalan 3’tür."
+          "title": "",
+          "text": "On ikilik saatte ibre 12'yi geçince 13, 14 diye yeni işaretlere gitmez; yeniden 1'e döner. Saat 10'dan beş saat ilerlersen normal toplamada 15 bulursun, kadranda ise 3'e gelirsin."
         },
         {
-          "title": "Modüler aritmetik",
-          "text": "Bu tür hesaplarda tam turdan çok kalan önemlidir. Aynı düşünce döngülü takvim ve numaralandırmalarda da işe yarar."
+          "title": "",
+          "text": "Çünkü tamamlanan bir tur, yani 12 saat, aynı konuma geri götürür. 15'i 12'ye böldüğünde kalan 3'tür. Döngüde hangi noktada olduğunu bulmak için kalana bakılan bu hesap modüler aritmetiktir."
+        },
+        {
+          "title": "",
+          "text": "Şimdi 10'dan 29 saat ilerle: 10 + 29 = 39; 39'un 12'ye bölümünden kalan 3. Yine aynı kadran konumu! Ama geçen süre aynı değildir. Saatin gösterdiği konumla kaç tam tur atıldığını ayrı tutmak gerekir."
         }
       ],
       "sources": [
@@ -38,7 +42,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/3-7-clock-arithmetic"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "keremca",
@@ -48,7 +52,21 @@
           "name": "cemden",
           "text": "Örneği görünce anladım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Bebas Neue",
+        "paper": "#192f2a",
+        "ink": "#f3eddc",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+      "avatarCredit": {
+        "label": "Christoph Braun",
+        "url": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg"
+      }
     },
     {
       "id": "kesif-haftanin-gunu",
@@ -56,7 +74,7 @@
       "layout": "receipt",
       "category": "Soru",
       "title": "100 gün sonra hangi gün?",
-      "subtitle": "Takvimi tek tek çevirmene gerek yok.",
+      "subtitle": "Bugün pazartesi olsun.",
       "account": "Bir Tahmin",
       "handle": "birtahmin",
       "cover": {
@@ -73,12 +91,16 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Yedide bir tekrar",
-          "text": "Bir hafta yedi gündür. 100’ü 7’ye böldüğünde kalan 2 olduğu için, 100 gün sonrası bugünden iki gün sonrasıyla aynı haftanın gününe gelir."
+          "title": "",
+          "text": "Bugün pazartesi olsun. Yüz gün sonra haftanın hangi günü olacak? Takvimde yüz kutu saymak yerine, haftanın yedi günde bir tekrar ettiğini kullanabiliriz. Her tam yedi gün bizi yeniden pazartesiye getirir."
         },
         {
-          "title": "Bir örnek",
-          "text": "Bugün pazartesiyse 100 gün sonra çarşambadır. Ayların uzunluğu değişse de haftanın yedi günlük döngüsü bu hesabı bozmaz."
+          "title": "",
+          "text": "100 = 14 × 7 + 2. Yani yüz günün içinde on dört tam hafta ve iki ek gün vardır. Tam haftalar gün adını değiştirmediği için yalnız iki gün ilerleriz: çarşamba."
+        },
+        {
+          "title": "",
+          "text": "Ayların 28, 30 veya 31 gün çekmesi bu hesabı etkilemez; hafta döngüsü kesintisiz sürer. Ancak “bugün birinci gün” diye saymaya başlarsan başka bir soru sormuş olursun. Buradaki hesap, bugünden tam yüz gün sonrasıdır."
         }
       ],
       "sources": [
@@ -87,7 +109,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/3-7-clock-arithmetic"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "iremce",
@@ -101,7 +123,21 @@
           "name": "gokce",
           "text": "Detay sevenlere güzel konu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+      "avatarCredit": {
+        "label": "Christoph Braun",
+        "url": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg"
+      }
     },
     {
       "id": "kesif-kontrol-rakami",
@@ -109,7 +145,7 @@
       "layout": "terminal",
       "category": "Soru",
       "title": "Uzun numaranın son hanesi bazen bekçi.",
-      "subtitle": "Yanlış yazımı yakalamaya çalışır.",
+      "subtitle": "Uzun bir numarayı yazarken tek rakamı yanlış girmek kolaydır.",
       "account": "Bir Tahmin",
       "handle": "birtahmin",
       "cover": {
@@ -126,12 +162,16 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Hesapla eklenen hane",
-          "text": "Bazı kimlik ve ürün numaralarında kontrol rakamı bulunur. Diğer rakamlarla yapılan bir işlemin sonucu numaraya eklenir."
+          "title": "",
+          "text": "Uzun bir numarayı yazarken tek rakamı yanlış girmek kolaydır. Bazı sistemler bu hatayı fark etmek için numaranın sonuna, önceki rakamlardan hesaplanan bir kontrol rakamı ekler. Alıcı aynı hesabı tekrar yapar."
         },
         {
-          "title": "Şifreleme değil",
-          "text": "Kontrol rakamı bazı yazım hatalarını saptamaya yarar. Bilgiyi gizlemez ve her türlü hatayı yakalama garantisi vermez."
+          "title": "",
+          "text": "Basit bir örnek uyduralım: 2, 4 ve 7'nin toplamı 13 olsun; son basamağı 3'ü kontrol rakamı seçelim. Kod 2473 olur. İkinci rakamı yanlışlıkla 5 yazarsan toplam 14 çıkar ve sondaki 3'le uyuşmaz."
+        },
+        {
+          "title": "",
+          "text": "Ama 2 ile 4'ün yer değiştirmesi toplamı değiştirmez; bu basit yöntem o hatayı kaçırır. Gerçek sistemler daha güçlü kurallar kullanabilir. Kontrol rakamı hata yakalamaya yarar; numarayı gizleyen bir şifre değildir."
         }
       ],
       "sources": [
@@ -140,7 +180,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/3-7-clock-arithmetic"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "elif.k",
@@ -154,15 +194,29 @@
           "name": "ardabirbak",
           "text": "Detay sevenlere güzel konu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Space Mono",
+        "paper": "#172b24",
+        "ink": "#cbeaac",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+      "avatarCredit": {
+        "label": "Christoph Braun",
+        "url": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg"
+      }
     },
     {
       "id": "kesif-basamak",
       "topic": "Sayı yazma sistemleri",
-      "layout": "number",
+      "layout": "punchline",
       "category": "Bilim",
       "title": "Aynı 5, bir yerde beş yüz eder.",
-      "subtitle": "Rakamın koltuğu değerini değiştirir.",
+      "subtitle": "505 sayısını beş yüz beş diye okursun.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -179,12 +233,16 @@
       "motion": "mosaic",
       "slides": [
         {
-          "title": "Yer önemli",
-          "text": "505 sayısındaki ilk 5, beş yüzü; son 5, beşi temsil eder. Onluk sistemde her basamak bir öncekinden on kat büyüktür."
+          "title": "",
+          "text": "505 sayısını beş yüz beş diye okursun. Soldaki 5 ile sağdaki 5 aynı simgedir ama aynı miktarı temsil etmez. Sağdaki birler basamağında beş birim, soldaki yüzler basamağında beş yüz birimdir."
         },
         {
-          "title": "Kısa yazmanın gücü",
-          "text": "Sınırlı sayıda rakamla çok büyük sayıları yazabilmemiz, bu konumsal düzenden gelir. Her sayı için ayrı simge icat etmeyiz."
+          "title": "",
+          "text": "Onluk sistemde her sola geçiş, basamak değerini onla çarpar. Bu yüzden 505 = 5 × 100 + 0 × 10 + 5 × 1 olarak açılır. Sayıyı okumak, rakamla konumunu birlikte okumaktır."
+        },
+        {
+          "title": "",
+          "text": "Bir koltuk numarasının blok ve sıra bilgisiyle anlam kazanması gibi, rakamın konumu işin içindedir. Yalnız on rakamla çok büyük sayılar yazabilmemizi sağlayan şey bu düzen; her büyük miktar için yeni bir sembol üretmemize gerek kalmaz."
         }
       ],
       "sources": [
@@ -193,7 +251,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/4-1-hindu-arabic-positional-system"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "selin.jpg",
@@ -234,12 +292,22 @@
         {
           "name": "aliokuyor",
           "text": "Fotoğrafa bakıp geçecektim az daha."
-        },
-        {
-          "name": "duru.not",
-          "text": "Okurken durup düşündüm biraz."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Bebas Neue",
+        "paper": "#f0ded6",
+        "ink": "#24211e",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-sifir-yer",
@@ -247,7 +315,7 @@
       "layout": "sticky",
       "category": "Bilim",
       "title": "Sıfır bazen “burada bir şey yok” tabelası.",
-      "subtitle": "Ama yeri çok önemli.",
+      "subtitle": "105 sayısındaki sıfır hiçbir onluk bulunmadığını gösterir.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -264,12 +332,16 @@
       "motion": "mosaic",
       "slides": [
         {
-          "title": "105 ile 15",
-          "text": "105’te sıfır, onlar basamağında bir değer bulunmadığını gösterir. O işareti silince kalan rakamların temsil ettiği sayı değişir."
+          "title": "",
+          "text": "105 sayısındaki sıfır hiçbir onluk bulunmadığını gösterir. Bir yüzlük, sıfır onluk ve beş birlik vardır. Sıfırı silersen 15 kalır; artık bir onluk ve beş birlik yazmış olursun. Eksilen şey yalnız mürekkep değildir."
         },
         {
-          "title": "Boşluğu korur",
-          "text": "Sıfır yalnız hiçbir şeyin sayısı olarak değil, konumsal gösterimde yer tutucu olarak da iş görür."
+          "title": "",
+          "text": "Basamaklı gösterimde boş yeri işaretlemek, sağdaki ve soldaki rakamların konumunu korur. Sıfır bu nedenle hem bir sayı hem de yazımda yer tutucu olarak kullanılabilir."
+        },
+        {
+          "title": "",
+          "text": "Bunu üç gözlü bir kutuya benzet: İlk gözde yüzlükler, ikincide onluklar, üçüncüde birlikler var. Ortadaki göz boş diye kutuyu iki gözlüye çevirirsen içeriklerin anlamı kayar. Sıfır, “bu göz var ama boş” bilgisini saklar."
         }
       ],
       "sources": [
@@ -278,7 +350,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/4-1-hindu-arabic-positional-system"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ahmet.a",
@@ -296,7 +368,21 @@
           "name": "duru.not",
           "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Caveat",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-rakam-sayi",
@@ -304,7 +390,7 @@
       "layout": "glossary",
       "category": "Bilim",
       "title": "“12 bir rakamdır” demeyelim artık.",
-      "subtitle": "Küçük bir kelime farkı.",
+      "subtitle": "Rakam, sayıları yazmak için kullandığımız simgedir.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -321,12 +407,16 @@
       "motion": "mosaic",
       "slides": [
         {
-          "title": "Rakam işaret, sayı fikir",
-          "text": "Onluk sistemin rakamları 0’dan 9’a kadar olan simgelerdir. 12 ise iki rakam kullanılarak yazılan bir sayıdır."
+          "title": "",
+          "text": "Rakam, sayıları yazmak için kullandığımız simgedir. Onluk sistemde 0, 1, 2, 3, 4, 5, 6, 7, 8 ve 9 olmak üzere on rakam kullanırız. 12 ise iki rakamla yazılmış bir sayıdır."
         },
         {
-          "title": "Aynı sayı, farklı yazı",
-          "text": "Bir niceliği farklı sayı sistemleriyle gösterebiliriz. Yazdığımız sembolle anlattığımız miktar aynı şey değildir."
+          "title": "",
+          "text": "Harf ile kelime ayrımına benzer: İki harfin yan yana gelmesi yeni bir kelime oluşturabilir ama onu tek harf yapmaz. Aynı şekilde 1 ve 2 yan yana gelince on iki sayısını gösterir."
+        },
+        {
+          "title": "",
+          "text": "Miktarla yazım biçimini de ayırabiliriz. On iki nesneye hangi sembolü verdiğimiz, nesne sayısını değiştirmez. Başka sayı sistemleri aynı miktarı başka biçimde yazar. Bu ayrım bilgisayardaki ikilik sistemi anlamanın da başlangıcıdır."
         }
       ],
       "sources": [
@@ -335,21 +425,35 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/4-1-hindu-arabic-positional-system"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "iremce",
           "text": "Bunu arkadaşla tartışıyorduk geçen gün."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-zar-kosul",
       "topic": "Koşullu olasılık",
-      "layout": "reveal",
+      "layout": "profile",
       "category": "Soru",
       "title": "Zar çift geldi. Altı olma şansı şimdi kaç?",
-      "subtitle": "Yeni bilgi, ihtimalleri daraltır.",
+      "subtitle": "Adil bir zarın altı yüzü eşit olasılıklıdır.",
       "account": "Bir Tahmin",
       "handle": "birtahmin",
       "cover": {
@@ -366,12 +470,16 @@
       "motion": "probability",
       "slides": [
         {
-          "title": "Üç aday kaldı",
-          "text": "Adil zarın çift geldiğini biliyorsan mümkün sonuçlar 2, 4 ve 6’dır. Bu koşul altında 6 gelme olasılığı üçte birdir."
+          "title": "",
+          "text": "Adil bir zarın altı yüzü eşit olasılıklıdır. Hiç ek bilgi yoksa altı gelme şansı 1/6'dır. Ama biri “sonuç çift” derse artık 1, 3 ve 5'i seçeneklerden çıkarabilirsin."
         },
         {
-          "title": "Önce altıda birdi",
-          "text": "Koşullu olasılık, elimizdeki bilgiyi hesaba katar. Zar değişmedi; hangi sonuçları değerlendirdiğimiz değişti."
+          "title": "",
+          "text": "Geriye eşit olasılıklı 2, 4 ve 6 kalır. Bunlardan biri 6 olduğu için, çift geldiğini bildiğin koşulda 6 olasılığı 1/3 olur. Zarın yapısı değişmedi; elindeki bilgi değişti."
+        },
+        {
+          "title": "",
+          "text": "Buna koşullu olasılık denir. Bir yüzde gördüğünde “hangi grup içinde?” diye sormak bu yüzden önemlidir. Bütün atışlar içinde altıların payıyla yalnız çift çıkan atışlar içindeki altıların payı farklı hesaplanır."
         }
       ],
       "sources": [
@@ -380,7 +488,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/7-9-conditional-probability-and-the-multiplication-rule"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "selin.jpg",
@@ -394,7 +502,21 @@
           "name": "cemden",
           "text": "Bir dakika diye girdim yine konu uzadı bende."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Caveat",
+        "paper": "#f9edbc",
+        "ink": "#24211e",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+      "avatarCredit": {
+        "label": "Christoph Braun",
+        "url": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg"
+      }
     },
     {
       "id": "kesif-torba-geri",
@@ -402,7 +524,7 @@
       "layout": "comparison",
       "category": "Soru",
       "title": "Bilyeyi torbaya geri koymak hesabı değiştirir.",
-      "subtitle": "İkinci çekiliş ilkinden etkilenebilir.",
+      "subtitle": "Torbada iki kırmızı, bir mavi bilye olsun.",
       "account": "Bir Tahmin",
       "handle": "birtahmin",
       "cover": {
@@ -419,12 +541,16 @@
       "motion": "probability",
       "slides": [
         {
-          "title": "Geri koymazsan",
-          "text": "İki kırmızı, bir mavi bilye bulunan torbadan kırmızı çekilip çıkarılırsa geriye bir kırmızı ve bir mavi kalır."
+          "title": "",
+          "text": "Torbada iki kırmızı, bir mavi bilye olsun. Her bilyenin çekilme şansı eşitse ilk çekilişte kırmızı gelme olasılığı 2/3'tür. Diyelim ki gerçekten kırmızı geldi. İkinci çekiliş için ne yaptığın artık önemli."
         },
         {
-          "title": "Geri koyarsan",
-          "text": "Bilye geri konup karıştırılırsa torba eski bileşimine döner. İkinci kırmızı olasılığı ilk durumda 1/2, ikinci durumda 2/3’tür."
+          "title": "",
+          "text": "Bilyeyi dışarıda bırakırsan torbada bir kırmızı ve bir mavi kalır: İkinci kırmızının olasılığı 1/2. Bilyeyi geri koyup iyice karıştırırsan başlangıçtaki iki kırmızı, bir mavi düzenine dönersin: Olasılık yine 2/3."
+        },
+        {
+          "title": "",
+          "text": "Bu yüzden olasılık sorularındaki “geri koyarak” ifadesi süs değildir; sonraki denemenin koşullarını belirler. İlk sonuç tek başına yetmez. Çekilişten sonra sistemin nasıl değiştiğini de bilmek gerekir."
         }
       ],
       "sources": [
@@ -433,7 +559,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/7-9-conditional-probability-and-the-multiplication-rule"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "iremce",
@@ -447,7 +573,21 @@
           "name": "berk.b",
           "text": "Kaynağı ayrıca vermeniz iyi olmuş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Space Mono",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+      "avatarCredit": {
+        "label": "Christoph Braun",
+        "url": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg"
+      }
     },
     {
       "id": "kesif-olasilik-yon",
@@ -455,7 +595,7 @@
       "layout": "chat",
       "category": "Soru",
       "title": "A olunca B, B olunca A demek değil.",
-      "subtitle": "Koşulun yönünü karıştırmak kolay.",
+      "subtitle": "Bir sınıfta on öğrenci olsun.",
       "account": "Bir Tahmin",
       "handle": "birtahmin",
       "cover": {
@@ -472,12 +612,16 @@
       "motion": "probability",
       "slides": [
         {
-          "title": "Bir sınıf düşün",
-          "text": "Sınıftaki bütün gözlüklüler satranç oynuyor olsun. Bu, bütün satranç oynayanların gözlüklü olduğunu göstermez."
+          "title": "",
+          "text": "Bir sınıfta on öğrenci olsun. Dördü gözlük takıyor ve bu dört kişinin hepsi satranç oynuyor. Ayrıca gözlük takmayan iki kişi daha satranç oynuyor. Toplam altı satranç oyuncusu var."
         },
         {
-          "title": "Payda değişiyor",
-          "text": "“Gözlüklüler arasında” ile “satranç oynayanlar arasında” farklı gruplara bakarız. Koşullu olasılıklarda grubun hangisi olduğunu sormak gerekir."
+          "title": "",
+          "text": "“Gözlük takan biri seçtim; satranç oynama olasılığı ne?” sorusunun cevabı 4/4, yani yüzde yüz. “Satranç oynayan biri seçtim; gözlük takma olasılığı ne?” dersen cevap 4/6, yani üçte iki olur."
+        },
+        {
+          "title": "",
+          "text": "Aynı sınıf, aynı bilgiler; sadece baktığın grup değişti. Koşullu olasılıkta yönü ters çevirmek bu yüzden sonucu değiştirebilir. Cümlede “arasında” sözcüğünden sonra hangi grubun geldiğini kontrol etmek, hesabı doğru kurmanın en kolay yoludur."
         }
       ],
       "sources": [
@@ -486,7 +630,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/7-9-conditional-probability-and-the-multiplication-rule"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ahmet.a",
@@ -512,7 +656,21 @@
           "name": "ayse.tr",
           "text": "Okurken durup düşündüm biraz."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+      "avatarCredit": {
+        "label": "Christoph Braun",
+        "url": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg"
+      }
     },
     {
       "id": "kesif-zar-uc-bucuk",
@@ -520,7 +678,7 @@
       "layout": "punchline",
       "category": "Soru",
       "title": "Zarın ortalaması 3,5. Böyle yüz yok?",
-      "subtitle": "Beklenen değer tek sonucu söylemez.",
+      "subtitle": "Adil bir zarın sonuçları 1, 2, 3, 4, 5 ve 6'dır.",
       "account": "Bir Tahmin",
       "handle": "birtahmin",
       "cover": {
@@ -537,12 +695,16 @@
       "motion": "probability",
       "slides": [
         {
-          "title": "Uzun vadeli ortalama",
-          "text": "Adil altı yüzlü zarın sonuçlarının ortalaması 3,5’tir. Bu, bir atışta 3,5 geleceği anlamına gelmez."
+          "title": "",
+          "text": "Adil bir zarın sonuçları 1, 2, 3, 4, 5 ve 6'dır. Bu sayıların toplamı 21, altıya bölümü 3,5'tir. Ama zarın üzerinde 3,5 yazan bir yüz yok. Öyleyse bu sayı neyi anlatıyor?"
         },
         {
-          "title": "Çok tekrarın hesabı",
-          "text": "Beklenen değer, olası sonuçları olasılıklarıyla ağırlıklandırarak elde edilir. Tek bir denemenin kesin tahmini değildir."
+          "title": "",
+          "text": "Çok sayıda atışın sonuçlarını toplayıp atış sayısına böldüğünde ortalamanın yaklaşmasını beklediğimiz değeri. Her sonucun olasılığı 1/6 olduğu için hesap, sonuçlarla olasılıkların çarpımlarının toplamıdır. Buna beklenen değer denir."
+        },
+        {
+          "title": "",
+          "text": "İlk iki atışın 1 ve 1 gelmesi bu değeri yanlış yapmaz. Beklenen değer, tek atışın sonucu veya kısa serinin garantisi değildir. Uzun vadeli ortalamayı anlatan bir sayı, mümkün tekil sonuçların arasında bulunmak zorunda değildir."
         }
       ],
       "sources": [
@@ -551,7 +713,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/7-11-expected-value"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "zeynepce",
@@ -561,7 +723,21 @@
           "name": "selin.jpg",
           "text": "Detay sevenlere güzel konu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+      "avatarCredit": {
+        "label": "Christoph Braun",
+        "url": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg"
+      }
     },
     {
       "id": "kesif-puan-beklentisi",
@@ -569,7 +745,7 @@
       "layout": "equation",
       "category": "Soru",
       "title": "Büyük ödül, iyi ortalama demek değil.",
-      "subtitle": "Olasılığı da masaya koyalım.",
+      "subtitle": "Bir oyunda her tur yüzde 10 olasılıkla 20 puan, yüzde 90 olasılıkla sıfır puan verilsin.",
       "account": "Bir Tahmin",
       "handle": "birtahmin",
       "cover": {
@@ -586,12 +762,16 @@
       "motion": "probability",
       "slides": [
         {
-          "title": "Kâğıt üstünde oyun",
-          "text": "Bir oyunda yüzde 10 olasılıkla 20 puan, yüzde 90 olasılıkla sıfır puan verilsin. Beklenen puan 2’dir."
+          "title": "",
+          "text": "Bir oyunda her tur yüzde 10 olasılıkla 20 puan, yüzde 90 olasılıkla sıfır puan verilsin. Yalnız büyük ödüle bakarsan oyun çok kazançlı görünebilir. Ortalama için ödülün ne sıklıkta geldiğini de hesaba katmalıyız."
         },
         {
-          "title": "Sayıya nasıl ulaştık?",
-          "text": "20 × 0,10 + 0 × 0,90 = 2. Ödülün büyüklüğü kadar ne sıklıkta alındığı da önemlidir."
+          "title": "",
+          "text": "20 × 0,10 + 0 × 0,90 = 2 puan. Çok sayıda benzer tur için beklenen ortalama budur. Bu, her turda iki puan verildiği anlamına gelmez; tek turda ya 20 ya sıfır alırsın."
+        },
+        {
+          "title": "",
+          "text": "İkinci bir oyun her tur kesin üç puan verse, en büyük ödülü daha küçük olduğu hâlde beklenen puanı daha yüksektir. Büyük rakam dikkat çeker; olasılıkla birlikte hesaplanan değer ise daha farklı bir karşılaştırma sağlar."
         }
       ],
       "sources": [
@@ -600,13 +780,27 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/7-11-expected-value"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
           "text": "Bunu birine anlatmayı deneyeceğim."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Oswald",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+      "avatarCredit": {
+        "label": "Christoph Braun",
+        "url": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg"
+      }
     },
     {
       "id": "kesif-ortalama-risk",
@@ -614,7 +808,7 @@
       "layout": "split",
       "category": "Soru",
       "title": "Ortalaması aynı iki oyun farklı hissettirir.",
-      "subtitle": "Dalgalanma da bir bilgi.",
+      "subtitle": "İki oyun seçeneğin var.",
       "account": "Bir Tahmin",
       "handle": "birtahmin",
       "cover": {
@@ -631,12 +825,16 @@
       "motion": "probability",
       "slides": [
         {
-          "title": "İki puan düzeni",
-          "text": "Bir oyun her tur 5 puan versin. Diğeri eşit olasılıkla 0 veya 10 versin. İkisinin beklenen değeri de 5’tir."
+          "title": "",
+          "text": "İki oyun seçeneğin var. Birincisi her tur kesin beş puan veriyor. İkincisi yarı yarıya olasılıkla sıfır veya on puan veriyor. İkinci oyunun beklenen değeri 0 × 0,5 + 10 × 0,5 = 5."
         },
         {
-          "title": "Deneyim aynı değil",
-          "text": "İlk oyunda sonuç sabitken ikincisinde değişir. Yalnız ortalamayı bilmek, tek tek sonuçların ne kadar oynadığını söylemez."
+          "title": "",
+          "text": "İkisinin ortalaması aynı ama deneyimi aynı değil. İlkinde beş puandan sapma yok. İkincisinde her sonuç ortalamadan beş puan uzakta. Sonuçların ne kadar yayıldığına baktığında bu fark görünür."
+        },
+        {
+          "title": "",
+          "text": "Tek tur sonunda en az bir puana ihtiyacın varsa iki seçenek birdenbire eşdeğer olmaktan çıkar. Bu küçük örnek, bir dağılımı yalnız ortalamasıyla özetlediğimizde neyi kaybettiğimizi gösterir: Olası sonuçların çeşitliliğini ve oynaklığını."
         }
       ],
       "sources": [
@@ -645,7 +843,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/7-11-expected-value"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ahmet.a",
@@ -663,7 +861,21 @@
           "name": "gokce",
           "text": "Kaynağı ayrıca vermeniz iyi olmuş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Bebas Neue",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+      "avatarCredit": {
+        "label": "Christoph Braun",
+        "url": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg"
+      }
     },
     {
       "id": "kesif-ortalama-uc",
@@ -671,7 +883,7 @@
       "layout": "number",
       "category": "Bilim",
       "title": "Bir dev geldi, ortalama değişti.",
-      "subtitle": "Toplamın kişi sayısına bölünmesi.",
+      "subtitle": "Üç kişinin cebinde 2, 3 ve 4 lira olsun.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -688,12 +900,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Küçük liste",
-          "text": "2, 3 ve 4’ün aritmetik ortalaması 3’tür. Listeye 91 eklenirse ortalama 25 olur."
+          "title": "",
+          "text": "Üç kişinin cebinde 2, 3 ve 4 lira olsun. Toplam dokuz lirayı üçe bölersek kişi başına ortalama üç lira buluruz. Gruba cebinde 91 lira olan biri katılsın. Toplam artık 100, kişi sayısı dört."
         },
         {
-          "title": "Çoğunluğu anlatıyor mu?",
-          "text": "Dört sayıdan üçü hâlâ 2–4 arasındadır. Uç bir değer, ortalamayı grubun çoğundan uzaklaştırabilir."
+          "title": "",
+          "text": "Yeni ortalama 25 lira. Ama dört kişiden üçünün cebinde hâlâ en fazla dört lira var. Ortalama doğru hesaplandı; sadece gruptaki çoğu kişiyi pek iyi temsil etmiyor. Uç değer toplamı güçlü biçimde yukarı çekti."
+        },
+        {
+          "title": "",
+          "text": "“Ortalama gelir arttı” gibi bir cümlede bu nedenle dağılımı da merak etmek gerekir. Herkesin gelirinin arttığını yalnız ortalamadan çıkaramayız. Aynı ortalama, paranın insanlar arasında çok farklı paylaşıldığı gruplardan doğabilir."
         }
       ],
       "sources": [
@@ -702,7 +918,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/8-3-mean-median-and-mode"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "mert.y",
@@ -716,7 +932,21 @@
           "name": "onurdefter",
           "text": "Benim aklıma da aynı soru takılmıştı."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-medyan",
@@ -724,7 +954,7 @@
       "layout": "process",
       "category": "Bilim",
       "title": "Ortadakini bul, ama önce sırala.",
-      "subtitle": "Medyanın basit kuralı.",
+      "subtitle": "Medyanı bulmak için önce verileri küçükten büyüğe sıralarız.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -741,12 +971,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Sıra önemli",
-          "text": "3, 100 ve 4 sayıları sıralanınca 3, 4, 100 olur. Ortadaki değer olan 4, bu listenin medyanıdır."
+          "title": "",
+          "text": "Medyanı bulmak için önce verileri küçükten büyüğe sıralarız. 3, 100 ve 4 listesinin sıralı hâli 3, 4, 100'dür. Ortadaki değer 4 olduğu için medyan 4'tür. En büyük sayının çok büyük olması ortadaki sırayı değiştirmez."
         },
         {
-          "title": "Çift sayıda eleman",
-          "text": "Eleman sayısı çiftse ortadaki iki değerin ortalaması alınır. Medyan, en çok tekrarlanan değerle aynı kavram değildir."
+          "title": "",
+          "text": "Dört değer varsa, örneğin 2, 3, 4, 91, ortadaki iki sayıyı kullanırız: (3 + 4) / 2 = 3,5. Bu listede aritmetik ortalama 25 iken medyan 3,5 çıkar."
+        },
+        {
+          "title": "",
+          "text": "İki ölçü farklı sorulara cevap verir. Ortalama toplamın eşit paylaşımını, medyan sıralanmış grubun ortasını gösterir. Hangisinin daha açıklayıcı olduğu, verinin yapısına ve ne öğrenmek istediğine bağlıdır."
         }
       ],
       "sources": [
@@ -755,7 +989,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/8-3-mean-median-and-mode"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "onurdefter",
@@ -773,7 +1007,21 @@
           "name": "deniz.k",
           "text": "İkinci kartta anca oturdu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Fraunces",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-mod",
@@ -781,7 +1029,7 @@
       "layout": "glossary",
       "category": "Bilim",
       "title": "En sık görülen sayı: mod.",
-      "subtitle": "Her listenin tek modu olmak zorunda değil.",
+      "subtitle": "Bir ayakkabı dükkânında satılan numaralar 38, 39, 39, 40 ve 42 olsun.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -798,12 +1046,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Tekrara bak",
-          "text": "2, 2, 5, 7 listesinin modu 2’dir. Çünkü diğerlerinden daha sık görülür."
+          "title": "",
+          "text": "Bir ayakkabı dükkânında satılan numaralar 38, 39, 39, 40 ve 42 olsun. En çok satılan numara 39'dur. Veride en sık görülen değere mod denir. Stok planlayan biri için bu bilgi doğrudan işe yarayabilir."
         },
         {
-          "title": "Beraberlik olabilir",
-          "text": "2, 2, 5, 5 listesinin iki modu vardır. Ortalama, medyan ve mod verinin farklı özelliklerini özetler."
+          "title": "",
+          "text": "Ortalama ise bütün numaraları toplayıp satış sayısına bölerek bulunur. En sık satılan bedenle ortalama bedenin aynı çıkması gerekmez. Hatta ortalama listede hiç bulunmayan bir değer olabilir."
+        },
+        {
+          "title": "",
+          "text": "Birden fazla değer aynı en yüksek sıklıktaysa birden fazla mod vardır. Örneğin 38, 38, 40, 40 listesinde iki mod bulunur. “Tek bir tipik sayı” ararken verinin gerçekten tek bir tepeye sahip olup olmadığını da kontrol ederiz."
         }
       ],
       "sources": [
@@ -812,7 +1064,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/8-3-mean-median-and-mode"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ayse.tr",
@@ -834,15 +1086,29 @@
           "name": "keremca",
           "text": "Benim aklıma da aynı soru takılmıştı."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#cbdcdb",
+        "ink": "#253c3a",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-alti-gen",
       "topic": "Düzlemi kaplayan desenler",
-      "layout": "mosaic",
+      "layout": "poster",
       "category": "Sanat",
       "title": "Altıgen fayansın köşelerinde boşluk kalmıyor.",
-      "subtitle": "Düzenli desenin açı hesabı.",
+      "subtitle": "Zemini aynı düzgün altıgen fayanslarla kapladığını düşün.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -859,12 +1125,16 @@
       "motion": "mosaic",
       "slides": [
         {
-          "title": "Üçü bir araya",
-          "text": "Düzgün altıgenin iç açısı 120 derecedir. Bir köşede üçü buluştuğunda toplam 360 derece olur."
+          "title": "",
+          "text": "Zemini aynı düzgün altıgen fayanslarla kapladığını düşün. Düzgün demek, bütün kenarların ve iç açıların eşit olmasıdır. Her altıgenin iç açısı 120 derecedir. Üç fayansın köşesini bir noktada birleştirince 120 + 120 + 120 = 360 olur."
         },
         {
-          "title": "Boşluksuz kaplama",
-          "text": "Bu yüzden düzgün altıgenler düzlemi boşluk ve üst üste binme olmadan kaplayabilir. Kareler ve eşkenar üçgenler de bunu yapar."
+          "title": "",
+          "text": "Bir tam turun tamamı dolduğu için köşede ne boşluk kalır ne de fayanslar üst üste biner. Bu düzen bütün düzleme tekrar edilebilir. Buna düzlemi döşeme denir."
+        },
+        {
+          "title": "",
+          "text": "Karelerde bir köşede dört tane 90 derece, eşkenar üçgenlerde altı tane 60 derece birleşir. Bir deseni güzel yapan yalnız renkleri değildir; parçaların açılarının çevreyi nasıl tamamladığı da görünmez bir düzen kurar."
         }
       ],
       "sources": [
@@ -873,7 +1143,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/10-5-tessellations"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "gokce",
@@ -887,7 +1157,21 @@
           "name": "ardabirbak",
           "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Lora",
+        "paper": "#f0ded6",
+        "ink": "#24211e",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-besgen-fayans",
@@ -895,7 +1179,7 @@
       "layout": "myth",
       "category": "Sanat",
       "title": "Düzgün beşgenle iş neden zor?",
-      "subtitle": "Her güzel şekil aynı döşemeyi yapmaz.",
+      "subtitle": "Düzgün beşgenin her iç açısı 108 derecedir.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -912,12 +1196,16 @@
       "motion": "mosaic",
       "slides": [
         {
-          "title": "108 derecelik köşe",
-          "text": "Düzgün beşgenin iç açısı 108 derecedir. Köşede yalnız bu açılardan tam 360 derece elde edemezsin."
+          "title": "",
+          "text": "Düzgün beşgenin her iç açısı 108 derecedir. Üçünü aynı köşede birleştirirsen 324 derece eder ve 36 derecelik boşluk kalır. Dördünü sığdırmaya çalışırsan 432 derece olur; bu kez üst üste binerler."
         },
         {
-          "title": "Düzgün sözcüğü önemli",
-          "text": "Bazı düzgün olmayan beşgenler düzlemi kaplayabilir. “Hiçbir beşgenle olmaz” demek fazla geniş bir iddia olur."
+          "title": "",
+          "text": "Bu yüzden yalnız aynı düzgün beşgenleri kenarları uyacak biçimde kullanarak düzlemi boşluksuz döşeyemezsin. Altıgenin 120 derecelik açısı üç kez tam 360 ederken burada tam sayı bir eşleşme yoktur."
+        },
+        {
+          "title": "",
+          "text": "Ama “hiçbir beşgen işe yaramaz” sonucu çıkmaz. Kenarları ve açıları eşit olmayan bazı beşgenler döşeme yapabilir. Bir matematik cümlesindeki “düzgün” sözcüğünü çıkarmak, kanıtladığından daha geniş ve yanlış bir iddia kurdurabilir."
         }
       ],
       "sources": [
@@ -926,7 +1214,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/10-5-tessellations"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "elif.k",
@@ -948,7 +1236,21 @@
           "name": "zeynepce",
           "text": "Bir esere bakarken artık malzemesini de soracağım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-desen-oteleme",
@@ -956,7 +1258,7 @@
       "layout": "notebook",
       "category": "Sanat",
       "title": "Desen dönebilir, kayabilir, aynalanabilir.",
-      "subtitle": "Tekrarın tek yolu kopyala-yapıştır değil.",
+      "subtitle": "Bir duvar desenindeki tek motifi kopyalayıp sağa kaydırırsan öteleme yaparsın.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -973,12 +1275,16 @@
       "motion": "mosaic",
       "slides": [
         {
-          "title": "Aynı parça farklı yerde",
-          "text": "Bir motifi kaydırmak öteleme, çevirmek dönme, ayna görüntüsünü almak yansımadır. Döşemelerde bu dönüşümler birlikte kullanılabilir."
+          "title": "",
+          "text": "Bir duvar desenindeki tek motifi kopyalayıp sağa kaydırırsan öteleme yaparsın. Motifin yönü değişmez. Bir nokta çevresinde çevirirsen dönme, aynadaki görüntüsünü alırsan yansıma elde edersin."
         },
         {
-          "title": "Gözüne bir oyun",
-          "text": "Bir duvar deseninde aynı parçayı bul. Sonrakine ulaşmak için onu kaydırman mı, çevirmen mi gerekiyor?"
+          "title": "",
+          "text": "Bir ok deseni düşün: → işaretini yana taşımak yine → verir. Yatay aynalama ise ← yapar. İki şeklin aynı boyutta olması, aynı yönde durdukları anlamına gelmez."
+        },
+        {
+          "title": "",
+          "text": "Fayans, dokuma ve duvar kâğıtlarında bu işlemler birlikte kullanılır. Bir desene bakarken “aynı motif nerede tekrar etmiş?” diye sor; sonra oraya ulaşmak için kaydırman mı, çevirmen mi, aynalaman mı gerektiğini bul. Süsün arkasındaki hareket kuralı böyle görünür."
         }
       ],
       "sources": [
@@ -987,7 +1293,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/10-5-tessellations"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "keremca",
@@ -1005,15 +1311,29 @@
           "name": "iremce",
           "text": "Bir dakika diye girdim yine konu uzadı bende."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#f9edbc",
+        "ink": "#363220",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-konigsberg",
       "topic": "Çizgeler ve yollar",
-      "layout": "route",
+      "layout": "profile",
       "category": "Bilim",
       "title": "Yedi köprüyü birer kez geçmek mümkün mü?",
-      "subtitle": "Harita bir matematik sorusuna dönüştü.",
+      "subtitle": "Eski Königsberg kentinde kara parçalarını bağlayan yedi köprü vardı.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -1030,12 +1350,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Adaları nokta yap",
-          "text": "Königsberg probleminde kara parçaları noktalarla, köprüler onları bağlayan çizgilerle temsil edilir. Mesafelerden önce bağlantılar önem kazanır."
+          "title": "",
+          "text": "Eski Königsberg kentinde kara parçalarını bağlayan yedi köprü vardı. Soru şuydu: Her köprüden tam bir kez geçen bir yürüyüş yapılabilir mi? Euler, haritanın ayrıntısını bırakıp kara parçalarını nokta, köprüleri çizgi olarak düşündü."
         },
         {
-          "title": "Yürümek yetmez",
-          "text": "Bu ağın yapısı, bütün köprüleri yalnızca birer kez geçen bir yürüyüşe izin vermez. Daha çok denemek yapısal engeli ortadan kaldırmaz."
+          "title": "",
+          "text": "Bir yere yolun ortasında girersen oradan çıkman da gerekir. Kullanılan yollar bu yüzden giriş-çıkış çiftleri oluşturur. Yalnız yürüyüşün başlangıcı ve sonu bu eşleşmeden muaf olabilir; tek sayıda bağlantılı en fazla iki nokta bulunmalıdır."
+        },
+        {
+          "title": "",
+          "text": "Königsberg ağında böyle dört nokta vardı. Dolayısıyla istenen yürüyüş mümkün değildi. Sorunu çözen daha inatçı rota denemek değil, bütün olasılıkları kapsayan bu bağlantı kuralını görmekti. Çizge kuramının ünlü başlangıç sorularından biri budur."
         }
       ],
       "sources": [
@@ -1044,7 +1368,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/12-5-euler-circuits"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "deniz.k",
@@ -1085,24 +1409,22 @@
         {
           "name": "selin.jpg",
           "text": "Görünüşüne bakıp karar veriyormuşum."
-        },
-        {
-          "name": "aliokuyor",
-          "text": "Başlık tek başına yetmiyormuş, iyi ki devamına baktım."
-        },
-        {
-          "name": "birseda",
-          "text": "Bunu arkadaşla tartışıyorduk geçen gün."
-        },
-        {
-          "name": "duru.not",
-          "text": "Formülden önce mantığını bilmek iyi geldi."
-        },
-        {
-          "name": "berk.b",
-          "text": "Örneği görünce anladım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Lora",
+        "paper": "#ece7ff",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-cizge-derece",
@@ -1110,7 +1432,7 @@
       "layout": "diagram",
       "category": "Bilim",
       "title": "Bir noktaya kaç yol bağlanıyor?",
-      "subtitle": "Çizgede buna derece denir.",
+      "subtitle": "Bir ağda noktalar yerleri, kenarlar aralarındaki bağlantıları temsil etsin.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -1127,12 +1449,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Giriş ve çıkış",
-          "text": "Bir ağdaki noktanın derecesi, ona bağlı kenar uçlarının sayısıdır. Bir düğümü ziyaret ederken giriş ve çıkışlar eşleşir."
+          "title": "",
+          "text": "Bir ağda noktalar yerleri, kenarlar aralarındaki bağlantıları temsil etsin. Bir noktaya kaç kenar ucu bağlandığına o noktanın derecesi denir. Üç yolun birleştiği bir kavşak bu modelde üçüncü derecededir."
         },
         {
-          "title": "Çiftlik koşulu",
-          "text": "Bütün kenarları bir kez kullanıp başlangıca dönen Euler turunda, kullanılan bağlantılı ağdaki her noktanın derecesi çift olmalıdır."
+          "title": "",
+          "text": "Bütün kenarları tam bir kez kullanıp başladığın yere dönmek istiyorsan her giriş için bir çıkış gerekir. Kullanılan bağlantılı ağda her noktanın derecesi bu yüzden çift olmalıdır. Böyle kapalı bir yürüyüşe Euler turu denir."
+        },
+        {
+          "title": "",
+          "text": "Dört kenarlı bir kareyi kalemi kaldırmadan ve hiçbir kenarı tekrarlamadan çizip başlangıca dönebilirsin. Her köşede iki kenar vardır. Kareye tek bir köşegen eklediğinde iki köşenin derecesi üç olur; aynı kapalı tur artık mümkün değildir."
         }
       ],
       "sources": [
@@ -1141,7 +1467,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/12-5-euler-circuits"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "duru.not",
@@ -1151,7 +1477,21 @@
           "name": "onurdefter",
           "text": "Kaynağı ayrıca vermeniz iyi olmuş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Caveat",
+        "paper": "#d9e9cc",
+        "ink": "#283824",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-harita-baglanti",
@@ -1159,7 +1499,7 @@
       "layout": "beforeafter",
       "category": "Bilim",
       "title": "Yolları eğip bükünce ağ değişmeyebilir.",
-      "subtitle": "Şekil başka, bağlantı başka.",
+      "subtitle": "Metro haritalarında istasyon aralıkları gerçekteki mesafelerle aynı görünmez.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -1176,12 +1516,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Çizimdeki özgürlük",
-          "text": "Aynı noktalar aynı biçimde bağlı kaldığı sürece çizgeyi farklı yerleşimlerle çizebilirsin. Çizgilerin kâğıttaki uzunluğu her problemde belirleyici değildir."
+          "title": "",
+          "text": "Metro haritalarında istasyon aralıkları gerçekteki mesafelerle aynı görünmez. Çünkü haritanın önceliği çoğu zaman nerede aktarma yapacağını göstermektir. Aynı istasyonlar aynı hatlarla bağlı kaldığı sürece çizgileri uzatıp bükebilirsin."
         },
         {
-          "title": "Metroya bakar gibi",
-          "text": "Bağlantı düzenini incelemek için gerçek coğrafi uzaklıkları korumak şart olmayabilir. Önce hangi soruyu sorduğunu belirlemek gerekir."
+          "title": "",
+          "text": "Matematikte bu bağlantı düzenine çizge olarak bakarız. Noktaların kâğıt üzerindeki konumu değişse de kimin kime bağlı olduğu değişmemiş olabilir. Bu, bağlantı soruları için aynı yapının farklı çizimleridir."
+        },
+        {
+          "title": "",
+          "text": "Ama “hangi yol daha kısa?” dersen uzaklık veya süre bilgisine ihtiyacın olur. Önce soruyu belirlemek gerekir: Aktarma yapabiliyor muyum, yoksa kaç dakikada giderim mi? Aynı sadeleştirme ilk soruda yararlı, ikincide yetersiz olabilir."
         }
       ],
       "sources": [
@@ -1190,7 +1534,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/12-5-euler-circuits"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "mert.y",
@@ -1216,7 +1560,21 @@
           "name": "nisa.defter",
           "text": "Kısa ama tekrar okumalık."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Bebas Neue",
+        "paper": "#ead9f0",
+        "ink": "#35223f",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-gezgin-satici",
@@ -1224,7 +1582,7 @@
       "layout": "route",
       "category": "Teknoloji",
       "title": "Bütün adreslere uğra, en kısa yoldan dön.",
-      "subtitle": "Küçük başlayıp hızla zorlaşan soru.",
+      "subtitle": "Bir kuryenin birkaç adrese uğrayıp başlangıç noktasına döneceğini düşün.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -1241,12 +1599,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Rotalar çoğalır",
-          "text": "Gezgin satıcı problemi, her noktayı ziyaret edip başlangıca dönen en düşük maliyetli turu arar. Nokta sayısı arttıkça olası sıralamalar hızla çoğalır."
+          "title": "",
+          "text": "Bir kuryenin birkaç adrese uğrayıp başlangıç noktasına döneceğini düşün. Her adresi ziyaret edecek ama sırayı kendisi seçebilecek. En düşük toplam maliyetli turu bulma sorusuna gezgin satıcı problemi denir."
         },
         {
-          "title": "Maliyet sadece kilometre değil",
-          "text": "Kenarların değeri mesafe, süre veya başka bir maliyet olabilir. En kısa mesafe her zaman en kısa süre anlamına gelmez."
+          "title": "",
+          "text": "Üç adres için olasılıkları denemek kolaydır. Adres sayısı arttıkça ziyaret sıralamaları çok hızlı çoğalır. Her adımda biraz iyi görünene gitmek, bütün tur için en iyi sonucu garanti etmez."
+        },
+        {
+          "title": "",
+          "text": "Buradaki maliyet kilometre, süre veya para olabilir. Köprü trafiği olan bir şehirde en kısa mesafe en hızlı yol olmayabilir. İyi bir rota hesabı önce neyi küçültmeye çalıştığını söyler; sonra o ölçüye göre yolları karşılaştırır."
         }
       ],
       "sources": [
@@ -1255,7 +1617,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/12-9-traveling-salesperson-problem"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "duru.not",
@@ -1269,7 +1631,21 @@
           "name": "onurdefter",
           "text": "Kaynağı ayrıca vermeniz iyi olmuş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Fraunces",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-en-yakin",
@@ -1277,7 +1653,7 @@
       "layout": "puzzle",
       "category": "Teknoloji",
       "title": "Önce en yakına gitmek hep doğru mu?",
-      "subtitle": "O anki iyi seçim turu uzatabilir.",
+      "subtitle": "Bir rota hazırlarken “sıradaki en yakın adrese gideyim” kuralı çok pratiktir.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -1294,12 +1670,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Açgözlü yöntem",
-          "text": "En yakın komşu yaklaşımı her adımda henüz gidilmemiş en yakın noktayı seçer. Hızlı bir rota üretmek için kullanılabilir."
+          "title": "",
+          "text": "Bir rota hazırlarken “sıradaki en yakın adrese gideyim” kuralı çok pratiktir. Buna en yakın komşu yaklaşımı denir. Her adımda o an en ucuz görünen seçeneği alır; bütün gelecek sıralamaları tek tek hesaplamaz."
         },
         {
-          "title": "Garanti vermez",
-          "text": "Sonraki adımları hesaba katmadan yapılan seçim, toplamda en kısa turu vermeyebilir. Yerel olarak iyi olan, bütün için en iyi olmayabilir."
+          "title": "",
+          "text": "Sorun şu: Yakındaki birkaç adresi bitirince son kalan adres çok ters bir yerde olabilir. Erken seçimler seni pahalı bir son bağlantıya zorlayabilir. Az önce kazandığın küçük mesafeler, turun sonunda daha büyük kayba dönüşebilir."
+        },
+        {
+          "title": "",
+          "text": "Bu yöntemi değersiz yapmaz; hızlı bir başlangıç rotası sağlayabilir. Ama “kolayca bir çözüm buldum” ile “en iyi çözümü bulduğumu kanıtladım” ayrı başarılar. Günlük planlarda da bir sonraki adımı seçerken dönüş yolunu unutmamak gerekir."
         }
       ],
       "sources": [
@@ -1308,7 +1688,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/12-9-traveling-salesperson-problem"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "duru.not",
@@ -1326,7 +1706,21 @@
           "name": "deniz.k",
           "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Bebas Neue",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-rota-baslangic",
@@ -1334,7 +1728,7 @@
       "layout": "sequence",
       "category": "Teknoloji",
       "title": "Aynı yöntem, farklı başlangıç, başka sonuç.",
-      "subtitle": "İlk adres de hesabı etkiler.",
+      "subtitle": "En yakın komşu yöntemi, bulunduğun yerden henüz gitmediğin en yakın noktayı seçer.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -1351,12 +1745,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Başlangıcı değiştir",
-          "text": "En yakın komşu yöntemi farklı noktalardan başlatıldığında farklı turlar üretebilir. Çünkü her adım kalan seçenekleri değiştirir."
+          "title": "",
+          "text": "En yakın komşu yöntemi, bulunduğun yerden henüz gitmediğin en yakın noktayı seçer. Başlangıç noktasını değiştirince ilk seçim değişir. İlk seçim de sonraki adımlarda geriye hangi noktaların kalacağını değiştirir."
         },
         {
-          "title": "Karşılaştırma şansı",
-          "text": "Birkaç başlangıcı denemek daha iyi bir tur bulabilir. Yine de bütün olasılıklar arasında en iyiyi bulduğunun kanıtı değildir."
+          "title": "",
+          "text": "Bu yüzden aynı adres listesi ve aynı yöntem, farklı başlangıçlarda farklı uzunlukta turlar üretebilir. Yöntemin adı aynı diye tek bir sonuç vermesi gerekmez. Başlangıç, algoritmanın girdilerinden biridir."
+        },
+        {
+          "title": "",
+          "text": "Pratik bir iyileştirme, birkaç başlangıcı deneyip çıkan turların toplam maliyetlerini karşılaştırmaktır. Bu daha iyi rota bulabilir ama tüm olası sıralamaları incelemiş olmaz. Sonuçla birlikte hangi arama yönteminin kullanıldığını bilmek, “en iyi” iddiasını doğru tartmayı sağlar."
         }
       ],
       "sources": [
@@ -1365,7 +1763,7 @@
           "url": "https://openstax.org/books/contemporary-mathematics/pages/12-9-traveling-salesperson-problem"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "umutburada",
@@ -1379,7 +1777,21 @@
           "name": "onurdefter",
           "text": "Şuraya bir yer imi bırakayım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Lora",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     }
   ]
 }

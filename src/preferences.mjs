@@ -12,7 +12,7 @@ export function splitPassages(text,limit=18){
 }
 export function revealUnits(text,mode){return mode==='char'?Array.from(text):text.match(/\S+\s*/gu)||[];}
 export function createScenes(post,prefs){
- const raw=[{title:post.title,text:post.subtitle,kicker:post.category,cover:true},...post.slides.flatMap((slide,i)=>splitPassages(slide.text).map((text,j)=>({title:slide.title,text,kicker:slide.kicker||post.category,cover:false,section:i,part:j})))];
+ const raw=[{title:post.title,text:post.subtitle,kicker:post.category,cover:true},...post.slides.flatMap((slide,i)=>splitPassages(slide.text).map((text,j)=>({title:'',text,kicker:slide.kicker||post.category,cover:false,section:i,part:j})))];
  let start=0;return raw.map(s=>{const units=revealUnits(s.text,prefs.reveal);const speed=prefs.reveal==='word'?prefs.wordSpeed/60:prefs.charSpeed;const seconds=prefs.focus?units.length/speed+3:Math.max(5,s.text.split(/\s+/u).length/2.5+2);const narrationSeconds=prefs.narration?(s.title+' '+s.text).split(/\s+/u).length/2+3:0;const frames=Math.ceil(Math.max(seconds,narrationSeconds)*30)+18;const result={...s,start,frames};start+=frames;return result;});
 }
 export function visibleUnitCount(text,mode,frame,prefs){const speed=mode==='word'?prefs.wordSpeed/60:prefs.charSpeed;return Math.min(revealUnits(text,mode).length,Math.max(0,Math.floor((frame-18)/30*speed)+1));}

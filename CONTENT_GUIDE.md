@@ -19,10 +19,10 @@ Her pakette `version: 1` ve `posts` dizisi bulunur. Her gönderinin gerekli alan
 | `format` | `carousel`, `story`, `experiment`, `perspective` veya `reel`. |
 | `minutes` | Tahmini okuma süresi. |
 | `cover` | `url`, `alt`, `credit`, `source`, `license`; isteğe bağlı `licenseUrl`, `position`. |
-| `slides` | 2–8 öğe; her birinde `title`, `text`; isteğe bağlı `kicker`. Metin teknik üst sınırı 650 karakter; kısa kartlar için 200–300 karakter önerilir. |
+| `slides` | 1–8 öğe; her birinde `title`, `text`; isteğe bağlı `kicker`. Metin teknik üst sınırı 650 karakter; kısa kartlar için 200–300 karakter önerilir. |
 | `sources` | En az bir `{label,url}`. İddiayı gerçekten destekleyen birincil/kurumsal kaynaklar. |
 | `updatedAt` | İçeriğin en son kontrol edildiği tarih: `YYYY-MM-DD`. |
-| `comments` | `{name,text}` öğeleri. Uygulamada “Örnek yorum” olarak gösterilir; editoryal doğruluk kontrolünden geçmelidir. |
+| `comments` | `{name,text}` öğeleri. Sosyal görünüm ayarında kurgu olduğu açıklanır; editoryal doğruluk kontrolünden geçmelidir. |
 
 İsteğe bağlı alanlar:
 
@@ -58,14 +58,24 @@ Uzun paragraflar anlatımda sözcükler kaybolmadan kısa sahnelere bölünür. 
 
 14 yeni JSON paketi, 309 yeni gönderi ve 103 konu başlığı içerir. İlk 22 gönderinin kimlikleri korunur; toplam 331 içerik vardır. `topic` keşfetteki konu filtresini, `layout` kapak/kart/okuma düzenini belirler. `format` oynatma biçimini belirtir; `layout` ile aynı şey değildir. Kaynaklı metinler özgün, kısa Türkçe özetlerdir; fotoğraflar Wikimedia Commons üzerindeki dış adreslerden gelir. Her fotoğrafın kendi üretici ve lisans bilgisi korunur. Çizimler temsilidir.
 
-37 sunum düzeni: `diagram`, `process`, `comparison`, `punchline`, `chat`, `sequence`, `cutaway`, `equation`, `poster`, `notebook`, `sticky`, `layers`, `number`, `reveal`, `postcard`, `newspaper`, `route`, `gallery`, `profile`, `split`, `terminal`, `puzzle`, `glossary`, `door`, `beforeafter`, `timeline`, `balance`, `mosaic`, `network`, `prism`, `receipt`, `comic`, `checklist`, `book`, `casefile`, `growth`, `myth`. Türün anlamını içerikle eşleştir; örneğin karşılaştırmayı rastgele bir konuya atama. `myth` otomatik olarak metni doğru/yanlış diye etiketlemez. `reveal`, `puzzle` ve `door` okuyucunun açtığı panellerdir. Metinler ekran okuyucularda da okunabilir.
+37 sunum düzeni: `diagram`, `process`, `comparison`, `punchline`, `chat`, `sequence`, `cutaway`, `equation`, `poster`, `notebook`, `sticky`, `layers`, `number`, `reveal`, `postcard`, `newspaper`, `route`, `gallery`, `profile`, `split`, `terminal`, `puzzle`, `glossary`, `door`, `beforeafter`, `timeline`, `balance`, `mosaic`, `network`, `prism`, `receipt`, `comic`, `checklist`, `book`, `casefile`, `growth`, `myth`. Türün anlamını içerikle eşleştir; örneğin karşılaştırmayı rastgele bir konuya atama. `myth` otomatik olarak metni doğru/yanlış diye etiketlemez. `reveal`, `puzzle` ve `door` soru odaklı kapaklardır. Metinler ekran okuyucularda da okunabilir.
 
 Yeni hareket türleri: `wave`, `prism`, `pendulum`, `flow`, `layers`, `network`, `helix`, `growth`, `balance`, `gears`, `mosaic`, `pulse`, `probability`. Okuma ekranındaki çizim elle başlatılır, duraklatılır ve 0,5–2× hızda izlenir. Ekran dışında güncelleme durur. Kapak hareketleri azaltılmış hareket tercihini izler.
 
-Yorum sayısı sıfırdan kalabalık sohbetlere kadar değişebilir. Bunlar kurgu olarak açıkça etiketlenir; kişisel yorumlarla karıştırılmaz. Yeni bilgi iddialarını kurgu yorumlara saklama.
+Yorum sayısı sıfırdan kalabalık sohbetlere kadar değişebilir. Bunların kurgu olduğu Profil → Sosyal görünüm bölümünde açıklanır; kişisel yorumlar cihazda saklanır. Yeni bilgi iddialarını kurgu yorumlara saklama.
 
-İçerik yükleyici aynı anda en fazla dört metin paketi ister. Keşfet 24 öğe göstererek başlar; kullanıcı daha fazlasını açabilir. Binlerce içerikte gövde paketlerini ihtiyaç anında yükleme yaklaşımı hâlâ sonraki ölçek adımıdır.
+İçerik yükleyici aynı anda en fazla dört metin paketi ister. Keşfet üç sütunlu, kaydırdıkça devam eden sanal ızgaradır. Binlerce içerikte gövde paketlerini ihtiyaç anında yükleme yaklaşımı hâlâ sonraki ölçek adımıdır.
 
 ## Koleksiyonlar ve uyumluluk
 
 Koleksiyonlar `UserState.collections` içinde `{id,name,postIds,createdAt}` olarak yerel saklanır. Bir gönderi birkaç koleksiyona girebilir. Kaydı kaldırmak bütün koleksiyon üyeliklerini temizler; koleksiyonu silmek gönderilerin kaydını silmez. Eski yedeklerde koleksiyon yoksa boş listeyle açılır. Yedek dışa/içe aktarımı koleksiyonları da taşır. Yayımlanan gönderi kimliklerini değiştirirsen kayıtlar ve paylaşım bağlantıları kırılabilir.
+
+## Gönderinin görünümü
+
+- `display`: `single` (tek kart, ilk anlatım parçası kapakta; tam metin açıklamada), `carousel` (kapak + paragraflar), `video` (doğrudan oynatılabilir video).
+- `art`: `kind` (`photo`, `type`, `diagram`), `font`, `paper`, `ink`, `align`, `position`; yayınlanmış tasarım temayla değişmez. Koyu kağıtta açık, açık kağıtta koyu mürekkep kullanın. Fotoğrafların üzerinde beyaz yazıyı bileşen uygular; `ink` devam kartlarının okunabilir rengi olmalı.
+- `avatar`: editoryal hesabın dış HTTPS görseli. `avatarCredit`: `{label,url}` kaynak ve atıf.
+- `video.duration`: saniye olarak süre; video gönderilerinde zorunlu, en fazla 300. YouTube için `url` yalnız 11 karakterlik video kimliğidir. Gömme iznini, süreyi ve altyazıyı yayıncının kaynağından kontrol edin.
+- `slides[].title` boş bırakılabilir. Her parça, önceki paragrafın devamı olarak tek somut fikri açıklamalı. Telefonda 300 karakteri aşmayın. Anlatıma nesnenin/olayın adı ve temel tanımıyla başlayın. Yalnız başlık değiştirerek aynı metni çoğaltmayın.
+
+Örnekler: `public/content/field-and-screen-003.json`. Yeni görselleri repoya indirmeyin; yeni fotoğraflarda dış adres, hak bilgisi ve kaynak sayfası bulunmalı. Kodla çizilmiş açıklayıcı SVG sahneleri `src/SportScene.tsx` gibi bileşenlerde tutulabilir.

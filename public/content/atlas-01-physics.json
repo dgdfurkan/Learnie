@@ -4,10 +4,10 @@
     {
       "id": "kesif-kapi-kolu",
       "topic": "Basit makineler",
-      "layout": "diagram",
+      "layout": "poster",
       "category": "Bilim",
       "title": "Kapıyı menteşesinden açmayı denesene.",
-      "subtitle": "Kolun uçta olması süs değil.",
+      "subtitle": "Kapıyı açarken aslında onu ileri itmiyorsun; menteşelerin çevresinde döndürüyorsun.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -24,12 +24,16 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Uzaklaştıkça kolaylaşır",
-          "text": "Kapıyı döndürmek için kuvvet kadar, kuvveti menteşeden ne kadar uzakta uyguladığın da önemlidir. Kapı kolu bu yüzden karşı kenardadır."
+          "title": "",
+          "text": "Kapıyı açarken aslında onu ileri itmiyorsun; menteşelerin çevresinde döndürüyorsun. Bir kuvvetin döndürme etkisine tork denir. Bu etki, kuvvetin büyüklüğü kadar menteşeden ne kadar uzakta uygulandığına da bağlıdır."
         },
         {
-          "title": "Bedava enerji yok",
-          "text": "Uzaktaki kol daha uzun yol gider. Daha az kuvvet kullanmanın karşılığında elini daha fazla hareket ettirirsin."
+          "title": "",
+          "text": "Aynı kapıyı önce kola, sonra menteşeye yakın bir yere bastırarak düşün. Menteşeye yaklaştıkça aynı dönüşü başlatmak için daha fazla kuvvet gerekir. Kapı kolunun uzak kenarda olması bu yüzden işe yarar."
+        },
+        {
+          "title": "",
+          "text": "Bir bedeli de var: Kapının dış kenarı geniş bir yay çizerken menteşeye yakın noktalar az yol alır. Kol sayesinde kuvvetten kazanır, elinin katettiği yoldan verirsin."
         }
       ],
       "sources": [
@@ -38,7 +42,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "deniz.k",
@@ -79,12 +83,22 @@
         {
           "name": "birseda",
           "text": "Okurken durup düşündüm biraz."
-        },
-        {
-          "name": "duru.not",
-          "text": "Bu konudan başka bir şey de okuyasım geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Caveat",
+        "paper": "#ead9f0",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-makara",
@@ -92,7 +106,7 @@
       "layout": "process",
       "category": "Bilim",
       "title": "İpi aşağı çekiyorsun, yük yukarı çıkıyor.",
-      "subtitle": "Makara bazen sadece yön değiştirir.",
+      "subtitle": "Makara, çevresinden ip geçen bir tekerlektir.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -109,12 +123,16 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Tek tekerleğin işi",
-          "text": "İdeal bir sabit makara kuvvetin yönünü değiştirir. Tek başına yükü kaldırmak için gereken kuvveti yarıya indirmez."
+          "title": "",
+          "text": "Makara, çevresinden ip geçen bir tekerlektir. Tavana sabitlenmiş tek makarada ipin bir ucunu aşağı çekince öbür ucundaki yük yukarı çıkar. İşe yarayan şey, çekme yönünü değiştirmesidir; yük kendiliğinden hafiflemez."
         },
         {
-          "title": "İp sayısı artarsa",
-          "text": "Yükü taşıyan birden fazla ip parçası bulunan düzenekler kuvvetten kazandırabilir. Bunun bedeli daha uzun ip çekmektir."
+          "title": "",
+          "text": "Şimdi yükle birlikte hareket eden bir makara düşün. Yükü iki ip kolu taşıyorsa, ideal durumda ağırlık iki kola paylaştırılır. Böylece elinin uyguladığı kuvvet yaklaşık yarıya düşer."
+        },
+        {
+          "title": "",
+          "text": "Ama yükü bir metre yükseltmek için iki metre ip çekersin. Sürtünmeyi yok sayan bu hesap, makaraların neden bedava enerji üretmediğini de gösterir: Az kuvvetin karşılığında daha uzun yol vardır."
         }
       ],
       "sources": [
@@ -123,7 +141,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ardabirbak",
@@ -145,7 +163,21 @@
           "name": "iremce",
           "text": "Formülden önce mantığını bilmek iyi geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Fraunces",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-rampa",
@@ -153,7 +185,7 @@
       "layout": "comparison",
       "category": "Bilim",
       "title": "Rampa yolu uzatır. İşi kolaylaştırır.",
-      "subtitle": "Kısa yol her zaman kolay yol değil.",
+      "subtitle": "Bir koliyi kamyon kasasına doğrudan kaldırmak için ağırlığına karşı yukarı kuvvet uygularsın.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -170,12 +202,16 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Aynı yüksekliğe",
-          "text": "Bir yükü dik kaldırmak yerine rampadan çıkarmak gereken kuvveti azaltır; gidilen yolu uzatır."
+          "title": "",
+          "text": "Bir koliyi kamyon kasasına doğrudan kaldırmak için ağırlığına karşı yukarı kuvvet uygularsın. Rampa kullanırsan aynı yüksekliğe daha uzun bir yol üzerinden çıkarsın. Bu uzun yol, gereken itme kuvvetini azaltır."
         },
         {
-          "title": "Hesabı kapatalım",
-          "text": "Sürtünmesiz durumda aynı yüksekliğe çıkarken yapılan iş aynıdır. Gerçekte sürtünme yüzünden ayrıca enerji harcanır."
+          "title": "",
+          "text": "Sürtünmesiz bir örnekte, bir metre yükselen dört metrelik rampada gereken kuvvet yükün ağırlığının dörtte biri olur. Ama yükü bir metre yerine dört metre hareket ettirirsin."
+        },
+        {
+          "title": "",
+          "text": "Fizikte yapılan iş, kuvvet ile kuvvet yönünde alınan yolun çarpımıdır. Rampanın kazancı işi yok etmek değil, onu daha küçük kuvvetle yapabilmektir. Gerçek rampada tekerlek ve zemin sürtünmesi ayrıca enerji harcatır."
         }
       ],
       "sources": [
@@ -184,13 +220,27 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
           "text": "Bu konudan başka bir şey de okuyasım geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#cbdcdb",
+        "ink": "#253c3a",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-patenci",
@@ -198,7 +248,7 @@
       "layout": "punchline",
       "category": "Spor",
       "title": "Kollarını topladı, dönüş hızlandı.",
-      "subtitle": "Buz pistindeki küçük fizik numarası.",
+      "subtitle": "Dönen bir patenciyi düşün.",
       "account": "Saha Kenarı",
       "handle": "sahakenari",
       "cover": {
@@ -215,12 +265,16 @@
       "motion": "orbit",
       "slides": [
         {
-          "title": "Kütle içeri gelir",
-          "text": "Patenci kollarını gövdesine çekince kütlesi dönme eksenine yaklaşır. Dönmeye karşı gösterdiği direnç azalır."
+          "title": "",
+          "text": "Dönen bir patenciyi düşün. Kolları açıkken bedeninin bir kısmı dönme ekseninden uzaktadır. Bu da dönme hızını değiştirmeyi zorlaştırır. Kütlenin eksene göre dağılımını anlatan büyüklüğe dönme ataleti denir."
         },
         {
-          "title": "Hız buradan gelir",
-          "text": "Dışarıdan belirgin bir döndürme etkisi yoksa açısal momentum korunur. Bu nedenle dönüş hızlanır; gizli bir motor çalışmaz."
+          "title": "",
+          "text": "Patenci kollarını topladığında dönme ataleti küçülür. Dışarıdan önemli bir döndürme etkisi yoksa, dönme ataletiyle açısal hızın çarpımı yaklaşık sabit kalır. Bu korunan büyüklüğün adı açısal momentumdur."
+        },
+        {
+          "title": "",
+          "text": "Dolayısıyla kollar içeri, hız yukarı. Kolları yeniden açınca dönüş yavaşlar. Patenci hızlanırken hiç enerji harcamıyor sanma: Kollarını içeri çekmek için kasları iş yapar. Açısal momentumun korunması, dönme enerjisinin de değişmeyeceği anlamına gelmez."
         }
       ],
       "sources": [
@@ -229,8 +283,22 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/10-5-angular-momentum-and-its-conservation"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#f9edbc",
+        "ink": "#363220",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-tekerlek-sandalye",
@@ -238,7 +306,7 @@
       "layout": "chat",
       "category": "Spor",
       "title": "Tekerleği çeviren sandalye niye dönüyor?",
-      "subtitle": "Dönüşün yönü de hesabın içinde.",
+      "subtitle": "Dönebilen bir sandalyedesin ve elinde hızla dönen bir bisiklet tekerleği var.",
       "account": "Saha Kenarı",
       "handle": "sahakenari",
       "cover": {
@@ -255,12 +323,16 @@
       "motion": "orbit",
       "slides": [
         {
-          "title": "İki parça, tek sistem",
-          "text": "Dönebilen bir sandalyede tutulan döner tekerleğin eksenini çevirmek, kişinin ve sandalyenin de dönmesine yol açabilir."
+          "title": "",
+          "text": "Dönebilen bir sandalyedesin ve elinde hızla dönen bir bisiklet tekerleği var. Tekerleğin yalnızca bir dönme hızı yok; dönme eksenine bağlı bir yönü de var. Açısal momentum bu ikisini birlikte hesaba katar."
         },
         {
-          "title": "Alışveriş gibi düşün",
-          "text": "Tekerlekle kişi arasında açısal momentum aktarılır. Toplamı açıklarken yalnız hızları değil, dönme yönlerini de hesaba katmak gerekir."
+          "title": "",
+          "text": "Tekerleği ters çevirdiğinde onun açısal momentum yönünü değiştirirsin. Bunun için uyguladığın döndürme etkisinin karşılığı sana da etki eder. Sandalye serbestçe dönebiliyorsa sen de dönmeye başlarsın."
+        },
+        {
+          "title": "",
+          "text": "Burada bakılması gereken yalnız tekerlek değil, tekerlek ile kişinin toplamıdır. Dışarıdan önemli bir etki yoksa toplam açısal momentum korunur. Bu düşünce, bir şeyin dönmesini açıklarken neden sistemin sınırlarını doğru seçmemiz gerektiğini gösterir."
         }
       ],
       "sources": [
@@ -269,7 +341,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/10-5-angular-momentum-and-its-conservation"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
@@ -310,12 +382,22 @@
         {
           "name": "ecebirnot",
           "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
-        },
-        {
-          "name": "ardabirbak",
-          "text": "Bu ayrımı unutmayayım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#ead9f0",
+        "ink": "#35223f",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-hava-dalgic",
@@ -323,7 +405,7 @@
       "layout": "sequence",
       "category": "Spor",
       "title": "Dalgıcın havada küçülmesinin sebebi var.",
-      "subtitle": "Suya girmeden önceki o toparlanma.",
+      "subtitle": "Tramplenden atlayan sporcu taklasını, henüz tahtayla temas ederken başlatır.",
       "account": "Saha Kenarı",
       "handle": "sahakenari",
       "cover": {
@@ -340,12 +422,16 @@
       "motion": "orbit",
       "slides": [
         {
-          "title": "Kompakt dönüş",
-          "text": "Dalgıç dizlerini çekince dönme eksenine göre kütle dağılımı değişir. Küçülen dönme ataleti, daha hızlı takla atmasını sağlar."
+          "title": "",
+          "text": "Tramplenden atlayan sporcu taklasını, henüz tahtayla temas ederken başlatır. Havaya çıktıktan sonra bir desteğe basıp yeniden itilemez. Yine de bedenini toparlayarak takla hızını değiştirebilir."
         },
         {
-          "title": "Açılınca yavaşlar",
-          "text": "Vücudunu yeniden uzatınca dönüş yavaşlar. Böylece suya giriş duruşuna geçebilir; aynı hareket boyunca vücut biçimi bir ayar koludur."
+          "title": "",
+          "text": "Dizlerini göğsüne çekince kütlesi dönme eksenine yaklaşır. Dönme ataleti, yani dönme hareketinin değişmesine karşı direnç küçülür. Açısal momentum yaklaşık korunduğu için dönüş hızlanır."
+        },
+        {
+          "title": "",
+          "text": "Suya yaklaşınca bedenini uzatır: Dönme ataleti büyür, dönüş yavaşlar ve giriş pozisyonunu ayarlamak kolaylaşır. Aynı sporcu, aynı atlayış; değişen şey bedenin biçimidir. Bu, profesyonel bir hareketin açıklaması; evde denenebilecek bir takla önerisi değil."
         }
       ],
       "sources": [
@@ -354,21 +440,35 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/10-5-angular-momentum-and-its-conservation"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "cemden",
           "text": "Tribünde anlatılacak bilgi çıktı."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Lora",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-batan-capa",
       "topic": "Yüzme ve batma",
-      "layout": "myth",
+      "layout": "profile",
       "category": "Bilim",
       "title": "Batan şeye de su destek oluyor.",
-      "subtitle": "Dibe gitmesi, kaldırılmadığı anlamına gelmez.",
+      "subtitle": "Su, bir cismin yalnız üstüne değil altına da basınç uygular.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -385,12 +485,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "İki kuvvet yarışıyor",
-          "text": "Suya batmış bir cisme yukarı yönlü kaldırma kuvveti etki eder. Cismin ağırlığı daha büyükse yine de batar."
+          "title": "",
+          "text": "Su, bir cismin yalnız üstüne değil altına da basınç uygular. Derine indikçe basınç arttığı için cismin alt yüzüne etkiyen yukarı yönlü kuvvet daha büyüktür. Aradaki fark kaldırma kuvvetini oluşturur."
         },
         {
-          "title": "O yüzden hafif gelir",
-          "text": "Sudaki ağır bir taşı tutmak, dışarıda tutmaktan daha kolay gelebilir. Su taşın ağırlığını değiştirmez; yükün bir kısmını karşılar."
+          "title": "",
+          "text": "Bu kuvvet, cismin yerinden ettiği suyun ağırlığı kadardır. Örneğin tamamen suya batmış bir litre hacimli cisim, yaklaşık bir kilogram suyun ağırlığına denk destek görür."
+        },
+        {
+          "title": "",
+          "text": "Ama cismin ağırlığı bu destekten büyükse yine batar. Ağır bir taşı suda daha kolay tutmanın nedeni budur. Taşın kütlesi azalmamıştır; elinin taşıması gereken yükün bir kısmını su üstlenmiştir."
         }
       ],
       "sources": [
@@ -399,7 +503,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ardabirbak",
@@ -440,12 +544,22 @@
         {
           "name": "ahmet.a",
           "text": "Formülden önce mantığını bilmek iyi geldi."
-        },
-        {
-          "name": "duru.not",
-          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Caveat",
+        "paper": "#f0ded6",
+        "ink": "#24211e",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-celik-gemi",
@@ -453,7 +567,7 @@
       "layout": "cutaway",
       "category": "Bilim",
       "title": "Çelik batar, çelik gemi yüzer.",
-      "subtitle": "Malzemenin adı tek başına yetmez.",
+      "subtitle": "Bir çelik bilye suya atılınca batar.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -470,12 +584,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "İçindeki havayı unutma",
-          "text": "Geminin geniş ve içi boş gövdesi büyük hacimde suyu yerinden eder. Kaldırma kuvveti, yer değiştiren suyun ağırlığı kadardır."
+          "title": "",
+          "text": "Bir çelik bilye suya atılınca batar. Çünkü kendi hacmi kadar suyu yerinden eder ve o suyun ağırlığı, bilyenin ağırlığını dengelemeye yetmez. Peki aynı malzemeden yapılan gemi nasıl yüzer?"
         },
         {
-          "title": "Ortalama önemli",
-          "text": "Yüzme hesabında yalnız çeliği değil, hava dolu hacimle birlikte bütün gemiyi düşünürüz. Toplam ağırlık ve dış hacim birlikte belirleyicidir."
+          "title": "",
+          "text": "Geminin gövdesi, içinde geniş hava boşlukları bulunan büyük bir kabuktur. Suyu dışarıda tutan bu kabuk, geminin toplam ağırlığına eşit ağırlıkta suyu yerinden edene kadar batar; sonra dengelenir."
+        },
+        {
+          "title": "",
+          "text": "Yani hesabı sadece çeliğin yoğunluğuyla yapmayız. Gemi, yükü ve içindeki boşlukları birlikte düşünülür. Gövdeye su dolduğunda hava dolu hacmin avantajı kaybolur; gemi daha derine oturur ve yeterli kaldırma sağlanamazsa batar."
         }
       ],
       "sources": [
@@ -484,7 +602,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "deniz.k",
@@ -498,7 +616,21 @@
           "name": "zeynepce",
           "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Fraunces",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-helyum",
@@ -506,7 +638,7 @@
       "layout": "equation",
       "category": "Bilim",
       "title": "Hava da kaldırır. Sadece fark etmeyiz.",
-      "subtitle": "Balonun ipi bunun küçük kanıtı.",
+      "subtitle": "Hava boşluk değildir; kütlesi olan bir gazdır.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -523,12 +655,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "Görünmeyen akışkan",
-          "text": "Kaldırma kuvveti sıvılara özgü değildir. Hava da içinde duran cisme, yer değiştirdiği havanın ağırlığı kadar kaldırma uygular."
+          "title": "",
+          "text": "Hava boşluk değildir; kütlesi olan bir gazdır. İçindeki bir balona da, tıpkı su gibi, yukarı yönlü kaldırma kuvveti uygular. Bu kuvvetin büyüklüğü balonun yerinden ettiği havanın ağırlığına eşittir."
         },
         {
-          "title": "Balonun hesabı",
-          "text": "Helyumla dolu balonun toplam ağırlığı bu kuvvetten küçükse balon yükselir. Balonun kaplaması ve taşıdığı yük de hesaba dahildir."
+          "title": "",
+          "text": "Helyum aynı koşullarda havadan daha düşük yoğunlukludur. Balonun içindeki helyum, kaplama ve bağlı ipin toplam ağırlığı, yerinden edilen havanın ağırlığından küçükse balon yükselir."
+        },
+        {
+          "title": "",
+          "text": "Normal nefesle şişirdiğin balonda ise içeriye kabaca hava koymuş olursun. Dışarıdaki havanın kaldırması, içerideki hava ve lastiğin toplamını taşımaya yetmez. Mesele gazın yukarı gitmek istemesi değil, iki ağırlığın karşılaştırılmasıdır."
         }
       ],
       "sources": [
@@ -537,7 +673,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "cemden",
@@ -551,15 +687,29 @@
           "name": "onurdefter",
           "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "DM Sans",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-su-damlasi",
       "topic": "Yüzey gerilimi",
-      "layout": "poster",
+      "layout": "punchline",
       "category": "Bilim",
       "title": "Damla neden köşeli değil?",
-      "subtitle": "Suyun kenarları toplama huyu.",
+      "subtitle": "Su molekülleri birbirini çeker.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -576,12 +726,16 @@
       "motion": "particles",
       "slides": [
         {
-          "title": "Yüzey küçülmek ister",
-          "text": "Sıvı molekülleri arasındaki çekim, yüzey alanını küçültme eğilimi yaratır. Küre, aynı hacim için en küçük yüzey alanına sahiptir."
+          "title": "",
+          "text": "Su molekülleri birbirini çeker. İçerideki bir molekülün çevresi başka su molekülleriyle doluyken yüzeydekinin çevresi aynı değildir. Bu durum yüzeyi büyütmenin enerji gerektirmesine yol açar; buna yüzey gerilimi deriz."
         },
         {
-          "title": "Her damla tam küre mi?",
-          "text": "Hayır. Yerçekimi, hava direnci ve değdiği yüzey şekli değiştirebilir. Küçük damlalarda yüzey geriliminin etkisi daha belirgindir."
+          "title": "",
+          "text": "Belirli bir hacmi en küçük yüzey alanıyla çevreleyen şekil küredir. Bu yüzden başka etkilerin zayıf kaldığı küçük damlalar yuvarlaklaşır. Damlaya bir köşe yaptırmak, fazladan yüzey oluşturmak demektir."
+        },
+        {
+          "title": "",
+          "text": "Ama musluktan sarkan damla kusursuz bir küre değildir. Yerçekimi onu aşağı çeker, değdiği yüzey tutar, hareket ediyorsa hava da biçimini etkiler. “Su her zaman küre olur” değil; yüzey gerilimi onu yuvarlaklaştırmaya çalışır."
         }
       ],
       "sources": [
@@ -590,7 +744,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/11-8-cohesion-and-adhesion-in-liquids-surface-tension-and-capillary-action"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ahmet.a",
@@ -600,7 +754,21 @@
           "name": "deniz.k",
           "text": "Fotoğrafa bakıp geçecektim az daha."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Bebas Neue",
+        "paper": "#192f2a",
+        "ink": "#24211e",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-kagit-havlu",
@@ -608,7 +776,7 @@
       "layout": "notebook",
       "category": "Bilim",
       "title": "Havlu suyu yukarı nasıl çekiyor?",
-      "subtitle": "Elektrik yok, pompa yok.",
+      "subtitle": "Kâğıt havlunun ucu suya değdiğinde ıslaklığın yukarı ilerlediğini görürsün.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -625,12 +793,16 @@
       "motion": "particles",
       "slides": [
         {
-          "title": "İncecik aralıklar",
-          "text": "Suyla kâğıt lifleri arasındaki çekim, suyun lifler arasındaki dar boşluklarda ilerlemesine yardım eder. Buna kılcallık denir."
+          "title": "",
+          "text": "Kâğıt havlunun ucu suya değdiğinde ıslaklığın yukarı ilerlediğini görürsün. İçinde gizli bir pompa yok. Havlu, aralarında çok dar boşluklar bulunan liflerden oluşur; su bu liflere tutunur."
         },
         {
-          "title": "Dar yolun etkisi",
-          "text": "Yükselme, sıvının yüzeye tutunmasına ve boşluğun genişliğine bağlıdır. Her sıvı her ince boruda aynı biçimde yükselmez."
+          "title": "",
+          "text": "Su ile lif arasındaki çekim, sıvının dar aralıklarda ilerlemesine yardım eder. Su moleküllerinin birbirini çekmesi de bu hareketin devamını destekler. Dar boru ve boşluklarda görülen bu davranışa kılcallık denir."
+        },
+        {
+          "title": "",
+          "text": "Yerçekimi karşı koyduğu için su sınırsız yükselmez. Boşluğun genişliği ve yüzeyin suyu ne kadar iyi tuttuğu sonucu değiştirir. Bir havlunun emiciliğini yalnız kalınlığına bakarak anlayamamanın nedenlerinden biri de bu lif yapısıdır."
         }
       ],
       "sources": [
@@ -639,7 +811,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/11-8-cohesion-and-adhesion-in-liquids-surface-tension-and-capillary-action"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "selin.jpg",
@@ -653,7 +825,21 @@
           "name": "ecebirnot",
           "text": "Örneği görünce anladım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#cbdcdb",
+        "ink": "#253c3a",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-sabun-gerilim",
@@ -661,7 +847,7 @@
       "layout": "sticky",
       "category": "Bilim",
       "title": "Sabun suyu daha mı ıslak yapıyor?",
-      "subtitle": "Garip soru, gerçek bir yüzey meselesi.",
+      "subtitle": "Bir damla suyun bazı yüzeylerde boncuk gibi durduğunu görmüşsündür.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -678,12 +864,16 @@
       "motion": "particles",
       "slides": [
         {
-          "title": "Yüzeyde değişiklik",
-          "text": "Sabun gibi yüzey etkin maddeler suyun yüzey gerilimini düşürebilir. Suyun bazı yüzeylere yayılması böylece kolaylaşır."
+          "title": "",
+          "text": "Bir damla suyun bazı yüzeylerde boncuk gibi durduğunu görmüşsündür. Su moleküllerinin birbirini çekmesi, damlanın yayılmasına karşı koyar. Yüzey gerilimi dediğimiz özellik bununla ilgilidir."
         },
         {
-          "title": "Tek başına temizlik değil",
-          "text": "Yüzey gerilimi, yıkamanın yalnızca bir parçasıdır. Sabunun yağla etkileşmesi de önemlidir; köpük miktarı temizlik ölçeri değildir."
+          "title": "",
+          "text": "Sabun molekülünün suyla iyi anlaşan bir ucu, yağlarla daha iyi etkileşen bir bölümü vardır. Yüzeye yerleştiklerinde suyun yüzey gerilimini düşürebilirler. Su böylece bazı yüzeylere daha rahat yayılır."
+        },
+        {
+          "title": "",
+          "text": "Temizlikte bunun yanında yağın küçük parçalar hâlinde suya dağılması da önemlidir. O yüzden “çok köpürdü, kesin daha iyi temizledi” hesabı güvenilir değildir. Köpük görmekle yağın gerçekten yüzeyden uzaklaşması aynı ölçüm değildir."
         }
       ],
       "sources": [
@@ -692,16 +882,30 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/11-8-cohesion-and-adhesion-in-liquids-surface-tension-and-capillary-action"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "Caveat",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-metal-soguk",
       "topic": "Isı iletimi",
-      "layout": "comparison",
+      "layout": "gallery",
       "category": "Gündelik",
       "title": "Masa soğuk, tahta sıcak. Aynı oda?",
-      "subtitle": "Elin termometre gibi çalışmıyor.",
+      "subtitle": "Odadaki metal kaşıkla tahta masaya dokun.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -718,12 +922,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "Isı elinden kaçıyor",
-          "text": "Aynı sıcaklıktaki metal ve tahta farklı hissedilebilir. Metal, elindeki ısıyı genellikle daha hızlı uzaklaştırır."
+          "title": "",
+          "text": "Odadaki metal kaşıkla tahta masaya dokun. Uzun süredir aynı odadaysalar sıcaklıkları birbirine yakın olabilir. Yine de metal daha soğuk gelir. Elin burada termometre gibi yalnız sıcaklığı ölçmüyor."
         },
         {
-          "title": "Hissettiğin akış",
-          "text": "Soğukluk hissi yalnız cismin sıcaklığına değil, ısının aktarılma hızına da bağlıdır. Dokunarak karşılaştırma bu yüzden yanıltabilir."
+          "title": "",
+          "text": "Elin genellikle odadan sıcaktır. Dokunduğunda ısı, elinden cisme geçer. Metal bu enerjiyi temas noktasından hızla uzaklaştırdığı için elin daha çabuk soğur. Tahta ısıyı daha yavaş iletir."
+        },
+        {
+          "title": "",
+          "text": "Sıcak cisimlerde de fark ters yönde hissedilir: Sıcak metal eline ısıyı hızla aktarabilir. Bu nedenle bir yüzeyin güvenli sıcaklıkta olduğunu elle denemek iyi bir ölçüm yöntemi değildir. Hissettiğin, sıcaklıkla birlikte ısı aktarım hızıdır."
         }
       ],
       "sources": [
@@ -732,7 +940,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/14-5-conduction"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "umutburada",
@@ -758,7 +966,21 @@
           "name": "gokce",
           "text": "Yorumlara bakmadan önce kendim tahmin ettim."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Oswald",
+        "paper": "#192f2a",
+        "ink": "#24211e",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     },
     {
       "id": "kesif-yorgan",
@@ -766,7 +988,7 @@
       "layout": "chat",
       "category": "Gündelik",
       "title": "Yorgan ısı üretmiyorsa nasıl ısıtıyor?",
-      "subtitle": "Battaniyenin gizli rezistansı yok.",
+      "subtitle": "Yorganın içine termometre koyup boş yatağı beklersen yorgan kendi kendine ısı üretmez.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -783,12 +1005,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "Kaybı yavaşlatır",
-          "text": "Yalıtım malzemeleri ısının geçişini zorlaştırır. Aralarda tutulan hava da iyi bir ısı iletkeni olmadığı için bu işe yardım eder."
+          "title": "",
+          "text": "Yorganın içine termometre koyup boş yatağı beklersen yorgan kendi kendine ısı üretmez. Seni ısıtan esas kaynak, vücudundaki süreçlerin açığa çıkardığı enerjidir. Yorgan bu enerjinin çevreye kaçmasını yavaşlatır."
         },
         {
-          "title": "Isının kaynağı sensin",
-          "text": "Örtü, vücudunun ürettiği ısının çevreye kaçmasını azaltır. Isı üretmekle ısıyı korumak farklı işlerdir."
+          "title": "",
+          "text": "Liflerin arasında kalan durgun hava, ısıyı metallere göre çok kötü iletir. Örtü ayrıca tenine yakın sıcak havanın sürekli uzaklaşmasını sınırlar. Böylece vücudunla oda arasındaki ısı alışverişi azalır."
+        },
+        {
+          "title": "",
+          "text": "Bu yüzden yalıtım ile ısıtma farklı işlerdir. Termos da benzer biçimde içindekini üretmez; sıcak içeceğin soğumasını, soğuk içeceğin ısınmasını yavaşlatır. Yalıtımın görevi sıcaklığı belirlemek değil, değişimi ağırlaştırmaktır."
         }
       ],
       "sources": [
@@ -797,7 +1023,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/14-5-conduction"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "keremca",
@@ -811,7 +1037,21 @@
           "name": "umutburada",
           "text": "Çizimi yavaşlatınca daha rahat takip ettim."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#f4bd65",
+        "ink": "#332710",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     },
     {
       "id": "kesif-duvar-kalinligi",
@@ -819,7 +1059,7 @@
       "layout": "layers",
       "category": "Gündelik",
       "title": "Aynı malzeme, daha kalın duvar.",
-      "subtitle": "Isının yolu uzayınca ne olur?",
+      "subtitle": "Bir duvarın iki yanı farklı sıcaklıktaysa ısı, sıcak taraftan soğuk tarafa iletilir.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -836,12 +1076,16 @@
       "motion": "flow",
       "slides": [
         {
-          "title": "İletim daha yavaş",
-          "text": "Diğer koşullar aynıyken bir tabakanın kalınlığını artırmak, içinden iletimle geçen ısıyı azaltır."
+          "title": "",
+          "text": "Bir duvarın iki yanı farklı sıcaklıktaysa ısı, sıcak taraftan soğuk tarafa iletilir. Geçen ısı miktarı malzemeye, duvarın alanına, kalınlığına ve sıcaklık farkına bağlıdır. “Duvar var” demek tek başına yeterli bilgi değildir."
         },
         {
-          "title": "Tek ölçü kalınlık değil",
-          "text": "Malzemenin ısı iletkenliği ve iki tarafın sıcaklık farkı da sonucu değiştirir. Her kalın duvar aynı derecede iyi yalıtmaz."
+          "title": "",
+          "text": "Aynı malzemeyi ve aynı alanı düşün. Kalınlığı iki katına çıkarırsan, diğer koşullar aynıyken birim zamanda geçen ısı yaklaşık yarıya iner. Isı artık daha uzun bir yol geçmek zorundadır."
+        },
+        {
+          "title": "",
+          "text": "Ama ince bir yalıtım malzemesi, kalın bir metal levhadan daha iyi sonuç verebilir. Çünkü malzemelerin ısı iletkenlikleri çok farklıdır. Evdeki gerçek kaybı hesaplarken pencere, hava sızıntısı ve birleşim noktaları da ayrıca önem taşır."
         }
       ],
       "sources": [
@@ -850,7 +1094,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/14-5-conduction"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "selin.jpg",
@@ -872,15 +1116,29 @@
           "name": "cemden",
           "text": "Bu ayrımı unutmayayım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Oswald",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     },
     {
       "id": "kesif-sarkac-uzunluk",
       "topic": "Sarkaçlar",
-      "layout": "number",
+      "layout": "poster",
       "category": "Bilim",
       "title": "Uzun sarkaç daha ağırdan alır.",
-      "subtitle": "Saatin ritmini belirleyen ip.",
+      "subtitle": "Sarkaç, bir noktadan asılıp ileri geri sallanan ağırlıktır.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -897,12 +1155,16 @@
       "motion": "pendulum",
       "slides": [
         {
-          "title": "Yol değil, süre",
-          "text": "Küçük açılarla sallanan ideal bir sarkacın periyodu, uzunluğunun kareköküyle artar. Periyot bir tam gidip gelmenin süresidir."
+          "title": "",
+          "text": "Sarkaç, bir noktadan asılıp ileri geri sallanan ağırlıktır. Başladığı yere aynı hareket yönüyle dönmesi bir tam salınımdır; geçen süreye periyot denir. Saati ilgilendiren de bu tekrar süresidir."
         },
         {
-          "title": "Dört kat uzunluk",
-          "text": "İpi dört kat uzatırsan süre yaklaşık iki katına çıkar. Bu sonuç, küçük salınım ve düşük sürtünme varsayımına dayanır."
+          "title": "",
+          "text": "Küçük açılarla salınan ideal bir sarkaçta süre, ipin uzunluğunun kareköküyle artar. Yani ipi iki kat uzatmak süreyi iki kat yapmaz. Süreyi yaklaşık iki katına çıkarmak için ipi dört kat uzatmak gerekir."
+        },
+        {
+          "title": "",
+          "text": "Bir metre ve dört metre uzunluğunda iki ideal sarkaç düşün: İkincisi bir gidip gelmeyi yaklaşık iki kat sürede tamamlar. Büyük açılar, sürtünme ve esneyen ip ise bu basit hesabı etkiler."
         }
       ],
       "sources": [
@@ -911,13 +1173,27 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/16-4-the-simple-pendulum"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "mert.y",
           "text": "Bir daha karşılaşınca farklı bakacağım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Fraunces",
+        "paper": "#efe6d5",
+        "ink": "#24211e",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-sarkac-kutle",
@@ -925,7 +1201,7 @@
       "layout": "reveal",
       "category": "Bilim",
       "title": "Ağır sarkaç mutlaka daha hızlı mı?",
-      "subtitle": "Bu kez tartı sonucu söylemiyor.",
+      "subtitle": "Aynı uzunlukta iki ipe farklı ağırlıklar bağlayıp küçük bir açıdan bıraktığını düşün.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -942,12 +1218,16 @@
       "motion": "pendulum",
       "slides": [
         {
-          "title": "İdeal modelde hayır",
-          "text": "Aynı uzunlukta, küçük açılarla salınan ideal sarkaçların periyodu uçlarındaki kütleye bağlı değildir."
+          "title": "",
+          "text": "Aynı uzunlukta iki ipe farklı ağırlıklar bağlayıp küçük bir açıdan bıraktığını düşün. Ağır olanın yere daha güçlü çekildiği doğru. Ama ağır cismi hızlandırmak da aynı oranda daha zordur."
         },
         {
-          "title": "Gerçek hayatta",
-          "text": "Hava direnci ve ipin esnemesi gibi etkiler fark yaratabilir. Modelin söylediğiyle masadaki düzeneği karşılaştırırken bu ayrıntıları unutmayız."
+          "title": "",
+          "text": "İdeal sarkaç hesabında bu iki etki birbirini götürür. Bu yüzden bir tam gidip gelmenin süresi, asılan ağırlığın kütlesine bağlı çıkmaz. Süreyi belirleyenler esas olarak sarkaç uzunluğu ve yerçekimi ivmesidir."
+        },
+        {
+          "title": "",
+          "text": "Bir anahtarla bir tenis topunun gerçek deneyde farklı davranması bu sonucu hemen çürütmez. Hava direnci, nesnelerin şekli ve ipin esnemesi eşit olmayabilir. Modeli sınarken, modelin eşit kabul ettiği koşulları da eşitlemek gerekir."
         }
       ],
       "sources": [
@@ -956,8 +1236,22 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/16-4-the-simple-pendulum"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#f4bd65",
+        "ink": "#332710",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-sarkac-ay",
@@ -965,7 +1259,7 @@
       "layout": "postcard",
       "category": "Bilim",
       "title": "Aynı saat Ay’da yavaşlar mı?",
-      "subtitle": "Sarkaçlı olan için cevap evet.",
+      "subtitle": "Bir sarkaç saat, sallanan ağırlığın düzenli gidip gelmelerini sayar.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -982,27 +1276,49 @@
       "motion": "pendulum",
       "slides": [
         {
-          "title": "Yerçekimi ritmi değiştirir",
-          "text": "Aynı uzunluktaki ideal sarkacın periyodu yerçekimi ivmesi azaldıkça uzar. Ay’da yerçekimi Dünya’dakinden daha zayıftır."
+          "title": "",
+          "text": "Bir sarkaç saat, sallanan ağırlığın düzenli gidip gelmelerini sayar. Ağırlığı denge noktasına geri çeken etki yerçekimidir. Yerçekimi zayıflarsa bu geri çağırma da zayıflar ve salınım daha uzun sürer."
         },
         {
-          "title": "Hangi saat?",
-          "text": "Bu açıklama sarkaç mekanizması içindir. Her saatin zamanı aynı fiziksel düzenekle ölçtüğünü varsayamayız."
+          "title": "",
+          "text": "Ay yüzeyinde yerçekimi Dünya'dakinin yaklaşık altıda biridir. Aynı uzunluktaki ideal sarkacın periyodu bu nedenle yaklaşık √6, yani 2,45 katına çıkar. Dünya'ya göre ayarlanmış sarkaç mekanizması orada yavaş işler."
+        },
+        {
+          "title": "",
+          "text": "Bu, “Ay'da bütün saatler 2,45 kat yavaşlar” demek değildir. Telefonunun saati sarkaçla çalışmaz. Buradaki sonuç zamanın kendisiyle değil, zamanı saymak için seçilen mekanizmanın yerçekimine bağımlılığıyla ilgilidir."
         }
       ],
       "sources": [
         {
           "label": "OpenStax · College Physics 2E · 16-4",
           "url": "https://openstax.org/books/college-physics-2e/pages/16-4-the-simple-pendulum"
+        },
+        {
+          "label": "NASA · Ay gerçekleri",
+          "url": "https://science.nasa.gov/moon/facts/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "gokce",
           "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#f4bd65",
+        "ink": "#332710",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-dalga-toplama",
@@ -1010,7 +1326,7 @@
       "layout": "sequence",
       "category": "Bilim",
       "title": "İki dalga çarpışınca kavga çıkmıyor.",
-      "subtitle": "Uygun koşullarda üst üste binerler.",
+      "subtitle": "Gergin bir ipin iki ucundan birer küçük dalga darbesi gönderdiğini düşün.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -1027,12 +1343,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Birlikte görünürler",
-          "text": "Doğrusal dalgalarda aynı noktadaki yer değiştirmeler toplanır. Buna üst üste binme ilkesi denir."
+          "title": "",
+          "text": "Gergin bir ipin iki ucundan birer küçük dalga darbesi gönderdiğini düşün. Dalgalar karşılaşınca ip aynı anda iki hareketin etkisi altında kalır. Küçük, doğrusal dalgalarda o noktadaki yer değiştirmeler toplanır."
         },
         {
-          "title": "Sonra yollarına devam",
-          "text": "İki dalga darbesi karşılaşma bittikten sonra kendi yollarına ilerleyebilir. Karşılaşma anındaki şekil, tek başına yeni kalıcı bir dalga değildir."
+          "title": "",
+          "text": "Bir darbe ipi iki santimetre yukarı, öbürü bir santimetre aşağı itiyorsa karşılaşma anında ip bir santimetre yukarıdadır. Buna üst üste binme ilkesi denir; bir şekil toplama hesabı gibi düşünebilirsin."
+        },
+        {
+          "title": "",
+          "text": "Karşılaşmanın ardından darbeler yollarına devam edebilir. Yani üst üste geldiklerinde gördüğün şekil kalıcı bir birleşme değildir. Çok büyük su dalgaları gibi doğrusal olmayan durumlarda ise bu basit toplama kuralı tek başına yeterli olmaz."
         }
       ],
       "sources": [
@@ -1041,7 +1361,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/16-10-superposition-and-interference"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ahmet.a",
@@ -1075,7 +1395,21 @@
           "name": "elif.k",
           "text": "Başlık için geldim, kaynakta kaldım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Bebas Neue",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-yapici-girisim",
@@ -1083,7 +1417,7 @@
       "layout": "diagram",
       "category": "Bilim",
       "title": "Tepe tepeye denk gelirse.",
-      "subtitle": "Dalga yükselmesinin bir yolu.",
+      "subtitle": "Dalganın tepesi, ortamın denge konumunun üzerindeki en yüksek noktadır.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -1100,12 +1434,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Aynı anda, aynı yönde",
-          "text": "Özdeş iki dalganın tepeleri ve çukurları çakışırsa genlikleri toplanır. Buna yapıcı girişim denir."
+          "title": "",
+          "text": "Dalganın tepesi, ortamın denge konumunun üzerindeki en yüksek noktadır. Tepelerin aynı anda aynı yere geldiği iki eşit dalga düşün. Birinin yukarı ittiği yerde öteki de yukarı iter."
         },
         {
-          "title": "Neyin iki katı?",
-          "text": "İdeal durumda genlik iki katına çıkar; dalga boyu değişmez. Genlik, dalganın denge konumundan ne kadar saptığını anlatır."
+          "title": "",
+          "text": "Örneğin her biri iki santimetrelik yer değiştirme yapıyorsa ideal doğrusal durumda toplam dört santimetre olur. Dalganın denge konumundan en büyük uzaklığına genlik denir; bu örnekte genlik iki katına çıkmıştır."
+        },
+        {
+          "title": "",
+          "text": "Buna yapıcı girişim denir. Dalga boyu, yani art arda iki tepe arasındaki uzaklık ise bu yüzden iki katına çıkmaz. Daha yüksek tepeyle tepeler arasında daha uzun mesafe farklı özelliklerdir. Girişimde güçlenen şey burada genliktir."
         }
       ],
       "sources": [
@@ -1114,7 +1452,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/16-10-superposition-and-interference"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "nisa.defter",
@@ -1128,7 +1466,21 @@
           "name": "gokce",
           "text": "Kaynak bağlantısını açtım, daha çok şey varmış."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Lora",
+        "paper": "#d9e9cc",
+        "ink": "#283824",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-yikici-girisim",
@@ -1136,7 +1488,7 @@
       "layout": "punchline",
       "category": "Bilim",
       "title": "Ses, sesle azaltılabilir.",
-      "subtitle": "Toplamak bazen küçültür.",
+      "subtitle": "Ses, havadaki basıncın artıp azalmasıyla yayılan bir dalgadır.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -1153,12 +1505,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Tepeye karşı çukur",
-          "text": "Eşit büyüklükte, zıt fazlı dalgalar bir noktada birbirini söndürebilir. Bu, yıkıcı girişimdir."
+          "title": "",
+          "text": "Ses, havadaki basıncın artıp azalmasıyla yayılan bir dalgadır. Bir dalganın basıncı artırdığı anda diğeri aynı yerde eşit miktarda azaltırsa toplam değişim küçülür. Buna yıkıcı girişim denir."
         },
         {
-          "title": "Her yerde sessizlik değil",
-          "text": "İptal için dalgaların doğru yerde ve doğru zamanlamayla buluşması gerekir. Bir noktadaki azalma, bütün çevrede sesin yok olduğu anlamına gelmez."
+          "title": "",
+          "text": "Gürültü önleyici kulaklık, mikrofonla aldığı sesin uygun karşılığını üretmeye çalışır. Amaç kulağın yakınında iki dalgayı doğru zamanlamayla buluşturmaktır. Rastgele başka bir ses açmak aynı işi yapmaz."
+        },
+        {
+          "title": "",
+          "text": "İptal, yer ve zaman eşleşmesine bağlıdır. Bir noktada azalan ses başka bir noktada aynı ölçüde azalmayabilir. Düzenli, alçak frekanslı uğultuların ani ve değişken seslere göre daha kolay azaltılmasının nedenlerinden biri de bu zamanlama meselesidir."
         }
       ],
       "sources": [
@@ -1167,8 +1523,22 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/16-10-superposition-and-interference"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#d9e9cc",
+        "ink": "#283824",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-siren",
@@ -1176,7 +1546,7 @@
       "layout": "comparison",
       "category": "Bilim",
       "title": "Ambulans geçti, ses neden kalınlaştı?",
-      "subtitle": "Sirenin düğmesi değişmedi.",
+      "subtitle": "Siren havaya art arda basınç dalgaları gönderir.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -1193,12 +1563,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Yaklaşırken",
-          "text": "Kaynak yaklaşırken dalga tepeleri gözlemciye daha sık ulaşır. Duyulan frekans yükselir; ses daha ince gelir."
+          "title": "",
+          "text": "Siren havaya art arda basınç dalgaları gönderir. Saniyede gelen titreşim sayısına frekans deriz; frekans arttıkça ses daha ince duyulur. Ambulans yaklaşırken her yeni dalga, öncekinin çıktığı yerden biraz daha yakında oluşur."
         },
         {
-          "title": "Uzaklaşırken",
-          "text": "Dalga tepelerinin geliş aralığı uzar. Duyulan frekans düşer. Değişen, kaynağın hareketine bağlı olarak senin duyduğun sestir."
+          "title": "",
+          "text": "Bu yüzden ön tarafta dalga tepeleri sıkışır ve kulağına daha sık ulaşır. Ambulans yanından geçip uzaklaşmaya başlayınca tepelerin geliş aralığı uzar. Duyduğun ses birden kalınlaşır."
+        },
+        {
+          "title": "",
+          "text": "Bu değişime Doppler etkisi denir. Sirenin kendi titreşim düzenini değiştirmesi gerekmez; kaynakla dinleyicinin göreli hareketi yeterlidir. Yalnız yüksek sesle ince sesi karıştırma: Sesin şiddeti ile frekansı farklı özelliklerdir."
         }
       ],
       "sources": [
@@ -1207,13 +1581,27 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/17-4-doppler-effect-and-sonic-booms"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "selin.jpg",
           "text": "Yorumlara bakmadan önce kendim tahmin ettim."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-hareketli-dinleyici",
@@ -1221,7 +1609,7 @@
       "layout": "chat",
       "category": "Bilim",
       "title": "Siren sabit, sen hareketlisin.",
-      "subtitle": "Doppler için kaynak illa koşmaz.",
+      "subtitle": "Yol kenarında sabit bir ses kaynağı olsun.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -1238,12 +1626,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Dalgaya doğru giderken",
-          "text": "Ses kaynağına yaklaşan gözlemci dalga tepeleriyle daha sık karşılaşır. Bu da duyduğu frekansı değiştirir."
+          "title": "",
+          "text": "Yol kenarında sabit bir ses kaynağı olsun. Sen ona yaklaşırken, havada ilerleyen dalga tepeleriyle hareketsiz durduğundan daha sık karşılaşırsın. Böylece duyduğun frekans artar; kaynak hiç hareket etmese de ses değişir."
         },
         {
-          "title": "İki tarafı düşün",
-          "text": "Doppler etkisini açıklarken hem kaynağın hem gözlemcinin sesin yayıldığı ortama göre hareketini hesaba katmak gerekir."
+          "title": "",
+          "text": "Bunu yağmurda yürümeye benzetebilirsin: Damlaların düzeni aynıyken onlara doğru hareket etmen karşılaşma hızını değiştirir. Ses kaynağından uzaklaşırken de dalga tepeleriyle daha seyrek buluşursun."
+        },
+        {
+          "title": "",
+          "text": "Ses için hesap yapılırken havanın hareketi de önemlidir. Kaynak ve dinleyicinin sesin yayıldığı ortama göre hızları kullanılır. “Aramızdaki mesafe azalıyor” başlangıç için yararlı olsa da bütün Doppler hesabını tek başına anlatmaz."
         }
       ],
       "sources": [
@@ -1252,7 +1644,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/17-4-doppler-effect-and-sonic-booms"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "onurdefter",
@@ -1278,7 +1670,21 @@
           "name": "iremce",
           "text": "İkinci kartta anca oturdu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Bebas Neue",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-sonik-patlama",
@@ -1286,7 +1692,7 @@
       "layout": "newspaper",
       "category": "Bilim",
       "title": "Ses duvarı, tuğladan yapılmıyor.",
-      "subtitle": "Gökyüzündeki patlama başka bir şey.",
+      "subtitle": "Uçak ilerlerken havada basınç değişimleri oluşturur.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -1303,12 +1709,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Kaynak sesini geçer",
-          "text": "Bir cisim ses hızını aştığında ürettiği basınç dalgaları bir şok dalgası oluşturabilir. Bu dalga bize ulaştığında sonik patlama duyulur."
+          "title": "",
+          "text": "Uçak ilerlerken havada basınç değişimleri oluşturur. Ses hızından yavaşken bu etkiler uçağın önüne de yayılabilir. Uçak sesten hızlı giderse ürettiği etkileri geride bırakır; dalgalar bir şok yüzeyi oluşturur."
         },
         {
-          "title": "Tek anlık düğme değil",
-          "text": "Olay yalnız hız sınırının geçildiği noktada gerçekleşen bir patlama değildir. Süpersonik hareket sırasında şok dalgası oluşmayı sürdürür."
+          "title": "",
+          "text": "Bu yüzey koni biçiminde uçağın arkasına uzanır. Yerde duran birine ulaştığında basınç çok kısa sürede değişir ve güçlü bir patlama sesi duyulur. Duyulan şey uçağın parçalanması değildir."
+        },
+        {
+          "title": "",
+          "text": "“Ses duvarı” gerçek bir duvar da değildir. Patlama yalnız uçağın sınırı ilk aştığı anda çıkıp bitmez; süpersonik uçuş sürerken şok dalgası da sürer. Sen onu dalga bulunduğun yerden geçtiği anda duyarsın."
         }
       ],
       "sources": [
@@ -1317,16 +1727,30 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/17-4-doppler-effect-and-sonic-booms"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-fiber-isik",
       "topic": "Işığın içeride kalması",
-      "layout": "route",
+      "layout": "punchline",
       "category": "Teknoloji",
       "title": "Işık kablonun virajını nasıl dönüyor?",
-      "subtitle": "Fiberin içinde küçük bir yolculuk.",
+      "subtitle": "Optik fiber, bilgiyi ışık darbeleriyle taşıyan çok ince bir hattır.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -1343,12 +1767,16 @@
       "motion": "prism",
       "slides": [
         {
-          "title": "Sınırdan geri döner",
-          "text": "Işık, kırılma indisi yüksek çekirdekten düşük indisli kaplamaya uygun açıyla geldiğinde tamamen içeri yansıyabilir."
+          "title": "",
+          "text": "Optik fiber, bilgiyi ışık darbeleriyle taşıyan çok ince bir hattır. Ortasında ışığın ilerlediği çekirdek, çevresinde başka bir optik özellikte kaplama bulunur. Bu iki bölüm ışığı aynı hızda geçirmez."
         },
         {
-          "title": "İnce bir kılavuz",
-          "text": "Optik fiber bu tam iç yansıma ilkesinden yararlanır. Işık böylece uzun, ince bir hat boyunca yönlendirilebilir."
+          "title": "",
+          "text": "Işığın bir ortamdaki davranışını anlatan kırılma indisi, çekirdekte kaplamadan yüksektir. Işık sınır yüzeyine uygun açıyla geldiğinde dışarı çıkmak yerine tümüyle içeri yansır. Buna tam iç yansıma denir."
+        },
+        {
+          "title": "",
+          "text": "Art arda yansımalar ışığı hat boyunca yönlendirir. Böylece kablo çok hafif bükülse de ışık yolu izleyebilir. Ama her keskin virajı sorunsuz dönmez: Fazla bükülme, uygun açı koşulunu bozarak ışık kaybını artırabilir."
         }
       ],
       "sources": [
@@ -1357,7 +1785,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/25-4-total-internal-reflection"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "gokce",
@@ -1383,7 +1811,21 @@
           "name": "ayse.tr",
           "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Bebas Neue",
+        "paper": "#ead9f0",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-elmas",
@@ -1391,7 +1833,7 @@
       "layout": "gallery",
       "category": "Teknoloji",
       "title": "Elmasın parıltısı biraz da içerideki trafik.",
-      "subtitle": "Işık hemen çıkış bulamıyor.",
+      "subtitle": "Işık havadan elmasa girerken yön değiştirebilir.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -1408,12 +1850,16 @@
       "motion": "prism",
       "slides": [
         {
-          "title": "Kritik açı küçük",
-          "text": "Elmasın yüksek kırılma indisi, havayla sınırında küçük bir kritik açı oluşturur. İçeri giren ışık tekrar tekrar yansıyabilir."
+          "title": "",
+          "text": "Işık havadan elmasa girerken yön değiştirebilir. Elmasın kırılma indisi yüksektir; yani ışık orada boşluğa göre belirgin biçimde daha yavaş yayılır. Elmasın içinden havaya çıkışta bu özellik önem kazanır."
         },
         {
-          "title": "Kesim de önemli",
-          "text": "Taşın yüzeylerinin açıları ışığın izleyeceği yolu etkiler. Parıltıyı yalnızca malzemenin adıyla açıklamak eksik kalır."
+          "title": "",
+          "text": "Işık yüzeye belli bir açıdan daha eğik gelirse dışarı çıkmak yerine içeride tamamen yansır. Elmas için bu sınır açı küçüktür; dolayısıyla pek çok ışık yolu içeride yeniden yön değiştirebilir."
+        },
+        {
+          "title": "",
+          "text": "Kesimde oluşturulan yüzeylerin açıları, ışığın sonunda nereye gideceğini belirler. İyi bir kesim, gelen ışığın bir bölümünü izleyiciye geri yönlendirebilir. “Elmas olduğu için parlar” başlangıçtır; malzemeyle birlikte yüzey geometrisini de hesaba katmak gerekir."
         }
       ],
       "sources": [
@@ -1422,7 +1868,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/25-4-total-internal-reflection"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "gokce",
@@ -1463,12 +1909,22 @@
         {
           "name": "deniz.k",
           "text": "Son cümle önemli bence."
-        },
-        {
-          "name": "onurdefter",
-          "text": "Okulda duymuştum sanki, şimdi yerine oturdu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-kritik-aci",
@@ -1476,7 +1932,7 @@
       "layout": "reveal",
       "category": "Teknoloji",
       "title": "Cam bazen ayna gibi davranır.",
-      "subtitle": "Gümüş kaplama şart değil.",
+      "subtitle": "Suyun altından yukarı bakıldığında bazı yönlerde yüzeyin ayna gibi görünmesi tam iç yansımayla ilgilidir.",
       "account": "Nasıl Çalışır",
       "handle": "nasilcalisir",
       "cover": {
@@ -1493,12 +1949,16 @@
       "motion": "prism",
       "slides": [
         {
-          "title": "Yeterince eğik gelirse",
-          "text": "Işık yüksek indisli ortamdan düşük indisli ortama giderken, geliş açısı kritik açıyı aşarsa tamamen geri yansır."
+          "title": "",
+          "text": "Suyun altından yukarı bakıldığında bazı yönlerde yüzeyin ayna gibi görünmesi tam iç yansımayla ilgilidir. Işık, kırılma indisi yüksek ortamdan daha düşük olana geçmeye çalışırken ortaya çıkar."
         },
         {
-          "title": "Tersi aynı değil",
-          "text": "Havadan suya geçişte bu koşul sağlanmaz. Tam iç yansıma, her sınırda her yönde gerçekleşen bir olay değildir."
+          "title": "",
+          "text": "Geliş açısı yüzeye dik çizgiden ölçülür. Açı büyüdükçe dışarı geçen ışın yüzeye yaklaşır. Kritik açı denen sınır aşıldığında artık ilerleyen bir ışın olarak dışarı çıkamaz; geri yansır."
+        },
+        {
+          "title": "",
+          "text": "Burada yön önemli: Sudan havaya geçiş uygun koşulu sağlayabilir, havadan suya geçiş sağlayamaz. Dolayısıyla “ışık eğik gelirse her zaman ayna oluşur” diyemeyiz. Önce hangi ortamdan hangisine gittiğini bilmek gerekir."
         }
       ],
       "sources": [
@@ -1507,13 +1967,27 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/25-4-total-internal-reflection"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ayse.tr",
           "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#ead9f0",
+        "ink": "#35223f",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      }
     },
     {
       "id": "kesif-kopuk-renk",
@@ -1521,7 +1995,7 @@
       "layout": "poster",
       "category": "Bilim",
       "title": "Şeffaf sabun, rengârenk baloncuk.",
-      "subtitle": "Boyayı kim ekledi dersin?",
+      "subtitle": "Sabun baloncuğunun zarı çok ince bir sıvı tabakasıdır.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -1538,12 +2012,16 @@
       "motion": "prism",
       "slides": [
         {
-          "title": "İki yansıma buluşur",
-          "text": "Baloncuğun ince yüzeyinin önünden ve arkasından yansıyan ışık dalgaları birbirine eklenir. Bazı renkler güçlenirken bazıları zayıflar."
+          "title": "",
+          "text": "Sabun baloncuğunun zarı çok ince bir sıvı tabakasıdır. Işığın bir kısmı bu tabakanın ön yüzünden, bir kısmı içeri girip arka yüzünden yansır. İki ışık yolu aynı uzunlukta değildir."
         },
         {
-          "title": "Kalınlık değişir",
-          "text": "Zarın kalınlığı ve bakış açısı değiştikçe görülen renk de değişir. Her renk için ayrı boya bulunması gerekmez."
+          "title": "",
+          "text": "Yeniden buluştuklarında bazı dalga boylarında birbirlerini güçlendirir, bazılarında zayıflatırlar. Dalga boyları görünür ışıkta farklı renklere karşılık geldiği için gözümüz renkli desenler görür. Buna ince film girişimi denir."
+        },
+        {
+          "title": "",
+          "text": "Sıvı zarın kalınlığı her yerde aynı değildir; zamanla da değişir. Bu yüzden baloncuğu sabit tutsan bile renkler yer değiştirebilir. Renk için her noktada ayrı boya bulunması gerekmez; ışığın aldığı yoldaki küçücük farklar yeterlidir."
         }
       ],
       "sources": [
@@ -1552,7 +2030,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/27-7-thin-film-interference"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "onurdefter",
@@ -1578,7 +2056,21 @@
           "name": "ayse.tr",
           "text": "Ben bunu tam ters biliyormuşum 😅"
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#f4bd65",
+        "ink": "#332710",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "single",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-yansima-kaplama",
@@ -1586,7 +2078,7 @@
       "layout": "cutaway",
       "category": "Bilim",
       "title": "Gözlük camındaki mor parıltı ne?",
-      "subtitle": "Kaplama ışığı seçerek etkiler.",
+      "subtitle": "Gözlük camına gelen ışığın tamamı içeri geçmez; bir kısmı yüzeyden geri yansır.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -1603,12 +2095,16 @@
       "motion": "prism",
       "slides": [
         {
-          "title": "Yansıma azaltılabilir",
-          "text": "Uygun kalınlıktaki ince kaplamalar, yüzeylerden gelen yansımaları belirli dalga boylarında söndürecek biçimde tasarlanabilir."
+          "title": "",
+          "text": "Gözlük camına gelen ışığın tamamı içeri geçmez; bir kısmı yüzeyden geri yansır. Yansıma önleyici kaplama, cama çok ince bir başka tabaka ekleyerek bu geri dönen ışığın bir bölümünü azaltır."
         },
         {
-          "title": "Her renk aynı ölçüde değil",
-          "text": "Tek bir kaplama tüm ışığı her açıdan kusursuzca yok etmez. Geri kalan yansıma renkli görünebilir."
+          "title": "",
+          "text": "Kaplamanın ön ve arka sınırlarından yansıyan ışınlar farklı yollar alır. Kalınlık uygun seçildiğinde bazı dalga boylarında biri ötekini zayıflatacak biçimde buluşur. Buradaki araç boya değil, dalgaların girişimidir."
+        },
+        {
+          "title": "",
+          "text": "Tek kalınlık her rengi ve her bakış açısını aynı ölçüde söndüremez. Bu yüzden geriye kalan yansıma morumsu ya da yeşilimsi görünebilir. O renk, camdan geçen bütün dünyanın o renge boyandığı anlamına gelmez; çoğunlukla yansımada kalan ışıktır."
         }
       ],
       "sources": [
@@ -1617,7 +2113,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/27-7-thin-film-interference"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "onurdefter",
@@ -1631,7 +2127,21 @@
           "name": "duru.not",
           "text": "Görünüşüne bakıp karar veriyormuşum."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Space Mono",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     },
     {
       "id": "kesif-pockels",
@@ -1639,7 +2149,7 @@
       "layout": "profile",
       "category": "Bilim",
       "title": "Mutfak düzeneğinden bilimsel ölçüme.",
-      "subtitle": "Agnes Pockels’in merakı ciddiydi.",
+      "subtitle": "Agnes Pockels, 19.",
       "account": "Bir Dakika Bilim",
       "handle": "birdakikabilim",
       "cover": {
@@ -1656,12 +2166,16 @@
       "motion": "prism",
       "slides": [
         {
-          "title": "Evde kurulan düzenek",
-          "text": "Agnes Pockels, su yüzeyindeki sabunlu ve yağlı filmleri incelemek için evde bir düzenek geliştirdi."
+          "title": "",
+          "text": "Agnes Pockels, 19. yüzyılda su yüzeyindeki ince yağ ve sabun tabakalarının davranışını araştırdı. Bu tabakalar yüzeyin ne kadar kolay genişlediğini, yani yüzey gerilimini değiştirebilir. Araştırma sorusu gündelik bir gözlemden çıkıyordu."
         },
         {
-          "title": "Mesele yalnız renk değildi",
-          "text": "Yüzey filmlerini ve yüzey gerilimini ölçmeye yönelik bu çalışmalar, laboratuvar dışında da dikkatli deney yapılabileceğinin tarihsel bir örneğidir."
+          "title": "",
+          "text": "Pockels, yüzeydeki alanı hareketli bir bölmeyle değiştirebildiği bir düzenek geliştirdi. Böylece “su bugün başka türlü görünüyor” demek yerine, yüzey alanı değiştiğinde ne olduğunu karşılaştırabiliyordu."
+        },
+        {
+          "title": "",
+          "text": "Buradaki önemli adım yalnız evde deney yapmak değildi. Değiştirilen koşulu belli etmek ve sonucu ölçülebilir hâle getirmekti. Mutfakta fark edilen bir ayrıntının bilimsel soruya dönüşmesi, dikkatli gözlemin ardından böyle bir ölçüm düzeni kurmayı gerektirir."
         }
       ],
       "sources": [
@@ -1670,7 +2184,7 @@
           "url": "https://openstax.org/books/college-physics-2e/pages/27-7-thin-film-interference"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ardabirbak",
@@ -1684,7 +2198,21 @@
           "name": "onurdefter",
           "text": "Okurken durup düşündüm biraz."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Caveat",
+        "paper": "#cbdcdb",
+        "ink": "#253c3a",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/960px-Left_side_of_Flying_Pigeon.jpg",
+      "avatarCredit": {
+        "label": "齐健 from Peking, People's Republic of China",
+        "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+      }
     }
   ]
 }

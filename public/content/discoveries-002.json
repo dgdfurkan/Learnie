@@ -5,7 +5,7 @@
       "id": "spor-tenis-ralli",
       "category": "Spor",
       "title": "O uzun rallide neler oluyor?",
-      "subtitle": "Top gidip geliyor; her vuruşta yeni bir karar var.",
+      "subtitle": "Teniste bir puan sırasında topun oyuncular arasında gidip geldiği vuruş dizisine ralli denir.",
       "account": "Oyunun İçinden",
       "handle": "oyununicinden",
       "cover": {
@@ -18,23 +18,20 @@
       },
       "motion": "tennis",
       "format": "reel",
-      "minutes": 2,
+      "minutes": 1,
       "accent": "#5b8464",
       "slides": [
         {
-          "title": "Ralli dediğimiz şey",
-          "text": "Ralli, topun oyuncular arasında geçerli vuruşlarla gidip geldiği seridir. Bazen birkaç vuruşta biter, bazen tribünleri ayağa kaldıracak kadar uzar.",
-          "kicker": "OYUNUN DİLİ"
+          "title": "",
+          "text": "Teniste bir puan sırasında topun oyuncular arasında gidip geldiği vuruş dizisine ralli denir. Servisle başlayan puan, oyunculardan biri topu kurala uygun karşılayamayınca bitebilir. Uzunluğu ne olursa olsun normalde tek puanın mücadelesidir."
         },
         {
-          "title": "Her vuruş bir puan değil",
-          "text": "Top fileye takılırsa, oyun alanının dışına düşerse veya oyuncu topu ikinci kez sekmeden karşılayamazsa puanı kaybedebilir. Uzun bir rallinin sonunda da yalnızca bir puan kazanılır.",
-          "kicker": "BİR PUAN"
+          "title": "",
+          "text": "Topu yere değmeden karşılarsan vole, sektikten sonra vurursan yer vuruşu yaparsın. Oyuncu topu ikinci sekmeden önce karşılamalıdır. Topun geçerli alan dışına düşmesi veya kurala uygun biçimde fileyi aşmaması puanın kaybına yol açabilir."
         },
         {
-          "title": "Vole ile yer vuruşu",
-          "text": "Top yere değmeden yapılan vuruş vole olarak adlandırılır. Top sektikten sonra yapılan vuruş ise yer vuruşudur. Maç izlerken bu ayrımı takip etmek, ralliyi anlamanın iyi bir başlangıcıdır.",
-          "kicker": "GÖZÜN TOPTA"
+          "title": "",
+          "text": "Ralli izlerken yalnız sert vuruşa bakma. Topu rakibin uzağına göndermek ve sonraki vuruş için uygun yere dönmek de oyunun parçasıdır. On vuruşluk bir hazırlık, son anda kolay görünen tek vuruşa alan açmış olabilir."
         }
       ],
       "sources": [
@@ -47,7 +44,7 @@
           "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "quiz": {
         "question": "Yirmi vuruşluk bir ralli kazanıldığında kaç puan alınır?",
         "options": [
@@ -60,14 +57,28 @@
         "explanation": "Ralli kaç vuruş sürerse sürsün sonuç bir puandır."
       },
       "comments": [],
-      "layout": "comic",
-      "topic": "O uzun rallide neler oluyor"
+      "layout": "profile",
+      "topic": "O uzun rallide neler oluyor",
+      "art": {
+        "kind": "photo",
+        "font": "Caveat",
+        "paper": "#f9edbc",
+        "ink": "#24211e",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tennis_ball_on_tennis_court_20170619.jpg/960px-Tennis_ball_on_tennis_court_20170619.jpg",
+      "avatarCredit": {
+        "label": "Santeri Viinamäki",
+        "url": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_tennis_court_20170619.jpg"
+      }
     },
     {
       "id": "spor-tenis-skor",
       "category": "Spor",
-      "title": "15, 30… Neden 40?",
-      "subtitle": "Tenis tabelasını okumak, oyuna girmek için yeterli.",
+      "title": "Teniste 30–15 görünce ne anlıyoruz?",
+      "subtitle": "Standart tenis oyununda kazanılan puanlar 0, 15, 30 ve 40 diye anons edilir.",
       "account": "Oyunun İçinden",
       "handle": "oyununicinden",
       "cover": {
@@ -80,32 +91,33 @@
       },
       "motion": "tennis",
       "format": "reel",
-      "minutes": 2,
+      "minutes": 1,
       "accent": "#5b8464",
       "slides": [
         {
-          "title": "Puanlar böyle sayılıyor",
-          "text": "Standart bir oyunda puanlar 0, 15, 30 ve 40 olarak söylenir. İngilizcede sıfır için love kullanılır. Skor anonsunda servis atan oyuncunun puanı önce gelir.",
-          "kicker": "TABELAYI OKU"
+          "title": "",
+          "text": "Standart tenis oyununda kazanılan puanlar 0, 15, 30 ve 40 diye anons edilir. Servis atan oyuncunun puanı önce söylenir. Yani 30–15, servisçinin iki, karşılayanın bir puan aldığı anlamına gelir."
         },
         {
-          "title": "İş burada uzayabilir",
-          "text": "Standart avantajlı oyunda 40–40 eşitliğine deuce denir. Sonraki puan avantaj getirir. Avantajlı oyuncu bir puan daha alırsa oyunu kazanır; rakibi alırsa yeniden eşitlik olur.",
-          "kicker": "40–40"
+          "title": "",
+          "text": "İki taraf da üçer puana ulaşınca 40–40, yani eşitlik olur. Avantajlı standart oyunda bundan sonra iki puanlık fark gerekir: Bir puan avantaj, sonraki puan oyun getirir. Avantajı alan sonraki puanı kaybederse yeniden eşitliğe dönülür."
         },
         {
-          "title": "Tie-break ayrı bir bölüm",
-          "text": "Tie-break içinde puanlar 1, 2, 3 diye sayılır. Hedef puan ve set kuralları formatına göre değişebilir. Bu yüzden maçın hangi formatta oynandığına bakmak gerekir.",
-          "kicker": "BAŞKA BİR SAYIM"
+          "title": "",
+          "text": "Tie-break'te sayım 1, 2, 3 diye ilerler; formatın kuralları ayrıca belirleyicidir. 15–30–40 sayımının kökeni hakkında popüler hikâyeler bulunur, ama burada kesinmiş gibi bir efsane anlatmak yerine maç izlerken gerçekten işe yarayan kuralı öğreniyoruz."
         }
       ],
       "sources": [
         {
           "label": "USTA · Puan, oyun ve set kuralları",
           "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-scoring-rules.html"
+        },
+        {
+          "label": "ITF · 2026 Tenis Kuralları, madde 5",
+          "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "quiz": {
         "question": "Standart avantajlı oyunda deuce hangi skordur?",
         "options": [
@@ -118,14 +130,28 @@
         "explanation": "Deuce 40–40 eşitliğidir. 6–6 ise puan değil, set içindeki oyun sayısını anlatabilir."
       },
       "comments": [],
-      "layout": "number",
-      "topic": "15, 30… Neden 40"
+      "layout": "punchline",
+      "topic": "15, 30… Neden 40",
+      "art": {
+        "kind": "photo",
+        "font": "Bebas Neue",
+        "paper": "#f4bd65",
+        "ink": "#24211e",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tennis_ball_on_tennis_court_20170619.jpg/960px-Tennis_ball_on_tennis_court_20170619.jpg",
+      "avatarCredit": {
+        "label": "Santeri Viinamäki",
+        "url": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_tennis_court_20170619.jpg"
+      }
     },
     {
       "id": "spor-futbol-on-numara",
       "category": "Spor",
       "title": "Bir forma numarasından fazlası: 10",
-      "subtitle": "Bazen bir rakam, bütün bir futbol anlayışını taşır.",
+      "subtitle": "Futbolda 10 numara, zamanla yaratıcılık ve oyun görüşüyle ilişkilendirilen bir simgeye dönüştü.",
       "account": "Oyunun İçinden",
       "handle": "oyununicinden",
       "cover": {
@@ -138,23 +164,20 @@
       },
       "motion": "football",
       "format": "reel",
-      "minutes": 2,
+      "minutes": 1,
       "accent": "#5b8464",
       "slides": [
         {
-          "title": "Bir sayı nasıl simge olur?",
-          "text": "FIFA Müzesi, 10 numarayı yaratıcılık ve oyun görüşüyle ilişkilendirilen bir futbol simgesi olarak ele alıyor. Yıllar içinde o formayı giyen oyuncular, rakama kendi hikâyelerini ekledi.",
-          "kicker": "FUTBOL KÜLTÜRÜ"
+          "title": "",
+          "text": "Futbolda 10 numara, zamanla yaratıcılık ve oyun görüşüyle ilişkilendirilen bir simgeye dönüştü. Bu kültürel anlam, o formayı giyen oyuncuların oyunları ve hatıralarıyla birikti. Sayının kendi başına pas verme yeteneği yok elbette."
         },
         {
-          "title": "Oyunu birbirine bağlayan oyuncu",
-          "text": "Gündelik futbol dilinde on numara denince çoğu zaman hücumun bağlantılarını kuran, boşluk gören ve son pası düşünen oyuncu akla gelir. Bu bir rol tarifidir; sırtındaki rakam tek başına görevini belirlemez.",
-          "kicker": "SAHANIN İÇİNDE"
+          "title": "",
+          "text": "Taktik konuşmada “on numara” dendiğinde çoğu zaman orta saha ile hücum arasında bağlantı kuran oyuncu kastedilir. Rakip hatlar arasındaki boşlukta top almak ve son pası hazırlamak bu rolle ilişkilendirilebilir. Ama her sistem aynı görev dağılımını kullanmaz."
         },
         {
-          "title": "Formada bir hatıra taşımak",
-          "text": "Bir çocuk sevdiği oyuncunun numarasını seçtiğinde yalnızca sayı seçmez. Onun oyununu, sevincini ve hatırasını da taşımak ister. Formaların kültürel gücü biraz da buradan gelir.",
-          "kicker": "ORTAK HAFIZA"
+          "title": "",
+          "text": "Bir oyuncunun sırtında 10 yazması, mutlaka bu rolde oynadığını göstermez. Forma numarasıyla saha içindeki görev ayrı okunur. Taraftarın sevdiği numarayı seçmesi ise işin başka tarafı: Bazen bir rakam, bütün bir futbol hatırasının kısaltması olur."
         }
       ],
       "sources": [
@@ -163,7 +186,7 @@
           "url": "https://www.fifamuseum.com/en/the-magic-10/the-magic-10-digital-exhibition"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "quiz": {
         "question": "On numara ifadesi futbol kültüründe en çok neyi çağrıştırır?",
         "options": [
@@ -177,13 +200,27 @@
       },
       "comments": [],
       "layout": "profile",
-      "topic": "Bir forma numarasından fazlası: 10"
+      "topic": "Bir forma numarasından fazlası: 10",
+      "art": {
+        "kind": "photo",
+        "font": "Bebas Neue",
+        "paper": "#e4e4df",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tennis_ball_on_tennis_court_20170619.jpg/960px-Tennis_ball_on_tennis_court_20170619.jpg",
+      "avatarCredit": {
+        "label": "Santeri Viinamäki",
+        "url": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_tennis_court_20170619.jpg"
+      }
     },
     {
       "id": "soru-venus-gun",
       "category": "Soru",
       "title": "Bir dönüş, bir yıldan uzun olabilir mi?",
-      "subtitle": "Yarışma tadında bir soru. Cevabın arkasında iki farklı hareket var.",
+      "subtitle": "Bir gezegenin kendi çevresinde dönmesiyle Güneş çevresinde dolanması iki ayrı harekettir.",
       "account": "Bir Soru Bir Keşif",
       "handle": "birsorubirkesif",
       "cover": {
@@ -196,23 +233,20 @@
       },
       "motion": "orbit",
       "format": "reel",
-      "minutes": 2,
+      "minutes": 1,
       "accent": "#a084b0",
       "slides": [
         {
-          "title": "İki farklı saat",
-          "text": "Bir gezegen kendi ekseninde döner; aynı zamanda Güneş çevresinde dolanır. Bu iki hareketin süresi birbirine eşit olmak zorunda değildir.",
-          "kicker": "TAHMİN ET"
+          "title": "",
+          "text": "Bir gezegenin kendi çevresinde dönmesiyle Güneş çevresinde dolanması iki ayrı harekettir. Bir tur dönme süresi, bir yılından daha uzun bile olabilir. Venüs bunun güzel örneğidir: Yıldızlara göre bir dönüşü yaklaşık 243 Dünya günü sürer."
         },
         {
-          "title": "243 ile 225",
-          "text": "Venüs kendi ekseninde bir dönüşünü yaklaşık 243 Dünya gününde tamamlar. Güneş çevresindeki bir turu, yani yılı ise yaklaşık 225 Dünya günü sürer.",
-          "kicker": "CEVAP VENÜS"
+          "title": "",
+          "text": "Güneş çevresindeki bir turu ise yaklaşık 225 Dünya günüdür. Bu anlamda dönüş süresi yılından uzundur. Fakat “Venüs'te gün” ifadesi başka bir ölçüyü de anlatabilir: Bir gün doğumundan sonraki gün doğumuna kadar geçen süre."
         },
         {
-          "title": "Gün derken neyi kastediyoruz?",
-          "text": "Buradaki 243 gün, yıldızlara göre dönüş süresidir. Venüs’te bir gün doğumundan sonraki gün doğumuna kadar geçen güneş günü yaklaşık 117 Dünya günüdür. Sorunun nasıl kurulduğu önemlidir.",
-          "kicker": "İNCE AYRINTI"
+          "title": "",
+          "text": "Bu güneş günü yaklaşık 117 Dünya günüdür. Çünkü gezegen dönerken yörüngesinde de ilerler ve Venüs'ün dönüş yönü ayrıca önemlidir. Sorudaki “gün”ün hangi hareketi ölçtüğünü bilmeden iki sayıyı aynı şey sanmak kolaydır."
         }
       ],
       "sources": [
@@ -225,7 +259,7 @@
           "url": "https://www.nasa.gov/wp-content/uploads/2009/12/Venus_Lithograph_h.pdf"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "quiz": {
         "question": "Hangi gezegenin ekseni çevresindeki dönüşü, kendi yılından daha uzundur?",
         "options": [
@@ -238,14 +272,28 @@
         "explanation": "Venüs: eksen dönüşü yaklaşık 243, yılı yaklaşık 225 Dünya günü. Bu Learnie için hazırlanmış özgün bir sorudur; bir TV programından alınmamıştır."
       },
       "comments": [],
-      "layout": "puzzle",
-      "topic": "Bir dönüş, bir yıldan uzun olabilir mi"
+      "layout": "poster",
+      "topic": "Bir dönüş, bir yıldan uzun olabilir mi",
+      "art": {
+        "kind": "photo",
+        "font": "Lora",
+        "paper": "#efe6d5",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2-16x9-1.jpg",
+      "avatarCredit": {
+        "label": "NASA/JPL-Caltech",
+        "url": "https://science.nasa.gov/venus/venus-facts/"
+      }
     },
     {
       "id": "inanc-alak-oku",
       "category": "İnanç",
       "title": "Oku: öğrenmeye açılan bir kapı",
-      "subtitle": "Alak sûresinin ilk ayetlerine, bağlamını koruyarak bakalım.",
+      "subtitle": "Alak sûresinin ilk beş ayeti, İslam geleneğinde ilk vahiy olarak kabul edilen bölümle ilişkilidir.",
       "account": "Anlamın İzinde",
       "handle": "anlaminizinde",
       "cover": {
@@ -258,23 +306,20 @@
       },
       "motion": "geometry",
       "format": "reel",
-      "minutes": 2,
+      "minutes": 1,
       "accent": "#a68b54",
       "slides": [
         {
-          "title": "Başlangıçta bir çağrı",
-          "text": "Alak sûresinin ilk beş ayeti okuma, yaratılış, kalem ve öğrenme etrafında ilerler. Diyanet’in Kur’an Yolu tefsirinde bu bölüm, ilk vahiy olarak kabul edilen ayetler arasında açıklanır.",
-          "kicker": "ALAK 96:1–5"
+          "title": "",
+          "text": "Alak sûresinin ilk beş ayeti, İslam geleneğinde ilk vahiy olarak kabul edilen bölümle ilişkilidir. Okuma, yaratılış, kalem ve insanın bilmediğini öğrenmesi üzerinde durur. Bu yüzden bilgi ve öğrenme üzerine düşünürken sıkça başvurulan bir metindir."
         },
         {
-          "title": "Öğrenmek ve aktarmak",
-          "text": "Ayetlerde kalemle öğretmeye ve insanın bilmediğini öğrenmesine dikkat çekilir. Diyanet tefsiri, kalemin bilgiyi yazıya geçirme ve sonraki kuşaklara aktarma işlevini de ele alır.",
-          "kicker": "KALEM VE BİLGİ"
+          "title": "",
+          "text": "Diyanet'in Kur'an Yolu tefsiri, kalemin bilgiyi yazıya geçirme ve başkalarına aktarma işlevine de dikkat çeker. Yazı, kişinin öğrendiğinin kendi hafızasıyla sınırlı kalmamasını sağlar; bilgi başka yerlere ve kuşaklara ulaşabilir."
         },
         {
-          "title": "Bağlamla birlikte",
-          "text": "Bu kartlar ayetlerin birebir meali değil, kısa bir açıklamasıdır. Ayet metnini, mealini ve tefsirini birlikte okumak için aşağıdaki Diyanet kaynağına geçebilirsin.",
-          "kicker": "BİR OKUMA NOTU"
+          "title": "",
+          "text": "Buradaki açıklama ayetlerin birebir meali değil, ana vurgularını tanıtan bir özettir. Meal, anlamın çevirisi; tefsir ise bağlam ve yorumla daha geniş açıklamasıdır. Kaynağı açınca bu iki katmanı ayırarak okumak metni daha dikkatli anlamayı sağlar."
         }
       ],
       "sources": [
@@ -283,7 +328,7 @@
           "url": "https://kuran.diyanet.gov.tr/tefsir/Alak-suresi/6107/1-5-ayet-tefsiri"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "quiz": {
         "question": "Alak sûresinin ilk beş ayetinde hangi araçla öğretmeye değinilir?",
         "options": [
@@ -296,14 +341,28 @@
         "explanation": "Kalemle öğretmeye değinilir. Açıklama için Alak 96:4–5 ve Kur’an Yolu tefsirine bakabilirsin."
       },
       "comments": [],
-      "layout": "book",
-      "topic": "Oku: öğrenmeye açılan bir kapı"
+      "layout": "postcard",
+      "topic": "Oku: öğrenmeye açılan bir kapı",
+      "art": {
+        "kind": "photo",
+        "font": "Lora",
+        "paper": "#ee5350",
+        "ink": "#24211e",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Holy_Quran.jpg",
+      "avatarCredit": {
+        "label": "Syed Hussaini",
+        "url": "https://commons.wikimedia.org/wiki/File:Holy_Quran.jpg"
+      }
     },
     {
       "id": "inanc-hayirli-soz",
       "category": "İnanç",
       "title": "Göndermeden önce bir nefes",
-      "subtitle": "Peygamber Efendimiz’in söz ahlakına dair bir hatırlatması.",
+      "subtitle": "Sahîh-i Buhârî'de 6018 numarasıyla yer alan rivayette iyi söz söylemek veya susmak öğütlenir.",
       "account": "Anlamın İzinde",
       "handle": "anlaminizinde",
       "cover": {
@@ -316,23 +375,20 @@
       },
       "motion": "geometry",
       "format": "reel",
-      "minutes": 2,
+      "minutes": 1,
       "accent": "#a68b54",
       "slides": [
         {
-          "title": "Sözün de bir sorumluluğu var",
-          "text": "Buhârî’de aktarılan bir hadiste, Allah’a ve ahiret gününe iman eden kişinin iyi söz söylemesi veya susması öğütlenir. Aynı rivayette komşuya zarar vermemek ve misafire ikram etmek de yer alır.",
-          "kicker": "SÜNNETTEN HAYATA"
+          "title": "",
+          "text": "Sahîh-i Buhârî'de 6018 numarasıyla yer alan rivayette iyi söz söylemek veya susmak öğütlenir. Aynı rivayette komşuya zarar vermemek ve misafire ikram etmek de bulunur. Söz, daha geniş bir toplumsal sorumluluk çerçevesinin içindedir."
         },
         {
-          "title": "Bir mesaj da sözdür",
-          "text": "Bir yorumu göndermeden önce durup şu soruya bakabiliriz: Bu cümle bir şeyi açıklıyor mu, yoksa sadece birini incitmek için mi yazılıyor? Bu, hadisten hareketle gündelik hayata kurduğumuz bir bağlantıdır.",
-          "kicker": "BUGÜNE BAKALIM"
+          "title": "",
+          "text": "Bir tartışmada cevap vermeden önce “Bu cümle bir şeyi açıklıyor mu, yoksa yalnız incitmek için mi yazıyorum?” diye sormak, öğüdü bugüne taşıyan bir örnek olabilir. Susmak burada her sorunu görmezden gelmekle eşitlenmek zorunda değildir."
         },
         {
-          "title": "Rivayet ile yorum ayrı",
-          "text": "Hadisin kaynağı Sahîh-i Buhârî, 6018’dir. Buradaki sosyal medya örneği hadisin bir parçası değildir; öğretisini düşünmek için verilen güncel bir örnektir.",
-          "kicker": "KAYNAĞIYLA"
+          "title": "",
+          "text": "Sosyal medya örneği rivayetin parçası değil, üzerinde düşünmek için kurduğumuz bağlantıdır. Hadisin ne söylediğini ve bizim hangi güncel uygulamayı çıkardığımızı ayırmak, dinî bir kaynağı aktarırken anlamı bulanıklaştırmamayı sağlar."
         }
       ],
       "sources": [
@@ -341,7 +397,7 @@
           "url": "https://sunnah.com/bukhari:6018"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "quiz": {
         "question": "Bu hadiste söz konusunda hangi ilke öne çıkar?",
         "options": [
@@ -368,13 +424,27 @@
         }
       ],
       "layout": "chat",
-      "topic": "Göndermeden önce bir nefes"
+      "topic": "Göndermeden önce bir nefes",
+      "art": {
+        "kind": "type",
+        "font": "Space Mono",
+        "paper": "#192f2a",
+        "ink": "#f3eddc",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Holy_Quran.jpg",
+      "avatarCredit": {
+        "label": "Syed Hussaini",
+        "url": "https://commons.wikimedia.org/wiki/File:Holy_Quran.jpg"
+      }
     },
     {
       "id": "gundelik-sise-kapagi",
       "category": "Gündelik",
       "title": "Şişe kapağı nasıl doğuyor?",
-      "subtitle": "İki parmağımızla çevirdiğimiz küçücük bir üretim hikâyesi.",
+      "subtitle": "Şişe kapağı küçücük ama görevi hassas: Şişeye uymalı ve içindekini kaçırmamalı.",
       "account": "Nasıl Oluyor?",
       "handle": "nasiloluyor",
       "cover": {
@@ -387,23 +457,20 @@
       },
       "motion": "bottle",
       "format": "reel",
-      "minutes": 2,
+      "minutes": 1,
       "accent": "#ba7855",
       "slides": [
         {
-          "title": "Önce küçücük plastik taneleri",
-          "text": "Kapak üretiminde HDPE veya PP gibi termoplastikler kullanılabilir. Termoplastik, ısıtılınca şekil verilebilen plastik ailesidir. Malzeme, kapağın tasarımına ve kullanımına göre seçilir.",
-          "kicker": "HAM MADDE"
+          "title": "",
+          "text": "Şişe kapağı küçücük ama görevi hassas: Şişeye uymalı ve içindekini kaçırmamalı. Üretimde HDPE veya PP gibi termoplastikler kullanılabilir. Termoplastik, ısıtılınca şekil verilebilen ve soğuyunca biçimini koruyan plastik grubudur."
         },
         {
-          "title": "Kalıbın içinde birkaç adım",
-          "text": "Sıkıştırma kalıplamada yumuşatılmış plastikten ölçülü bir parça kalıba bırakılır. Kalıp kapanır ve parçaya kapağın biçimini verir. Soğutma, bu biçimin korunmasını sağlar.",
-          "kicker": "ŞEKİL VERME"
+          "title": "",
+          "text": "Sıkıştırma kalıplamada ölçülü miktarda yumuşatılmış plastik kalıba bırakılır. Kalıp kapanarak plastiği kapağın biçimine sokar; ardından soğutulur. Vida dişleri ve sızdırmazlıkla ilgili yüzeyler tasarımın parçasıdır."
         },
         {
-          "title": "Küçük parçada büyük hassasiyet",
-          "text": "Enjeksiyon kalıplama da kapak üretiminde kullanılan başka bir yöntemdir. Kapağın boyutu ve sızdırmazlığı kontrol edilir. Şişeyi kapatan bu küçük parça, seri üretimde çok kez aynı ölçüde yapılmalıdır.",
-          "kicker": "TEK YÖNTEM YOK"
+          "title": "",
+          "text": "Enjeksiyon kalıplama gibi başka üretim yöntemleri de vardır. Seri üretimde asıl başarı yalnız bir kapağı yapmak değil, binlercesini aynı ölçülerde yapabilmektir. Boyut ve sızdırmazlık kontrolleri, sıradan gördüğümüz bu parçanın işini her seferinde yapmasını sağlar."
         }
       ],
       "sources": [
@@ -416,7 +483,7 @@
           "url": "https://sacmi.com/en-US/selection-of-alternative-hdpe-for-caps"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "quiz": {
         "question": "Sıkıştırma kalıplamada kapağın biçimini ne belirler?",
         "options": [
@@ -438,14 +505,28 @@
           "text": "Bir dakika diye girdim yine konu uzadı bende."
         }
       ],
-      "layout": "process",
-      "topic": "Şişe kapağı nasıl doğuyor"
+      "layout": "punchline",
+      "topic": "Şişe kapağı nasıl doğuyor",
+      "art": {
+        "kind": "photo",
+        "font": "Bebas Neue",
+        "paper": "#f4bd65",
+        "ink": "#24211e",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Plastic_screw_caps.jpg/960px-Plastic_screw_caps.jpg",
+      "avatarCredit": {
+        "label": "Basilicofresco",
+        "url": "https://commons.wikimedia.org/wiki/File:Plastic_screw_caps.jpg"
+      }
     },
     {
       "id": "saglik-deodorant",
       "category": "Sağlık",
       "title": "Deodorant teri durdurur mu?",
-      "subtitle": "Kokuyu azaltmak ile terlemeyi azaltmak aynı iş değil.",
+      "subtitle": "Deodorant ile antiperspirant aynı işi hedeflemez.",
       "account": "Vücudun Hikâyesi",
       "handle": "vucudunhikayesi",
       "cover": {
@@ -458,23 +539,20 @@
       },
       "motion": "particles",
       "format": "reel",
-      "minutes": 2,
+      "minutes": 1,
       "accent": "#638f91",
       "slides": [
         {
-          "title": "Etiketteki küçük ayrım",
-          "text": "Deodorant, vücut kokusunu gidermek veya maskelemek için kullanılır. Antiperspirant ise uygulandığı bölgedeki terlemeyi azaltmayı hedefler. Bir ürün ikisini bir arada sunabilir.",
-          "kicker": "İKİ FARKLI İŞ"
+          "title": "",
+          "text": "Deodorant ile antiperspirant aynı işi hedeflemez. Deodorant, vücut kokusunu gidermek veya maskelemek için kullanılır. Antiperspirant ise uygulandığı yerde terin cilt yüzeyine ulaşmasını azaltmayı amaçlar. Bazı ürünler ikisini bir arada sunar."
         },
         {
-          "title": "Geçici bir tıkaç",
-          "text": "Antiperspirantlardaki alüminyum bazlı bileşikler ter kanalında geçici bir tıkaç oluşturabilir. Böylece cilt yüzeyine ulaşan ter azalır. Bu, deodorantın kokuyu hedefleyen etkisinden farklıdır.",
-          "kicker": "NASIL ETKİLER?"
+          "title": "",
+          "text": "Antiperspirantlardaki alüminyum bazlı bileşikler ter kanalında geçici bir tıkaç oluşturabilir. Bu mekanizma terlemeyi azaltır. Güzel koku eklenmesi ise ter kanalındaki bu etkiyle aynı işlem değildir."
         },
         {
-          "title": "Şişenin adı her şeyi söylemez",
-          "text": "Sprey veya roll-on, ürünün uygulama biçimidir; tek başına işlevini açıklamaz. Ne yaptığını anlamak için etikette deodorant mı, antiperspirant mı yazdığına bakılır. Bu açıklama ürün ya da tedavi önerisi değildir.",
-          "kicker": "GÜNDELİK MERAK"
+          "title": "",
+          "text": "Sprey ve roll-on sözcükleri uygulama biçimini anlatır; ürünün hangi işlevi taşıdığını tek başına söylemez. Etiketteki deodorant ve antiperspirant ayrımına bakmak bu yüzden daha açıklayıcıdır. Bu gönderi bir ürün önerisi değil, iki terimin çalışma mantığını ayıran kısa bir açıklamadır."
         }
       ],
       "sources": [
@@ -487,7 +565,7 @@
           "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths/antiperspirants-fact-sheet"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "quiz": {
         "question": "Terlemeyi azaltmak için tasarlanan ürün grubu hangisidir?",
         "options": [
@@ -513,14 +591,28 @@
           "text": "Bunu birine anlatmayı deneyeceğim."
         }
       ],
-      "layout": "comparison",
-      "topic": "Deodorant teri durdurur mu"
+      "layout": "gallery",
+      "topic": "Deodorant teri durdurur mu",
+      "art": {
+        "kind": "photo",
+        "font": "Fraunces",
+        "paper": "#f7f3e9",
+        "ink": "#24211e",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Deoroller.JPG/330px-Deoroller.JPG",
+      "avatarCredit": {
+        "label": "Joho345",
+        "url": "https://commons.wikimedia.org/wiki/File:Deoroller.JPG"
+      }
     },
     {
       "id": "saglik-agri-kesici",
       "category": "Sağlık",
       "title": "Ağrı kesici ağrının yerini nasıl bulur?",
-      "subtitle": "İlaç bir adresi aramaz. Vücutta bir süreci etkiler.",
+      "subtitle": "Ağrı kesicilerin hepsi aynı biçimde çalışmaz.",
       "account": "Vücudun Hikâyesi",
       "handle": "vucudunhikayesi",
       "cover": {
@@ -533,32 +625,33 @@
       },
       "motion": "particles",
       "format": "reel",
-      "minutes": 2,
+      "minutes": 1,
       "accent": "#638f91",
       "slides": [
         {
-          "title": "Hepsi aynı biçimde çalışmaz",
-          "text": "Ağrı kesiciler tek bir ilaç türü değildir. Burada örnek olarak ibuprofene bakıyoruz. İbuprofen, steroid olmayan iltihap giderici ilaçlar grubundadır; kısaca NSAİİ denir.",
-          "kicker": "BİR ÖRNEK"
+          "title": "",
+          "text": "Ağrı kesicilerin hepsi aynı biçimde çalışmaz. İbuprofen örneğinde, ağrı ve iltihaplanmada rol alan prostaglandin denen maddelerin üretimi azaltılır. Prostaglandinler, vücutta çeşitli işlere katılan kimyasal haberci maddelerdir."
         },
         {
-          "title": "Ağrıya katkı veren maddeler",
-          "text": "İbuprofen, ağrı, ateş ve iltihaplanmaya katkı veren maddelerin üretimini azaltarak etki eder. Ağrıyan yere bilinçli olarak gitmez; vücuttaki kimyasal süreçleri etkiler.",
-          "kicker": "SİNYALİ AZALTMAK"
+          "title": "",
+          "text": "İbuprofen üretim zincirindeki enzimlerin çalışmasını etkiler. Yani ağrının yerini bilinçli olarak arayan bir madde değildir; vücuda dağılıp uygun kimyasal süreçlere etki eder. Ağrı hissinin azalması, ağrıyı başlatan sorunun her zaman ortadan kalktığını göstermez."
         },
         {
-          "title": "Rahatlama, nedenin çözülmesi değildir",
-          "text": "Ağrının azalması, ağrıya yol açan sorunun mutlaka giderildiği anlamına gelmez. İbuprofen herkes için uygun değildir ve ciddi yan etkileri olabilir. İlaç seçimi veya doz için değil, çalışma mantığını anlamak için okuyorsun; kullanım kararını hekim veya eczacıyla değerlendir.",
-          "kicker": "ÖNEMLİ AYRIM"
+          "title": "",
+          "text": "Bu maddelerin vücutta başka görevleri de olduğu için etki yalnız istenen ağrı azalmasıyla sınırlı kalmayabilir. İbuprofen herkes için uygun değildir. Buradaki amaç mekanizmayı öğrenmek; kişisel ilaç veya doz seçimi için hekim ya da eczacı değerlendirmesi gerekir."
         }
       ],
       "sources": [
         {
           "label": "MedlinePlus · İbuprofen bilgisi",
           "url": "https://medlineplus.gov/druginfo/meds/a682159.html"
+        },
+        {
+          "label": "NHS · NSAİİ ilaçların çalışma biçimi",
+          "url": "https://www.southtees.nhs.uk/resources/information-for-adult-patients-prescribed-non-steroidal-antiinflammatory-drugs-for-pain/"
         }
       ],
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "quiz": {
         "question": "İbuprofen için hangi açıklama daha doğrudur?",
         "options": [
@@ -604,8 +697,22 @@
           "text": "Şuraya bir yer imi bırakayım."
         }
       ],
-      "layout": "network",
-      "topic": "Ağrı kesici ağrının yerini nasıl bulur"
+      "layout": "poster",
+      "topic": "Ağrı kesici ağrının yerini nasıl bulur",
+      "art": {
+        "kind": "photo",
+        "font": "Caveat",
+        "paper": "#e4e4df",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Deoroller.JPG/330px-Deoroller.JPG",
+      "avatarCredit": {
+        "label": "Joho345",
+        "url": "https://commons.wikimedia.org/wiki/File:Deoroller.JPG"
+      }
     }
   ]
 }

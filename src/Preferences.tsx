@@ -8,7 +8,7 @@ export function PreferencesProvider({children}:{children:ReactNode}){
  const [prefs,update]=useState<Preferences>(()=>{try{return normalizePreferences(JSON.parse(localStorage.getItem(KEY)||'{}')) as Preferences;}catch{return defaultPreferences as Preferences;}});
  const [systemDark,setSystemDark]=useState(()=>matchMedia('(prefers-color-scheme: dark)').matches);const [storageError,setStorageError]=useState(false);const dark=prefs.theme==='dark'||(prefs.theme==='system'&&systemDark);
  useEffect(()=>{const media=matchMedia('(prefers-color-scheme: dark)');const change=()=>setSystemDark(media.matches);media.addEventListener('change',change);const storage=(e:StorageEvent)=>{if(e.key===KEY){try{update(normalizePreferences(JSON.parse(e.newValue||'{}')) as Preferences);}catch{}}};window.addEventListener('storage',storage);return()=>{media.removeEventListener('change',change);window.removeEventListener('storage',storage);};},[]);
- useEffect(()=>{document.documentElement.dataset.theme=dark?'dark':'light';document.querySelector('meta[name="theme-color"]')?.setAttribute('content',dark?'#101110':'#fcfcfb');},[dark]);
+ useEffect(()=>{document.documentElement.dataset.theme=dark?'dark':'light';document.querySelector('meta[name="theme-color"]')?.setAttribute('content',dark?'#000000':'#ffffff');},[dark]);
  const setPrefs=(patch:Partial<Preferences>)=>update(current=>{const next=normalizePreferences({...current,...patch}) as Preferences;try{localStorage.setItem(KEY,JSON.stringify(next));setStorageError(false);}catch{setStorageError(true);}return next;});
  return <Context.Provider value={{prefs,setPrefs,dark,storageError}}>{children}</Context.Provider>;
 }

@@ -4,10 +4,10 @@
     {
       "id": "kesif-katman",
       "topic": "Arkeoloğun alet çantası",
-      "layout": "layers",
+      "layout": "postcard",
       "category": "Tarih",
       "title": "Toprağın altı da arşiv. Ama dosyalar karışabiliyor.",
-      "subtitle": "Kazıda derinlik tek başına tarih değildir.",
+      "subtitle": "Toprağa zamanla yeni malzemeler birikir.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -24,12 +24,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Katmanları okumak",
-          "text": "Bozulmamış bir birikimde alttaki katman genellikle üsttekinden eskidir. Arkeologlar bu sıradan yararlanarak buluntuları göreli olarak tarihlendirir."
+          "title": "",
+          "text": "Toprağa zamanla yeni malzemeler birikir. Bozulmamış bir yerde alttaki tabakanın üsttekinden daha eski olması beklenir. Arkeologlar katmanların sırasından yararlanarak hangi olayın önce, hangisinin sonra olduğunu araştırır. Buna göreli tarihleme denir."
         },
         {
-          "title": "Bağlam şart",
-          "text": "Sonradan kazılmış bir çukur eski katmanı kesebilir. Bu yüzden yalnız “daha derinden çıktı” diyerek kesin yaş verilmez."
+          "title": "",
+          "text": "Ama biri daha sonra çukur kazmışsa, yeni bir nesne eski tabakanın içine girebilir. Hayvan yuvaları ve başka bozulmalar da düzeni etkileyebilir. Bu yüzden derinlik tek başına kesin yaş vermez."
+        },
+        {
+          "title": "",
+          "text": "Üst üste konmuş defterlerin arasına sonradan bir kâğıt sıkıştırmayı düşün. Kâğıdın altta bulunması onu en eski yapmaz. Kazıda katmanın sınırlarını ve kesintilerini kaydetmek, sadece nesne bulmak kadar önemlidir."
         }
       ],
       "sources": [
@@ -38,7 +42,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/2-1-archaeological-research-methods"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "duru.not",
@@ -56,7 +60,21 @@
           "name": "elif.k",
           "text": "Kısa ama tekrar okumalık."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Lora",
+        "paper": "#cbdcdb",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-karbon-on-dort",
@@ -64,7 +82,7 @@
       "layout": "casefile",
       "category": "Tarih",
       "title": "Taşın yaşını her zaman karbonla ölçemezsin.",
-      "subtitle": "Yöntemin malzemeyle ilişkisi var.",
+      "subtitle": "Canlılar yaşamları boyunca çevreleriyle karbon alışverişi yapar.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -81,12 +99,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Organik iz",
-          "text": "Radyokarbon tarihleme, bir zamanlar yaşamış maddelerde kalan karbon-14 üzerinden çalışır. Kömürleşmiş tohum veya kemik uygun örnekler olabilir."
+          "title": "",
+          "text": "Canlılar yaşamları boyunca çevreleriyle karbon alışverişi yapar. Öldüklerinde bu alışveriş durur ve içlerindeki radyoaktif karbon-14 zamanla azalır. Radyokarbon tarihleme, geriye kalan miktardan ölümden beri geçen süreyi tahmin eder."
         },
         {
-          "title": "Ne ölçülüyor?",
-          "text": "Ölçüm, belirsizlik aralığı ve kalibrasyonla yorumlanır. Her nesneye uygulanabilen, ekranda kusursuz bir yıl gösteren sihirli saat değildir."
+          "title": "",
+          "text": "Bu yüzden kömürleşmiş tohum, odun veya uygun kemik örnekleri incelenebilir. Her taş nesneye aynı yöntem doğrudan uygulanamaz. Ölçülen şey, örnekteki bir zamanlar canlı maddeyle ilişkili karbonun geçmişidir."
+        },
+        {
+          "title": "",
+          "text": "Sonuç tek, kusursuz bir takvim yılı değildir; belirsizlik ve kalibrasyonla yorumlanır. Ayrıca kullanılan odun, yapıldığı nesneden daha eski olabilir. “Neyi tarihlendirdik?” sorusu, ölçüm sayısı kadar önemlidir: Malzemenin ölümünü mü, nesnenin yapımını mı?"
         }
       ],
       "sources": [
@@ -95,7 +117,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/2-1-archaeological-research-methods"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "iremce",
@@ -136,12 +158,22 @@
         {
           "name": "selin.jpg",
           "text": "Detay sevenlere güzel konu."
-        },
-        {
-          "name": "ardabirbak",
-          "text": "İkinci kez okuyunca daha anlaşılır geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-buluntu-baglami",
@@ -149,7 +181,7 @@
       "layout": "cutaway",
       "category": "Tarih",
       "title": "Çömleği bulduk. Nereden çıktığını kaybettik.",
-      "subtitle": "Bilginin yarısı da oradaydı.",
+      "subtitle": "Aynı çömlek bir mutfakta, mezarda veya atölyede bulunabilir.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -166,12 +198,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Nesnenin çevresi",
-          "text": "Bir buluntunun katmanı, yakınındaki nesneler ve konumu kullanımını anlamaya yardım eder. Buna arkeolojik bağlam denir."
+          "title": "",
+          "text": "Aynı çömlek bir mutfakta, mezarda veya atölyede bulunabilir. Biçimi aynı olsa da çevresindeki izler onun nasıl kullanıldığı hakkında farklı sorular açar. Buluntunun yeri, katmanı ve yanındaki nesneler arkeolojik bağlamını oluşturur."
         },
         {
-          "title": "Yerinden kopunca",
-          "text": "Aynı kap mezarda, mutfakta veya atölyede farklı sorular doğurur. Kayıtsız çıkarılan nesne, görünüşünü korusa da ilişkilerine dair bilgi kaybeder."
+          "title": "",
+          "text": "Kabın içindeki kalıntı, yakınındaki ocak veya başka kaplarla ilişkisi birlikte incelenebilir. Nesneyi kayıtsız çıkarıp yalnız vitrinde saklamak, bu bağlantıların bir bölümünü geri dönülmez biçimde kaybettirebilir."
+        },
+        {
+          "title": "",
+          "text": "Bir cümleyi kitaptan kesip hangi sayfadan geldiğini unutmaya benzer. Sözcükler durur ama konuşmanın içindeki yeri kaybolur. Arkeolojide değerli olan yalnız güzel nesne değil, nesnenin diğer izlerle kurduğu ilişkidir."
         }
       ],
       "sources": [
@@ -180,7 +216,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/2-1-archaeological-research-methods"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "cemden",
@@ -190,7 +226,21 @@
           "name": "ahmet.a",
           "text": "İlk akla gelen cevap başka oluyor."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Caveat",
+        "paper": "#cbdcdb",
+        "ink": "#253c3a",
+        "align": "start",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-karsiliklilik",
@@ -198,7 +248,7 @@
       "layout": "chat",
       "category": "Gündelik",
       "title": "Komşuya çorba verdin. Fatura kesmedin.",
-      "subtitle": "Her alışverişin fiyat etiketi yok.",
+      "subtitle": "Komşuna çorba götürdüğünde çoğu zaman hemen eşit gramda çorba geri istemezsin.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -215,12 +265,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Hemen karşılık beklememek",
-          "text": "Genelleştirilmiş karşılıklılıkta insanlar, anında eşdeğer ödeme hesaplamadan paylaşır. Yakın ilişkilerde bakım ve dayanışma böyle yürüyebilir."
+          "title": "",
+          "text": "Komşuna çorba götürdüğünde çoğu zaman hemen eşit gramda çorba geri istemezsin. Yakın ilişkilerde paylaşım, anlık hesabı kapatmadan da sürebilir. Antropolojide buna genelleştirilmiş karşılıklılık örneği olarak bakılır."
         },
         {
-          "title": "İlişki de sürer",
-          "text": "Bu paylaşım, tarafların birbirine bağlılığını besleyebilir. Ekonomik hayatı yalnız kasadan geçen paraya bakarak anlayamayız."
+          "title": "",
+          "text": "Bugün biri yemek getirir, başka gün diğeri bir işe yardım eder. Karşılık her zaman aynı nesneyle veya aynı gün verilmez. İlişkinin devamı, tek alışverişin tam eşitliğinden daha önemli olabilir."
+        },
+        {
+          "title": "",
+          "text": "Bu, toplumdaki bütün paylaşımların karşılıksız ve sorunsuz olduğu anlamına gelmez. Beklentiler ve yükler yine bulunabilir. Ama ekonomik hayatı yalnız para verilen işlemlerle ölçersek bakım, komşuluk ve dayanışma gibi önemli faaliyetleri görmeyiz."
         }
       ],
       "sources": [
@@ -229,7 +283,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/7-6-exchange-value-and-consumption"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ardabirbak",
@@ -270,24 +324,22 @@
         {
           "name": "onurdefter",
           "text": "Son cümle önemli bence."
-        },
-        {
-          "name": "berk.b",
-          "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
-        },
-        {
-          "name": "ecebirnot",
-          "text": "Çizimi yavaşlatınca daha rahat takip ettim."
-        },
-        {
-          "name": "deniz.k",
-          "text": "Böyle düşünmemiştim hiç."
-        },
-        {
-          "name": "cemden",
-          "text": "Bunu kaydettim, sonra bir daha bakacağım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     },
     {
       "id": "kesif-yeniden-dagitim",
@@ -295,7 +347,7 @@
       "layout": "network",
       "category": "Gündelik",
       "title": "Önce bir yerde toplanır, sonra paylaştırılır.",
-      "subtitle": "Ekonominin başka bir düzeni.",
+      "subtitle": "Bir toplulukta ürünlerin veya emeğin bir merkezde toplanıp daha sonra paylaştırıldığını düşün.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -312,12 +364,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Merkezde birikmek",
-          "text": "Yeniden dağıtımda mal veya emek, bir merkezde toplanıp topluluğa geri dağıtılır. Şefliklerden devlet kurumlarına farklı örnekleri vardır."
+          "title": "",
+          "text": "Bir toplulukta ürünlerin veya emeğin bir merkezde toplanıp daha sonra paylaştırıldığını düşün. Antropolojide bu düzene yeniden dağıtım denir. Farklı toplumlarda tören, yönetim ve geçim ihtiyaçlarıyla ilişkili biçimleri bulunur."
         },
         {
-          "title": "Kimin kararı?",
-          "text": "Toplamak ve dağıtmak, yönetenlere sorumlulukla birlikte güç de verir. Yalnız ne kadar mal olduğuna değil, kimin dağıttığına da bakılır."
+          "title": "",
+          "text": "Merkez yalnız depo değildir; kimden ne alınacağını ve kime ne verileceğini belirleyen kurallar vardır. Bu kuralları yöneten kişiler hem sorumluluk hem de güç kazanabilir. Dağıtım, toplumsal ilişkilerin bir parçasıdır."
+        },
+        {
+          "title": "",
+          "text": "Bir ortak mutfakta herkesin malzeme getirmesi ve yemeğin paylaştırılması fikri küçük bir benzetmedir. Büyük örnekleri anlamak için miktar kadar karar yetkisini de sorarız: Kim topluyor, kim seçiyor, kim pay alıyor?"
         }
       ],
       "sources": [
@@ -326,7 +382,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/7-6-exchange-value-and-consumption"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "umutburada",
@@ -352,7 +408,21 @@
           "name": "aliokuyor",
           "text": "Benim aklıma da aynı soru takılmıştı."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Caveat",
+        "paper": "#f9edbc",
+        "ink": "#363220",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     },
     {
       "id": "kesif-pazar-kurum",
@@ -360,7 +430,7 @@
       "layout": "terminal",
       "category": "Gündelik",
       "title": "Pazar dediğin yalnız salı günü kurulan yer değil.",
-      "subtitle": "Ekonomide anlamı daha geniş.",
+      "subtitle": "Pazar deyince akla tezgâhlar gelir ama alıcıyla satıcının buluşması için aynı meydanda durmaları gerekmez.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -377,12 +447,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Buluşma düzeni",
-          "text": "Piyasa, alıcılarla satıcıların değiş tokuş yapmasını sağlayan bir kurum olarak düşünülebilir. Bunun için aynı meydanda bulunmaları gerekmez."
+          "title": "",
+          "text": "Pazar deyince akla tezgâhlar gelir ama alıcıyla satıcının buluşması için aynı meydanda durmaları gerekmez. Piyasa, değiş tokuşun yapılmasını sağlayan kurallar ve ilişkiler düzeni olarak da düşünülebilir. İnternetten alışveriş bunun gündelik örneğidir."
         },
         {
-          "title": "Kurallar görünmez olabilir",
-          "text": "Fiyatın oluşması, ödeme ve güven ilişkileri bu düzenin parçalarıdır. Ekrandan alışveriş de fiziksel tezgâh kadar toplumsal kurallara dayanır."
+          "title": "",
+          "text": "Fiyatın nasıl belirlendiği, ödemenin nasıl yapılacağı ve anlaşmazlıkta ne olacağı bu düzenin parçalarıdır. Güven ve kabul edilen kurallar olmadan yalnız “alıcı var, satıcı var” demek yeterli değildir."
+        },
+        {
+          "title": "",
+          "text": "Bu yüzden ekonomik işlemler toplumdan ayrı bir boşlukta gerçekleşmez. Ekrandaki satın al düğmesinin arkasında da kurumlar, alışkanlıklar ve karşılıklı beklentiler vardır. Meydan değişse bile alışverişin toplumsal tarafı ortadan kalkmaz."
         }
       ],
       "sources": [
@@ -391,7 +465,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/7-6-exchange-value-and-consumption"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "keremca",
@@ -432,12 +506,22 @@
         {
           "name": "ayse.tr",
           "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
-        },
-        {
-          "name": "duru.not",
-          "text": "Gündelik şeylerin arkasını okumak hoşuma gidiyor."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Space Mono",
+        "paper": "#172b24",
+        "ink": "#cbeaac",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     },
     {
       "id": "kesif-iki-yanli-soy",
@@ -445,7 +529,7 @@
       "layout": "network",
       "category": "Gündelik",
       "title": "Aile ağacı herkes için aynı çizilmiyor.",
-      "subtitle": "Hangi bağın öne çıktığı değişebilir.",
+      "subtitle": "Akrabalığı yalnız baba soyundan veya yalnız anne soyundan izlemek tek seçenek değildir.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -462,12 +546,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "İki taraf birlikte",
-          "text": "İki yanlı soy hesabında akrabalık hem anne hem baba üzerinden izlenir. Tek bir soy hattı bütün ilişkilerin merkezi yapılmaz."
+          "title": "",
+          "text": "Akrabalığı yalnız baba soyundan veya yalnız anne soyundan izlemek tek seçenek değildir. İki yanlı soy hesabında, kişinin hem anne hem baba tarafındaki bağları önem taşır. Aile ağacı iki yönde de izlenir."
         },
         {
-          "title": "Biyolojiyle bitmez",
-          "text": "Toplumlar akrabalık bağlarına farklı hak ve sorumluluklar yükler. Benzer biyolojik bağlantılar, her yerde aynı sosyal anlama gelmez."
+          "title": "",
+          "text": "Ama biyolojik bağlantının bulunması, her toplumda aynı hak ve sorumluluğu doğurmaz. Miras, bakım, birlikte yaşama ve aidiyet kuralları kültüre göre farklılaşabilir. Aynı kuzenlik ilişkisi farklı yerlerde farklı ağırlık taşıyabilir."
+        },
+        {
+          "title": "",
+          "text": "Bu yüzden başka bir toplumun aile düzenini kendi evimizdeki alışkanlıkların büyütülmüş hâli gibi okumayız. Önce hangi bağların sosyal olarak öne çıkarıldığını sorarız. Aile ağacı insanları bağlar; bu bağların ne anlama geldiğini ise toplumsal kurallar da biçimlendirir."
         }
       ],
       "sources": [
@@ -476,8 +564,22 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/11-3-reckoning-kinship-across-cultures"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "diagram",
+        "font": "Oswald",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "end",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     },
     {
       "id": "kesif-paralel-kuzen",
@@ -485,7 +587,7 @@
       "layout": "split",
       "category": "Gündelik",
       "title": "Bazı dillerde kuzenlerin hepsi aynı grupta değil.",
-      "subtitle": "Akrabalık sözlüğü bir dünya görüşü taşır.",
+      "subtitle": "Antropolojide kuzenleri ayırmak için kullanılan iki terim vardır.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -502,12 +604,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Farklı sınıflandırma",
-          "text": "Antropolojide paralel kuzen, ebeveynin aynı cinsiyetten kardeşinin çocuğu için kullanılır. Annenin kız kardeşinin çocuğu buna örnektir."
+          "title": "",
+          "text": "Antropolojide kuzenleri ayırmak için kullanılan iki terim vardır. Annenin kız kardeşinin veya babanın erkek kardeşinin çocuğu paralel kuzendir. Ebeveynin kendi cinsiyetinden kardeşinin çocuğu üzerinden tanımlanır."
         },
         {
-          "title": "Çapraz bağ",
-          "text": "Ebeveynin farklı cinsiyetten kardeşinin çocuğu ise çapraz kuzen diye sınıflanır. Bu ayrımın toplumsal önemi kültürden kültüre değişir."
+          "title": "",
+          "text": "Annenin erkek kardeşinin ya da babanın kız kardeşinin çocuğu ise çapraz kuzen diye adlandırılır. Ayrım, kuzenlerin kendi cinsiyetine bakmaz; bağlantıyı kuran ebeveyn kardeşlerinin ilişkisine bakar."
+        },
+        {
+          "title": "",
+          "text": "Gündelik Türkçede hepsine kuzen diyebiliriz. Bazı kültürlerde bu iki kategori farklı toplumsal kurallarla ilişkilendirildiği için araştırmacılar ayrımı kullanır. Terim, kuzenlerden birinin daha yakın sevileceğini söylemez; belirli bir akrabalık sınıflandırmasını tarif eder."
         }
       ],
       "sources": [
@@ -516,8 +622,22 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/11-3-reckoning-kinship-across-cultures"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     },
     {
       "id": "kesif-akrabalik-ego",
@@ -525,7 +645,7 @@
       "layout": "diagram",
       "category": "Gündelik",
       "title": "Aile şemasındaki EGO, kendini beğenmiş biri değil.",
-      "subtitle": "Haritanın başlangıç noktası.",
+      "subtitle": "Bir akrabalık şemasında EGO yazısını görürsen, kendini beğenmiş birinden söz edildiğini düşünme.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -542,12 +662,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Kime göre akraba?",
-          "text": "Akrabalık çizimlerinde EGO, ilişkileri bakış açısından tarif edilen kişidir. “Anne”, “dayı” veya “kuzen” bu kişiye göre yerleşir."
+          "title": "",
+          "text": "Bir akrabalık şemasında EGO yazısını görürsen, kendini beğenmiş birinden söz edildiğini düşünme. Bu, ilişkilerin kimin bakış açısından adlandırıldığını gösteren teknik bir etikettir. Şemanın referans kişisi odur."
         },
         {
-          "title": "Merkezi değiştir",
-          "text": "Aynı kişi birine kardeş, diğerine teyze olabilir. Şemayı okurken önce merkezde kimin bulunduğunu anlamak gerekir."
+          "title": "",
+          "text": "Örneğin sen EGO isen annenin kız kardeşi teyzen olur. Aynı kişi annen açısından kardeş, kendi çocuğu açısından annedir. İnsan değişmedi; ilişkiyi tarif ettiğimiz başlangıç noktası değişti."
+        },
+        {
+          "title": "",
+          "text": "Haritada “sağ taraf” demeden önce hangi yöne baktığını belirtmeye benzer. Akrabalık adlarını doğru okumak için de önce merkezin kim olduğunu bilmek gerekir. Bu küçük işaret, büyük bir aile şemasında ilişkilerin karışmasını önler."
         }
       ],
       "sources": [
@@ -556,7 +680,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/11-3-reckoning-kinship-across-cultures"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "iremce",
@@ -590,7 +714,21 @@
           "name": "ecebirnot",
           "text": "Her gün gözümün önündeymiş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Caveat",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     },
     {
       "id": "kesif-mutfak-karisimi",
@@ -598,7 +736,7 @@
       "layout": "postcard",
       "category": "Gündelik",
       "title": "Bir yemek sınırı geçince aynı kalmayabilir.",
-      "subtitle": "Tarifler de göç eder.",
+      "subtitle": "Bir yemek başka bir ülkeye taşındığında malzemelerin hepsi orada bulunmayabilir.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -615,12 +753,16 @@
       "motion": "mosaic",
       "slides": [
         {
-          "title": "Yeni birleşimler",
-          "text": "Yemekler başka toplumlara taşındığında yerel malzeme ve alışkanlıklarla birleşebilir. Mutfak kültürleri sürekli temas içinde değişir."
+          "title": "",
+          "text": "Bir yemek başka bir ülkeye taşındığında malzemelerin hepsi orada bulunmayabilir. Tarif, eldeki ürünlere, pişirme araçlarına ve yerel damak tadına göre değişebilir. Mutfaklar bu tür temaslarla sürekli yeniden biçimlenir."
         },
         {
-          "title": "Saflık kolay bir etiket",
-          "text": "Bir yemeğin bugün bize tanıdık gelmesi, geçmişinin tek bir yere kapandığı anlamına gelmez. Tarifin yolculuğu da hikâyenin parçasıdır."
+          "title": "",
+          "text": "Göç eden biri eski yemeğini yeni bir malzemeyle yapar; komşusu onu başka bir öğünde sunar. Birkaç kuşak sonra ortaya çıkan biçim yerel hayatın tanıdık parçası olabilir. Tarifin yolculuğu, insanların yolculuğuyla birlikte ilerler."
+        },
+        {
+          "title": "",
+          "text": "Bu nedenle bir yemeğin bugünkü biçimini tek bir başlangıç anına indirgemek zor olabilir. Köken sorusu değerlidir ama değişim hikâyesini de sormalıyız: Kim taşıdı, ne değişti, yeni yerde nasıl benimsendi? Sofra, kültürler arasındaki temasın izlerini saklayabilir."
         }
       ],
       "sources": [
@@ -629,13 +771,27 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/14-3-food-and-cultural-identity"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "gokce",
           "text": "Çizimi yavaşlatınca daha rahat takip ettim."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     },
     {
       "id": "kesif-yemek-tabusu",
@@ -643,7 +799,7 @@
       "layout": "door",
       "category": "Gündelik",
       "title": "Menüde olmayanlar da kültürü anlatır.",
-      "subtitle": "Sofranın sınırları var.",
+      "subtitle": "Bir toplumda sıradan yemek sayılan bir hayvan, başka bir toplumda yenmemesi gereken bir canlı olarak görülebilir.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -660,12 +816,16 @@
       "motion": "mosaic",
       "slides": [
         {
-          "title": "Yememe kuralları",
-          "text": "Bazı yiyeceklerden kaçınma kuralları dinî inançlarla veya toplumsal kimlikle ilişkilidir. Her toplum aynı maddeleri aynı biçimde sınıflandırmaz."
+          "title": "",
+          "text": "Bir toplumda sıradan yemek sayılan bir hayvan, başka bir toplumda yenmemesi gereken bir canlı olarak görülebilir. Yiyecek sınıfları yalnız besin değerine veya tada göre kurulmaz. Din, kimlik ve toplumsal düzen de rol oynar."
         },
         {
-          "title": "Tek sebebe indirme",
-          "text": "Bu kuralları yalnız damak tadıyla açıklamak eksik kalır. İnsanların kendi açıklamalarını ve uygulamaların bağlamını dinlemek gerekir."
+          "title": "",
+          "text": "Bir yiyecekten kaçınma kuralı, kişinin ait olduğu toplulukla bağını gösterebilir. Aynı kuralın nasıl uygulandığı zaman, yer ve kişiler arasında da değişebilir. Topluluğun kendi açıklamalarını dinlemek bu yüzden önemlidir."
+        },
+        {
+          "title": "",
+          "text": "“Ben severdim, niye yemiyorlar?” sorusu araştırmaya yetmez. Daha açıklayıcı sorular, bu yemeğin orada neyi temsil ettiği ve hangi kurallarla ilişkilendirildiğidir. Menüde yazmayanlar da, yazanlar kadar kültürel bilgi taşıyabilir."
         }
       ],
       "sources": [
@@ -674,13 +834,27 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/14-3-food-and-cultural-identity"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ardabirbak",
           "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#f9edbc",
+        "ink": "#363220",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     },
     {
       "id": "kesif-birlikte-yemek",
@@ -688,7 +862,7 @@
       "layout": "comic",
       "category": "Gündelik",
       "title": "Aynı sofraya oturmak bazen bir üyelik kartı.",
-      "subtitle": "Yemek, ilişkileri de besler.",
+      "subtitle": "Bir bayram sofrasına kimlerin çağrıldığı, kimin nereye oturduğu ve servisi kimin yaptığı ilişkiler hakkında bilgi verir.",
       "account": "Tam Önündeymiş",
       "handle": "tamonundeymis",
       "cover": {
@@ -705,12 +879,16 @@
       "motion": "mosaic",
       "slides": [
         {
-          "title": "Paylaşmanın anlamı",
-          "text": "Birlikte yemek yeme, antropolojide ortaklık ve aidiyetle ilişkili bir pratiktir. Kimin davet edildiği ve kimin servis yaptığı da anlam taşır."
+          "title": "",
+          "text": "Bir bayram sofrasına kimlerin çağrıldığı, kimin nereye oturduğu ve servisi kimin yaptığı ilişkiler hakkında bilgi verir. Yemek aynı anda hem bedenin ihtiyacını karşılar hem de insanlar arasında bir düzen kurar."
         },
         {
-          "title": "Gündelik ritüel",
-          "text": "Bayram sofrası kadar sıradan bir öğle yemeği de ilişkileri görünür kılabilir. Sofrada yalnız kalori paylaşılmaz."
+          "title": "",
+          "text": "Antropolojide birlikte yemek yeme, aidiyet ve ortaklık açısından incelenir. İş arkadaşlarıyla öğle yemeği veya aile kahvaltısı da bu açıdan anlamlı olabilir. Paylaşılan zaman, konuşma ve karşılıklı beklentiler sofranın parçasıdır."
+        },
+        {
+          "title": "",
+          "text": "Bu yüzden bir sofrayı anlamak için yalnız tabaktaki malzemeleri saymayız. Kimin masaya dahil edildiğini ve kimin emeğiyle hazırlandığını da sorarız. Gündelik görünen bir öğün, toplumsal ilişkilerin küçük bir haritasına dönüşebilir."
         }
       ],
       "sources": [
@@ -719,7 +897,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/14-3-food-and-cultural-identity"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "cemden",
@@ -741,7 +919,21 @@
           "name": "mert.y",
           "text": "Bunu evde anlatacağım, umarım doğru hatırlarım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#f9edbc",
+        "ink": "#363220",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      }
     },
     {
       "id": "kesif-kadraj-secimi",
@@ -749,7 +941,7 @@
       "layout": "gallery",
       "category": "Sanat",
       "title": "Fotoğraf gerçek bir anı gösterir. Bütün anı değil.",
-      "subtitle": "Kadrajın dışında da hayat var.",
+      "subtitle": "Bir fotoğraf gerçek bir anın ışığını kaydedebilir.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -766,12 +958,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Seçilen görüntü",
-          "text": "Fotoğrafçı nereye bakacağını ve hangi anı kaydedeceğini seçer. Yayıncı da hangi kareyi göstereceğine karar verir."
+          "title": "",
+          "text": "Bir fotoğraf gerçek bir anın ışığını kaydedebilir. Ama fotoğrafçı hangi yöne bakacağını, neyi dışarıda bırakacağını ve ne zaman düğmeye basacağını seçer. Yayınlanan kare de olası birçok görüntü arasından seçilmiştir."
         },
         {
-          "title": "Temsil sorusu",
-          "text": "Bir topluluğun hep aynı tür fotoğraflarla gösterilmesi, onun hakkında dar bir izlenim yaratabilir. Görüntüyü üretim bağlamıyla okumak gerekir."
+          "title": "",
+          "text": "Bir mahalleyi yalnız yıkık evlerle göstermek, oradaki bütün hayatın öyle olduğunu düşündürebilir. Aynı yerdeki oyun, iş ve gündelik ilişkiler kadraj dışında kalmış olabilir. Fotoğraf sahte olmadan da eksik bir izlenim yaratabilir."
+        },
+        {
+          "title": "",
+          "text": "Bu yüzden “görüntü gerçek mi?” sorusunun yanına “neden bu görüntü seçildi?” sorusunu ekleriz. Kadrajın dışını merak etmek, fotoğrafa güvenmemek değil, fotoğrafın ne kadarını anlattığını anlamaya çalışmaktır."
         }
       ],
       "sources": [
@@ -780,8 +976,22 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/15-4-photography-representation-and-memory"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-fotograf-okuru",
@@ -789,7 +999,7 @@
       "layout": "comparison",
       "category": "Sanat",
       "title": "İki kişi aynı fotoğrafa bakıp başka hikâye kurabilir.",
-      "subtitle": "Görüntünün anlamı tek yerde durmaz.",
+      "subtitle": "Aynı fotoğrafa bakan iki kişi farklı ayrıntıları fark edebilir.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -806,12 +1016,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "İzleyenin payı",
-          "text": "Fotoğrafı yorumlarken kendi deneyimlerimizi ve beklentilerimizi de kullanırız. Görünen ayrıntının anlamı herkes için aynı olmayabilir."
+          "title": "",
+          "text": "Aynı fotoğrafa bakan iki kişi farklı ayrıntıları fark edebilir. Biri kıyafetten tören olduğunu düşünür, diğeri yüz ifadesinden sıkıntı çıkarır. Yorumlarımız kendi deneyim ve beklentilerimizden de beslenir."
         },
         {
-          "title": "Araştırmanın üç tarafı",
-          "text": "Görsel antropoloji fotoğrafın üretilişini, görüntünün kendisini ve izleyicilerin yorumlarını birlikte inceleyebilir."
+          "title": "",
+          "text": "Görsel antropoloji, fotoğrafı yalnız içinde görünen nesnelerin listesi olarak incelemez. Kimin, hangi amaçla ürettiği; nerede gösterildiği ve izleyicilerin onu nasıl yorumladığı da araştırmanın parçasıdır."
+        },
+        {
+          "title": "",
+          "text": "Bir fotoğrafın altına iki farklı açıklama koyduğunda algılanan hikâyenin değişebilmesi bunu hissettirir. Görsel aynı kalır, okuma çerçevesi değişir. Bu nedenle gördüğün ayrıntıyla o ayrıntıdan kurduğun hikâyeyi ayırmak yararlı bir alışkanlıktır."
         }
       ],
       "sources": [
@@ -820,7 +1034,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/15-4-photography-representation-and-memory"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ecebirnot",
@@ -830,7 +1044,21 @@
           "name": "selin.jpg",
           "text": "Yapılışını bilince daha ilginç oluyor."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Bebas Neue",
+        "paper": "#f7f3e9",
+        "ink": "#392e22",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-studyo-kimligi",
@@ -838,7 +1066,7 @@
       "layout": "profile",
       "category": "Sanat",
       "title": "Stüdyo fonu bazen olmak istediğin hayatı gösterir.",
-      "subtitle": "Portre yalnız kimlik fotoğrafı değildir.",
+      "subtitle": "Antropolog Liam Buckley, Gambiya'daki stüdyo portrelerinde kullanılan fon ve eşyaları araştırdı.",
       "account": "Atölyeden",
       "handle": "atolyeden",
       "cover": {
@@ -855,12 +1083,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Gambiya örneği",
-          "text": "Antropolog Liam Buckley, Gambiya'daki stüdyo portrelerinde modern eşyalar ve seyahat fonlarının kullanımını araştırdı."
+          "title": "",
+          "text": "Antropolog Liam Buckley, Gambiya'daki stüdyo portrelerinde kullanılan fon ve eşyaları araştırdı. Fotoğraflarda modern eşyalar veya seyahatle ilişkili sahneler bulunabiliyordu. Bunları yalnız kişinin gerçekten sahip olduğu şeylerin kaydı gibi okumak eksik kalır."
         },
         {
-          "title": "Arzu edilen benlik",
-          "text": "Bu sahneler yalnız kişinin o anda sahip olduklarını belgelemek için kullanılmıyordu. Fotoğraf, kurmak istediği kimliği de ifade edebiliyordu."
+          "title": "",
+          "text": "Stüdyo portresi, kişinin nasıl görünmek ve hangi kimliği ifade etmek istediğiyle de ilgili olabilir. Bir fon, mevcut hayatın belgesi kadar arzulanan bir geleceğin işareti olabilir. Fotoğraf burada kendini sunma alanıdır."
+        },
+        {
+          "title": "",
+          "text": "Bugün profil fotoğrafı seçerken de sadece yüzümüzün en doğru ölçümünü aramayız; nasıl görünmek istediğimizi düşünürüz. Bu benzetme birebir aynı kültürel anlamı varsaymaz ama portredeki seçimin neden araştırmaya değer olduğunu anlaşılır kılar."
         }
       ],
       "sources": [
@@ -869,7 +1101,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/15-4-photography-representation-and-memory"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "keremca",
@@ -887,7 +1119,21 @@
           "name": "berk.b",
           "text": "Benim aklıma da aynı soru takılmıştı."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Bebas Neue",
+        "paper": "#f4bd65",
+        "ink": "#332710",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      }
     },
     {
       "id": "kesif-kulturel-gorecilik",
@@ -895,7 +1141,7 @@
       "layout": "chat",
       "category": "Felsefe",
       "title": "“Bize tuhaf geliyor” açıklama sayılmıyor.",
-      "subtitle": "Önce o dünyada ne işe yaradığına bak.",
+      "subtitle": "Başka bir yerde insanlar tanışırken bizim alıştığımızdan farklı davranabilir.",
       "account": "Bir Soru Daha",
       "handle": "birsorudaha",
       "cover": {
@@ -912,12 +1158,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Bağlamı anlamak",
-          "text": "Kültürel görecilik, bir uygulamayı içinde bulunduğu kültürel ilişkilerle anlamaya çalışır. Kendi alışkanlığını otomatik ölçü yapmamayı gerektirir."
+          "title": "",
+          "text": "Başka bir yerde insanlar tanışırken bizim alıştığımızdan farklı davranabilir. İlk tepki “Ne tuhaf” olabilir. Kültürel görecilik, uygulamayı hemen kendi alışkanlığımızla ölçmek yerine, bulunduğu toplumdaki ilişkiler içinde anlamaya çalışmaktır."
         },
         {
-          "title": "Soruyu değiştir",
-          "text": "“Niye bizim gibi yapmıyorlar?” yerine “Bu davranış burada hangi anlamı taşıyor?” diye sormak araştırmayı açar."
+          "title": "",
+          "text": "Davranışın kime karşı, hangi durumda ve neyi ifade etmek için yapıldığını sorarız. Bize mesafeli görünen şey orada saygı göstergesi olabilir; bunu öğrenmeden kesin yorum yapmak kolayca yanıltır."
+        },
+        {
+          "title": "",
+          "text": "Bu yaklaşım, bütün toplumların aynı olduğu iddiası değildir. Tersine, farkları daha dikkatli inceleme yöntemidir. “Niye bizim gibi değiller?” sorusundan “Burada bu davranış ne iş görüyor?” sorusuna geçmek araştırmayı açar."
         }
       ],
       "sources": [
@@ -926,7 +1176,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/1-6-cross-cultural-comparison-and-cultural-relativism"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "onurdefter",
@@ -944,7 +1194,21 @@
           "name": "ecebirnot",
           "text": "İkinci kartta anca oturdu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Fraunces",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      }
     },
     {
       "id": "kesif-anlamak-onaylamak",
@@ -952,7 +1216,7 @@
       "layout": "myth",
       "category": "Felsefe",
       "title": "Bir davranışı anlamak, onu onaylamak mı?",
-      "subtitle": "Antropolojide ikisi ayrılır.",
+      "subtitle": "Bir uygulamanın neden sürdüğünü araştırmak, onu doğru bulduğunu ilan etmek değildir.",
       "account": "Bir Soru Daha",
       "handle": "birsorudaha",
       "cover": {
@@ -969,12 +1233,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "Yargıyı ertelemek",
-          "text": "Araştırmacı bir uygulamanın neden sürdüğünü anlamak için ilk yargısını bir süre askıya alabilir."
+          "title": "",
+          "text": "Bir uygulamanın neden sürdüğünü araştırmak, onu doğru bulduğunu ilan etmek değildir. Araştırmacı ilk tepkisini bir süre askıya alarak uygulamanın hangi ihtiyaçlar, güç ilişkileri ve anlamlarla bağlantılı olduğunu anlamaya çalışabilir."
         },
         {
-          "title": "Eleştiri kaybolmaz",
-          "text": "Kültürel görecilik, zararlı her uygulamayı doğru ilan etmek demek değildir. İyi bir açıklama, eleştirinin hedefini daha doğru belirlemeye yardım edebilir."
+          "title": "",
+          "text": "Kültürel görecilik bu açıklama çabasına yardım eder. Ama zarar veren her davranışı sırf gelenek diye savunmak zorunda bırakmaz. Anlama ile ahlaki değerlendirme, birbirine katkı sağlayan fakat aynı olmayan işlerdir."
+        },
+        {
+          "title": "",
+          "text": "Bir sorunu değiştirmek isteyen kişinin de onun niçin devam ettiğini bilmesi gerekir. Yalnız dışarıdan kötü demek, insanları o davranışa bağlayan koşulları göstermeyebilir. Daha iyi açıklama, eleştirinin ve çözüm arayışının daha isabetli olmasını sağlayabilir."
         }
       ],
       "sources": [
@@ -983,7 +1251,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/1-6-cross-cultural-comparison-and-cultural-relativism"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "onurdefter",
@@ -1024,12 +1292,22 @@
         {
           "name": "elif.k",
           "text": "İkinci kartta anca oturdu."
-        },
-        {
-          "name": "aliokuyor",
-          "text": "Bu konudan başka bir şey de okuyasım geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#f4bd65",
+        "ink": "#332710",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      }
     },
     {
       "id": "kesif-kulturel-butun",
@@ -1037,7 +1315,7 @@
       "layout": "mosaic",
       "category": "Felsefe",
       "title": "Kıyafeti tek başına okuyunca anlam kaçabilir.",
-      "subtitle": "Kültürün parçaları birbiriyle bağlı.",
+      "subtitle": "Bir kıyafeti yalnız kumaşın kalınlığıyla açıklamaya çalışırsan çok şey kaçırırsın.",
       "account": "Bir Soru Daha",
       "handle": "birsorudaha",
       "cover": {
@@ -1054,12 +1332,16 @@
       "motion": "balance",
       "slides": [
         {
-          "title": "İlişkiler ağı",
-          "text": "Giyinme biçimi; inanç, statü, iklim veya toplumsal beklentilerle ilişki kurabilir. Tek bir davranışı çevresinden koparmak açıklamayı daraltır."
+          "title": "",
+          "text": "Bir kıyafeti yalnız kumaşın kalınlığıyla açıklamaya çalışırsan çok şey kaçırırsın. Giyim, iklim kadar inanç, meslek, statü, yaş ve toplumsal beklentilerle ilişkili olabilir. Aynı görünüş farklı yerlerde farklı anlamlar taşıyabilir."
         },
         {
-          "title": "Aynı biçim, ayrı anlam",
-          "text": "Benzer görünen uygulamalar farklı bağlamlarda farklı işler görebilir. Karşılaştırma yaparken bu bağlantıları da incelemek gerekir."
+          "title": "",
+          "text": "Örneğin başı örtme davranışını tek bir nedene bağlamadan önce kimlerin, nerede ve hangi koşullarda yaptığını araştırırız. Kişilerin kendi açıklamalarıyla çevredeki kuralları birlikte dinlemek gerekir."
+        },
+        {
+          "title": "",
+          "text": "Antropolojide bir uygulamayı geniş ilişkiler ağı içinde düşünmek bu yüzden önemlidir. Tek nesneyi bağlamından ayırıp kesin anlam vermek kolay ama risklidir. Kıyafet bedenin üstündedir; anlattığı hikâye ise çoğu zaman bütün toplumsal çevreye uzanır."
         }
       ],
       "sources": [
@@ -1068,7 +1350,7 @@
           "url": "https://openstax.org/books/introduction-anthropology/pages/1-6-cross-cultural-comparison-and-cultural-relativism"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ayse.tr",
@@ -1086,7 +1368,21 @@
           "name": "iremce",
           "text": "Detay sevenlere güzel konu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Space Mono",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "end",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      }
     }
   ]
 }

@@ -4,10 +4,10 @@
     {
       "id": "kesif-menu-tarih",
       "topic": "Tarihçinin kaynakları",
-      "layout": "receipt",
+      "layout": "gallery",
       "category": "Tarih",
       "title": "Eski bir menü tarih belgesi olabilir.",
-      "subtitle": "Kralın fermanı kadar ciddi durmuyor, olsun.",
+      "subtitle": "Bir tarihçi eski bir şehirde insanların ne yediğini araştırıyorsa, dönemin lokanta menüsü değerli bir belge olabilir.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -24,12 +24,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Gündelik izler",
-          "text": "Dönemin menüsü, mektubu veya günlüğü tarihçi için birincil kaynak olabilir. İnsanların ne yediği, neye para verdiği ve nasıl yazıştığına dair iz taşır."
+          "title": "",
+          "text": "Bir tarihçi eski bir şehirde insanların ne yediğini araştırıyorsa, dönemin lokanta menüsü değerli bir belge olabilir. Yemek adları, fiyatlar, dil ve sunum biçimi gündelik hayat hakkında iz taşır. O dönemde üretilmiş bu tür belgelere birincil kaynak denir."
         },
         {
-          "title": "Soru belirleyici",
-          "text": "Bir nesnenin işe yararlığı, hangi tarihsel soruyu sorduğuna bağlıdır. Tarih yalnız savaş tarihlerini ezberlemek değildir."
+          "title": "",
+          "text": "Örneğin menüdeki ithal bir ürün, ticaret bağlantıları hakkında soru sordurabilir. Fiyatları ücret kayıtlarıyla karşılaştırmak, o lokantaya kimlerin gidebildiğini araştırmaya yardım eder. Belgeyi anlamak için başka bilgilerle ilişki kurulur."
+        },
+        {
+          "title": "",
+          "text": "Ama tek menüden bütün halkın her gün ne yediğini çıkaramayız. Belki çok pahalı bir lokantaya aittir. Kaynağın değeri kadar sınırı da vardır. Tarihçi nesneyi bulmakla kalmaz, kimi temsil ettiğini de sorar."
         }
       ],
       "sources": [
@@ -38,7 +42,7 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/1-2-primary-sources"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "selin.jpg",
@@ -72,7 +76,21 @@
           "name": "elif.k",
           "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Space Mono",
+        "paper": "#f7f3e9",
+        "ink": "#24211e",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-birincil-tarafsiz",
@@ -80,7 +98,7 @@
       "layout": "checklist",
       "category": "Tarih",
       "title": "Olayı yaşamış olması, tarafsız olduğu anlamına gelmez.",
-      "subtitle": "Birincil kaynak da sorgulanır.",
+      "subtitle": "Bir savaşa katılan kişinin mektubu, olayın yaşandığı döneme ait doğrudan bir izdir.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -97,12 +115,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Yakınlık bir avantaj",
-          "text": "Olayın döneminden kalan kayıtlar çok değerlidir. Ama yazan kişinin amacı, konumu ve görmediği şeyler anlatımı etkiler."
+          "title": "",
+          "text": "Bir savaşa katılan kişinin mektubu, olayın yaşandığı döneme ait doğrudan bir izdir. Bu nedenle birincil kaynak sayılabilir. Ama olayın içinde olmak, her şeyi görmüş veya tarafsız anlatmış olmak anlamına gelmez."
         },
         {
-          "title": "Karşılaştırmak gerekir",
-          "text": "Bir mektubu okurken “Kim, kime, neden yazdı?” diye sormak işe yarar. Başka kayıtlarla karşılaştırmak, tek anlatıya fazla yük bindirmeyi önler."
+          "title": "",
+          "text": "Mektubu ailesine yazıyorsa onları rahatlatmak isteyebilir; üstüne rapor yazıyorsa başarısını öne çıkarabilir. Bulunduğu yer yüzünden savaşın başka bölümlerini hiç görmemiş olabilir. “Kim, kime, hangi amaçla yazdı?” soruları bu yüzden önemlidir."
+        },
+        {
+          "title": "",
+          "text": "Tarihçi kaydı hemen çöpe atmaz; başka tanıklık ve maddi kanıtlarla karşılaştırır. Kaynağın bakış açısını görmek, onu kullanmaktan vazgeçmek değil, ondan hangi bilgiyi ne kadar güvenle çıkarabileceğini belirlemektir."
         }
       ],
       "sources": [
@@ -111,8 +133,22 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/1-2-primary-sources"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#cbdcdb",
+        "ink": "#253c3a",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-birincil-ikincil",
@@ -120,7 +156,7 @@
       "layout": "reveal",
       "category": "Tarih",
       "title": "Kaynağın türü, araştırma sorusuna bağlı olabilir.",
-      "subtitle": "Kitabın üstündeki yaş etiketi yetmez.",
+      "subtitle": "Bugün yazılmış bir Roma tarihi kitabı, antik belgeleri inceleyip yorumluyorsa Roma dönemi için ikincil kaynaktır.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -137,12 +173,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Geçmişi yorumlamak",
-          "text": "Daha sonraki bir tarih kitabı, ele aldığı eski olay için ikincil kaynak olabilir; başka kaynakları inceleyip bir anlatı kurar."
+          "title": "",
+          "text": "Bugün yazılmış bir Roma tarihi kitabı, antik belgeleri inceleyip yorumluyorsa Roma dönemi için ikincil kaynaktır. Kitabın yazarı o dönemin doğrudan tanığı değildir; önceki izlerden bir anlatı kurar."
         },
         {
-          "title": "Soruyu değiştir",
-          "text": "Aynı kitap, yazıldığı dönemde tarihin nasıl anlatıldığını araştırıyorsan birincil kaynak hâline gelebilir. Kaynağın kullanıldığı bağlam önemlidir."
+          "title": "",
+          "text": "Şimdi araştırma sorunu değiştir: “2020'lerde insanlar Roma tarihini nasıl anlatıyordu?” Bu kez aynı kitap, araştırdığın dönemin doğrudan ürünü olur. O soruya göre birincil kaynak işlevi görebilir."
+        },
+        {
+          "title": "",
+          "text": "Demek ki kaynak türü yalnız nesnenin yaşına yapıştırılan değişmez bir etiket değildir. Hangi geçmişi, hangi soruyla araştırdığın önemlidir. Eski bir gazete hem haber verdiği olay hakkında kanıt, hem de kendi döneminin düşünme biçimi hakkında inceleme malzemesi olabilir."
         }
       ],
       "sources": [
@@ -151,7 +191,7 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/1-2-primary-sources"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "iremce",
@@ -165,15 +205,29 @@
           "name": "ahmet.a",
           "text": "O dönemin sıradan bir gününü merak ettim."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Bebas Neue",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-civi-yazi",
       "topic": "Mezopotamya şehirleri",
-      "layout": "receipt",
+      "layout": "profile",
       "category": "Tarih",
       "title": "İlk yazılı kayıtların derdi bazen maaştı.",
-      "subtitle": "Şiir kadar hesap da var.",
+      "subtitle": "Mezopotamya, Dicle ve Fırat çevresinde gelişen eski toplumların bölgesidir.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -190,12 +244,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Kil üstündeki iz",
-          "text": "Mezopotamya’da çivi yazılı tabletlerde ticaret, vergi, ücret ve mülkiyet kayıtları tutuluyordu. Yazı gündelik yönetimin de aracıydı."
+          "title": "",
+          "text": "Mezopotamya, Dicle ve Fırat çevresinde gelişen eski toplumların bölgesidir. Burada kullanılan çivi yazısında işaretler, yaş kilin üzerine kamış benzeri bir araçla bastırılıyordu. Basılan izler çiviye benzediği için bu adı kullanıyoruz."
         },
         {
-          "title": "Kalıcı muhasebe",
-          "text": "Kil tabletlerin dayanıklılığı, bu kayıtların bir bölümünü günümüze taşıdı. Çok eski bir toplum bazen kahramanından önce makbuzuyla konuşur."
+          "title": "",
+          "text": "Tabletlerde yalnız tanrı ve kral hikâyeleri bulunmaz. Ürün teslimatı, ücret, vergi ve mülkiyet gibi işlerin kayıtları da tutulmuştur. Yazı, kalabalık bir toplumun kimin ne verdiğini ve aldığını takip etmesine yardım eder."
+        },
+        {
+          "title": "",
+          "text": "Dayanıklı kil kayıtların bir bölümü günümüze ulaştı. Böylece binlerce yıl önceki bir insanı bazen büyük zaferinden değil, hesap kaydından tanırız. Yönetim ve gündelik ekonomi, yazının tarihindeki önemli damarlardan biridir."
         }
       ],
       "sources": [
@@ -204,7 +262,7 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/3-2-ancient-mesopotamia"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ahmet.a",
@@ -218,7 +276,21 @@
           "name": "berk.b",
           "text": "Bugünün cebime attığım bilgisi bu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Bebas Neue",
+        "paper": "#e4e4df",
+        "ink": "#24211e",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-ziggurat",
@@ -226,7 +298,7 @@
       "layout": "comparison",
       "category": "Tarih",
       "title": "Ziggurat ile piramit aynı iş için yapılmadı.",
-      "subtitle": "Benzer siluet, farklı bağlam.",
+      "subtitle": "Ziggurat, eski Mezopotamya kentlerinde görülen basamaklı, yükseltilmiş tapınak yapılarıyla ilişkilidir.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -243,12 +315,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Tapınak kompleksi",
-          "text": "Mezopotamya zigguratı, basamaklı ve yükseltilmiş bir tapınak yapısıyla ilişkilidir. Şehrin dinî yaşamında önemli bir yer tutardı."
+          "title": "",
+          "text": "Ziggurat, eski Mezopotamya kentlerinde görülen basamaklı, yükseltilmiş tapınak yapılarıyla ilişkilidir. Bir dağ gibi yukarı çıkan görünüşü yüzünden Mısır piramitleriyle kolayca aynı kutuya konur. Ama benzer dış biçim aynı kullanım demek değildir."
         },
         {
-          "title": "Mezar diye genelleme",
-          "text": "Basamaklı veya yükselen her anıtı Mısır piramitleriyle aynı işleve sahip sayamayız. Biçimin yanında kullanımını da incelemek gerekir."
+          "title": "",
+          "text": "Mısır'ın ünlü kraliyet piramitleri mezar kompleksleriyle bağlantılıdır. Zigguratı anlamak için ise kentin tapınak ve dinî yaşamına bakmak gerekir. Yapının çevresindeki kullanım izleri, sadece siluetinden daha fazla bilgi verir."
+        },
+        {
+          "title": "",
+          "text": "Bir cami kubbesiyle gözlemevi kubbesinin benzemesi nasıl aynı iş yaptıklarını göstermiyorsa, eski anıtlarda da biçim tek başına açıklama değildir. Önce nerede, kim tarafından ve hangi amaçla kullanıldığını sorarız."
         }
       ],
       "sources": [
@@ -257,7 +333,7 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/3-2-ancient-mesopotamia"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "mert.y",
@@ -298,12 +374,22 @@
         {
           "name": "gokce",
           "text": "Gündelik hayat kısmı anıtlardan daha çok ilgimi çekti."
-        },
-        {
-          "name": "keremca",
-          "text": "Örneği görünce anladım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#d9e9cc",
+        "ink": "#283824",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-sulama-organizasyon",
@@ -311,7 +397,7 @@
       "layout": "network",
       "category": "Tarih",
       "title": "Su kanalı kazmak, birlikte karar vermeyi gerektirir.",
-      "subtitle": "Nehir yalnız su getirmez.",
+      "subtitle": "Dicle ve Fırat çevresindeki Mezopotamya'da nehir suyu, yağışın yetmediği alanlarda tarım için önemliydi.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -328,12 +414,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Taşkın ve kuraklık",
-          "text": "Mezopotamya’daki nehirlerin akışı tarım için büyük olanak sağlarken yönetilmesi gereken sorunlar da doğuruyordu."
+          "title": "",
+          "text": "Dicle ve Fırat çevresindeki Mezopotamya'da nehir suyu, yağışın yetmediği alanlarda tarım için önemliydi. Ancak suyun tarlanın yanından akması, bütün ürünlerin kendiliğinden sulanacağı anlamına gelmez. Suyu uygun yere taşıyan kanallar gerekir."
         },
         {
-          "title": "Ortak iş",
-          "text": "Sulama kanallarının kurulması ve bakımı iş birliği gerektiriyordu. Şehirlerin gelişimini yalnız tek bir icatla açıklamak yerine bu altyapıya da bakmak gerekir."
+          "title": "",
+          "text": "Kanal kazmak kadar onu temiz tutmak, hasarı onarmak ve suyu paylaşmak da emek ister. Yukarıdaki tarlanın aldığı su, aşağıdaki kullanıcının koşullarını etkileyebilir. Teknik düzenek bu yüzden toplumsal kararlarla birlikte çalışır."
+        },
+        {
+          "title": "",
+          "text": "Kentlerin gelişimini yalnız “birileri tarımı buldu” diye anlatmak eksik kalır. Artan üretimi sürdüren bakım ve iş birliği de gerekir. Bir su kanalı, toprakta açılmış yol olduğu kadar insanların birlikte yürüttüğü uzun süreli bir iştir."
         }
       ],
       "sources": [
@@ -342,7 +432,7 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/3-2-ancient-mesopotamia"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "gokce",
@@ -376,7 +466,21 @@
           "name": "nisa.defter",
           "text": "Bunu kaydettim, sonra bir daha bakacağım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Lora",
+        "paper": "#e4e4df",
+        "ink": "#28282a",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-papirus",
@@ -384,7 +488,7 @@
       "layout": "notebook",
       "category": "Tarih",
       "title": "Papirüs, eski bir kâğıt markası değil.",
-      "subtitle": "Bir bitkiden yapılan yazı yüzeyi.",
+      "subtitle": "Papirüs, Eski Mısır'da kullanılan bir yazı yüzeyinin ve yapıldığı bitkinin adıdır.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -401,12 +505,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Nil kıyısındaki malzeme",
-          "text": "Eski Mısırlılar papirüs bitkisinden yazı malzemesi üretiyordu. Bu yüzeyler rulo hâlinde saklanabiliyordu."
+          "title": "",
+          "text": "Papirüs, Eski Mısır'da kullanılan bir yazı yüzeyinin ve yapıldığı bitkinin adıdır. Bitkinin iç kısmından hazırlanan şeritler katmanlar hâlinde birleştirilerek yazılabilir bir yüzey elde edilirdi. Yapraklar birleştirilip rulo yapılabilirdi."
         },
         {
-          "title": "Neler yazıldı?",
-          "text": "Şiir, hikâye, yönetim kaydı ve günlük yaşam belgeleri papirüslerde bulunur. Kuru ortam, bazı örneklerin uzun süre korunmasına yardım etmiştir."
+          "title": "",
+          "text": "Bu yüzeye yönetim kayıtları, mektuplar, öyküler ve başka metinler yazıldı. Dolayısıyla papirüs yalnız görkemli dinî metinlerin malzemesi değildi; gündelik hayatın da izlerini taşıdı."
+        },
+        {
+          "title": "",
+          "text": "Bazı örneklerin uzun süre korunmasında kuru çevre koşulları etkili oldu. Bugün elimizde kalan belgeler geçmişte yazılmış her şeyin eşit bir örneği değildir. Malzemenin ne kadar dayanabildiği, tarihin hangi seslerini duyabildiğimizi de etkiler."
         }
       ],
       "sources": [
@@ -415,8 +523,22 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "single",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-hiyeroglif",
@@ -424,7 +546,7 @@
       "layout": "glossary",
       "category": "Tarih",
       "title": "Hiyeroglif sadece resim bulmacası değil.",
-      "subtitle": "Kuş resmi her zaman kuş demeyebilir.",
+      "subtitle": "Eski Mısır hiyerogliflerinde kuş, göz veya insan gibi görünen işaretler bulunur.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -441,12 +563,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Ses ve anlam birlikte",
-          "text": "Mısır yazısında işaretler sesleri, sözcükleri veya anlamı belirleyen öğeleri temsil edebilir. Sistem basitçe “resmi gör, nesneyi söyle” değildir."
+          "title": "",
+          "text": "Eski Mısır hiyerogliflerinde kuş, göz veya insan gibi görünen işaretler bulunur. Ama metni, her resmi gördüğün nesnenin adıyla değiştirerek okuyamazsın. Sistem yalnız resimlerden oluşan basit bir bulmaca değildir."
         },
         {
-          "title": "Okumak uzmanlık ister",
-          "text": "İşaretin bağlamını ve diğer işaretlerle ilişkisini bilmek gerekir. Güzel görünmesi, yapısının basit olduğu anlamına gelmez."
+          "title": "",
+          "text": "Bazı işaretler sesleri, bazıları sözcükleri, bazıları da anlam sınıfını belirleyen öğeleri temsil edebilir. Bir işaretin görevi, metindeki kullanımına ve yanındaki işaretlere bağlıdır."
+        },
+        {
+          "title": "",
+          "text": "Bizde “gül” sözcüğünün bağlama göre çiçek veya eylem olmasını düşün; bağlam okumanın parçasıdır. Hiyeroglifte de işaretlerin resim gibi görünmesi, dilin kurallarını öğrenme gereğini ortadan kaldırmaz. Güzel biçimlerin arkasında gerçek bir yazı sistemi vardır."
         }
       ],
       "sources": [
@@ -455,8 +581,22 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "DM Sans",
+        "paper": "#d9e9cc",
+        "ink": "#283824",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "single",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-nil-tarim",
@@ -464,7 +604,7 @@
       "layout": "timeline",
       "category": "Tarih",
       "title": "Çöldeki tarımın anahtarı bir nehirdi.",
-      "subtitle": "Nil’in taşkınları toprağı değiştirdi.",
+      "subtitle": "Mısır'ın büyük bölümü kuraktır.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -481,12 +621,16 @@
       "motion": "layers",
       "slides": [
         {
-          "title": "Su ve tortu",
-          "text": "Nil’in taşkınları çevresindeki arazilere su ve verimli tortu taşıyordu. Bu döngü Mısır’ın tarımsal yaşamında önemliydi."
+          "title": "",
+          "text": "Mısır'ın büyük bölümü kuraktır. Nil Nehri, çevresindeki tarım alanlarına su sağlayarak bu coğrafyada yoğun yaşamı mümkün kılan temel unsurlardan biri oldu. Tarihsel taşkın döngüsü verimli tortuları da tarlalara taşıyordu."
         },
         {
-          "title": "Takip edilen ritim",
-          "text": "Nehirdeki değişimleri izlemek, ekim ve yönetim kararlarıyla bağlantılıydı. Coğrafya tarihin arka planı değil, etkin bir parçasıdır."
+          "title": "",
+          "text": "Çiftçi için önemli olan yalnız nehrin varlığı değildi; suyun ne zaman ve ne kadar yükseldiğiydi. Ekim, hasat ve suyun yönlendirilmesi bu değişimlerle ilişkilendirildi. Çok az veya aşırı taşkın farklı sorunlar yaratabilirdi."
+        },
+        {
+          "title": "",
+          "text": "Böylece nehir, haritanın mavi çizgisinden fazlasına dönüşür: Üretim takvimini ve yönetimin uğraştığı işleri etkiler. Bir uygarlığın tarihini öğrenirken hükümdar adlarının yanına suyun hareketini koymak, insanların nasıl geçindiğini anlamayı sağlar."
         }
       ],
       "sources": [
@@ -495,7 +639,7 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "iremce",
@@ -505,7 +649,21 @@
           "name": "elif.k",
           "text": "Nesnenin nereden çıktığı da en az kendisi kadar önemliymiş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Bebas Neue",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "end",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-indus-kanal",
@@ -513,7 +671,7 @@
       "layout": "cutaway",
       "category": "Tarih",
       "title": "Binlerce yıl önce şehirde kapalı giderler vardı.",
-      "subtitle": "İndus kentlerinin altyapısı şaşırtıyor.",
+      "subtitle": "İndus uygarlığının Harappa ve Mohenjo-daro gibi kentleri, bugünkü Pakistan ve çevresindeki eski kentleşmenin önemli örnekleridir.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -530,12 +688,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Planlı drenaj",
-          "text": "Harappa ve Mohenjo-daro gibi yerleşimlerde kapaklı drenaj hatları ve bunlara bağlanan ev içi düzenekler bulundu."
+          "title": "",
+          "text": "İndus uygarlığının Harappa ve Mohenjo-daro gibi kentleri, bugünkü Pakistan ve çevresindeki eski kentleşmenin önemli örnekleridir. Kazılarda evlerden gelen suyu taşıyan, sokaklar boyunca uzanan drenaj düzenekleri bulunmuştur."
         },
         {
-          "title": "Görünmeyen şehir",
-          "text": "Bir uygarlığı yalnız anıtlarıyla tanımak eksik kalır. Atık suyun nasıl taşındığı da örgütlenme ve teknik bilgi hakkında ipucu verir."
+          "title": "",
+          "text": "Bazı hatların üzeri kapalıydı ve ev içi düzeneklerle bağlantıları vardı. Bu, yalnız tek bir ustanın güzel bir ev yapmasından daha büyük bir koordinasyon gerektirir: Sokağın altyapısıyla evlerin kullanımı birbirine uymalıdır."
+        },
+        {
+          "title": "",
+          "text": "Yine de eski drenajı bugünkü arıtma tesisiyle aynı sayamayız. Buluntu bize suyun nasıl taşındığı konusunda kanıt verir. Bir uygarlığın teknik becerisini anlamak için saraylara kadar, insanların kirli suyu evden nasıl çıkardığına da bakmak gerekir."
         }
       ],
       "sources": [
@@ -544,8 +706,22 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/3-4-the-indus-valley-civilization"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "diagram",
+        "font": "Space Mono",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-indus-muhur",
@@ -553,7 +729,7 @@
       "layout": "postcard",
       "category": "Tarih",
       "title": "Bir mühür, kıtalar arası alışverişin izi olabilir.",
-      "subtitle": "Küçük nesne, geniş bağlantı.",
+      "subtitle": "Mühür, bir yüzeye iz bırakarak kimlik veya aidiyet göstermeye yarayan araçtır.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -570,12 +746,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Mala işaret koymak",
-          "text": "İndus mühürlerinde hayvan tasvirleri ve kısa yazı dizileri bulunur. Mühür izleri malların kimliği ve ticaretle ilişkilendirilir."
+          "title": "",
+          "text": "Mühür, bir yüzeye iz bırakarak kimlik veya aidiyet göstermeye yarayan araçtır. İndus uygarlığından kalan mühürlerde hayvan tasvirleri ve kısa işaret dizileri bulunur. Bunların ticaret ve malların tanınmasıyla ilişkisi araştırılır."
         },
         {
-          "title": "Uzakta bulunursa",
-          "text": "İndus kökenli mühürlerin Mezopotamya’da bulunması, bu bölgeler arasındaki temaslara ilişkin arkeolojik kanıtlardan biridir."
+          "title": "",
+          "text": "İndus kökenli nesnelerin Mezopotamya'da bulunması, bu uzak bölgeler arasında temas olduğunu gösteren kanıtlardan biridir. Nesne seyahat etmiş olabilir; yanında mallar, insanlar veya aracı ticaret ilişkileri de düşünülür."
+        },
+        {
+          "title": "",
+          "text": "Ama tek bir mühür bütün yolculuğun haritasını vermez. Hangi tabakada bulunduğu, yaşı ve başka nesnelerle ilişkisi önemlidir. Arkeolog için mühür yalnız üzerindeki güzel hayvan değil; bulunduğu yerle birlikte anlam kazanan bir izdir."
         }
       ],
       "sources": [
@@ -584,8 +764,22 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/3-4-the-indus-valley-civilization"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#f7f3e9",
+        "ink": "#392e22",
+        "align": "center",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-indus-yazi",
@@ -593,7 +787,7 @@
       "layout": "casefile",
       "category": "Tarih",
       "title": "Yazıyı görüyoruz. Henüz güvenle okuyamıyoruz.",
-      "subtitle": "İndus işaretleriyle ilgili sınırımız.",
+      "subtitle": "İndus uygarlığından kalan mühür ve nesnelerde kısa işaret dizileri görüyoruz.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -610,12 +804,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Çözülmemiş sistem",
-          "text": "İndus uygarlığının kısa işaret dizileri genel kabul gören biçimde çözümlenmiş değildir. Bu yüzden yazılı içeriğin ne dediğini kesin anlatamayız."
+          "title": "",
+          "text": "İndus uygarlığından kalan mühür ve nesnelerde kısa işaret dizileri görüyoruz. Ancak bu diziler genel kabul gören bir biçimde çözümlenmiş değildir. İşaretin varlığını görmekle, hangi sözcüğü söylediğini bilmek ayrı aşamalardır."
         },
         {
-          "title": "Bilinmeyeni ayırmak",
-          "text": "Şehir planından bilgi çıkarabilmek, her inancı ve kurumu bildiğimiz anlamına gelmez. Arkeolojide boşlukları hikâyeyle doldurmamak önemlidir."
+          "title": "",
+          "text": "Şehirlerin planı, kullanılan malzemeler ve ticaret izleri hakkında arkeolojik bilgi toplayabiliriz. Ama bunlardan yola çıkarak her kurumun adını veya insanların bütün inançlarını kesin biçimde anlatamayız. Yazılı içeriğe erişememek bazı soruları açık bırakır."
+        },
+        {
+          "title": "",
+          "text": "Bu bir eksikliği süslü hikâyeyle kapatma daveti değildir. “Henüz bilmiyoruz” demek araştırmanın parçasıdır. Bir uygarlık hakkında bildiğimiz çok şey bulunması, elimizdeki her işareti okuyabildiğimiz anlamına gelmez."
         }
       ],
       "sources": [
@@ -624,21 +822,35 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/3-4-the-indus-valley-civilization"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "berk.b",
           "text": "Anladım sandım, tekrar okuyunca bir ayrıntı daha çıktı."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-kral-yolu",
       "topic": "Pers İmparatorluğu'nun düzeni",
-      "layout": "route",
+      "layout": "poster",
       "category": "Tarih",
       "title": "İmparatorluğu yönetmek biraz da yol işi.",
-      "subtitle": "Haberin hızı, merkezin gücünü etkiler.",
+      "subtitle": "Pers İmparatorluğu geniş bir coğrafyaya yayılıyordu.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -655,12 +867,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Bağlantı kurmak",
-          "text": "Pers Kral Yolu, geniş imparatorlukta ulaşım ve haberleşmeyi destekleyen yol ağının önemli parçasıydı."
+          "title": "",
+          "text": "Pers İmparatorluğu geniş bir coğrafyaya yayılıyordu. Merkezde verilen bir emrin uzaktaki yöneticiye ulaşması, vergilerin ve haberlerin taşınması gerekiyordu. Yol ağı bu yüzden yalnız tüccarın rahatlığı değil, devletin işleyişi için de önemliydi."
         },
         {
-          "title": "Yol sadece ticaret değil",
-          "text": "Görevlilerin, haberlerin ve askerî hareketlerin ulaşımı da bu ağlardan yararlanıyordu. Bir devletin gücü, uzak bölgelerine erişimiyle de ilgilidir."
+          "title": "",
+          "text": "Kral Yolu adıyla bilinen hat bu ulaşım ve haberleşme düzeninin önemli parçalarındandı. Yolun değeri, yalnız zeminin varlığında değil; güzergâhın kullanılabilir tutulması ve hareketin örgütlenmesindeydi."
+        },
+        {
+          "title": "",
+          "text": "Bir haritada imparatorluğu tek renge boyamak kolaydır. Ama o rengin içindeki uzak yerlerin gerçekten bağlantılı olması emek ister. Yönetim gücünü anlamak için sınırların genişliğine ek olarak, haberin ve insanların o sınırlar içinde nasıl hareket ettiğine bakarız."
         }
       ],
       "sources": [
@@ -673,13 +889,27 @@
           "url": "https://www.metmuseum.org/exhibitions/listings/2013/cyrus-cylinder"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "duru.not",
           "text": "İkinci kez okuyunca daha anlaşılır geldi."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Space Mono",
+        "paper": "#f0ded6",
+        "ink": "#24211e",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-satrap",
@@ -687,7 +917,7 @@
       "layout": "profile",
       "category": "Tarih",
       "title": "Satrap kulağa tuhaf geliyor. Vali gibi düşün.",
-      "subtitle": "Pers yönetiminden bir kavram.",
+      "subtitle": "Pers İmparatorluğu'nun her işini tek bir saraydan günlük olarak yürütmek mümkün değildi.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -704,12 +934,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Bölgelere ayırmak",
-          "text": "Pers İmparatorluğu satraplık adı verilen yönetim bölgelerine ayrılmıştı. Bu bölgeleri yöneten görevlilere satrap denirdi."
+          "title": "",
+          "text": "Pers İmparatorluğu'nun her işini tek bir saraydan günlük olarak yürütmek mümkün değildi. Bu nedenle ülke satraplık denen yönetim bölgelerine ayrılmıştı. Bu bölgeleri yöneten görevliye satrap denirdi."
         },
         {
-          "title": "Merkezle bağlantı",
-          "text": "Vergilerin toplanması ve bölgedeki düzenin korunması görevleri arasındaydı. Yetki yerelde kullanılsa da imparatorluk merkezine bağlıydı."
+          "title": "",
+          "text": "Vergilerin toplanması ve bölgedeki düzenin sürdürülmesi gibi işler yerel yönetimle ilişkiliydi. Satrap, geniş yetkilere sahip olmakla birlikte imparatorluk merkezine bağlıydı. “Vali gibi” benzetmesi görev ölçeğini anlamayı kolaylaştırır."
+        },
+        {
+          "title": "",
+          "text": "Ama modern valiliğin bütün ayrıntılarını eski Pers yönetimine taşımayız. Aynı işi andıran kurumlar farklı çağlarda farklı yetki ve denetim düzenlerine sahip olabilir. Yeni bir tarih terimini öğrenirken benzetmeyi başlangıç olarak kullanır, ayrıntıda dönemin kendisine döneriz."
         }
       ],
       "sources": [
@@ -722,7 +956,7 @@
           "url": "https://www.metmuseum.org/exhibitions/listings/2013/cyrus-cylinder"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "cemden",
@@ -736,7 +970,21 @@
           "name": "selin.jpg",
           "text": "İsmini biliyordum, ne olduğunu bilmiyordum."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-pers-para",
@@ -744,7 +992,7 @@
       "layout": "number",
       "category": "Tarih",
       "title": "Standart para, alışverişin ortak dili olabilir.",
-      "subtitle": "Perslerin darik sikkesi.",
+      "subtitle": "Pers hükümdarı I.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -761,12 +1009,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Altın bir ölçü",
-          "text": "I. Darius döneminde kullanılan altın darik, imparatorluğun tanınan sikkelerindendi. Para, geniş bölgelerde ödeme düzenini kolaylaştırıyordu."
+          "title": "",
+          "text": "Pers hükümdarı I. Darius döneminin tanınan sikkelerinden biri altın dariktir. Sikke, belirli bir otoritenin işaretiyle basılan metal paradır. İnsanların onu kabul etmesinde metalin değeri kadar ağırlık ve standartlara duyulan güven de rol oynar."
         },
         {
-          "title": "Teknoloji ve güven",
-          "text": "Bir sikkenin işe yaraması yalnız metaline değil, ağırlığına ve kabul görmesine de bağlıdır. Standartlaşma, ekonomik ilişkilerin önemli bir parçasıdır."
+          "title": "",
+          "text": "Her ödemede rastgele bir metal parçasının niteliğini baştan değerlendirmek zordur. Tanınan bir standart, alışverişin ve ödemelerin ortak ölçü üzerinden yapılmasını kolaylaştırabilir. Para bu bakımdan bir koordinasyon aracıdır."
+        },
+        {
+          "title": "",
+          "text": "Yine de bütün eski ekonominin yalnız sikkeyle döndüğünü düşünmeyiz. Farklı ödeme ve alışveriş biçimleri birlikte bulunabilir. Bir sikkeye bakarken yalnız üzerindeki figürü değil, onu değerli ve kabul edilir kılan toplumsal düzeni de görmeye çalışırız."
         }
       ],
       "sources": [
@@ -779,7 +1031,7 @@
           "url": "https://www.metmuseum.org/exhibitions/listings/2013/cyrus-cylinder"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "deniz.k",
@@ -805,15 +1057,29 @@
           "name": "keremca",
           "text": "Küçük ayrım gibi duruyor ama bayağı fark ediyormuş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Oswald",
+        "paper": "#f4bd65",
+        "ink": "#332710",
+        "align": "end",
+        "position": "top"
+      },
+      "display": "single",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-quipu",
       "topic": "Amerika'nın eski uygarlıkları",
-      "layout": "glossary",
+      "layout": "postcard",
       "category": "Tarih",
       "title": "İnka’nın kayıtları düğüm düğümdü.",
-      "subtitle": "Her arşiv kitap rafına benzemez.",
+      "subtitle": "İnka yönetiminde bilgi yalnız harflerle yazılan sayfalarda saklanmıyordu.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -830,12 +1096,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "İpli kayıt sistemi",
-          "text": "Quipu, farklı ip ve düğümlerle bilgi tutan bir sistemdi. İnka yönetiminde sayısal kayıtlar ve haberleşme için kullanılıyordu."
+          "title": "",
+          "text": "İnka yönetiminde bilgi yalnız harflerle yazılan sayfalarda saklanmıyordu. Quipu, ana bir ipe bağlı farklı ipler ve düğümlerden oluşan bir kayıt sistemiydi. Düğümlerin türü ve konumu sayısal bilgiyi taşımada kullanılabiliyordu."
         },
         {
-          "title": "Yazı tanımını düşün",
-          "text": "Bilginin yalnız kâğıt üstündeki harflerle saklandığını varsaymak, başka kayıt teknolojilerini gözden kaçırmamıza yol açar."
+          "title": "",
+          "text": "Bu tür kayıtlar nüfus, ürün ve yönetim işleriyle ilişkilendirilir. İpi rastgele düğümlemek yeterli değildi; okuyanın paylaşılan kuralları bilmesi gerekiyordu. Dışarıdan süslü bir ip demeti gibi görünen şey, bilen kişi için düzenli bilgi taşıyabiliyordu."
+        },
+        {
+          "title": "",
+          "text": "Bu, quipuların her yönünün bugün bütünüyle çözüldüğü anlamına gelmez. Ama önemli bir varsayımı kırar: Kayıt teknolojisi mutlaka kâğıt ve alfabe biçiminde olmak zorunda değildir. Bilgi, topluluğun okuyabildiği başka düzenlerde de saklanabilir."
         }
       ],
       "sources": [
@@ -844,8 +1114,22 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/8-3-the-age-of-empires-in-the-americas"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "photo",
+        "font": "Lora",
+        "paper": "#cbdcdb",
+        "ink": "#24211e",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-chinampa",
@@ -853,7 +1137,7 @@
       "layout": "myth",
       "category": "Tarih",
       "title": "Gölün içinde tarım alanı kurmak.",
-      "subtitle": "Tenochtitlán çevresindeki chinampalar.",
+      "subtitle": "Meksika Vadisi'nin sığ göl çevrelerinde chinampa denen tarım alanları oluşturuluyordu.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -870,12 +1154,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "İnsan yapımı zemin",
-          "text": "Chinampalar, sığ göl alanlarında oluşturulan tarımsal yükseltilerdi. Aralarındaki kanallar sulama ve ulaşım için kullanılıyordu."
+          "title": "",
+          "text": "Meksika Vadisi'nin sığ göl çevrelerinde chinampa denen tarım alanları oluşturuluyordu. Bunları gölde serbestçe dolaşan sallar gibi düşünme. Su içindeki zeminde, toprak ve organik malzemeyle yükseltilmiş düzenli alanlardı."
         },
         {
-          "title": "Suda gezen saksı değil",
-          "text": "“Yüzen bahçe” adı geçse de bunları başıboş dolaşan adacıklar gibi düşünmemek gerekir. Kentin beslenmesini destekleyen düzenli alanlardı."
+          "title": "",
+          "text": "Aralarındaki kanallar sulamayı ve tekneyle hareketi kolaylaştırıyordu. Böylece yoğun nüfusun yakınında verimli tarım yapılabiliyordu. “Yüzen bahçe” adı akılda kalır ama yapının sabitliğini gözden kaçırabilir."
+        },
+        {
+          "title": "",
+          "text": "Burada coğrafi engel sayılabilecek bir sulak alan, üretim altyapısına dönüştürülür. Kentlerin beslenmesini anlamak için yalnız çevrede ne kadar düz tarla bulunduğunu değil, insanların suyla toprağı nasıl yeniden düzenlediğini de incelemek gerekir."
         }
       ],
       "sources": [
@@ -884,7 +1172,7 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/8-3-the-age-of-empires-in-the-americas"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ardabirbak",
@@ -894,7 +1182,21 @@
           "name": "keremca",
           "text": "Nesnenin nereden çıktığı da en az kendisi kadar önemliymiş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#f9edbc",
+        "ink": "#363220",
+        "align": "start",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-inka-yollari",
@@ -902,7 +1204,7 @@
       "layout": "route",
       "category": "Tarih",
       "title": "And Dağları’nda devletin bağlantısı yollardı.",
-      "subtitle": "Zor coğrafya, geniş bir ağ.",
+      "subtitle": "İnka İmparatorluğu And Dağları boyunca uzanıyordu.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -919,12 +1221,16 @@
       "motion": "network",
       "slides": [
         {
-          "title": "Yükseklikleri bağlamak",
-          "text": "İnka yol sistemi, dağlık bölgelerde yerleşimler ve yönetim merkezleri arasında hareketi kolaylaştırıyordu."
+          "title": "",
+          "text": "İnka İmparatorluğu And Dağları boyunca uzanıyordu. Dik yamaçlar, vadiler ve yükseklik farkları düşünüldüğünde iki yerleşimi bağlamak, haritaya düz bir çizgi çekmekten çok daha zordu. Yol sistemi bu coğrafi soruna verilen örgütlü cevaptı."
         },
         {
-          "title": "Birden çok işlev",
-          "text": "Haberleşme, malzeme taşınması ve askerî hareketler bu ağdan yararlanıyordu. Haritadaki çizgi, arazide büyük bir mühendislik ve emek demekti."
+          "title": "",
+          "text": "Yollar haberleşme, görevlilerin hareketi, malzeme taşınması ve askerî ulaşım için kullanılıyordu. Güzergâhın yapılması kadar bakımının sürmesi de gerekliydi. Bir taşın yerinden çıkması ya da geçidin bozulması bağlantıyı etkileyebilirdi."
+        },
+        {
+          "title": "",
+          "text": "Bu ağı yalnız taş döşeme tekniğiyle açıklamayız. Uzun mesafeli emek ve yönetim düzeni de gerekir. Dağlık bir imparatorluğun nasıl bir arada tutulduğunu sorarken, yollar onun günlük işleyişinin somut parçalarıdır."
         }
       ],
       "sources": [
@@ -933,7 +1239,7 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/8-3-the-age-of-empires-in-the-americas"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "aliokuyor",
@@ -947,15 +1253,29 @@
           "name": "mert.y",
           "text": "Bunu bilmeden de yaşardım ama bilince daha güzel oldu."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "DM Sans",
+        "paper": "#efe6d5",
+        "ink": "#26221c",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-muson-ticaret",
       "topic": "Hint Okyanusu bağlantıları",
-      "layout": "postcard",
+      "layout": "punchline",
       "category": "Tarih",
       "title": "Tüccarın dönüş biletini rüzgâr kesiyordu.",
-      "subtitle": "Musonlar yolculuk takvimini etkiledi.",
+      "subtitle": "Hint Okyanusu'nda eski yelkenli gemilerin yolculuğu rüzgâra bağlıydı.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -972,12 +1292,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Mevsime göre yön",
-          "text": "Hint Okyanusu çevresindeki mevsimsel rüzgâr düzenleri deniz yolculuklarında önemliydi. Uygun rüzgârı beklemek, limanda aylar geçirmeyi gerektirebilirdi."
+          "title": "",
+          "text": "Hint Okyanusu'nda eski yelkenli gemilerin yolculuğu rüzgâra bağlıydı. Musonlar, yılın farklı dönemlerinde yönü değişen büyük mevsimsel rüzgâr düzenleridir. Tüccarlar uygun dönemi seçerek bu hareketten yararlanıyordu."
         },
         {
-          "title": "Beklemek de temas yaratır",
-          "text": "Tüccarlar yalnız mal bırakmıyor; kaldıkları yerlerde insanlarla, dillerle ve düşüncelerle ilişki kuruyordu."
+          "title": "",
+          "text": "Bir limana ulaşmakla hemen geri dönebilmek aynı şey değildi. Dönüş için elverişli rüzgârı beklemek aylar sürebilirdi. Bu bekleme, limanlarda geçici konaklama ve kalıcı topluluklar kurulmasına ortam sağladı."
+        },
+        {
+          "title": "",
+          "text": "Mal alışverişine diller, inançlar ve gündelik alışkanlıklar da eşlik etti. Dolayısıyla rüzgâr, yalnız geminin hızını belirleyen hava olayı değildi; insanların nerede ne kadar kaldığını da etkiliyordu. Ticaret tarihinin takvimini bazen doğanın bu ritmi kuruyordu."
         }
       ],
       "sources": [
@@ -990,7 +1314,7 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/12-2-east-west-interactions-in-the-early-middle-ages"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ecebirnot",
@@ -1012,7 +1336,21 @@
           "name": "selin.jpg",
           "text": "Örneği görünce anladım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "photo",
+        "font": "Bebas Neue",
+        "paper": "#192f2a",
+        "ink": "#24211e",
+        "align": "center",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-srivijaya",
@@ -1020,7 +1358,7 @@
       "layout": "network",
       "category": "Tarih",
       "title": "Boğazın yanında olmak ekonomik güç olabilir.",
-      "subtitle": "Srivijaya’nın deniz bağlantıları.",
+      "subtitle": "Srivijaya, Güneydoğu Asya'da özellikle Sumatra çevresiyle ilişkili bir denizcilik ve ticaret gücüydü.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -1037,12 +1375,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Geçiş noktasında",
-          "text": "Güneydoğu Asya’daki Srivijaya, Hint Okyanusu ile Doğu Asya arasındaki deniz ticareti bağlantılarında önemli rol oynadı."
+          "title": "",
+          "text": "Srivijaya, Güneydoğu Asya'da özellikle Sumatra çevresiyle ilişkili bir denizcilik ve ticaret gücüydü. Hint Okyanusu ile Doğu Asya arasındaki deniz yollarına yakınlığı, uzak bölgeler arasında aracı olmasına katkı sağladı."
         },
         {
-          "title": "Konumun etkisi",
-          "text": "Limanlar ve geçiş yolları üzerindeki denetim, kara büyüklüğünden bağımsız bir güç kaynağı olabilir. Haritadaki dar bir bölge geniş bir ağı etkileyebilir."
+          "title": "",
+          "text": "Gemiler yalnız açık denizde ilerlemez; su, yiyecek, bakım ve alışveriş için limanlara ihtiyaç duyar. Dar geçişlerin ve liman bağlantılarının yakınında olmak, hareket eden ticaretten yararlanma fırsatı yaratır."
+        },
+        {
+          "title": "",
+          "text": "Bu yüzden siyasi gücü yalnız haritada kapladığı kara alanıyla ölçemeyiz. Küçük bir düğüm noktası geniş bir ağın işleyişini etkileyebilir. Srivijaya örneğinde coğrafyanın önemi, toprağın büyüklüğünden çok deniz yolları arasındaki konumda belirginleşir."
         }
       ],
       "sources": [
@@ -1055,13 +1397,27 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/12-2-east-west-interactions-in-the-early-middle-ages"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "selin.jpg",
           "text": "Örneği görünce anladım."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Oswald",
+        "paper": "#cbdcdb",
+        "ink": "#253c3a",
+        "align": "center",
+        "position": "top"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-budist-yolculuk",
@@ -1069,7 +1425,7 @@
       "layout": "book",
       "category": "Tarih",
       "title": "Bir keşişin yolculuğu da bilgi taşır.",
-      "subtitle": "Seyahat sadece yük gemileriyle ilgili değil.",
+      "subtitle": "Eski Asya'da öğrenim merkezleri arasında yolculuk eden Budist keşişler ve hacılar, yalnız kendileri hareket etmiyordu.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -1086,12 +1442,16 @@
       "motion": "wave",
       "slides": [
         {
-          "title": "Öğrenmek için gitmek",
-          "text": "Budist hacılar ve öğrenciler, Asya’daki öğrenim merkezleri arasında yolculuk yapıyordu. Metinler ve uygulamalar bu hareketlilikle farklı bölgelere ulaşıyordu."
+          "title": "",
+          "text": "Eski Asya'da öğrenim merkezleri arasında yolculuk eden Budist keşişler ve hacılar, yalnız kendileri hareket etmiyordu. Metinler, yorumlar ve uygulamalar da onlarla birlikte farklı bölgelere ulaşıyordu. Yolculuk bir bilgi taşıma biçimiydi."
         },
         {
-          "title": "Tek yönlü aktarım değil",
-          "text": "Düşünceler yol boyunca çevriliyor ve yeni bağlamlarda yorumlanıyordu. Kültürlerin karşılaşması, hazır bir paketin aynen taşınmasından daha karmaşıktır."
+          "title": "",
+          "text": "Bir metni yeni bir dile çevirmek ise kelimeleri tek tek değiştirmekten fazlasını gerektirir. Kavramların o dilde nasıl anlatılacağı seçilir, yeni okurların soruları ortaya çıkar. Bu süreçte öğretinin anlaşılma biçimleri çeşitlenebilir."
+        },
+        {
+          "title": "",
+          "text": "Ticaret yollarında mal ve fikir hareketi bu yüzden birbirinden tamamen ayrı değildir. Aynı liman tüccarı da öğrenciyi de ağırlayabilir. Düşünce tarihi bazen bir kitabın içinden olduğu kadar, onu taşıyan insanların güzergâhından da okunur."
         }
       ],
       "sources": [
@@ -1104,7 +1464,7 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/12-2-east-west-interactions-in-the-early-middle-ages"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "zeynepce",
@@ -1118,7 +1478,21 @@
           "name": "deniz.k",
           "text": "Görünüşüne bakıp karar veriyormuşum."
         }
-      ]
+      ],
+      "art": {
+        "kind": "type",
+        "font": "Lora",
+        "paper": "#f0ded6",
+        "ink": "#432923",
+        "align": "end",
+        "position": "top"
+      },
+      "display": "single",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-zincirli-pompa",
@@ -1126,7 +1500,7 @@
       "layout": "process",
       "category": "Tarih",
       "title": "Tarlaya suyu yukarı taşımak şehirleri de etkiledi.",
-      "subtitle": "Song Çin’inde sulama araçları.",
+      "subtitle": "Song Çin'i, 10.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -1143,12 +1517,16 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Zincirle su taşımak",
-          "text": "Zincirle çalışan pompalar, suyun tarım alanlarına çıkarılmasını kolaylaştırdı. Daha önce işlenmeyen yamaçların tarıma açılmasına yardım etti."
+          "title": "",
+          "text": "Song Çin'i, 10. yüzyılda başlayan bir hanedan dönemidir. Bu dönemde tarımsal üretimi destekleyen araçlardan biri zincirle çalışan su pompalarıydı. Sorun basitti: Nehirdeki suyu daha yüksek tarlaya nasıl çıkarırsın?"
         },
         {
-          "title": "Bir araç, geniş etki",
-          "text": "Sulama olanaklarının artması, ekilebilir alanı ve üretimi etkiliyordu. Büyük tarihsel değişimlerin içinde bazen böyle gündelik makineler vardır."
+          "title": "",
+          "text": "Dönen bir zincire bağlı taşıyıcı parçalar, suyu bir kanal boyunca yukarı götürür. Döndürme için enerji gerekir; düzenek suyu kendiliğinden yokuş yukarı akıtmaz. Kesintisiz döngü, tek tek kovalarla taşıma işini düzenli bir mekanizmaya dönüştürür."
+        },
+        {
+          "title": "",
+          "text": "Sulamanın erişebildiği alan genişlediğinde daha önce işlenmesi zor yamaçlarda tarım mümkün olabilir. Böylece küçük görünen bir makine, üretim ve kentlerin beslenmesiyle ilişki kurar. Tarihte teknoloji bazen gösterişli bir silah değil, tarlaya su çıkaran alettir."
         }
       ],
       "sources": [
@@ -1157,7 +1535,7 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/14-1-song-china-and-the-steppe-peoples"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "ardabirbak",
@@ -1198,12 +1576,22 @@
         {
           "name": "nisa.defter",
           "text": "Detay sevenlere güzel konu."
-        },
-        {
-          "name": "onurdefter",
-          "text": "Bir dakika diye girdim yine konu uzadı bende."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "DM Sans",
+        "paper": "#ee5350",
+        "ink": "#fff9e9",
+        "align": "end",
+        "position": "bottom"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-song-pirinc",
@@ -1211,7 +1599,7 @@
       "layout": "growth",
       "category": "Tarih",
       "title": "Bir pirinç çeşidi tarımın takvimini değiştirebilir.",
-      "subtitle": "Erken olgunlaşmanın etkisi.",
+      "subtitle": "Song döneminde Çin'de, daha kısa sürede olgunlaşan pirinç çeşitleri tarımsal üretime katkı verdi.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -1228,12 +1616,16 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Daha kısa büyüme süresi",
-          "text": "Song Çin’inde erken olgunlaşan pirinç çeşitleri tarımsal üretimde etkili oldu. Uygun bölgelerde ekim düzenini genişletmeye yardım etti."
+          "title": "",
+          "text": "Song döneminde Çin'de, daha kısa sürede olgunlaşan pirinç çeşitleri tarımsal üretime katkı verdi. Bir bitkinin olgunlaşma süresi, tarlanın yılda kaç kez kullanılabileceğini etkiler. Takvim burada doğrudan üretim aracıdır."
         },
         {
-          "title": "Tek neden sayma",
-          "text": "Nüfus ve kent büyümesi yalnız bir bitkiyle açıklanamaz. Sulama, ticaret ve emek düzeni de tablonun parçasıdır."
+          "title": "",
+          "text": "İklim ve sulama uygunsa erken hasat, aynı yerde bir sonraki ürün için zaman bırakabilir. Böylece bazı bölgelerde yılda iki hasat mümkün hâle gelir. Yalnız tohumun özelliği yetmez; su, emek ve uygun büyüme dönemi birlikte gerekir."
+        },
+        {
+          "title": "",
+          "text": "Daha fazla ürün, kentlerde tarım dışı işlerle uğraşan nüfusu beslemeyi kolaylaştırabilir. Ama büyük toplumsal değişimi tek bir pirinç çeşidine bağlamayız. Tohumun etkisi, sulama ve taşıma ağlarıyla birlikte çalıştığında anlaşılır olur."
         }
       ],
       "sources": [
@@ -1242,16 +1634,30 @@
           "url": "https://openstax.org/books/world-history-volume-1/pages/14-1-song-china-and-the-steppe-peoples"
         }
       ],
-      "updatedAt": "2026-09-22",
-      "comments": []
+      "updatedAt": "2026-09-23",
+      "comments": [],
+      "art": {
+        "kind": "diagram",
+        "font": "DM Sans",
+        "paper": "#ece7ff",
+        "ink": "#34284d",
+        "align": "end",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     },
     {
       "id": "kesif-song-kanal",
       "topic": "Song Çin'inde yenilik",
       "layout": "process",
       "category": "Tarih",
-      "title": "Kanal, eski dünyanın yük hattıydı.",
-      "subtitle": "Tahılın yolculuğu da tarih.",
+      "title": "Çin’deki Büyük Kanal ne taşıyordu?",
+      "subtitle": "Buradaki kanal, Çin'deki Büyük Kanal ve ona bağlanan su yollarıdır.",
       "account": "Eski Defter",
       "handle": "eskidefter",
       "cover": {
@@ -1268,27 +1674,49 @@
       "motion": "gears",
       "slides": [
         {
-          "title": "Üretimden kente",
-          "text": "Song dönemindeki yollar ve kanallar, tarım ürünleriyle imalat mallarının taşınmasını destekledi. Büyük kentlerin beslenmesi bu bağlantılara dayanıyordu."
+          "title": "",
+          "text": "Buradaki kanal, Çin'deki Büyük Kanal ve ona bağlanan su yollarıdır. Kanal, teknelerin veya suyun geçmesi için insanların açıp düzenlediği yoldur. Büyük Kanal ağı, farklı nehir havzalarını birbirine bağlayarak kuzey-güney taşımacılığını destekledi."
         },
         {
-          "title": "Buluşlar birlikte işler",
-          "text": "Üretimin artması kadar ürünün taşınabilmesi de önemlidir. Altyapı görünmez kaldığında ekonomik gelişmenin yarısı eksik anlatılır."
+          "title": "",
+          "text": "Bölümleri çok daha eskiye uzanır; Sui hanedanı döneminde, 7. yüzyılda imparatorluk ölçeğinde bir bağlantı olarak birleştirildi. Song döneminde de yollar ve kanallar tarım ürünleriyle imalat mallarının büyük merkezlere ulaşmasına katkı sağladı."
+        },
+        {
+          "title": "",
+          "text": "Neden önemli? Pirinç yetişen yerde ürün olması, uzaktaki kentlinin karnını doyurmaya yetmez. Ağır tahılı büyük miktarlarda taşıyacak bir hat gerekir. Kanal, üretim bölgeleriyle tüketim merkezleri arasında bu bağı kuran altyapıydı; sadece manzaralı bir su şeridi değildi."
         }
       ],
       "sources": [
         {
           "label": "OpenStax · World History Volume 1 · 14-1",
           "url": "https://openstax.org/books/world-history-volume-1/pages/14-1-song-china-and-the-steppe-peoples"
+        },
+        {
+          "label": "UNESCO · Çin Büyük Kanalı",
+          "url": "https://whc.unesco.org/en/list/1443/"
         }
       ],
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "comments": [
         {
           "name": "onurdefter",
           "text": "Kaynağı ayrıca vermeniz iyi olmuş."
         }
-      ]
+      ],
+      "art": {
+        "kind": "diagram",
+        "font": "Bebas Neue",
+        "paper": "#f4bd65",
+        "ink": "#332710",
+        "align": "start",
+        "position": "middle"
+      },
+      "display": "carousel",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      }
     }
   ]
 }
