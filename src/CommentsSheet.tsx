@@ -15,7 +15,7 @@ export default function CommentsSheet({post,user,onAdd,onClose}:{post:Post;user:
   document.body.style.overflow='hidden';el.showModal();
   const fit=()=>{const v=window.visualViewport;el.style.setProperty('--visible-height',`${v?.height||window.innerHeight}px`);el.style.setProperty('--visible-top',`${v?.offsetTop||0}px`);};
   fit();window.visualViewport?.addEventListener('resize',fit);window.visualViewport?.addEventListener('scroll',fit);window.addEventListener('resize',fit);
-  return()=>{el.close();document.body.style.overflow=overflow;window.visualViewport?.removeEventListener('resize',fit);window.visualViewport?.removeEventListener('scroll',fit);window.removeEventListener('resize',fit);before?.focus();};
+  return()=>{el.close();document.body.style.overflow=overflow;window.visualViewport?.removeEventListener('resize',fit);window.visualViewport?.removeEventListener('scroll',fit);window.removeEventListener('resize',fit);before?.focus({preventScroll:true});};
  },[]);
  const send=()=>{if(!text.trim())return;onAdd(`${reply?`@${reply} `:''}${text.trim()}`.slice(0,1000));setText('');setReply('');input.current?.focus();requestAnimationFrame(()=>list.current?.scrollTo({top:list.current.scrollHeight,behavior:'smooth'}));};
  const start=useRef<number|null>(null);
