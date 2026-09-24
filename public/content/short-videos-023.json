@@ -1,0 +1,1366 @@
+{
+  "version": 1,
+  "title": "Kısa keşifler 23: yeni sesler, yeni konular",
+  "posts": [
+    {
+      "id": "kisa-video-telefon-sebekesi-gokyuzune-uzanirsa",
+      "category": "Teknoloji",
+      "title": "Telefon şebekesi gökyüzüne uzanırsa",
+      "subtitle": "NTN, yer dışı ağları ifade ediyor. Donanım Haber, uydu bağlantısının mobil iletişime nasıl katılabileceğini anlatıyor.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Uydu iletişimi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 2.1,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/0_Y6jUDLRNg/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCZ23P1w_P8zlkK9Hnuh43nNZlx1Q&usqp=CCk",
+        "alt": "Telefon şebekesi gökyüzüne uzanırsa — video önizlemesi",
+        "credit": "Donanım Haber",
+        "source": "https://www.youtube.com/watch?v=0_Y6jUDLRNg",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "NTN, yer dışı ağları ifade ediyor. Donanım Haber, uydu bağlantısının mobil iletişime nasıl katılabileceğini anlatıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "0_Y6jUDLRNg",
+        "title": "\"Şebeke çekmiyor\" cümlesi 5G NTN teknolojisiyle tarih oluyor! 🌍",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 127,
+        "orientation": "portrait",
+        "publisher": "Donanım Haber",
+        "publisherId": "UCfIVTpOAjmeKmaiBd3rfwlA",
+        "poster": "https://i.ytimg.com/vi/0_Y6jUDLRNg/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCZ23P1w_P8zlkK9Hnuh43nNZlx1Q&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Donanım Haber · \"Şebeke çekmiyor\" cümlesi 5G NTN teknolojisiyle tarih oluyor! 🌍",
+          "url": "https://www.youtube.com/watch?v=0_Y6jUDLRNg"
+        },
+        {
+          "label": "Donanım Haber · kanal",
+          "url": "https://www.youtube.com/channel/UCfIVTpOAjmeKmaiBd3rfwlA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-ilk-bilgisayar-programcisi-kimdi",
+      "category": "Tarih",
+      "title": "İlk bilgisayar programcısı kimdi?",
+      "subtitle": "Bilgisayarlar masalarımıza gelmeden çok önce program fikri vardı. Webtekno'nun bilgisayar tarihine kısa yolculuğu.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Ada Lovelace",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 2.2,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/oSA5-jsqCIk/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAvSkHpFsOTJx7ll5a5SUif-ThXzg&usqp=CCk",
+        "alt": "İlk bilgisayar programcısı kimdi? — video önizlemesi",
+        "credit": "webtekno",
+        "source": "https://www.youtube.com/watch?v=oSA5-jsqCIk",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bilgisayarlar masalarımıza gelmeden çok önce program fikri vardı. Webtekno'nun bilgisayar tarihine kısa yolculuğu."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "oSA5-jsqCIk",
+        "title": "Tarihin ilk bilgisayar programcısı kimdi? #shortvideo",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 133,
+        "orientation": "portrait",
+        "publisher": "webtekno",
+        "publisherId": "UC26buublzO30XpR-KP2TfAw",
+        "poster": "https://i.ytimg.com/vi/oSA5-jsqCIk/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAvSkHpFsOTJx7ll5a5SUif-ThXzg&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "webtekno · Tarihin ilk bilgisayar programcısı kimdi? #shortvideo",
+          "url": "https://www.youtube.com/watch?v=oSA5-jsqCIk"
+        },
+        {
+          "label": "webtekno · kanal",
+          "url": "https://www.youtube.com/channel/UC26buublzO30XpR-KP2TfAw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-haris-alexiou-nun-tizlerine-kulak-ver",
+      "category": "Sanat",
+      "title": "Haris Alexiou'nun tizlerine kulak ver",
+      "subtitle": "Emre Yücelen, Haris Alexiou'nun söyleyişini inceliyor. Bir sesi beğenmenin yanında nasıl kullanıldığını da duymayı deneyelim.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Vokal tekniği",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/0lc_pLlPJTk/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLAOEOCenAejpeAgwe43q5h8wMB9HQ&usqp=CCk",
+        "alt": "Haris Alexiou'nun tizlerine kulak ver — video önizlemesi",
+        "credit": "Emre Yücelen Şan Dersi",
+        "source": "https://www.youtube.com/watch?v=0lc_pLlPJTk",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Emre Yücelen, Haris Alexiou'nun söyleyişini inceliyor. Bir sesi beğenmenin yanında nasıl kullanıldığını da duymayı deneyelim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "0lc_pLlPJTk",
+        "title": "Haris Alexiou'nun Vokal Tekniği: Tize Çıkış Sırları #shorts",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 42,
+        "orientation": "portrait",
+        "publisher": "Emre Yücelen Şan Dersi",
+        "publisherId": "UCffjxhLW1_Ol1EQTE5-VQ1Q",
+        "poster": "https://i.ytimg.com/vi/0lc_pLlPJTk/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLAOEOCenAejpeAgwe43q5h8wMB9HQ&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Emre Yücelen Şan Dersi · Haris Alexiou'nun Vokal Tekniği: Tize Çıkış Sırları #shorts",
+          "url": "https://www.youtube.com/watch?v=0lc_pLlPJTk"
+        },
+        {
+          "label": "Emre Yücelen Şan Dersi · kanal",
+          "url": "https://www.youtube.com/channel/UCffjxhLW1_Ol1EQTE5-VQ1Q"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-ayni-bes-notada-donup-durmak",
+      "category": "Sanat",
+      "title": "Aynı beş notada dönüp durmak",
+      "subtitle": "Pentatonik, beş sesli bir dizi. Deniz Sayman, gitarda aynı kalıba takılı kalanlar için bir çalışma yolu gösteriyor.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Pentatonik gam",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/P9JL9viZ2Fs/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBX6RIRe9G_mlXdGxQCG6Kb8ONHmQ&usqp=CCk",
+        "alt": "Aynı beş notada dönüp durmak — video önizlemesi",
+        "credit": "Deniz Sayman",
+        "source": "https://www.youtube.com/watch?v=P9JL9viZ2Fs",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Pentatonik, beş sesli bir dizi. Deniz Sayman, gitarda aynı kalıba takılı kalanlar için bir çalışma yolu gösteriyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "P9JL9viZ2Fs",
+        "title": "Minör pentatonikte takıldığın yeri böyle aşabilirsin",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 99,
+        "orientation": "portrait",
+        "publisher": "Deniz Sayman",
+        "publisherId": "UCzb4ZTp-BtNdkfeU4qJSF8g",
+        "poster": "https://i.ytimg.com/vi/P9JL9viZ2Fs/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBX6RIRe9G_mlXdGxQCG6Kb8ONHmQ&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Deniz Sayman · Minör pentatonikte takıldığın yeri böyle aşabilirsin",
+          "url": "https://www.youtube.com/watch?v=P9JL9viZ2Fs"
+        },
+        {
+          "label": "Deniz Sayman · kanal",
+          "url": "https://www.youtube.com/channel/UCzb4ZTp-BtNdkfeU4qJSF8g"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-sesini-kullanirken-bir-sey-dene",
+      "category": "Sanat",
+      "title": "Sesini kullanırken bir şey dene",
+      "subtitle": "Müzik Üniversitesi'nden kısa bir şarkı söyleme önerisi. Kendi sesini zorlamadan, küçük değişikliklerin farkını dinle.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Şarkı söyleme",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/trwyKlsJvmQ/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAeihSRlJlYkACYTmZ23ittgXzT9w&usqp=CCk",
+        "alt": "Sesini kullanırken bir şey dene — video önizlemesi",
+        "credit": "Müzik Üniversitesi",
+        "source": "https://www.youtube.com/watch?v=trwyKlsJvmQ",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Müzik Üniversitesi'nden kısa bir şarkı söyleme önerisi. Kendi sesini zorlamadan, küçük değişikliklerin farkını dinle."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "trwyKlsJvmQ",
+        "title": "Şarkı söylerken bunu mutlaka deneyin",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 23,
+        "orientation": "portrait",
+        "publisher": "Müzik Üniversitesi",
+        "publisherId": "UCMrTbkHw4Ysnwxk0gDPgtHA",
+        "poster": "https://i.ytimg.com/vi/trwyKlsJvmQ/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAeihSRlJlYkACYTmZ23ittgXzT9w&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Müzik Üniversitesi · Şarkı söylerken bunu mutlaka deneyin",
+          "url": "https://www.youtube.com/watch?v=trwyKlsJvmQ"
+        },
+        {
+          "label": "Müzik Üniversitesi · kanal",
+          "url": "https://www.youtube.com/channel/UCMrTbkHw4Ysnwxk0gDPgtHA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-m-rquez-neden-konusuluyor",
+      "category": "Spor",
+      "title": "Márquez neden konuşuluyor?",
+      "subtitle": "Socrates ekibi Marc Márquez'in performansını değerlendiriyor. MotoGP'yi sürücülerin hikâyeleriyle tanımak için kısa bir kesit.",
+      "account": "Oyunun İçinden",
+      "handle": "oyununicinden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tennis_ball_on_tennis_court_20170619.jpg/960px-Tennis_ball_on_tennis_court_20170619.jpg",
+      "avatarCredit": {
+        "label": "Santeri Viinamäki",
+        "url": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_tennis_court_20170619.jpg"
+      },
+      "topic": "MotoGP",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.2,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/NfiWXqAesxE/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLB4cTAqLLhMk-sgdbYtTdJJJYC49g&usqp=CCk",
+        "alt": "Márquez neden konuşuluyor? — video önizlemesi",
+        "credit": "Socrates Dergi",
+        "source": "https://www.youtube.com/watch?v=NfiWXqAesxE",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Socrates ekibi Marc Márquez'in performansını değerlendiriyor. MotoGP'yi sürücülerin hikâyeleriyle tanımak için kısa bir kesit."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "NfiWXqAesxE",
+        "title": "🔥 Marc Márquez krallığı | #shorts",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 74,
+        "orientation": "portrait",
+        "publisher": "Socrates Dergi",
+        "publisherId": "UCvgwLFmnppZoPVBQJwPaNsA",
+        "poster": "https://i.ytimg.com/vi/NfiWXqAesxE/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLB4cTAqLLhMk-sgdbYtTdJJJYC49g&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Socrates Dergi · 🔥 Marc Márquez krallığı | #shorts",
+          "url": "https://www.youtube.com/watch?v=NfiWXqAesxE"
+        },
+        {
+          "label": "Socrates Dergi · kanal",
+          "url": "https://www.youtube.com/channel/UCvgwLFmnppZoPVBQJwPaNsA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-petrol-sehrinin-biraktigi-iz",
+      "category": "Coğrafya",
+      "title": "Petrol şehrinin bıraktığı iz",
+      "subtitle": "+90, Bakü'nün petrol geçmişini çevresel etkileriyle birlikte ele alıyor. Bir kentin zenginleşme hikâyesinin başka bir yüzü.",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Bakü ve petrol",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/A1U0Wocbk3A/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDJfLU2ZmbBAUH7e_Ew6dRZw9Zj5g&usqp=CCk",
+        "alt": "Petrol şehrinin bıraktığı iz — video önizlemesi",
+        "credit": "+90",
+        "source": "https://www.youtube.com/watch?v=A1U0Wocbk3A",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "+90, Bakü'nün petrol geçmişini çevresel etkileriyle birlikte ele alıyor. Bir kentin zenginleşme hikâyesinin başka bir yüzü."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "A1U0Wocbk3A",
+        "title": "Dünyanın ilk petrol şehri Bakü: Zenginliğin arkasındaki çevresel bedel",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 49,
+        "orientation": "portrait",
+        "publisher": "+90",
+        "publisherId": "UCUnwimZlOXfAedrmRfguS1g",
+        "poster": "https://i.ytimg.com/vi/A1U0Wocbk3A/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDJfLU2ZmbBAUH7e_Ew6dRZw9Zj5g&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "+90 · Dünyanın ilk petrol şehri Bakü: Zenginliğin arkasındaki çevresel bedel",
+          "url": "https://www.youtube.com/watch?v=A1U0Wocbk3A"
+        },
+        {
+          "label": "+90 · kanal",
+          "url": "https://www.youtube.com/channel/UCUnwimZlOXfAedrmRfguS1g"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-kahvaltiyi-aksamdan-hazirlamak",
+      "category": "Gündelik",
+      "title": "Kahvaltıyı akşamdan hazırlamak",
+      "subtitle": "Refika'nın Mutfağı'ndan meyveli yulaf tarifi. Malzemelerin gece boyunca nasıl bir araya geldiğini görelim.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Yulaf hazırlamak",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.1,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/NF9mHdew2qU/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLChWP75Vc2FkqQQGnaM7wDPPzEHiw&usqp=CCk",
+        "alt": "Kahvaltıyı akşamdan hazırlamak — video önizlemesi",
+        "credit": "Refika'nın Mutfağı",
+        "source": "https://www.youtube.com/watch?v=NF9mHdew2qU",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Refika'nın Mutfağı'ndan meyveli yulaf tarifi. Malzemelerin gece boyunca nasıl bir araya geldiğini görelim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "NF9mHdew2qU",
+        "title": "Yaz Sıcaklarında İçi Rahatlatan En Hafif Tarif 🌿 Geceden Meyveli Yulaflı Pratik Yaz Bowlu",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 66,
+        "orientation": "portrait",
+        "publisher": "Refika'nın Mutfağı",
+        "publisherId": "UCO3MaQR-Vh6cgBZRlD44jWg",
+        "poster": "https://i.ytimg.com/vi/NF9mHdew2qU/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLChWP75Vc2FkqQQGnaM7wDPPzEHiw&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Refika'nın Mutfağı · Yaz Sıcaklarında İçi Rahatlatan En Hafif Tarif 🌿 Geceden Meyveli Yulaflı Pratik Yaz Bowlu",
+          "url": "https://www.youtube.com/watch?v=NF9mHdew2qU"
+        },
+        {
+          "label": "Refika'nın Mutfağı · kanal",
+          "url": "https://www.youtube.com/channel/UCO3MaQR-Vh6cgBZRlD44jWg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-bu-kez-vietnam-mutfagi",
+      "category": "Gündelik",
+      "title": "Bu kez Vietnam mutfağı",
+      "subtitle": "Arda Türkmen'in Vietnam yolculuğundan bir kesit. Alışık olmadığın malzemelere ve servis biçimlerine göz at.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Vietnam yemek kültürü",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/JQis4sJj5uU/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLANT-V8PjmwqphhJ-vz1SnBjJUTtg&usqp=CCk",
+        "alt": "Bu kez Vietnam mutfağı — video önizlemesi",
+        "credit": "Arda'nın Mutfağı",
+        "source": "https://www.youtube.com/watch?v=JQis4sJj5uU",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Arda Türkmen'in Vietnam yolculuğundan bir kesit. Alışık olmadığın malzemelere ve servis biçimlerine göz at."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "JQis4sJj5uU",
+        "title": "İstikamet Vietnam ✈️ Arda ile Aşırı Lezzetli",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "Arda'nın Mutfağı",
+        "publisherId": "UCJ5KzVnmaIIVyLQUCRii2uw",
+        "poster": "https://i.ytimg.com/vi/JQis4sJj5uU/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLANT-V8PjmwqphhJ-vz1SnBjJUTtg&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Arda'nın Mutfağı · İstikamet Vietnam ✈️ Arda ile Aşırı Lezzetli",
+          "url": "https://www.youtube.com/watch?v=JQis4sJj5uU"
+        },
+        {
+          "label": "Arda'nın Mutfağı · kanal",
+          "url": "https://www.youtube.com/channel/UCJ5KzVnmaIIVyLQUCRii2uw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-hatay-in-biberli-ekmegi",
+      "category": "Gündelik",
+      "title": "Hatay'ın biberli ekmeği",
+      "subtitle": "Yemek.com'dan biberli ekmek tarifi. Hamurun üstündeki karışımın nasıl hazırlandığını yakından takip et.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Hatay mutfağı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.2,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/IRrQOeUNuAA/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBYH2Xq3zJtLAWIuD-kArPyNmatKQ",
+        "alt": "Hatay'ın biberli ekmeği — video önizlemesi",
+        "credit": "Yemek.com",
+        "source": "https://www.youtube.com/watch?v=IRrQOeUNuAA",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Yemek.com'dan biberli ekmek tarifi. Hamurun üstündeki karışımın nasıl hazırlandığını yakından takip et."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "IRrQOeUNuAA",
+        "title": "🌶️Hatay Usulü Biberli Ekmek | Üstelik Çift Katlı! 😋",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 70,
+        "orientation": "portrait",
+        "publisher": "Yemek.com",
+        "publisherId": "UCWA2nh0yrIMC6uG0hfbucRQ",
+        "poster": "https://i.ytimg.com/vi/IRrQOeUNuAA/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBYH2Xq3zJtLAWIuD-kArPyNmatKQ",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Yemek.com · 🌶️Hatay Usulü Biberli Ekmek | Üstelik Çift Katlı! 😋",
+          "url": "https://www.youtube.com/watch?v=IRrQOeUNuAA"
+        },
+        {
+          "label": "Yemek.com · kanal",
+          "url": "https://www.youtube.com/channel/UCWA2nh0yrIMC6uG0hfbucRQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-ugurlu-esya-gercekten-ugur-getirir-mi",
+      "category": "Felsefe",
+      "title": "Uğurlu eşya gerçekten uğur getirir mi?",
+      "subtitle": "Discovery Channel, batıl inançla şans duygusu arasındaki bağlantıyı ele alıyor. İnanmakla neden-sonuç ilişkisi kurmak aynı şey olmayabilir.",
+      "account": "Bir Soru Daha",
+      "handle": "birsorudaha",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      },
+      "topic": "Batıl inançlar",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/UQx4TjZMqDo/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBFOs9SzMKO8dKdoJGc-46RfARK1A&usqp=CCk",
+        "alt": "Uğurlu eşya gerçekten uğur getirir mi? — video önizlemesi",
+        "credit": "Discovery Channel Türkiye",
+        "source": "https://www.youtube.com/watch?v=UQx4TjZMqDo",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Discovery Channel, batıl inançla şans duygusu arasındaki bağlantıyı ele alıyor. İnanmakla neden-sonuç ilişkisi kurmak aynı şey olmayabilir."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "UQx4TjZMqDo",
+        "title": "Batıl inanç ve şansın bağlantısı nedir? #shorts #discoverychannel",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 33,
+        "orientation": "portrait",
+        "publisher": "Discovery Channel Türkiye",
+        "publisherId": "UCR3qlVw_zey6jHuWy81cucQ",
+        "poster": "https://i.ytimg.com/vi/UQx4TjZMqDo/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBFOs9SzMKO8dKdoJGc-46RfARK1A&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Discovery Channel Türkiye · Batıl inanç ve şansın bağlantısı nedir? #shorts #discoverychannel",
+          "url": "https://www.youtube.com/watch?v=UQx4TjZMqDo"
+        },
+        {
+          "label": "Discovery Channel Türkiye · kanal",
+          "url": "https://www.youtube.com/channel/UCR3qlVw_zey6jHuWy81cucQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-sairin-kendi-sesinden",
+      "category": "Edebiyat",
+      "title": "Şairin kendi sesinden",
+      "subtitle": "Attilâ İlhan'ı kendi şiirini okurken dinliyoruz. TRT Dinle arşivinden, metnin sesle nasıl başka bir hâl aldığına kısa bir örnek.",
+      "account": "Sayfa Arası",
+      "handle": "sayfaarasi",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Attilâ İlhan",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/TbYSofnh0Q0/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBWcMJzKTVZ1wrYY2J4xhU0OMPDOg&usqp=CCk",
+        "alt": "Şairin kendi sesinden — video önizlemesi",
+        "credit": "TRT Dinle",
+        "source": "https://www.youtube.com/watch?v=TbYSofnh0Q0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Attilâ İlhan'ı kendi şiirini okurken dinliyoruz. TRT Dinle arşivinden, metnin sesle nasıl başka bir hâl aldığına kısa bir örnek."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "TbYSofnh0Q0",
+        "title": "Attila İlhan'ın kendi sesinden “Sen Benim Hiçbir Şeyimsin” şiirini dinliyoruz.✍️ #şiir #attilailhan",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 26,
+        "orientation": "portrait",
+        "publisher": "TRT Dinle",
+        "publisherId": "UCJdaY9KKq1F3pUxAvoY_rfA",
+        "poster": "https://i.ytimg.com/vi/TbYSofnh0Q0/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBWcMJzKTVZ1wrYY2J4xhU0OMPDOg&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Dinle · Attila İlhan'ın kendi sesinden “Sen Benim Hiçbir Şeyimsin” şiirini dinliyoruz.✍️ #şiir #attilailhan",
+          "url": "https://www.youtube.com/watch?v=TbYSofnh0Q0"
+        },
+        {
+          "label": "TRT Dinle · kanal",
+          "url": "https://www.youtube.com/channel/UCJdaY9KKq1F3pUxAvoY_rfA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-nasreddin-hoca-teknolojiyle-karsilasirsa",
+      "category": "Gündelik",
+      "title": "Nasreddin Hoca teknolojiyle karşılaşırsa",
+      "subtitle": "TRT Çocuk'un Nasreddin Hoca yorumundan kısa bir sahne. Bu kez bilgi kartı yok; küçük bir gülümseme molası.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Nasreddin Hoca",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/uR_-c-OarBQ/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA-XcpZpzrd-CvqGQ0mLOSU8bxXEA&usqp=CCk",
+        "alt": "Nasreddin Hoca teknolojiyle karşılaşırsa — video önizlemesi",
+        "credit": "TRT Çocuk",
+        "source": "https://www.youtube.com/watch?v=uR_-c-OarBQ",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "TRT Çocuk'un Nasreddin Hoca yorumundan kısa bir sahne. Bu kez bilgi kartı yok; küçük bir gülümseme molası."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "uR_-c-OarBQ",
+        "title": "Nasreddin Hoca'nın teknoloji ile imtihanı :) #shorts #trtçocuk",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 31,
+        "orientation": "portrait",
+        "publisher": "TRT Çocuk",
+        "publisherId": "UCrFf5dtMe6M1XJHqbKJ4X6Q",
+        "poster": "https://i.ytimg.com/vi/uR_-c-OarBQ/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA-XcpZpzrd-CvqGQ0mLOSU8bxXEA&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Çocuk · Nasreddin Hoca'nın teknoloji ile imtihanı :) #shorts #trtçocuk",
+          "url": "https://www.youtube.com/watch?v=uR_-c-OarBQ"
+        },
+        {
+          "label": "TRT Çocuk · kanal",
+          "url": "https://www.youtube.com/channel/UCrFf5dtMe6M1XJHqbKJ4X6Q"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-afette-yardim-arayan-robot",
+      "category": "Teknoloji",
+      "title": "Afette yardım arayan robot",
+      "subtitle": "TEKNOFEST'ten otonom arama kurtarma aracı projesi. Öğrenciler teknolojiyi gerçek bir ihtiyaca göre tasarlıyor.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Arama kurtarma robotları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/ZLDhDNapiDo/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDVdUUfzeRccvdY23_ZEJGBbRIPEg&usqp=CCk",
+        "alt": "Afette yardım arayan robot — video önizlemesi",
+        "credit": "TEKNOFEST",
+        "source": "https://www.youtube.com/watch?v=ZLDhDNapiDo",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "TEKNOFEST'ten otonom arama kurtarma aracı projesi. Öğrenciler teknolojiyi gerçek bir ihtiyaca göre tasarlıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "ZLDhDNapiDo",
+        "title": "✦ #TeknofestProjem | Afet anında otonom arama kurtarma aracı ile insanlığın hizmetindeyiz. 🚀",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 51,
+        "orientation": "portrait",
+        "publisher": "TEKNOFEST",
+        "publisherId": "UCQrsBJS1Yb-UJ0VevqfSJHw",
+        "poster": "https://i.ytimg.com/vi/ZLDhDNapiDo/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDVdUUfzeRccvdY23_ZEJGBbRIPEg&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TEKNOFEST · ✦ #TeknofestProjem | Afet anında otonom arama kurtarma aracı ile insanlığın hizmetindeyiz. 🚀",
+          "url": "https://www.youtube.com/watch?v=ZLDhDNapiDo"
+        },
+        {
+          "label": "TEKNOFEST · kanal",
+          "url": "https://www.youtube.com/channel/UCQrsBJS1Yb-UJ0VevqfSJHw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-asagi-dogru-ne-kadar-gidebiliriz",
+      "category": "Coğrafya",
+      "title": "Aşağı doğru ne kadar gidebiliriz?",
+      "subtitle": "Denizin kıyıda gördüğümüz yüzeyi bir başlangıç. Okyanusun derinliğini gözünde canlandırmak için kısa bir yolculuk.",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Okyanus derinliği",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 3.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/I__fEPKfPTA/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCmgjnzLcuEL5pSMiEdRjrhKUziXg",
+        "alt": "Aşağı doğru ne kadar gidebiliriz? — video önizlemesi",
+        "credit": "Bebar Bilim",
+        "source": "https://www.youtube.com/watch?v=I__fEPKfPTA",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Denizin kıyıda gördüğümüz yüzeyi bir başlangıç. Okyanusun derinliğini gözünde canlandırmak için kısa bir yolculuk."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "I__fEPKfPTA",
+        "title": "Okyanus Gerçekte Ne Kadar Derin?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 178,
+        "orientation": "portrait",
+        "publisher": "Bebar Bilim",
+        "publisherId": "UCDTSUkdlbcgEU-IGH_mHgmw",
+        "poster": "https://i.ytimg.com/vi/I__fEPKfPTA/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCmgjnzLcuEL5pSMiEdRjrhKUziXg",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Bebar Bilim · Okyanus Gerçekte Ne Kadar Derin?",
+          "url": "https://www.youtube.com/watch?v=I__fEPKfPTA"
+        },
+        {
+          "label": "Bebar Bilim · kanal",
+          "url": "https://www.youtube.com/channel/UCDTSUkdlbcgEU-IGH_mHgmw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-sutu-herkes-ayni-sekilde-sindiremiyor",
+      "category": "Bilim",
+      "title": "Sütü herkes aynı şekilde sindiremiyor",
+      "subtitle": "Sütteki şekere laktoz deniyor. Yetişkinlikte onu sindirebilme özelliğinin insanlık tarihindeki izlerine bakıyoruz.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Laktoz toleransı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 2.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/q7GWrPteVoc/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBowajekFPII4T2sPfHT3ZhA4_wew&usqp=CCk",
+        "alt": "Sütü herkes aynı şekilde sindiremiyor — video önizlemesi",
+        "credit": "Gelecek Bilimde",
+        "source": "https://www.youtube.com/watch?v=q7GWrPteVoc",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Sütteki şekere laktoz deniyor. Yetişkinlikte onu sindirebilme özelliğinin insanlık tarihindeki izlerine bakıyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "q7GWrPteVoc",
+        "title": "Laktoz Toleransı: İnsanlığın Kaderini Değiştiren Mutasyon #bilim #shorts #evrim",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 165,
+        "orientation": "portrait",
+        "publisher": "Gelecek Bilimde",
+        "publisherId": "UC03cpKIZShIWoSBhfVE5bog",
+        "poster": "https://i.ytimg.com/vi/q7GWrPteVoc/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBowajekFPII4T2sPfHT3ZhA4_wew&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Gelecek Bilimde · Laktoz Toleransı: İnsanlığın Kaderini Değiştiren Mutasyon #bilim #shorts #evrim",
+          "url": "https://www.youtube.com/watch?v=q7GWrPteVoc"
+        },
+        {
+          "label": "Gelecek Bilimde · kanal",
+          "url": "https://www.youtube.com/channel/UC03cpKIZShIWoSBhfVE5bog"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-telefon-konumunu-nasil-buluyor",
+      "category": "Teknoloji",
+      "title": "Telefon konumunu nasıl buluyor?",
+      "subtitle": "GPS, uydu sinyallerinden uzaklık hesaplıyor. Birkaç uzaklığı bir araya getirince konumun nasıl bulunduğunu Umut Yıldız anlatıyor.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "GPS",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/bNj-UVBaqVU/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDdc8htTnnEFRV89i0cNdt2adXhOA&usqp=CCk",
+        "alt": "Telefon konumunu nasıl buluyor? — video önizlemesi",
+        "credit": "Dr Umut Yildiz (Tek Çare Uzay)",
+        "source": "https://www.youtube.com/watch?v=bNj-UVBaqVU",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "GPS, uydu sinyallerinden uzaklık hesaplıyor. Birkaç uzaklığı bir araya getirince konumun nasıl bulunduğunu Umut Yıldız anlatıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "bNj-UVBaqVU",
+        "title": "GPS uyduları nasıl çalışır? Trilateration nedir? #gps",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 56,
+        "orientation": "portrait",
+        "publisher": "Dr Umut Yildiz (Tek Çare Uzay)",
+        "publisherId": "UC5_6R9pPdyQ5-t-VQXS7E2A",
+        "poster": "https://i.ytimg.com/vi/bNj-UVBaqVU/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDdc8htTnnEFRV89i0cNdt2adXhOA&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Dr Umut Yildiz (Tek Çare Uzay) · GPS uyduları nasıl çalışır? Trilateration nedir? #gps",
+          "url": "https://www.youtube.com/watch?v=bNj-UVBaqVU"
+        },
+        {
+          "label": "Dr Umut Yildiz (Tek Çare Uzay) · kanal",
+          "url": "https://www.youtube.com/channel/UC5_6R9pPdyQ5-t-VQXS7E2A"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-remziye-hisar-i-taniyalim",
+      "category": "Tarih",
+      "title": "Remziye Hisar'ı tanıyalım",
+      "subtitle": "Türkiye'nin bilim tarihinde bir kimyagerin izini sürüyoruz. Remziye Hisar'ın hayatından kısa bir portre.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Remziye Hisar",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Kvc3zEXMl9g/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCh83Uso3Ga41cecevdOHuGnlO2Ww&usqp=CCk",
+        "alt": "Remziye Hisar'ı tanıyalım — video önizlemesi",
+        "credit": "İdil Salihoğlu",
+        "source": "https://www.youtube.com/watch?v=Kvc3zEXMl9g",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Türkiye'nin bilim tarihinde bir kimyagerin izini sürüyoruz. Remziye Hisar'ın hayatından kısa bir portre."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Kvc3zEXMl9g",
+        "title": "Türkiye'nin Ilk Kadın Kimyageri: Remziye Hisar",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 102,
+        "orientation": "portrait",
+        "publisher": "İdil Salihoğlu",
+        "publisherId": "UCq-2mZvwOVAmGjqpXV-mnxA",
+        "poster": "https://i.ytimg.com/vi/Kvc3zEXMl9g/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCh83Uso3Ga41cecevdOHuGnlO2Ww&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "İdil Salihoğlu · Türkiye'nin Ilk Kadın Kimyageri: Remziye Hisar",
+          "url": "https://www.youtube.com/watch?v=Kvc3zEXMl9g"
+        },
+        {
+          "label": "İdil Salihoğlu · kanal",
+          "url": "https://www.youtube.com/channel/UCq-2mZvwOVAmGjqpXV-mnxA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-dinozorlar-icin-baska-senaryolar",
+      "category": "Doğa",
+      "title": "Dinozorlar için başka senaryolar",
+      "subtitle": "Dinozorların yok oluşunu açıklayan görüşler aynı ölçüde güçlü mü? Kanıtların nasıl tartıldığını konuşan bir bölüm.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Dinozorların yok oluşu",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/_L1d-G5ndkE/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDzeIjQR8VDSFlyMfCLJquQWJBdGQ&usqp=CCk",
+        "alt": "Dinozorlar için başka senaryolar — video önizlemesi",
+        "credit": "Herkese Bilim Teknoloji",
+        "source": "https://www.youtube.com/watch?v=_L1d-G5ndkE",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Dinozorların yok oluşunu açıklayan görüşler aynı ölçüde güçlü mü? Kanıtların nasıl tartıldığını konuşan bir bölüm."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "_L1d-G5ndkE",
+        "title": "Dinozorların alternatif yok oluş senaryolarının gerçekçiliği hakkında konuştuk. Tamamı kanalda :)",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 38,
+        "orientation": "portrait",
+        "publisher": "Herkese Bilim Teknoloji",
+        "publisherId": "UCzdwqEcEurcfZ-gbwU6AwuA",
+        "poster": "https://i.ytimg.com/vi/_L1d-G5ndkE/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDzeIjQR8VDSFlyMfCLJquQWJBdGQ&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Herkese Bilim Teknoloji · Dinozorların alternatif yok oluş senaryolarının gerçekçiliği hakkında konuştuk. Tamamı kanalda :)",
+          "url": "https://www.youtube.com/watch?v=_L1d-G5ndkE"
+        },
+        {
+          "label": "Herkese Bilim Teknoloji · kanal",
+          "url": "https://www.youtube.com/channel/UCzdwqEcEurcfZ-gbwU6AwuA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-bunu-neden-yapiyorum",
+      "category": "Felsefe",
+      "title": "Bunu neden yapıyorum?",
+      "subtitle": "Her gün yaptığımız şeylerin arkasında ne var? Pelin Dilara Çolak'tan kendi nedenlerini düşünmek için bir soru.",
+      "account": "Bir Soru Daha",
+      "handle": "birsorudaha",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      },
+      "topic": "Motivasyon",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/KpxYGJGhhoQ/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC8DANWKLXRc5-Lt_LTi5emDdaWBQ&usqp=CCk",
+        "alt": "Bunu neden yapıyorum? — video önizlemesi",
+        "credit": "Pelin Dilara Çolak",
+        "source": "https://www.youtube.com/watch?v=KpxYGJGhhoQ",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Her gün yaptığımız şeylerin arkasında ne var? Pelin Dilara Çolak'tan kendi nedenlerini düşünmek için bir soru."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "KpxYGJGhhoQ",
+        "title": "Sizi yaptığınız şeyi yapmaya iten nedir?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 40,
+        "orientation": "portrait",
+        "publisher": "Pelin Dilara Çolak",
+        "publisherId": "UCLUyXhgymG9MRSV56yPUQ2g",
+        "poster": "https://i.ytimg.com/vi/KpxYGJGhhoQ/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC8DANWKLXRc5-Lt_LTi5emDdaWBQ&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Pelin Dilara Çolak · Sizi yaptığınız şeyi yapmaya iten nedir?",
+          "url": "https://www.youtube.com/watch?v=KpxYGJGhhoQ"
+        },
+        {
+          "label": "Pelin Dilara Çolak · kanal",
+          "url": "https://www.youtube.com/channel/UCLUyXhgymG9MRSV56yPUQ2g"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    }
+  ]
+}

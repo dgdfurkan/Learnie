@@ -1,0 +1,1366 @@
+{
+  "version": 1,
+  "title": "Kısa keşifler 28: yeni sesler, yeni konular",
+  "posts": [
+    {
+      "id": "kisa-video-tora-her-zaman-ayni-seyi-mi-anlatir",
+      "category": "İnanç",
+      "title": "“Tora” her zaman aynı şeyi mi anlatır?",
+      "subtitle": "Tora sözcüğünün farklı kullanımlarını BibleProject Türkçe'den dinliyoruz. Bir metni okurken bağlam neden gerekli, güzel bir örnek.",
+      "account": "Metnin İzinde",
+      "handle": "metninizinde",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Tora",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.1,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Nj0gkC7qlkc/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDfcKyAJghNuTBsW7OlMaWiAHPRPQ&usqp=CCk",
+        "alt": "“Tora” her zaman aynı şeyi mi anlatır? — video önizlemesi",
+        "credit": "BibleProject - Türkçe",
+        "source": "https://www.youtube.com/watch?v=Nj0gkC7qlkc",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Tora sözcüğünün farklı kullanımlarını BibleProject Türkçe'den dinliyoruz. Bir metni okurken bağlam neden gerekli, güzel bir örnek."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Nj0gkC7qlkc",
+        "title": "“Torah” terimi üç şekilde kullanılabilir",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 69,
+        "orientation": "portrait",
+        "publisher": "BibleProject - Türkçe",
+        "publisherId": "UCaeN45e3UUCQG3v9rGc3oyA",
+        "poster": "https://i.ytimg.com/vi/Nj0gkC7qlkc/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDfcKyAJghNuTBsW7OlMaWiAHPRPQ&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "BibleProject - Türkçe · “Torah” terimi üç şekilde kullanılabilir",
+          "url": "https://www.youtube.com/watch?v=Nj0gkC7qlkc"
+        },
+        {
+          "label": "BibleProject - Türkçe · kanal",
+          "url": "https://www.youtube.com/channel/UCaeN45e3UUCQG3v9rGc3oyA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-dev-bir-batarya-gibi-calisan-sistem",
+      "category": "Teknoloji",
+      "title": "Dev bir batarya gibi çalışan sistem",
+      "subtitle": "Enerjiyi üretmek kadar ihtiyaç duyulana dek saklamak da önemli. Donanım Haber'in enerji depolama üzerine kısa anlatımı.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Enerji depolama",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/xqaIuxsEvBs/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAmXXO5XgDxjs6Sqi0VvyO0GiTe_Q&usqp=CCk",
+        "alt": "Dev bir batarya gibi çalışan sistem — video önizlemesi",
+        "credit": "Donanım Haber",
+        "source": "https://www.youtube.com/watch?v=xqaIuxsEvBs",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Enerjiyi üretmek kadar ihtiyaç duyulana dek saklamak da önemli. Donanım Haber'in enerji depolama üzerine kısa anlatımı."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "xqaIuxsEvBs",
+        "title": "Türkiye'nin Dev Bataryası ile Tanışın! 🔋💧",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 87,
+        "orientation": "portrait",
+        "publisher": "Donanım Haber",
+        "publisherId": "UCfIVTpOAjmeKmaiBd3rfwlA",
+        "poster": "https://i.ytimg.com/vi/xqaIuxsEvBs/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAmXXO5XgDxjs6Sqi0VvyO0GiTe_Q&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Donanım Haber · Türkiye'nin Dev Bataryası ile Tanışın! 🔋💧",
+          "url": "https://www.youtube.com/watch?v=xqaIuxsEvBs"
+        },
+        {
+          "label": "Donanım Haber · kanal",
+          "url": "https://www.youtube.com/channel/UCfIVTpOAjmeKmaiBd3rfwlA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-agac-govdeleri-neden-beyaz",
+      "category": "Doğa",
+      "title": "Ağaç gövdeleri neden beyaz?",
+      "subtitle": "Yol kenarında görüp geçtiğimiz beyaz gövdelerin bir nedeni var. +90'ın kısa anlatımında bu uygulamaya bakıyoruz.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Ağaç bakımı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/VPfIgWkLHuk/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBX7UXmgyV_xlaHirXLS_p1fqXjbQ&usqp=CCk",
+        "alt": "Ağaç gövdeleri neden beyaz? — video önizlemesi",
+        "credit": "+90",
+        "source": "https://www.youtube.com/watch?v=VPfIgWkLHuk",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Yol kenarında görüp geçtiğimiz beyaz gövdelerin bir nedeni var. +90'ın kısa anlatımında bu uygulamaya bakıyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "VPfIgWkLHuk",
+        "title": "Ağaçlara güneş kremi: Ağaçların gövdeleri neden beyaza boyanır?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 25,
+        "orientation": "portrait",
+        "publisher": "+90",
+        "publisherId": "UCUnwimZlOXfAedrmRfguS1g",
+        "poster": "https://i.ytimg.com/vi/VPfIgWkLHuk/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBX7UXmgyV_xlaHirXLS_p1fqXjbQ&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "+90 · Ağaçlara güneş kremi: Ağaçların gövdeleri neden beyaza boyanır?",
+          "url": "https://www.youtube.com/watch?v=VPfIgWkLHuk"
+        },
+        {
+          "label": "+90 · kanal",
+          "url": "https://www.youtube.com/channel/UCUnwimZlOXfAedrmRfguS1g"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-hamur-acmadan-manti-fikri",
+      "category": "Gündelik",
+      "title": "Hamur açmadan mantı fikri",
+      "subtitle": "Refika'nın Mutfağı, dolaşımda olan pratik mantı yöntemini deniyor. Geleneksel tarifin hızlı bir uyarlaması nasıl görünüyor?",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Mutfakta uyarlama",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/nkPoAtUsgTA/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLAkNEIPTttNUKVMX8htHJQlCEMa5g&usqp=CCk",
+        "alt": "Hamur açmadan mantı fikri — video önizlemesi",
+        "credit": "Refika'nın Mutfağı",
+        "source": "https://www.youtube.com/watch?v=nkPoAtUsgTA",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Refika'nın Mutfağı, dolaşımda olan pratik mantı yöntemini deniyor. Geleneksel tarifin hızlı bir uyarlaması nasıl görünüyor?"
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "nkPoAtUsgTA",
+        "title": "VİRAL MANTI TARİFİNİ DENEDİK! Hamur Açmadan Mantı Tarifi 🤩",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 34,
+        "orientation": "portrait",
+        "publisher": "Refika'nın Mutfağı",
+        "publisherId": "UCO3MaQR-Vh6cgBZRlD44jWg",
+        "poster": "https://i.ytimg.com/vi/nkPoAtUsgTA/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLAkNEIPTttNUKVMX8htHJQlCEMa5g&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Refika'nın Mutfağı · VİRAL MANTI TARİFİNİ DENEDİK! Hamur Açmadan Mantı Tarifi 🤩",
+          "url": "https://www.youtube.com/watch?v=nkPoAtUsgTA"
+        },
+        {
+          "label": "Refika'nın Mutfağı · kanal",
+          "url": "https://www.youtube.com/channel/UCO3MaQR-Vh6cgBZRlD44jWg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-karabugdayla-tek-tavada-kahvalti",
+      "category": "Gündelik",
+      "title": "Karabuğdayla tek tavada kahvaltı",
+      "subtitle": "Yemek.com, karabuğday ezmesini kahvaltıda kullanıyor. Tanımadığın bir malzemeyi gündelik mutfağa katmak için bir örnek.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Karabuğday",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/YsUYWqZSNKo/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAnMziSR_a1we4UoK5l0XZQyWw_Vg",
+        "alt": "Karabuğdayla tek tavada kahvaltı — video önizlemesi",
+        "credit": "Yemek.com",
+        "source": "https://www.youtube.com/watch?v=YsUYWqZSNKo",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Yemek.com, karabuğday ezmesini kahvaltıda kullanıyor. Tanımadığın bir malzemeyi gündelik mutfağa katmak için bir örnek."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "YsUYWqZSNKo",
+        "title": "Karabuğday Ezmesiyle Tek Tavada Olay Kahvaltı 🤯🍳 #yemekcom",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 38,
+        "orientation": "portrait",
+        "publisher": "Yemek.com",
+        "publisherId": "UCWA2nh0yrIMC6uG0hfbucRQ",
+        "poster": "https://i.ytimg.com/vi/YsUYWqZSNKo/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAnMziSR_a1we4UoK5l0XZQyWw_Vg",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Yemek.com · Karabuğday Ezmesiyle Tek Tavada Olay Kahvaltı 🤯🍳 #yemekcom",
+          "url": "https://www.youtube.com/watch?v=YsUYWqZSNKo"
+        },
+        {
+          "label": "Yemek.com · kanal",
+          "url": "https://www.youtube.com/channel/UCWA2nh0yrIMC6uG0hfbucRQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-piyanoya-iceriden-bakalim",
+      "category": "Sanat",
+      "title": "Piyanoya içeriden bakalım",
+      "subtitle": "Sarper Kaynak'tan piyano üzerine kısa bir anlatım. Tuşa basmakla duyduğumuz ses arasındaki ilişkiyi düşünelim.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Piyano",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/gOSAfDiML10/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBynfPzV21gXwiFjkAl4jl19tbmsQ&usqp=CCk",
+        "alt": "Piyanoya içeriden bakalım — video önizlemesi",
+        "credit": "Borusan Sanat",
+        "source": "https://www.youtube.com/watch?v=gOSAfDiML10",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Sarper Kaynak'tan piyano üzerine kısa bir anlatım. Tuşa basmakla duyduğumuz ses arasındaki ilişkiyi düşünelim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "gOSAfDiML10",
+        "title": "BİFO ile Enstrümanların Dünyası - Sarper Kaynak (Piyano)",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 58,
+        "orientation": "portrait",
+        "publisher": "Borusan Sanat",
+        "publisherId": "UCS7PoWtHZIs_e9T8NKlgydQ",
+        "poster": "https://i.ytimg.com/vi/gOSAfDiML10/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBynfPzV21gXwiFjkAl4jl19tbmsQ&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Borusan Sanat · BİFO ile Enstrümanların Dünyası - Sarper Kaynak (Piyano)",
+          "url": "https://www.youtube.com/watch?v=gOSAfDiML10"
+        },
+        {
+          "label": "Borusan Sanat · kanal",
+          "url": "https://www.youtube.com/channel/UCS7PoWtHZIs_e9T8NKlgydQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-gehenna-adi-nereden-geliyor",
+      "category": "İnanç",
+      "title": "Gehenna adı nereden geliyor?",
+      "subtitle": "BibleProject Türkçe, Kutsal Kitap'ta geçen Gehenna kavramını açıklıyor. Bir yer adıyla dinî bir kavramın bağlantısına bakıyoruz.",
+      "account": "Metnin İzinde",
+      "handle": "metninizinde",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Gehenna",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.2,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/hAU-BViVgO4/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCYj7R2ne86IYUTJwUm7xvi1A_C2A&usqp=CCk",
+        "alt": "Gehenna adı nereden geliyor? — video önizlemesi",
+        "credit": "BibleProject - Türkçe",
+        "source": "https://www.youtube.com/watch?v=hAU-BViVgO4",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "BibleProject Türkçe, Kutsal Kitap'ta geçen Gehenna kavramını açıklıyor. Bir yer adıyla dinî bir kavramın bağlantısına bakıyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "hAU-BViVgO4",
+        "title": "Gehenna nedir?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 73,
+        "orientation": "portrait",
+        "publisher": "BibleProject - Türkçe",
+        "publisherId": "UCaeN45e3UUCQG3v9rGc3oyA",
+        "poster": "https://i.ytimg.com/vi/hAU-BViVgO4/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCYj7R2ne86IYUTJwUm7xvi1A_C2A&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "BibleProject - Türkçe · Gehenna nedir?",
+          "url": "https://www.youtube.com/watch?v=hAU-BViVgO4"
+        },
+        {
+          "label": "BibleProject - Türkçe · kanal",
+          "url": "https://www.youtube.com/channel/UCaeN45e3UUCQG3v9rGc3oyA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-iyi-simidin-sirri-ne",
+      "category": "Gündelik",
+      "title": "İyi simidin sırrı ne?",
+      "subtitle": "Taş fırın, pastane, sokak simidi… +90'dan her gün yediğimiz bir yiyeceğe yakından bakış.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Simit kültürü",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/m-59NcFvz2I/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBwsx6bLPYoYqZgTALWIzHdBvCbzQ",
+        "alt": "İyi simidin sırrı ne? — video önizlemesi",
+        "credit": "+90",
+        "source": "https://www.youtube.com/watch?v=m-59NcFvz2I",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Taş fırın, pastane, sokak simidi… +90'dan her gün yediğimiz bir yiyeceğe yakından bakış."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "m-59NcFvz2I",
+        "title": "Taş fırın, çıtır, pastane veya sokak simidi... İyi simidin sırrı ne?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 44,
+        "orientation": "portrait",
+        "publisher": "+90",
+        "publisherId": "UCUnwimZlOXfAedrmRfguS1g",
+        "poster": "https://i.ytimg.com/vi/m-59NcFvz2I/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBwsx6bLPYoYqZgTALWIzHdBvCbzQ",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "+90 · Taş fırın, çıtır, pastane veya sokak simidi... İyi simidin sırrı ne?",
+          "url": "https://www.youtube.com/watch?v=m-59NcFvz2I"
+        },
+        {
+          "label": "+90 · kanal",
+          "url": "https://www.youtube.com/channel/UCUnwimZlOXfAedrmRfguS1g"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-sehriyeye-risotto-muamelesi",
+      "category": "Gündelik",
+      "title": "Şehriyeye risotto muamelesi",
+      "subtitle": "Refika'nın Mutfağı'ndan mantarlı arpa şehriye tarifi. Bir pişirme yaklaşımının başka bir malzemeye uyarlanışını izliyoruz.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Arpa şehriye",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/oYuTjpc6e64/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLA9wg8_ciD7YuOkuh_6rGJRqD_7HA&usqp=CCk",
+        "alt": "Şehriyeye risotto muamelesi — video önizlemesi",
+        "credit": "Refika'nın Mutfağı",
+        "source": "https://www.youtube.com/watch?v=oYuTjpc6e64",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Refika'nın Mutfağı'ndan mantarlı arpa şehriye tarifi. Bir pişirme yaklaşımının başka bir malzemeye uyarlanışını izliyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "oYuTjpc6e64",
+        "title": "Evde Lüks Restoran Yemeği! 🍄 Arpa Şehriyeden Trüf Mantarlı Risotto Tarifi",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 56,
+        "orientation": "portrait",
+        "publisher": "Refika'nın Mutfağı",
+        "publisherId": "UCO3MaQR-Vh6cgBZRlD44jWg",
+        "poster": "https://i.ytimg.com/vi/oYuTjpc6e64/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLA9wg8_ciD7YuOkuh_6rGJRqD_7HA&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Refika'nın Mutfağı · Evde Lüks Restoran Yemeği! 🍄 Arpa Şehriyeden Trüf Mantarlı Risotto Tarifi",
+          "url": "https://www.youtube.com/watch?v=oYuTjpc6e64"
+        },
+        {
+          "label": "Refika'nın Mutfağı · kanal",
+          "url": "https://www.youtube.com/channel/UCO3MaQR-Vh6cgBZRlD44jWg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-patates-salatasina-lubnan-yorumu",
+      "category": "Gündelik",
+      "title": "Patates salatasına Lübnan yorumu",
+      "subtitle": "Limon ve nane, patates salatasının havasını değiştiriyor. Yemek.com'dan Lübnan usulü bir tarif.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Lübnan mutfağı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/rTLizqDyy_E/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDQIWxE_eZ91irJSDkQ5vXqhnIsWw",
+        "alt": "Patates salatasına Lübnan yorumu — video önizlemesi",
+        "credit": "Yemek.com",
+        "source": "https://www.youtube.com/watch?v=rTLizqDyy_E",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Limon ve nane, patates salatasının havasını değiştiriyor. Yemek.com'dan Lübnan usulü bir tarif."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "rTLizqDyy_E",
+        "title": "🍋🥔 Bol Limonlu, Naneli: Lübnan Usulü Patates Salatası 💛",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 47,
+        "orientation": "portrait",
+        "publisher": "Yemek.com",
+        "publisherId": "UCWA2nh0yrIMC6uG0hfbucRQ",
+        "poster": "https://i.ytimg.com/vi/rTLizqDyy_E/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDQIWxE_eZ91irJSDkQ5vXqhnIsWw",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Yemek.com · 🍋🥔 Bol Limonlu, Naneli: Lübnan Usulü Patates Salatası 💛",
+          "url": "https://www.youtube.com/watch?v=rTLizqDyy_E"
+        },
+        {
+          "label": "Yemek.com · kanal",
+          "url": "https://www.youtube.com/channel/UCWA2nh0yrIMC6uG0hfbucRQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-klarneti-taniyalim",
+      "category": "Sanat",
+      "title": "Klarneti tanıyalım",
+      "subtitle": "Sercan Büyükedes, klarneti anlatıyor. Aynı çalgıyı farklı müziklerde duyunca artık kulağın daha çabuk yakalayabilir.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Klarnet",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/mhf4X-SqIlY/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLAJ1AR89yIFtyQ1IXdus_2AAzEY7Q&usqp=CCk",
+        "alt": "Klarneti tanıyalım — video önizlemesi",
+        "credit": "Borusan Sanat",
+        "source": "https://www.youtube.com/watch?v=mhf4X-SqIlY",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Sercan Büyükedes, klarneti anlatıyor. Aynı çalgıyı farklı müziklerde duyunca artık kulağın daha çabuk yakalayabilir."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "mhf4X-SqIlY",
+        "title": "BİFO ile Enstrümanların Dünyası- Sercan Büyükedes (Klarnet)",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 55,
+        "orientation": "portrait",
+        "publisher": "Borusan Sanat",
+        "publisherId": "UCS7PoWtHZIs_e9T8NKlgydQ",
+        "poster": "https://i.ytimg.com/vi/mhf4X-SqIlY/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLAJ1AR89yIFtyQ1IXdus_2AAzEY7Q&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Borusan Sanat · BİFO ile Enstrümanların Dünyası- Sercan Büyükedes (Klarnet)",
+          "url": "https://www.youtube.com/watch?v=mhf4X-SqIlY"
+        },
+        {
+          "label": "Borusan Sanat · kanal",
+          "url": "https://www.youtube.com/channel/UCS7PoWtHZIs_e9T8NKlgydQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-teleios-kelimesinin-pesinde",
+      "category": "İnanç",
+      "title": "“Teleios” kelimesinin peşinde",
+      "subtitle": "BibleProject Türkçe, bir şeyin amacına ulaşması fikrini anlatan bu Yunanca kelimeyi açıklıyor.",
+      "account": "Metnin İzinde",
+      "handle": "metninizinde",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Teleios",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/jNfdpuR7Ogc/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA_95SkPbwZ1Kzm_HCfjusKe1RU_Q&usqp=CCk",
+        "alt": "“Teleios” kelimesinin peşinde — video önizlemesi",
+        "credit": "BibleProject - Türkçe",
+        "source": "https://www.youtube.com/watch?v=jNfdpuR7Ogc",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "BibleProject Türkçe, bir şeyin amacına ulaşması fikrini anlatan bu Yunanca kelimeyi açıklıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "jNfdpuR7Ogc",
+        "title": "'Teleios' bir şeyin yapılış amacına ulaşması",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "BibleProject - Türkçe",
+        "publisherId": "UCaeN45e3UUCQG3v9rGc3oyA",
+        "poster": "https://i.ytimg.com/vi/jNfdpuR7Ogc/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA_95SkPbwZ1Kzm_HCfjusKe1RU_Q&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "BibleProject - Türkçe · 'Teleios' bir şeyin yapılış amacına ulaşması",
+          "url": "https://www.youtube.com/watch?v=jNfdpuR7Ogc"
+        },
+        {
+          "label": "BibleProject - Türkçe · kanal",
+          "url": "https://www.youtube.com/channel/UCaeN45e3UUCQG3v9rGc3oyA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-mikroptan-protein-uretmek",
+      "category": "Teknoloji",
+      "title": "Mikroptan protein üretmek",
+      "subtitle": "+90, mikroorganizmalarla protein üretme fikrini anlatıyor. Geleceğin gıdalarını konuşurken üretimin nasıl yapıldığını da öğrenelim.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Mikrobiyal protein",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/ob9KM5qNi4Y/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD0PuNokK5FiYm-yHkz81V6W12jqA&usqp=CCk",
+        "alt": "Mikroptan protein üretmek — video önizlemesi",
+        "credit": "+90",
+        "source": "https://www.youtube.com/watch?v=ob9KM5qNi4Y",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "+90, mikroorganizmalarla protein üretme fikrini anlatıyor. Geleceğin gıdalarını konuşurken üretimin nasıl yapıldığını da öğrenelim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "ob9KM5qNi4Y",
+        "title": "Bu mikrobun proteinini yer miydin?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 45,
+        "orientation": "portrait",
+        "publisher": "+90",
+        "publisherId": "UCUnwimZlOXfAedrmRfguS1g",
+        "poster": "https://i.ytimg.com/vi/ob9KM5qNi4Y/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD0PuNokK5FiYm-yHkz81V6W12jqA&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "+90 · Bu mikrobun proteinini yer miydin?",
+          "url": "https://www.youtube.com/watch?v=ob9KM5qNi4Y"
+        },
+        {
+          "label": "+90 · kanal",
+          "url": "https://www.youtube.com/channel/UCUnwimZlOXfAedrmRfguS1g"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-cayin-yanina-tuzlu-bir-sey",
+      "category": "Gündelik",
+      "title": "Çayın yanına tuzlu bir şey",
+      "subtitle": "Refika'nın Mutfağı'nın tuzlu kurabiye tarifi. Hamurun hazırlanışından şekil vermeye kadar kısa bir mutfak molası.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Tuzlu kurabiye",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/qTqrz1LhppU/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLDcoWb9JPPyu9bS6CcHa7TtDQmY4A&usqp=CCk",
+        "alt": "Çayın yanına tuzlu bir şey — video önizlemesi",
+        "credit": "Refika'nın Mutfağı",
+        "source": "https://www.youtube.com/watch?v=qTqrz1LhppU",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Refika'nın Mutfağı'nın tuzlu kurabiye tarifi. Hamurun hazırlanışından şekil vermeye kadar kısa bir mutfak molası."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "qTqrz1LhppU",
+        "title": "Pratik ve Ağızda Dağılan Kıyır Kıyır Tuzlu Kurabiye Tarifi | Bayatlamayan Kurabiye Tarifi",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 50,
+        "orientation": "portrait",
+        "publisher": "Refika'nın Mutfağı",
+        "publisherId": "UCO3MaQR-Vh6cgBZRlD44jWg",
+        "poster": "https://i.ytimg.com/vi/qTqrz1LhppU/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLDcoWb9JPPyu9bS6CcHa7TtDQmY4A&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Refika'nın Mutfağı · Pratik ve Ağızda Dağılan Kıyır Kıyır Tuzlu Kurabiye Tarifi | Bayatlamayan Kurabiye Tarifi",
+          "url": "https://www.youtube.com/watch?v=qTqrz1LhppU"
+        },
+        {
+          "label": "Refika'nın Mutfağı · kanal",
+          "url": "https://www.youtube.com/channel/UCO3MaQR-Vh6cgBZRlD44jWg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-kuru-fasulye-mantiya-donusurse",
+      "category": "Gündelik",
+      "title": "Kuru fasulye mantıya dönüşürse",
+      "subtitle": "Yemek.com tanıdık bir bakliyatı farklı biçimde kullanıyor. Tariflere bazen malzemeyi değiştirerek yaklaşmak da eğlenceli.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Bakliyatla yemek yapmak",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/vqdkxtuHk1Q/oardefault.jpg?usqp=CCk",
+        "alt": "Kuru fasulye mantıya dönüşürse — video önizlemesi",
+        "credit": "Yemek.com",
+        "source": "https://www.youtube.com/watch?v=vqdkxtuHk1Q",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Yemek.com tanıdık bir bakliyatı farklı biçimde kullanıyor. Tariflere bazen malzemeyi değiştirerek yaklaşmak da eğlenceli."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "vqdkxtuHk1Q",
+        "title": "🫘🥟Kuru Fasulyeyi Mantıya Dönüştürdük!",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 35,
+        "orientation": "portrait",
+        "publisher": "Yemek.com",
+        "publisherId": "UCWA2nh0yrIMC6uG0hfbucRQ",
+        "poster": "https://i.ytimg.com/vi/vqdkxtuHk1Q/oardefault.jpg?usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Yemek.com · 🫘🥟Kuru Fasulyeyi Mantıya Dönüştürdük!",
+          "url": "https://www.youtube.com/watch?v=vqdkxtuHk1Q"
+        },
+        {
+          "label": "Yemek.com · kanal",
+          "url": "https://www.youtube.com/channel/UCWA2nh0yrIMC6uG0hfbucRQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-kemanin-dunyasina-giris",
+      "category": "Sanat",
+      "title": "Kemanın dünyasına giriş",
+      "subtitle": "Nilay Sancar'dan kemanla kısa bir tanışma. Yayın, tellerin ve müzisyenin birlikte oluşturduğu sese kulak ver.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Keman",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/oEIWM8nMn50/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLDHio335Ehek3u26ubJRN1Uj79QOg&usqp=CCk",
+        "alt": "Kemanın dünyasına giriş — video önizlemesi",
+        "credit": "Borusan Sanat",
+        "source": "https://www.youtube.com/watch?v=oEIWM8nMn50",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Nilay Sancar'dan kemanla kısa bir tanışma. Yayın, tellerin ve müzisyenin birlikte oluşturduğu sese kulak ver."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "oEIWM8nMn50",
+        "title": "BİFO ile Enstrümanların Dünyası - Nilay Sancar (Keman)",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "Borusan Sanat",
+        "publisherId": "UCS7PoWtHZIs_e9T8NKlgydQ",
+        "poster": "https://i.ytimg.com/vi/oEIWM8nMn50/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLDHio335Ehek3u26ubJRN1Uj79QOg&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Borusan Sanat · BİFO ile Enstrümanların Dünyası - Nilay Sancar (Keman)",
+          "url": "https://www.youtube.com/watch?v=oEIWM8nMn50"
+        },
+        {
+          "label": "Borusan Sanat · kanal",
+          "url": "https://www.youtube.com/channel/UCS7PoWtHZIs_e9T8NKlgydQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-dogruluk-derken-ne-kastediliyor",
+      "category": "İnanç",
+      "title": "“Doğruluk” derken ne kastediliyor?",
+      "subtitle": "BibleProject, doğruluk kavramının Kutsal Kitap'taki anlamına bakıyor. Bir çeviri kelimesinin arkasındaki düşünceyi tanıyalım.",
+      "account": "Metnin İzinde",
+      "handle": "metninizinde",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Doğruluk kavramı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/mXNt7G4_CHs/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBoguwB81x4i2IqQVDxapCUbHVlIQ&usqp=CCk",
+        "alt": "“Doğruluk” derken ne kastediliyor? — video önizlemesi",
+        "credit": "BibleProject - Türkçe",
+        "source": "https://www.youtube.com/watch?v=mXNt7G4_CHs",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "BibleProject, doğruluk kavramının Kutsal Kitap'taki anlamına bakıyor. Bir çeviri kelimesinin arkasındaki düşünceyi tanıyalım."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "mXNt7G4_CHs",
+        "title": "“Doğruluk” kelimesi nereden geliyor? #bibleproject",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 54,
+        "orientation": "portrait",
+        "publisher": "BibleProject - Türkçe",
+        "publisherId": "UCaeN45e3UUCQG3v9rGc3oyA",
+        "poster": "https://i.ytimg.com/vi/mXNt7G4_CHs/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBoguwB81x4i2IqQVDxapCUbHVlIQ&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "BibleProject - Türkçe · “Doğruluk” kelimesi nereden geliyor? #bibleproject",
+          "url": "https://www.youtube.com/watch?v=mXNt7G4_CHs"
+        },
+        {
+          "label": "BibleProject - Türkçe · kanal",
+          "url": "https://www.youtube.com/channel/UCaeN45e3UUCQG3v9rGc3oyA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-konak-ta-bir-ustanin-gunu",
+      "category": "Gündelik",
+      "title": "Konak'ta bir ustanın günü",
+      "subtitle": "İzmir'de ayakkabı boyacılığı yapan bir ustanın aile geleneği. +90'dan şehirde yanından geçip gittiğimiz bir emeğin hikâyesi.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Kent zanaatları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/trqVo_tvmNk/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA_epJxC18XEckQmxKY_8sjxhXJ0g&usqp=CCk",
+        "alt": "Konak'ta bir ustanın günü — video önizlemesi",
+        "credit": "+90",
+        "source": "https://www.youtube.com/watch?v=trqVo_tvmNk",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "İzmir'de ayakkabı boyacılığı yapan bir ustanın aile geleneği. +90'dan şehirde yanından geçip gittiğimiz bir emeğin hikâyesi."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "trqVo_tvmNk",
+        "title": "İzmir Konak'ta 100 yıllık aile geleneği: İzmirli bir ayakkabı boyacısının hikayesi",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 34,
+        "orientation": "portrait",
+        "publisher": "+90",
+        "publisherId": "UCUnwimZlOXfAedrmRfguS1g",
+        "poster": "https://i.ytimg.com/vi/trqVo_tvmNk/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA_epJxC18XEckQmxKY_8sjxhXJ0g&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "+90 · İzmir Konak'ta 100 yıllık aile geleneği: İzmirli bir ayakkabı boyacısının hikayesi",
+          "url": "https://www.youtube.com/watch?v=trqVo_tvmNk"
+        },
+        {
+          "label": "+90 · kanal",
+          "url": "https://www.youtube.com/channel/UCUnwimZlOXfAedrmRfguS1g"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-bu-keman-degil-viyola",
+      "category": "Sanat",
+      "title": "Bu keman değil, viyola",
+      "subtitle": "İlk bakışta benziyorlar. Efdal Altun'un anlatımıyla viyolayı kendi sesi ve kimliğiyle tanıyalım.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Viyola",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/sAcChrNG738/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLAv8vdgu4nL3gLtjIwb4U9o30ba-w&usqp=CCk",
+        "alt": "Bu keman değil, viyola — video önizlemesi",
+        "credit": "Borusan Sanat",
+        "source": "https://www.youtube.com/watch?v=sAcChrNG738",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "İlk bakışta benziyorlar. Efdal Altun'un anlatımıyla viyolayı kendi sesi ve kimliğiyle tanıyalım."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "sAcChrNG738",
+        "title": "BİFO ile Enstrümanların Dünyası- Efdal Altun (Viyola)",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 43,
+        "orientation": "portrait",
+        "publisher": "Borusan Sanat",
+        "publisherId": "UCS7PoWtHZIs_e9T8NKlgydQ",
+        "poster": "https://i.ytimg.com/vi/sAcChrNG738/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLAv8vdgu4nL3gLtjIwb4U9o30ba-w&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Borusan Sanat · BİFO ile Enstrümanların Dünyası- Efdal Altun (Viyola)",
+          "url": "https://www.youtube.com/watch?v=sAcChrNG738"
+        },
+        {
+          "label": "Borusan Sanat · kanal",
+          "url": "https://www.youtube.com/channel/UCS7PoWtHZIs_e9T8NKlgydQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-bir-metindeki-isaret-i-okumak",
+      "category": "İnanç",
+      "title": "Bir metindeki “işaret”i okumak",
+      "subtitle": "BibleProject Türkçe, “işaret” anlamına gelen İbranice kelimeyi anlatıyor. Kelimeyi geçtiği bağlamla birlikte düşünelim.",
+      "account": "Metnin İzinde",
+      "handle": "metninizinde",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "İşaret kavramı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/ymoNsX6Q_q0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC4Qa9h1jHu0M295xgEen7tVSPp4Q&usqp=CCk",
+        "alt": "Bir metindeki “işaret”i okumak — video önizlemesi",
+        "credit": "BibleProject - Türkçe",
+        "source": "https://www.youtube.com/watch?v=ymoNsX6Q_q0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "BibleProject Türkçe, “işaret” anlamına gelen İbranice kelimeyi anlatıyor. Kelimeyi geçtiği bağlamla birlikte düşünelim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "ymoNsX6Q_q0",
+        "title": "Bu İbranice kelime “işaret” anlamına gelir",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 58,
+        "orientation": "portrait",
+        "publisher": "BibleProject - Türkçe",
+        "publisherId": "UCaeN45e3UUCQG3v9rGc3oyA",
+        "poster": "https://i.ytimg.com/vi/ymoNsX6Q_q0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC4Qa9h1jHu0M295xgEen7tVSPp4Q&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "BibleProject - Türkçe · Bu İbranice kelime “işaret” anlamına gelir",
+          "url": "https://www.youtube.com/watch?v=ymoNsX6Q_q0"
+        },
+        {
+          "label": "BibleProject - Türkçe · kanal",
+          "url": "https://www.youtube.com/channel/UCaeN45e3UUCQG3v9rGc3oyA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    }
+  ]
+}

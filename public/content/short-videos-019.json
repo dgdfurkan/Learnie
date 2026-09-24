@@ -1,0 +1,1366 @@
+{
+  "version": 1,
+  "title": "Kısa keşifler 19: yeni sesler, yeni konular",
+  "posts": [
+    {
+      "id": "kisa-video-sesi-isiga-cevirmek-mi",
+      "category": "Bilim",
+      "title": "Sesi ışığa çevirmek mi?",
+      "subtitle": "Bir kabarcık sıkışırken küçücük bir ışık parlaması üretebilir. Bebar Bilim, sonolüminesans denen bu olayı anlatıyor.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Sonolüminesans",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 2.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/9GeINmwDS_A/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCVrBex_QqdccDD9-FQKTgyiJqTkw",
+        "alt": "Sesi ışığa çevirmek mi? — video önizlemesi",
+        "credit": "Bebar Bilim",
+        "source": "https://www.youtube.com/watch?v=9GeINmwDS_A",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bir kabarcık sıkışırken küçücük bir ışık parlaması üretebilir. Bebar Bilim, sonolüminesans denen bu olayı anlatıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "9GeINmwDS_A",
+        "title": "Ses Nasıl Işığa Dönüşür? | Sonolüminesans",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 136,
+        "orientation": "portrait",
+        "publisher": "Bebar Bilim",
+        "publisherId": "UCDTSUkdlbcgEU-IGH_mHgmw",
+        "poster": "https://i.ytimg.com/vi/9GeINmwDS_A/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCVrBex_QqdccDD9-FQKTgyiJqTkw",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Bebar Bilim · Ses Nasıl Işığa Dönüşür? | Sonolüminesans",
+          "url": "https://www.youtube.com/watch?v=9GeINmwDS_A"
+        },
+        {
+          "label": "Bebar Bilim · kanal",
+          "url": "https://www.youtube.com/channel/UCDTSUkdlbcgEU-IGH_mHgmw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-gunes-kremi-isiga-ne-yapiyor",
+      "category": "Bilim",
+      "title": "Güneş kremi ışığa ne yapıyor?",
+      "subtitle": "Cildin üzerindeki ince bir tabaka nasıl koruma sağlayabilir? Güneş kremlerinin çalışma mekanizması üzerine kısa bir anlatım.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Ultraviyole ışık",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 2.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/58yRWJqapo0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBXBOQe77LjOfXSSkL7M47EMe7z3A&usqp=CCk",
+        "alt": "Güneş kremi ışığa ne yapıyor? — video önizlemesi",
+        "credit": "Gelecek Bilimde",
+        "source": "https://www.youtube.com/watch?v=58yRWJqapo0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Cildin üzerindeki ince bir tabaka nasıl koruma sağlayabilir? Güneş kremlerinin çalışma mekanizması üzerine kısa bir anlatım."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "58yRWJqapo0",
+        "title": "Güneş Kremleri Bizi Nasıl Koruyor?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 174,
+        "orientation": "portrait",
+        "publisher": "Gelecek Bilimde",
+        "publisherId": "UC03cpKIZShIWoSBhfVE5bog",
+        "poster": "https://i.ytimg.com/vi/58yRWJqapo0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBXBOQe77LjOfXSSkL7M47EMe7z3A&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Gelecek Bilimde · Güneş Kremleri Bizi Nasıl Koruyor?",
+          "url": "https://www.youtube.com/watch?v=58yRWJqapo0"
+        },
+        {
+          "label": "Gelecek Bilimde · kanal",
+          "url": "https://www.youtube.com/channel/UC03cpKIZShIWoSBhfVE5bog"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-ay-a-donusun-adi-artemis",
+      "category": "Uzay",
+      "title": "Ay'a dönüşün adı: Artemis",
+      "subtitle": "Artemis, NASA'nın Ay araştırmaları programı. Bu kısa tanıtımda programın amacı anlatılıyor; takvim bilgileri videonun yayımlandığı döneme ait.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Artemis Programı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/8waM7iywNuU/hq720_2.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuALzGA==&rs=AOn4CLAb0sgnqjd3rbT40EsBxw4O6c3ufw",
+        "alt": "Ay'a dönüşün adı: Artemis — video önizlemesi",
+        "credit": "Kozmik Anafor Astronomi Platformu",
+        "source": "https://www.youtube.com/watch?v=8waM7iywNuU",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Artemis, NASA'nın Ay araştırmaları programı. Bu kısa tanıtımda programın amacı anlatılıyor; takvim bilgileri videonun yayımlandığı döneme ait."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "8waM7iywNuU",
+        "title": "Artemis Programı ile Ay'a Geri Dönüyoruz!",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 36,
+        "orientation": "portrait",
+        "publisher": "Kozmik Anafor Astronomi Platformu",
+        "publisherId": "UClQxnlzKo5Wbn7YpocmIkLg",
+        "poster": "https://i.ytimg.com/vi/8waM7iywNuU/hq720_2.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuALzGA==&rs=AOn4CLAb0sgnqjd3rbT40EsBxw4O6c3ufw",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Kozmik Anafor Astronomi Platformu · Artemis Programı ile Ay'a Geri Dönüyoruz!",
+          "url": "https://www.youtube.com/watch?v=8waM7iywNuU"
+        },
+        {
+          "label": "Kozmik Anafor Astronomi Platformu · kanal",
+          "url": "https://www.youtube.com/channel/UClQxnlzKo5Wbn7YpocmIkLg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-51-bolge-hik-yesi-nereden-cikti",
+      "category": "Uzay",
+      "title": "51. Bölge hikâyesi nereden çıktı?",
+      "subtitle": "Filmlerde adı geçip duruyor. Umut Yıldız, 51. Bölge etrafındaki uzaylı hikâyelerinin nasıl doğduğunu anlatıyor.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Uzay araştırmaları kültürü",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/5LtIExGaIdQ/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCthNAN7e89kDgPwmmVfMs05rBaUQ&usqp=CCk",
+        "alt": "51. Bölge hikâyesi nereden çıktı? — video önizlemesi",
+        "credit": "Dr Umut Yildiz (Tek Çare Uzay)",
+        "source": "https://www.youtube.com/watch?v=5LtIExGaIdQ",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Filmlerde adı geçip duruyor. Umut Yıldız, 51. Bölge etrafındaki uzaylı hikâyelerinin nasıl doğduğunu anlatıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "5LtIExGaIdQ",
+        "title": "51. Bölge hikayesi nasıl başladı. Uzaylılar hikayesi nasıl çıktı? #area51 #51bolge",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 103,
+        "orientation": "portrait",
+        "publisher": "Dr Umut Yildiz (Tek Çare Uzay)",
+        "publisherId": "UC5_6R9pPdyQ5-t-VQXS7E2A",
+        "poster": "https://i.ytimg.com/vi/5LtIExGaIdQ/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCthNAN7e89kDgPwmmVfMs05rBaUQ&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Dr Umut Yildiz (Tek Çare Uzay) · 51. Bölge hikayesi nasıl başladı. Uzaylılar hikayesi nasıl çıktı? #area51 #51bolge",
+          "url": "https://www.youtube.com/watch?v=5LtIExGaIdQ"
+        },
+        {
+          "label": "Dr Umut Yildiz (Tek Çare Uzay) · kanal",
+          "url": "https://www.youtube.com/channel/UC5_6R9pPdyQ5-t-VQXS7E2A"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-golun-suyu-azalinca",
+      "category": "Coğrafya",
+      "title": "Gölün suyu azalınca",
+      "subtitle": "Türkiye'deki göllerin hikâyesine kısa bir giriş. Bir gölü haritadaki mavi bir lekeden fazlası olarak düşünelim.",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Türkiye'nin gölleri",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Fn2AUDt8vKQ/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLAKeOREvg8aASir4IOuiSA9Tcl1eg&usqp=CCk",
+        "alt": "Gölün suyu azalınca — video önizlemesi",
+        "credit": "İdil Salihoğlu",
+        "source": "https://www.youtube.com/watch?v=Fn2AUDt8vKQ",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Türkiye'deki göllerin hikâyesine kısa bir giriş. Bir gölü haritadaki mavi bir lekeden fazlası olarak düşünelim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Fn2AUDt8vKQ",
+        "title": "Türkiye'de Göllerin Hikayesi #sukrizi #türkiye #bilim #su",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 58,
+        "orientation": "portrait",
+        "publisher": "İdil Salihoğlu",
+        "publisherId": "UCq-2mZvwOVAmGjqpXV-mnxA",
+        "poster": "https://i.ytimg.com/vi/Fn2AUDt8vKQ/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLAKeOREvg8aASir4IOuiSA9Tcl1eg&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "İdil Salihoğlu · Türkiye'de Göllerin Hikayesi #sukrizi #türkiye #bilim #su",
+          "url": "https://www.youtube.com/watch?v=Fn2AUDt8vKQ"
+        },
+        {
+          "label": "İdil Salihoğlu · kanal",
+          "url": "https://www.youtube.com/channel/UCq-2mZvwOVAmGjqpXV-mnxA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-gozler-evrimin-hizini-etkiledi-mi",
+      "category": "Bilim",
+      "title": "Gözler evrimin hızını etkiledi mi?",
+      "subtitle": "Trilobitler eski deniz canlılarıydı. Karmaşık gözlerin Kambriyen'deki çeşitlenmeye katkısı, bu videoda bir hipotez olarak tartışılıyor.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Trilobitler",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/73FmBlOapQ4/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCfXuY8wpmz3MC4Sw0liGwYf9AuBQ&usqp=CCk",
+        "alt": "Gözler evrimin hızını etkiledi mi? — video önizlemesi",
+        "credit": "Herkese Bilim Teknoloji",
+        "source": "https://www.youtube.com/watch?v=73FmBlOapQ4",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Trilobitler eski deniz canlılarıydı. Karmaşık gözlerin Kambriyen'deki çeşitlenmeye katkısı, bu videoda bir hipotez olarak tartışılıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "73FmBlOapQ4",
+        "title": "İlk karmaşık gözlere sahip olan trilobitlerin evrimleşmesi Kambriyen Patlaması'na yol açmış olabilir",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 45,
+        "orientation": "portrait",
+        "publisher": "Herkese Bilim Teknoloji",
+        "publisherId": "UCzdwqEcEurcfZ-gbwU6AwuA",
+        "poster": "https://i.ytimg.com/vi/73FmBlOapQ4/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCfXuY8wpmz3MC4Sw0liGwYf9AuBQ&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Herkese Bilim Teknoloji · İlk karmaşık gözlere sahip olan trilobitlerin evrimleşmesi Kambriyen Patlaması'na yol açmış olabilir",
+          "url": "https://www.youtube.com/watch?v=73FmBlOapQ4"
+        },
+        {
+          "label": "Herkese Bilim Teknoloji · kanal",
+          "url": "https://www.youtube.com/channel/UCzdwqEcEurcfZ-gbwU6AwuA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-yola-cikan-kahraman-ne-ariyor",
+      "category": "Edebiyat",
+      "title": "Yola çıkan kahraman ne arıyor?",
+      "subtitle": "Pelin Dilara Çolak, Doğu ve Batı edebiyatındaki yolculuk anlatılarını karşılaştırıyor. Aynı yolda bambaşka anlamlar bulunabiliyor.",
+      "account": "Sayfa Arası",
+      "handle": "sayfaarasi",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Yolculuk anlatıları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/5iODx48TVB0/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDZKcvPtQVvrGbADtzAXrPiz0XiLw&usqp=CCk",
+        "alt": "Yola çıkan kahraman ne arıyor? — video önizlemesi",
+        "credit": "Pelin Dilara Çolak",
+        "source": "https://www.youtube.com/watch?v=5iODx48TVB0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Pelin Dilara Çolak, Doğu ve Batı edebiyatındaki yolculuk anlatılarını karşılaştırıyor. Aynı yolda bambaşka anlamlar bulunabiliyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "5iODx48TVB0",
+        "title": "Doğu ve Batı'nın yolculuk anlatıları",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 89,
+        "orientation": "portrait",
+        "publisher": "Pelin Dilara Çolak",
+        "publisherId": "UCLUyXhgymG9MRSV56yPUQ2g",
+        "poster": "https://i.ytimg.com/vi/5iODx48TVB0/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDZKcvPtQVvrGbADtzAXrPiz0XiLw&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Pelin Dilara Çolak · Doğu ve Batı'nın yolculuk anlatıları",
+          "url": "https://www.youtube.com/watch?v=5iODx48TVB0"
+        },
+        {
+          "label": "Pelin Dilara Çolak · kanal",
+          "url": "https://www.youtube.com/channel/UCLUyXhgymG9MRSV56yPUQ2g"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-mevsimlerin-asil-nedeni",
+      "category": "Bilim",
+      "title": "Mevsimlerin asıl nedeni",
+      "subtitle": "Dünya'nın dönme ekseni eğik. Bu eğikliğin güneş ışınlarını ve mevsimleri nasıl değiştirdiğini adım adım görelim.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Mevsimler",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 2.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/IXKh4gAMoNk/oar2.jpg?sqp=-oaymwEYCL8EENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLAzuTnuLyXrCnFm_UytKAbO2cAk4g&usqp=CCk",
+        "alt": "Mevsimlerin asıl nedeni — video önizlemesi",
+        "credit": "KhanAcademyTurkce",
+        "source": "https://www.youtube.com/watch?v=IXKh4gAMoNk",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Dünya'nın dönme ekseni eğik. Bu eğikliğin güneş ışınlarını ve mevsimleri nasıl değiştirdiğini adım adım görelim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "IXKh4gAMoNk",
+        "title": "Dünyanın Eksen Eğikliği Mevsimleri Nasıl Değiştirir? ⚖️ #shorts #shortsvideo",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 139,
+        "orientation": "portrait",
+        "publisher": "KhanAcademyTurkce",
+        "publisherId": "UC8hgx5hCiyDmO3UeBl95_1Q",
+        "poster": "https://i.ytimg.com/vi/IXKh4gAMoNk/oar2.jpg?sqp=-oaymwEYCL8EENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLAzuTnuLyXrCnFm_UytKAbO2cAk4g&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "KhanAcademyTurkce · Dünyanın Eksen Eğikliği Mevsimleri Nasıl Değiştirir? ⚖️ #shorts #shortsvideo",
+          "url": "https://www.youtube.com/watch?v=IXKh4gAMoNk"
+        },
+        {
+          "label": "KhanAcademyTurkce · kanal",
+          "url": "https://www.youtube.com/channel/UC8hgx5hCiyDmO3UeBl95_1Q"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-semiha-berksoy-u-kizindan-dinlemek",
+      "category": "Sanat",
+      "title": "Semiha Berksoy'u kızından dinlemek",
+      "subtitle": "Zeliha Berksoy, annesinin yapıtlarını anlatıyor. Sanatçının dünyasına yakınından gelen kısa bir bakış.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Semiha Berksoy",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/K9vXuj4TfVg/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCK8v8Z5bWCnxXOx-ldQ-QRrw5cPg&usqp=CCk",
+        "alt": "Semiha Berksoy'u kızından dinlemek — video önizlemesi",
+        "credit": "İstanbul Modern Sanat Müzesi",
+        "source": "https://www.youtube.com/watch?v=K9vXuj4TfVg",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Zeliha Berksoy, annesinin yapıtlarını anlatıyor. Sanatçının dünyasına yakınından gelen kısa bir bakış."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "K9vXuj4TfVg",
+        "title": "Semiha Berksoy’un yapıtlarını kızı, tiyatro oyuncusu Zeliha Berksoy’dan dinliyoruz. ❤️",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 55,
+        "orientation": "portrait",
+        "publisher": "İstanbul Modern Sanat Müzesi",
+        "publisherId": "UCFjzHp2Qf6QmvY1Zqrix4cg",
+        "poster": "https://i.ytimg.com/vi/K9vXuj4TfVg/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCK8v8Z5bWCnxXOx-ldQ-QRrw5cPg&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "İstanbul Modern Sanat Müzesi · Semiha Berksoy’un yapıtlarını kızı, tiyatro oyuncusu Zeliha Berksoy’dan dinliyoruz. ❤️",
+          "url": "https://www.youtube.com/watch?v=K9vXuj4TfVg"
+        },
+        {
+          "label": "İstanbul Modern Sanat Müzesi · kanal",
+          "url": "https://www.youtube.com/channel/UCFjzHp2Qf6QmvY1Zqrix4cg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-ressam-kendine-bakinca",
+      "category": "Sanat",
+      "title": "Ressam kendine bakınca",
+      "subtitle": "Pera Müzesi, Halil Paşa'nın otoportresini inceliyor. Bir ressamın kendini nasıl gösterdiğine birlikte bakalım.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Otoportre",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/LAVWh7y8c54/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAZvgQL_nVAewT_Jy7_Q2ZbNh0W5g&usqp=CCk",
+        "alt": "Ressam kendine bakınca — video önizlemesi",
+        "credit": "Pera Müzesi",
+        "source": "https://www.youtube.com/watch?v=LAVWh7y8c54",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Pera Müzesi, Halil Paşa'nın otoportresini inceliyor. Bir ressamın kendini nasıl gösterdiğine birlikte bakalım."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "LAVWh7y8c54",
+        "title": "Derine Bakmak: Halil Paşa ve Otoportre",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 89,
+        "orientation": "portrait",
+        "publisher": "Pera Müzesi",
+        "publisherId": "UCDkodebtXSRs4QTpjIkk0DQ",
+        "poster": "https://i.ytimg.com/vi/LAVWh7y8c54/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAZvgQL_nVAewT_Jy7_Q2ZbNh0W5g&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Pera Müzesi · Derine Bakmak: Halil Paşa ve Otoportre",
+          "url": "https://www.youtube.com/watch?v=LAVWh7y8c54"
+        },
+        {
+          "label": "Pera Müzesi · kanal",
+          "url": "https://www.youtube.com/channel/UCDkodebtXSRs4QTpjIkk0DQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-rustem-pasa-camii-bir-ressamin-gozunden",
+      "category": "Sanat",
+      "title": "Rüstem Paşa Camii, bir ressamın gözünden",
+      "subtitle": "Şevket Dağ'ın cami içini resmettiği yapıtına kısa bir bakış. İş Sanat'ın yakın planlarında mekânın ayrıntılarını ara.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Şevket Dağ",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Gu75U51SVCQ/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDMHCNd36Gujq5jp88SJ_4DXn7vCA&usqp=CCk",
+        "alt": "Rüstem Paşa Camii, bir ressamın gözünden — video önizlemesi",
+        "credit": "İş Sanat",
+        "source": "https://www.youtube.com/watch?v=Gu75U51SVCQ",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Şevket Dağ'ın cami içini resmettiği yapıtına kısa bir bakış. İş Sanat'ın yakın planlarında mekânın ayrıntılarını ara."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Gu75U51SVCQ",
+        "title": "Şevket Dağ'ın \"Rüstem Paşa Camii\" eserine gelin yakından bakalım. ✨",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 19,
+        "orientation": "portrait",
+        "publisher": "İş Sanat",
+        "publisherId": "UCBVs-53x7CRhmHpdfEqABwg",
+        "poster": "https://i.ytimg.com/vi/Gu75U51SVCQ/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDMHCNd36Gujq5jp88SJ_4DXn7vCA&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "İş Sanat · Şevket Dağ'ın \"Rüstem Paşa Camii\" eserine gelin yakından bakalım. ✨",
+          "url": "https://www.youtube.com/watch?v=Gu75U51SVCQ"
+        },
+        {
+          "label": "İş Sanat · kanal",
+          "url": "https://www.youtube.com/channel/UCBVs-53x7CRhmHpdfEqABwg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-bir-serginin-fikri-nasil-anlatilir",
+      "category": "Sanat",
+      "title": "Bir serginin fikri nasıl anlatılır?",
+      "subtitle": "Arter'deki Hah! sergisinin küratörü Delfin Öğütoğulları anlatıyor. Eserleri yan yana getirmenin de bir düşüncesi var.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Sergi küratörlüğü",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/XSqeqy-PXVo/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCfpsszhAg09uv8HIhZKvEBzxS5MA&usqp=CCk",
+        "alt": "Bir serginin fikri nasıl anlatılır? — video önizlemesi",
+        "credit": "Arter",
+        "source": "https://www.youtube.com/watch?v=XSqeqy-PXVo",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Arter'deki Hah! sergisinin küratörü Delfin Öğütoğulları anlatıyor. Eserleri yan yana getirmenin de bir düşüncesi var."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "XSqeqy-PXVo",
+        "title": "“Hah!” sergisinin küratörü Delfin Öğütoğulları, sergi hakkında merak edilenleri cevaplıyor!",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 108,
+        "orientation": "portrait",
+        "publisher": "Arter",
+        "publisherId": "UC-S9sNnFvVDKMI4rlSIkO4A",
+        "poster": "https://i.ytimg.com/vi/XSqeqy-PXVo/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCfpsszhAg09uv8HIhZKvEBzxS5MA&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Arter · “Hah!” sergisinin küratörü Delfin Öğütoğulları, sergi hakkında merak edilenleri cevaplıyor!",
+          "url": "https://www.youtube.com/watch?v=XSqeqy-PXVo"
+        },
+        {
+          "label": "Arter · kanal",
+          "url": "https://www.youtube.com/channel/UC-S9sNnFvVDKMI4rlSIkO4A"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-trombonun-uzayan-borusu",
+      "category": "Sanat",
+      "title": "Trombonun uzayan borusu",
+      "subtitle": "Orkestradaki sürgülü bakır üflemeliyle tanışalım. BİFO sanatçısı Aslı Erşen trombonu anlatıyor.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Trombon",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/0mz4eYiQX-Y/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCH1mFMfZx8T9Q_jz3r_08GJ3geRw&usqp=CCk",
+        "alt": "Trombonun uzayan borusu — video önizlemesi",
+        "credit": "Borusan Sanat",
+        "source": "https://www.youtube.com/watch?v=0mz4eYiQX-Y",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Orkestradaki sürgülü bakır üflemeliyle tanışalım. BİFO sanatçısı Aslı Erşen trombonu anlatıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "0mz4eYiQX-Y",
+        "title": "BİFO ile Enstrümanların Dünyası- Aslı Erşen (trombon)",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 56,
+        "orientation": "portrait",
+        "publisher": "Borusan Sanat",
+        "publisherId": "UCS7PoWtHZIs_e9T8NKlgydQ",
+        "poster": "https://i.ytimg.com/vi/0mz4eYiQX-Y/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCH1mFMfZx8T9Q_jz3r_08GJ3geRw&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Borusan Sanat · BİFO ile Enstrümanların Dünyası- Aslı Erşen (trombon)",
+          "url": "https://www.youtube.com/watch?v=0mz4eYiQX-Y"
+        },
+        {
+          "label": "Borusan Sanat · kanal",
+          "url": "https://www.youtube.com/channel/UCS7PoWtHZIs_e9T8NKlgydQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-cocuklar-oyuncuya-soru-sorarsa",
+      "category": "Sanat",
+      "title": "Çocuklar oyuncuya soru sorarsa",
+      "subtitle": "İKSV'nin Sanata İlk Adım serisinde Salih Bademci'ye sorular geliyor. Sanata biraz da çocukların merakıyla bakalım.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Oyunculuk",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/rmejnMps8P0/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLApee2wC5-6hl4WolbY-xavBwLxHw&usqp=CCk",
+        "alt": "Çocuklar oyuncuya soru sorarsa — video önizlemesi",
+        "credit": "İstanbul Kültür Sanat Vakfı",
+        "source": "https://www.youtube.com/watch?v=rmejnMps8P0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "İKSV'nin Sanata İlk Adım serisinde Salih Bademci'ye sorular geliyor. Sanata biraz da çocukların merakıyla bakalım."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "rmejnMps8P0",
+        "title": "Sanata İlk Adım'da Salih Bademci'ye Minik Soru Yağmuru 🎭",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 39,
+        "orientation": "portrait",
+        "publisher": "İstanbul Kültür Sanat Vakfı",
+        "publisherId": "UCifL1IuTFbjEoCFRTs-Zeyw",
+        "poster": "https://i.ytimg.com/vi/rmejnMps8P0/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLApee2wC5-6hl4WolbY-xavBwLxHw&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "İstanbul Kültür Sanat Vakfı · Sanata İlk Adım'da Salih Bademci'ye Minik Soru Yağmuru 🎭",
+          "url": "https://www.youtube.com/watch?v=rmejnMps8P0"
+        },
+        {
+          "label": "İstanbul Kültür Sanat Vakfı · kanal",
+          "url": "https://www.youtube.com/channel/UCifL1IuTFbjEoCFRTs-Zeyw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-iii-selim-doneminde-yildizlara-bakmak",
+      "category": "Tarih",
+      "title": "III. Selim döneminde yıldızlara bakmak",
+      "subtitle": "Tarih Obası, Osmanlı'da astrolojinin yerini anlatıyor. Burada tarihsel bir inanışı inceliyoruz; bilimsel bir yöntem olarak sunulmuyor.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Osmanlı'da astroloji",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/-ERDMzVT8WU/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCQz-N_Nj1sV4-O5kYcWdmyNn1Fag&usqp=CCk",
+        "alt": "III. Selim döneminde yıldızlara bakmak — video önizlemesi",
+        "credit": "Tarih Obası",
+        "source": "https://www.youtube.com/watch?v=-ERDMzVT8WU",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Tarih Obası, Osmanlı'da astrolojinin yerini anlatıyor. Burada tarihsel bir inanışı inceliyoruz; bilimsel bir yöntem olarak sunulmuyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "-ERDMzVT8WU",
+        "title": "Osmanlı’da Astroloji ve III. Selim #tarih",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 80,
+        "orientation": "portrait",
+        "publisher": "Tarih Obası",
+        "publisherId": "UCIvykQC_8j2-u2D6A_c1K9w",
+        "poster": "https://i.ytimg.com/vi/-ERDMzVT8WU/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCQz-N_Nj1sV4-O5kYcWdmyNn1Fag&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Tarih Obası · Osmanlı’da Astroloji ve III. Selim #tarih",
+          "url": "https://www.youtube.com/watch?v=-ERDMzVT8WU"
+        },
+        {
+          "label": "Tarih Obası · kanal",
+          "url": "https://www.youtube.com/channel/UCIvykQC_8j2-u2D6A_c1K9w"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-turkler-nasil-musluman-oldu",
+      "category": "Tarih",
+      "title": "Türkler nasıl Müslüman oldu?",
+      "subtitle": "Tek bir günde ve tek bir yolla yaşanmış bir değişim değil. DFT Tarih'in bu uzun sürece ilişkin kısa anlatımı.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Türklerin İslamlaşması",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 2.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/5dks-jKlYj0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCI1l8Q59WvGZxmZHFDy47a2CBgmA&usqp=CCk",
+        "alt": "Türkler nasıl Müslüman oldu? — video önizlemesi",
+        "credit": "DFT Tarih",
+        "source": "https://www.youtube.com/watch?v=5dks-jKlYj0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Tek bir günde ve tek bir yolla yaşanmış bir değişim değil. DFT Tarih'in bu uzun sürece ilişkin kısa anlatımı."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "5dks-jKlYj0",
+        "title": "Türkler İslam'ı Kimden Öğrendi? Türkler Nasıl Müslüman Oldu?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 153,
+        "orientation": "portrait",
+        "publisher": "DFT Tarih",
+        "publisherId": "UC6AdnJAlvHwlWKGC40-nVUg",
+        "poster": "https://i.ytimg.com/vi/5dks-jKlYj0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCI1l8Q59WvGZxmZHFDy47a2CBgmA&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "DFT Tarih · Türkler İslam'ı Kimden Öğrendi? Türkler Nasıl Müslüman Oldu?",
+          "url": "https://www.youtube.com/watch?v=5dks-jKlYj0"
+        },
+        {
+          "label": "DFT Tarih · kanal",
+          "url": "https://www.youtube.com/channel/UC6AdnJAlvHwlWKGC40-nVUg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-her-yol-gercekten-roma-ya-mi-cikar",
+      "category": "Tarih",
+      "title": "Her yol gerçekten Roma'ya mı çıkar?",
+      "subtitle": "Roma'nın yol ağı yalnızca bir sözün kaynağı değil. Göksel Göksoy, bu yolların imparatorluk için anlamını anlatıyor.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Roma yolları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 2.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/aO55TLhBmWk/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDRiPoBL9-7sj4gstIOFwHkaPLwhw&usqp=CCk",
+        "alt": "Her yol gerçekten Roma'ya mı çıkar? — video önizlemesi",
+        "credit": "Teke Tek Bilim",
+        "source": "https://www.youtube.com/watch?v=aO55TLhBmWk",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Roma'nın yol ağı yalnızca bir sözün kaynağı değil. Göksel Göksoy, bu yolların imparatorluk için anlamını anlatıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "aO55TLhBmWk",
+        "title": "Her yol Roma'ya çıkar mı? / Göksel Göksoy & Fatih Altaylı - Teke Tek Bilim",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 141,
+        "orientation": "portrait",
+        "publisher": "Teke Tek Bilim",
+        "publisherId": "UCvCVGYB-HXxhfNB0dtF0_tw",
+        "poster": "https://i.ytimg.com/vi/aO55TLhBmWk/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDRiPoBL9-7sj4gstIOFwHkaPLwhw&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Teke Tek Bilim · Her yol Roma'ya çıkar mı? / Göksel Göksoy & Fatih Altaylı - Teke Tek Bilim",
+          "url": "https://www.youtube.com/watch?v=aO55TLhBmWk"
+        },
+        {
+          "label": "Teke Tek Bilim · kanal",
+          "url": "https://www.youtube.com/channel/UCvCVGYB-HXxhfNB0dtF0_tw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-bir-mezarligin-tasidigi-hafiza",
+      "category": "Tarih",
+      "title": "Bir mezarlığın taşıdığı hafıza",
+      "subtitle": "Kırgızistan'daki Ata-Beyit'in hikâyesi anlatılıyor. Cengiz Aytmatov'un da yattığı bu yer, ülkenin geçmişiyle nasıl bağ kuruyor?",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Ata-Beyit",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 2.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/9cJezXdQd-I/oar2.jpg?sqp=-oaymwEYCMAEENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLBtXjP01nJV8pBvFhR5_hm-GpunxA&usqp=CCk",
+        "alt": "Bir mezarlığın taşıdığı hafıza — video önizlemesi",
+        "credit": "Gündem Ötesi",
+        "source": "https://www.youtube.com/watch?v=9cJezXdQd-I",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Kırgızistan'daki Ata-Beyit'in hikâyesi anlatılıyor. Cengiz Aytmatov'un da yattığı bu yer, ülkenin geçmişiyle nasıl bağ kuruyor?"
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "9cJezXdQd-I",
+        "title": "Cengiz Aytmatov’un da yattığı Kırgızların acı hatıralarını saklayan Ata-Beyit Mezarlığı’nın hikâyesi",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 143,
+        "orientation": "portrait",
+        "publisher": "Gündem Ötesi",
+        "publisherId": "UCXTuTRn0L4c0pxPAcaL1Pfw",
+        "poster": "https://i.ytimg.com/vi/9cJezXdQd-I/oar2.jpg?sqp=-oaymwEYCMAEENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLBtXjP01nJV8pBvFhR5_hm-GpunxA&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Gündem Ötesi · Cengiz Aytmatov’un da yattığı Kırgızların acı hatıralarını saklayan Ata-Beyit Mezarlığı’nın hikâyesi",
+          "url": "https://www.youtube.com/watch?v=9cJezXdQd-I"
+        },
+        {
+          "label": "Gündem Ötesi · kanal",
+          "url": "https://www.youtube.com/channel/UCXTuTRn0L4c0pxPAcaL1Pfw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-agri-yi-haritada-tanimak",
+      "category": "Coğrafya",
+      "title": "Ağrı'yı haritada tanımak",
+      "subtitle": "Bir ilin adını bilmek başka, coğrafyasını tanımak başka. Coğrafyanın Kodları'ndan Ağrı'ya kısa bir giriş.",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Ağrı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/-ndu9xv88K4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBkiimITQbbpokh6fOjjC3xm-_TJg",
+        "alt": "Ağrı'yı haritada tanımak — video önizlemesi",
+        "credit": "Coğrafyanın Kodları",
+        "source": "https://www.youtube.com/watch?v=-ndu9xv88K4",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bir ilin adını bilmek başka, coğrafyasını tanımak başka. Coğrafyanın Kodları'ndan Ağrı'ya kısa bir giriş."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "-ndu9xv88K4",
+        "title": "Ağrı 04 #coğrafya",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 40,
+        "orientation": "portrait",
+        "publisher": "Coğrafyanın Kodları",
+        "publisherId": "UCIvX31CHx2RsFQM46qbjuJA",
+        "poster": "https://i.ytimg.com/vi/-ndu9xv88K4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBkiimITQbbpokh6fOjjC3xm-_TJg",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Coğrafyanın Kodları · Ağrı 04 #coğrafya",
+          "url": "https://www.youtube.com/watch?v=-ndu9xv88K4"
+        },
+        {
+          "label": "Coğrafyanın Kodları · kanal",
+          "url": "https://www.youtube.com/channel/UCIvX31CHx2RsFQM46qbjuJA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-bir-harita-sorusunu-birlikte-cozelim",
+      "category": "Coğrafya",
+      "title": "Bir harita sorusunu birlikte çözelim",
+      "subtitle": "Yavuz Tuna'nın 32. harita sorusu. Cevabı duymadan durdurup haritadaki ipuçlarını kendin bulmayı dene.",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Harita okuma",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/giRSBfzx3Gc/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCdPCHtP7xVDkxB1aovELTHfFejGA&usqp=CCk",
+        "alt": "Bir harita sorusunu birlikte çözelim — video önizlemesi",
+        "credit": "YAVUZ TUNA COĞRAFYA",
+        "source": "https://www.youtube.com/watch?v=giRSBfzx3Gc",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Yavuz Tuna'nın 32. harita sorusu. Cevabı duymadan durdurup haritadaki ipuçlarını kendin bulmayı dene."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "giRSBfzx3Gc",
+        "title": "HARİTA SORULARI (SORU 32) #shorts #shortvideo #yks #tyt #tytcoğrafya #harita",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 61,
+        "orientation": "portrait",
+        "publisher": "YAVUZ TUNA COĞRAFYA",
+        "publisherId": "UCai5DYClxEjy-VH-eqz4MIA",
+        "poster": "https://i.ytimg.com/vi/giRSBfzx3Gc/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCdPCHtP7xVDkxB1aovELTHfFejGA&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "YAVUZ TUNA COĞRAFYA · HARİTA SORULARI (SORU 32) #shorts #shortvideo #yks #tyt #tytcoğrafya #harita",
+          "url": "https://www.youtube.com/watch?v=giRSBfzx3Gc"
+        },
+        {
+          "label": "YAVUZ TUNA COĞRAFYA · kanal",
+          "url": "https://www.youtube.com/channel/UCai5DYClxEjy-VH-eqz4MIA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    }
+  ]
+}

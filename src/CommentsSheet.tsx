@@ -1,11 +1,13 @@
 import {useEffect,useRef,useState} from 'react';
 import {Heart,Send,X,MessageCircle} from 'lucide-react';
+import {useBackGesture} from './useBackGesture';
 import {IconButton} from './components';
 import {seedNumber} from './engine.mjs';
 import type {Post,UserState} from './types';
 
 export default function CommentsSheet({post,user,onAdd,onClose}:{post:Post;user:UserState;onAdd:(text:string)=>void;onClose:()=>void}) {
  const dialog=useRef<HTMLDialogElement>(null),list=useRef<HTMLDivElement>(null),input=useRef<HTMLTextAreaElement>(null);
+ useBackGesture(dialog,onClose);
  const [text,setText]=useState(''),[reply,setReply]=useState(''),[liked,setLiked]=useState<number[]>([]);
  const local=user.comments[post.id]||[];const example=user.simulation?post.comments:[];
  useEffect(()=>{

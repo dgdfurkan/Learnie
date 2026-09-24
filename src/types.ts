@@ -10,7 +10,7 @@ export interface Post {
  slides:Slide[]; sources:Source[]; updatedAt:string;
  quiz?:{question:string;options:string[];answer:number;explanation:string};
  experiment?:'pressure'|'light';
- video?:{kind:'youtube'|'file';url:string;title:string;language:string;duration?:number;orientation?:'portrait'|'landscape';publisher?:string;poster?:string;audioLanguage?:string;captionLanguage?:string;captionKind?:'published'|'automatic';verifiedAt?:string};
+ video?:{kind:'youtube'|'file';url:string;title:string;language:string;duration?:number;orientation?:'portrait'|'landscape';publisher?:string;publisherId?:string;poster?:string;audioLanguage?:string;captionLanguage?:string;captionKind?:'published'|'automatic';verifiedAt?:string};
  comments:{name:string;text:string}[];
 }
 export interface Collection {id:string;name:string;postIds:string[];createdAt:string}

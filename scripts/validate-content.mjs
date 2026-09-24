@@ -26,6 +26,7 @@ export function validatePost(p,ids=new Set()){
  if(p.display&&!['single','carousel','video'].includes(p.display))fail('Gösterim biçimi geçersiz.');
  if(p.art&&(!['photo','type','diagram','collage'].includes(p.art.kind)||!/^#[a-f\d]{6}$/i.test(p.art.paper)||!/^#[a-f\d]{6}$/i.test(p.art.ink)))fail('Gönderi renkleri geçersiz.');
  if(p.video?.duration!==undefined&&(!Number.isFinite(p.video.duration)||p.video.duration<=0||p.video.duration>300))fail('Video 1–300 saniye olmalı.');
+ if(p.video?.publisherId&&!/^UC[\w-]{22}$/.test(p.video.publisherId))fail('YouTube kanal kimliği geçersiz.');
  if(p.video?.poster&&!https(p.video.poster))fail('Video önizlemesi HTTPS olmalı.');
  if(p.video?.orientation&&!['portrait','landscape'].includes(p.video.orientation))fail('Video yönü geçersiz.');
  if(p.video?.verifiedAt){

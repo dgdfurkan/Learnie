@@ -1,0 +1,1366 @@
+{
+  "version": 1,
+  "title": "Kısa keşifler 21: yeni sesler, yeni konular",
+  "posts": [
+    {
+      "id": "kisa-video-acik-bankacilik-ne-demek",
+      "category": "Finans",
+      "title": "Açık bankacılık ne demek?",
+      "subtitle": "İş Bankası'nın anlatımıyla açık bankacılık kavramı. Bir bankanın hazırladığı bilgilendirme videosu; ürün önerisi değil.",
+      "account": "Hesap Ortada",
+      "handle": "hesaportada",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png",
+      "avatarCredit": {
+        "label": "Pearson Scott Foresman",
+        "url": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png"
+      },
+      "topic": "Açık bankacılık",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/ZWI5CMpfwQo/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBxxQ8YUdUpyIJ4YQemqOS8k4DhGg&usqp=CCk",
+        "alt": "Açık bankacılık ne demek? — video önizlemesi",
+        "credit": "Türkiye İş Bankası",
+        "source": "https://www.youtube.com/watch?v=ZWI5CMpfwQo",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "İş Bankası'nın anlatımıyla açık bankacılık kavramı. Bir bankanın hazırladığı bilgilendirme videosu; ürün önerisi değil."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "ZWI5CMpfwQo",
+        "title": "İş Bankası Murat’la Sunar: Açık Bankacılık",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 37,
+        "orientation": "portrait",
+        "publisher": "Türkiye İş Bankası",
+        "publisherId": "UC8taW8Ljy9xA_tiWy-1OPww",
+        "poster": "https://i.ytimg.com/vi/ZWI5CMpfwQo/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBxxQ8YUdUpyIJ4YQemqOS8k4DhGg&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Türkiye İş Bankası · İş Bankası Murat’la Sunar: Açık Bankacılık",
+          "url": "https://www.youtube.com/watch?v=ZWI5CMpfwQo"
+        },
+        {
+          "label": "Türkiye İş Bankası · kanal",
+          "url": "https://www.youtube.com/channel/UC8taW8Ljy9xA_tiWy-1OPww"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-findigin-arkasindaki-yolculuk",
+      "category": "Gündelik",
+      "title": "Fındığın arkasındaki yolculuk",
+      "subtitle": "Güneydoğu'dan Karadeniz'e uzanan mevsimlik işçilik. +90, hasadın görünmeyen insan emeğine bakıyor.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Mevsimlik işçilik",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/0YHuNAR3wIY/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDQT9GQ3JDCkoT9qh_UTlzamXWYGg&usqp=CCk",
+        "alt": "Fındığın arkasındaki yolculuk — video önizlemesi",
+        "credit": "+90",
+        "source": "https://www.youtube.com/watch?v=0YHuNAR3wIY",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Güneydoğu'dan Karadeniz'e uzanan mevsimlik işçilik. +90, hasadın görünmeyen insan emeğine bakıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "0YHuNAR3wIY",
+        "title": "Güneydoğu'dan Karadeniz'e: Fındık hasadında mevsimlik işçilerin önemi ne?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 31,
+        "orientation": "portrait",
+        "publisher": "+90",
+        "publisherId": "UCUnwimZlOXfAedrmRfguS1g",
+        "poster": "https://i.ytimg.com/vi/0YHuNAR3wIY/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDQT9GQ3JDCkoT9qh_UTlzamXWYGg&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "+90 · Güneydoğu'dan Karadeniz'e: Fındık hasadında mevsimlik işçilerin önemi ne?",
+          "url": "https://www.youtube.com/watch?v=0YHuNAR3wIY"
+        },
+        {
+          "label": "+90 · kanal",
+          "url": "https://www.youtube.com/channel/UCUnwimZlOXfAedrmRfguS1g"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-makarnaya-biraz-limon",
+      "category": "Gündelik",
+      "title": "Makarnaya biraz limon",
+      "subtitle": "Refika'nın Mutfağı'ndan limonlu makarna. Sosun hazırlanışını ve makarnayla ne zaman buluştuğunu takip et.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Makarna sosları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.2,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/6kRsJZOrJuE/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLA6WqeiLvnouvFAV4tRljZ8kdbqRA&usqp=CCk",
+        "alt": "Makarnaya biraz limon — video önizlemesi",
+        "credit": "Refika'nın Mutfağı",
+        "source": "https://www.youtube.com/watch?v=6kRsJZOrJuE",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Refika'nın Mutfağı'ndan limonlu makarna. Sosun hazırlanışını ve makarnayla ne zaman buluştuğunu takip et."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "6kRsJZOrJuE",
+        "title": "Limonlu Makarna Tarifi | Kremalı Limonlu Spagetti Nasıl Yapılır?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 72,
+        "orientation": "portrait",
+        "publisher": "Refika'nın Mutfağı",
+        "publisherId": "UCO3MaQR-Vh6cgBZRlD44jWg",
+        "poster": "https://i.ytimg.com/vi/6kRsJZOrJuE/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLA6WqeiLvnouvFAV4tRljZ8kdbqRA&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Refika'nın Mutfağı · Limonlu Makarna Tarifi | Kremalı Limonlu Spagetti Nasıl Yapılır?",
+          "url": "https://www.youtube.com/watch?v=6kRsJZOrJuE"
+        },
+        {
+          "label": "Refika'nın Mutfağı · kanal",
+          "url": "https://www.youtube.com/channel/UCO3MaQR-Vh6cgBZRlD44jWg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-budapeste-de-bir-lezzet-molasi",
+      "category": "Gündelik",
+      "title": "Budapeşte'de bir lezzet molası",
+      "subtitle": "Arda Türkmen'in Budapeşte gezisinden kısa bir kesit. Bir şehri mutfağı üzerinden tanımaya küçük bir başlangıç.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Budapeşte yemek kültürü",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/EqxcJ662FFA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCEyYc8umHf7BmskbzoAlypC0v4LA&usqp=CCk",
+        "alt": "Budapeşte'de bir lezzet molası — video önizlemesi",
+        "credit": "Arda'nın Mutfağı",
+        "source": "https://www.youtube.com/watch?v=EqxcJ662FFA",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Arda Türkmen'in Budapeşte gezisinden kısa bir kesit. Bir şehri mutfağı üzerinden tanımaya küçük bir başlangıç."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "EqxcJ662FFA",
+        "title": "İstikamet Budapeşte ✈️ Arda ile Aşırı Lezzetli",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 58,
+        "orientation": "portrait",
+        "publisher": "Arda'nın Mutfağı",
+        "publisherId": "UCJ5KzVnmaIIVyLQUCRii2uw",
+        "poster": "https://i.ytimg.com/vi/EqxcJ662FFA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCEyYc8umHf7BmskbzoAlypC0v4LA&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Arda'nın Mutfağı · İstikamet Budapeşte ✈️ Arda ile Aşırı Lezzetli",
+          "url": "https://www.youtube.com/watch?v=EqxcJ662FFA"
+        },
+        {
+          "label": "Arda'nın Mutfağı · kanal",
+          "url": "https://www.youtube.com/channel/UCJ5KzVnmaIIVyLQUCRii2uw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-mercimekten-ekmek-olur-mu",
+      "category": "Gündelik",
+      "title": "Mercimekten ekmek olur mu?",
+      "subtitle": "Yemek.com mercimekle bir ekmek hazırlıyor. Bakliyatı çorbanın dışında kullanmanın bir yolunu izleyelim.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Mercimekli tarifler",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/2J6hKF4TvDE/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAI5FKIIICdCjeqCY3Rc4jNelViww",
+        "alt": "Mercimekten ekmek olur mu? — video önizlemesi",
+        "credit": "Yemek.com",
+        "source": "https://www.youtube.com/watch?v=2J6hKF4TvDE",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Yemek.com mercimekle bir ekmek hazırlıyor. Bakliyatı çorbanın dışında kullanmanın bir yolunu izleyelim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "2J6hKF4TvDE",
+        "title": "Mercimekten Ekmek Olur Mu? Hem De Çıtır Çıtır 😱🥖 #yemekcom",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 46,
+        "orientation": "portrait",
+        "publisher": "Yemek.com",
+        "publisherId": "UCWA2nh0yrIMC6uG0hfbucRQ",
+        "poster": "https://i.ytimg.com/vi/2J6hKF4TvDE/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAI5FKIIICdCjeqCY3Rc4jNelViww",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Yemek.com · Mercimekten Ekmek Olur Mu? Hem De Çıtır Çıtır 😱🥖 #yemekcom",
+          "url": "https://www.youtube.com/watch?v=2J6hKF4TvDE"
+        },
+        {
+          "label": "Yemek.com · kanal",
+          "url": "https://www.youtube.com/channel/UCWA2nh0yrIMC6uG0hfbucRQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-sans-dedigimiz-sey-ne",
+      "category": "Felsefe",
+      "title": "Şans dediğimiz şey ne?",
+      "subtitle": "Discovery Channel'dan şans kavramına kısa bir bakış. Rastlantıyla kendi yorumlarımızı nerede birbirine karıştırıyoruz?",
+      "account": "Bir Soru Daha",
+      "handle": "birsorudaha",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      },
+      "topic": "Şans kavramı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/8tEMF3x5yI8/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAiSktqrjEtnK9eEbvxpHc5RK4c9A&usqp=CCk",
+        "alt": "Şans dediğimiz şey ne? — video önizlemesi",
+        "credit": "Discovery Channel Türkiye",
+        "source": "https://www.youtube.com/watch?v=8tEMF3x5yI8",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Discovery Channel'dan şans kavramına kısa bir bakış. Rastlantıyla kendi yorumlarımızı nerede birbirine karıştırıyoruz?"
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "8tEMF3x5yI8",
+        "title": "Şans nedir? #shorts #discoverychannel",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 40,
+        "orientation": "portrait",
+        "publisher": "Discovery Channel Türkiye",
+        "publisherId": "UCR3qlVw_zey6jHuWy81cucQ",
+        "poster": "https://i.ytimg.com/vi/8tEMF3x5yI8/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAiSktqrjEtnK9eEbvxpHc5RK4c9A&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Discovery Channel Türkiye · Şans nedir? #shorts #discoverychannel",
+          "url": "https://www.youtube.com/watch?v=8tEMF3x5yI8"
+        },
+        {
+          "label": "Discovery Channel Türkiye · kanal",
+          "url": "https://www.youtube.com/channel/UCR3qlVw_zey6jHuWy81cucQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-sipsevdi-ye-bir-sofra-sohbeti",
+      "category": "Edebiyat",
+      "title": "Şıpsevdi'ye bir sofra sohbeti",
+      "subtitle": "TRT Dinle'nin Edebi Sofralar bölümünden, Hüseyin Rahmi Gürpınar'ın Şıpsevdi romanı üzerine kısa bir sohbet.",
+      "account": "Sayfa Arası",
+      "handle": "sayfaarasi",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Hüseyin Rahmi Gürpınar",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/TAPjNK5AySI/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAIPH7PoCS6mqlDeYTZN3uvN00b1Q&usqp=CCk",
+        "alt": "Şıpsevdi'ye bir sofra sohbeti — video önizlemesi",
+        "credit": "TRT Dinle",
+        "source": "https://www.youtube.com/watch?v=TAPjNK5AySI",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "TRT Dinle'nin Edebi Sofralar bölümünden, Hüseyin Rahmi Gürpınar'ın Şıpsevdi romanı üzerine kısa bir sohbet."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "TAPjNK5AySI",
+        "title": "\"Şıpsevdi\"",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 34,
+        "orientation": "portrait",
+        "publisher": "TRT Dinle",
+        "publisherId": "UCJdaY9KKq1F3pUxAvoY_rfA",
+        "poster": "https://i.ytimg.com/vi/TAPjNK5AySI/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAIPH7PoCS6mqlDeYTZN3uvN00b1Q&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Dinle · \"Şıpsevdi\"",
+          "url": "https://www.youtube.com/watch?v=TAPjNK5AySI"
+        },
+        {
+          "label": "TRT Dinle · kanal",
+          "url": "https://www.youtube.com/channel/UCJdaY9KKq1F3pUxAvoY_rfA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-biraz-da-cocuklarin-gozunden-dunya",
+      "category": "Doğa",
+      "title": "Biraz da çocukların gözünden Dünya",
+      "subtitle": "TRT Çocuk'tan gezegenimize bakan kısa, eğlenceli bir kesit. Öğrenmeye ara verip hayret etmek de serbest.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Gezegenimiz",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/gKfiNPYHS80/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBTdgglrfpnFL7h7dmlSkbi2CsDYQ&usqp=CCk",
+        "alt": "Biraz da çocukların gözünden Dünya — video önizlemesi",
+        "credit": "TRT Çocuk",
+        "source": "https://www.youtube.com/watch?v=gKfiNPYHS80",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "TRT Çocuk'tan gezegenimize bakan kısa, eğlenceli bir kesit. Öğrenmeye ara verip hayret etmek de serbest."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "gKfiNPYHS80",
+        "title": "Ne kadar güzel bir gezegen :) #shorts #trtçocuk",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 29,
+        "orientation": "portrait",
+        "publisher": "TRT Çocuk",
+        "publisherId": "UCrFf5dtMe6M1XJHqbKJ4X6Q",
+        "poster": "https://i.ytimg.com/vi/gKfiNPYHS80/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBTdgglrfpnFL7h7dmlSkbi2CsDYQ&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Çocuk · Ne kadar güzel bir gezegen :) #shorts #trtçocuk",
+          "url": "https://www.youtube.com/watch?v=gKfiNPYHS80"
+        },
+        {
+          "label": "TRT Çocuk · kanal",
+          "url": "https://www.youtube.com/channel/UCrFf5dtMe6M1XJHqbKJ4X6Q"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-uzay-yolculugundan-onceki-heyecan",
+      "category": "Uzay",
+      "title": "Uzay yolculuğundan önceki heyecan",
+      "subtitle": "Türkiye Uzay Ajansı'nın 16 Ocak 2024 tarihli arşiv videosu. Türkiye'nin ilk astronotunun yolculuğu öncesinde hazırlanan bir dönem kaydı.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Türkiye'nin uzay çalışmaları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 2.1,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/KOQMSMMbwpU/hqdefault.jpg?sqp=-oaymwE9COADEI4CSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYNSBhKHIwDw==&rs=AOn4CLBjOorqYSAPbPEN1v9QoZLkW3gSGQ",
+        "alt": "Uzay yolculuğundan önceki heyecan — video önizlemesi",
+        "credit": "Türkiye Uzay Ajansı",
+        "source": "https://www.youtube.com/watch?v=KOQMSMMbwpU",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Türkiye Uzay Ajansı'nın 16 Ocak 2024 tarihli arşiv videosu. Türkiye'nin ilk astronotunun yolculuğu öncesinde hazırlanan bir dönem kaydı."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "KOQMSMMbwpU",
+        "title": "Türk Uzay Bilim Misyonu için Sayılı Saatler Kaldı!",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 127,
+        "orientation": "landscape",
+        "publisher": "Türkiye Uzay Ajansı",
+        "publisherId": "UCUuWdOvPmV5I51CLGEQFp3Q",
+        "poster": "https://i.ytimg.com/vi/KOQMSMMbwpU/hqdefault.jpg?sqp=-oaymwE9COADEI4CSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYNSBhKHIwDw==&rs=AOn4CLBjOorqYSAPbPEN1v9QoZLkW3gSGQ",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Türkiye Uzay Ajansı · Türk Uzay Bilim Misyonu için Sayılı Saatler Kaldı!",
+          "url": "https://www.youtube.com/watch?v=KOQMSMMbwpU"
+        },
+        {
+          "label": "Türkiye Uzay Ajansı · kanal",
+          "url": "https://www.youtube.com/channel/UCUuWdOvPmV5I51CLGEQFp3Q"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-lise-projesinden-antarktika-ya",
+      "category": "Bilim",
+      "title": "Lise projesinden Antarktika'ya",
+      "subtitle": "TEKNOFEST, kutup araştırmaları yarışmasından Antarktika'ya uzanan üç öğrencinin hikâyesini paylaşıyor. Bir fikrin sahada denenmesine bakıyoruz.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Kutup araştırmaları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/1buyrkPpApo/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBcn8iX-y9Fracf_h9WSfD_Bply1Q&usqp=CCk",
+        "alt": "Lise projesinden Antarktika'ya — video önizlemesi",
+        "credit": "TEKNOFEST",
+        "source": "https://www.youtube.com/watch?v=1buyrkPpApo",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "TEKNOFEST, kutup araştırmaları yarışmasından Antarktika'ya uzanan üç öğrencinin hikâyesini paylaşıyor. Bir fikrin sahada denenmesine bakıyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "1buyrkPpApo",
+        "title": "TEKNOFEST'ten Antarktikaya",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 51,
+        "orientation": "portrait",
+        "publisher": "TEKNOFEST",
+        "publisherId": "UCQrsBJS1Yb-UJ0VevqfSJHw",
+        "poster": "https://i.ytimg.com/vi/1buyrkPpApo/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBcn8iX-y9Fracf_h9WSfD_Bply1Q&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TEKNOFEST · TEKNOFEST'ten Antarktikaya",
+          "url": "https://www.youtube.com/watch?v=1buyrkPpApo"
+        },
+        {
+          "label": "TEKNOFEST · kanal",
+          "url": "https://www.youtube.com/channel/UCQrsBJS1Yb-UJ0VevqfSJHw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-tirtilin-icinde-ne-oluyor",
+      "category": "Doğa",
+      "title": "Tırtılın içinde ne oluyor?",
+      "subtitle": "Kozanın içinde sadece kanat takılmıyor. Bir tırtılın kelebeğe dönüşmesini yakından izleyelim.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Başkalaşım",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 2.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/ALBLRnp3H44/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAVq30YzeQZDKQVjUG9Nl_Un92_4w",
+        "alt": "Tırtılın içinde ne oluyor? — video önizlemesi",
+        "credit": "Bebar Bilim",
+        "source": "https://www.youtube.com/watch?v=ALBLRnp3H44",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Kozanın içinde sadece kanat takılmıyor. Bir tırtılın kelebeğe dönüşmesini yakından izleyelim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "ALBLRnp3H44",
+        "title": "Bir Tırtıl Kelebeğe Nasıl Dönüşüyor?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 176,
+        "orientation": "portrait",
+        "publisher": "Bebar Bilim",
+        "publisherId": "UCDTSUkdlbcgEU-IGH_mHgmw",
+        "poster": "https://i.ytimg.com/vi/ALBLRnp3H44/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAVq30YzeQZDKQVjUG9Nl_Un92_4w",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Bebar Bilim · Bir Tırtıl Kelebeğe Nasıl Dönüşüyor?",
+          "url": "https://www.youtube.com/watch?v=ALBLRnp3H44"
+        },
+        {
+          "label": "Bebar Bilim · kanal",
+          "url": "https://www.youtube.com/channel/UCDTSUkdlbcgEU-IGH_mHgmw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-akan-sudan-prize-kadar",
+      "category": "Teknoloji",
+      "title": "Akan sudan prize kadar",
+      "subtitle": "Su akıyor, türbin dönüyor; peki elektrik hangi aşamada ortaya çıkıyor? Hidroelektriğin yolunu takip ediyoruz.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Hidroelektrik",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 3.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/P1Ho74nXOkw/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD6RZg2WnOa0K4rTTrX8aUUbuGHTw&usqp=CCk",
+        "alt": "Akan sudan prize kadar — video önizlemesi",
+        "credit": "Gelecek Bilimde",
+        "source": "https://www.youtube.com/watch?v=P1Ho74nXOkw",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Su akıyor, türbin dönüyor; peki elektrik hangi aşamada ortaya çıkıyor? Hidroelektriğin yolunu takip ediyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "P1Ho74nXOkw",
+        "title": "Hidroelektrik Nasıl Üretilir?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 178,
+        "orientation": "portrait",
+        "publisher": "Gelecek Bilimde",
+        "publisherId": "UC03cpKIZShIWoSBhfVE5bog",
+        "poster": "https://i.ytimg.com/vi/P1Ho74nXOkw/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD6RZg2WnOa0K4rTTrX8aUUbuGHTw&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Gelecek Bilimde · Hidroelektrik Nasıl Üretilir?",
+          "url": "https://www.youtube.com/watch?v=P1Ho74nXOkw"
+        },
+        {
+          "label": "Gelecek Bilimde · kanal",
+          "url": "https://www.youtube.com/channel/UC03cpKIZShIWoSBhfVE5bog"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-yorungenin-temizlik-sorunu",
+      "category": "Uzay",
+      "title": "Yörüngenin temizlik sorunu",
+      "subtitle": "Kullanılmayan uydular ve parçalar uzayda kaybolup gitmiyor. Onları toplamak için düşünülen yöntemlere bakalım.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Uzay çöpleri",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Lrwivuhwazo/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gBovOX_wMOCL7D1LwGGODqBCDgqAE=&rs=AOn4CLD-rzfml5kC3ePaKaoCiDZPdygGkw&usqp=CBU",
+        "alt": "Yörüngenin temizlik sorunu — video önizlemesi",
+        "credit": "Dr Umut Yildiz (Tek Çare Uzay)",
+        "source": "https://www.youtube.com/watch?v=Lrwivuhwazo",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Kullanılmayan uydular ve parçalar uzayda kaybolup gitmiyor. Onları toplamak için düşünülen yöntemlere bakalım."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Lrwivuhwazo",
+        "title": "Uzay çöplerini temizlemek için farklı senaryolar düşünülüyor. #spacedebris #uzaycopleri",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "Dr Umut Yildiz (Tek Çare Uzay)",
+        "publisherId": "UC5_6R9pPdyQ5-t-VQXS7E2A",
+        "poster": "https://i.ytimg.com/vi/Lrwivuhwazo/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gBovOX_wMOCL7D1LwGGODqBCDgqAE=&rs=AOn4CLD-rzfml5kC3ePaKaoCiDZPdygGkw&usqp=CBU",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Dr Umut Yildiz (Tek Çare Uzay) · Uzay çöplerini temizlemek için farklı senaryolar düşünülüyor. #spacedebris #uzaycopleri",
+          "url": "https://www.youtube.com/watch?v=Lrwivuhwazo"
+        },
+        {
+          "label": "Dr Umut Yildiz (Tek Çare Uzay) · kanal",
+          "url": "https://www.youtube.com/channel/UC5_6R9pPdyQ5-t-VQXS7E2A"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-bilime-hangi-kitaptan-girsek",
+      "category": "Edebiyat",
+      "title": "Bilime hangi kitaptan girsek?",
+      "subtitle": "İdil Salihoğlu'nun beş popüler bilim kitabı önerisi. Merak ettiğin konuyu seçip okuma listene bir başlangıç ekleyebilirsin.",
+      "account": "Sayfa Arası",
+      "handle": "sayfaarasi",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Popüler bilim kitapları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/JT7JvCLhmg8/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLDCp9Dyuw-Is2rKsmgFn0lM3WzJNg&usqp=CCk",
+        "alt": "Bilime hangi kitaptan girsek? — video önizlemesi",
+        "credit": "İdil Salihoğlu",
+        "source": "https://www.youtube.com/watch?v=JT7JvCLhmg8",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "İdil Salihoğlu'nun beş popüler bilim kitabı önerisi. Merak ettiğin konuyu seçip okuma listene bir başlangıç ekleyebilirsin."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "JT7JvCLhmg8",
+        "title": "Meraklısına 5 Popüler Bilim Kitabı #kitap #kitapönerisi",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 53,
+        "orientation": "portrait",
+        "publisher": "İdil Salihoğlu",
+        "publisherId": "UCq-2mZvwOVAmGjqpXV-mnxA",
+        "poster": "https://i.ytimg.com/vi/JT7JvCLhmg8/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLDCp9Dyuw-Is2rKsmgFn0lM3WzJNg&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "İdil Salihoğlu · Meraklısına 5 Popüler Bilim Kitabı #kitap #kitapönerisi",
+          "url": "https://www.youtube.com/watch?v=JT7JvCLhmg8"
+        },
+        {
+          "label": "İdil Salihoğlu · kanal",
+          "url": "https://www.youtube.com/channel/UCq-2mZvwOVAmGjqpXV-mnxA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-ilk-yasamin-izini-surmek",
+      "category": "Bilim",
+      "title": "İlk yaşamın izini sürmek",
+      "subtitle": "Canlılık ortaya çıkmadan önce ne olmuş olabilir? Yaşamın kökenini araştıran bilim insanlarının sorduğu sorulara kısa bir bakış.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Yaşamın kökeni",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/VT-l6h4l9BU/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDSg33YzXT-2WhYIIOGzgzcVm6HTg&usqp=CCk",
+        "alt": "İlk yaşamın izini sürmek — video önizlemesi",
+        "credit": "Herkese Bilim Teknoloji",
+        "source": "https://www.youtube.com/watch?v=VT-l6h4l9BU",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Canlılık ortaya çıkmadan önce ne olmuş olabilir? Yaşamın kökenini araştıran bilim insanlarının sorduğu sorulara kısa bir bakış."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "VT-l6h4l9BU",
+        "title": "Hayatın başlangıcına giden yol",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 48,
+        "orientation": "portrait",
+        "publisher": "Herkese Bilim Teknoloji",
+        "publisherId": "UCzdwqEcEurcfZ-gbwU6AwuA",
+        "poster": "https://i.ytimg.com/vi/VT-l6h4l9BU/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDSg33YzXT-2WhYIIOGzgzcVm6HTg&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Herkese Bilim Teknoloji · Hayatın başlangıcına giden yol",
+          "url": "https://www.youtube.com/watch?v=VT-l6h4l9BU"
+        },
+        {
+          "label": "Herkese Bilim Teknoloji · kanal",
+          "url": "https://www.youtube.com/channel/UCzdwqEcEurcfZ-gbwU6AwuA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-bos-zaman-da-mi-ise-donusuyor",
+      "category": "Felsefe",
+      "title": "Boş zaman da mı işe dönüşüyor?",
+      "subtitle": "Dinlenirken bile bir şey yetiştirmeye çalışıyor musun? Boş zamanın hayatımızdaki yerini sorgulayan kısa bir düşünce molası.",
+      "account": "Bir Soru Daha",
+      "handle": "birsorudaha",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      },
+      "topic": "Boş zaman",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/H4bOsUo30zY/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBXIjG0XysLwwygcUUdxPsds-Id8g&usqp=CCk",
+        "alt": "Boş zaman da mı işe dönüşüyor? — video önizlemesi",
+        "credit": "Pelin Dilara Çolak",
+        "source": "https://www.youtube.com/watch?v=H4bOsUo30zY",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Dinlenirken bile bir şey yetiştirmeye çalışıyor musun? Boş zamanın hayatımızdaki yerini sorgulayan kısa bir düşünce molası."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "H4bOsUo30zY",
+        "title": "Boş zaman diye bir şey kalmadı.",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 98,
+        "orientation": "portrait",
+        "publisher": "Pelin Dilara Çolak",
+        "publisherId": "UCLUyXhgymG9MRSV56yPUQ2g",
+        "poster": "https://i.ytimg.com/vi/H4bOsUo30zY/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBXIjG0XysLwwygcUUdxPsds-Id8g&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Pelin Dilara Çolak · Boş zaman diye bir şey kalmadı.",
+          "url": "https://www.youtube.com/watch?v=H4bOsUo30zY"
+        },
+        {
+          "label": "Pelin Dilara Çolak · kanal",
+          "url": "https://www.youtube.com/channel/UCLUyXhgymG9MRSV56yPUQ2g"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-van-gogh-un-odasina-girelim",
+      "category": "Sanat",
+      "title": "Van Gogh'un odasına girelim",
+      "subtitle": "Bir yatak, iki sandalye ve güçlü renkler. Khan Academy, Van Gogh'un Yatak Odası tablosunu yakından okuyor.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Van Gogh",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Sj1O0Lfr6jQ/oar2.jpg?sqp=-oaymwEYCMAEENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLDpAykkBSOIvr8EXveoxyAw8rKUwg&usqp=CCk",
+        "alt": "Van Gogh'un odasına girelim — video önizlemesi",
+        "credit": "KhanAcademyTurkce",
+        "source": "https://www.youtube.com/watch?v=Sj1O0Lfr6jQ",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bir yatak, iki sandalye ve güçlü renkler. Khan Academy, Van Gogh'un Yatak Odası tablosunu yakından okuyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Sj1O0Lfr6jQ",
+        "title": "Sanat Tarihinin En Huzurlu Odası: Van Gogh'un Yatak Odası İsimli Tablosu #shorts #shortsvideo",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 89,
+        "orientation": "portrait",
+        "publisher": "KhanAcademyTurkce",
+        "publisherId": "UC8hgx5hCiyDmO3UeBl95_1Q",
+        "poster": "https://i.ytimg.com/vi/Sj1O0Lfr6jQ/oar2.jpg?sqp=-oaymwEYCMAEENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLDpAykkBSOIvr8EXveoxyAw8rKUwg&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "KhanAcademyTurkce · Sanat Tarihinin En Huzurlu Odası: Van Gogh'un Yatak Odası İsimli Tablosu #shorts #shortsvideo",
+          "url": "https://www.youtube.com/watch?v=Sj1O0Lfr6jQ"
+        },
+        {
+          "label": "KhanAcademyTurkce · kanal",
+          "url": "https://www.youtube.com/channel/UC8hgx5hCiyDmO3UeBl95_1Q"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-soyut-bir-manzaraya-bakmak",
+      "category": "Sanat",
+      "title": "Soyut bir manzaraya bakmak",
+      "subtitle": "İstanbul Modern'den soyut topoğrafyalar ve kurgusal portreler üzerine bir anlatım. Resimde tanıdık bir yer aramak şart mı?",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Çağdaş resim",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/VNePZ68tCY4/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAto2Up0pG_Q-HY2yw0k70S0-lceg&usqp=CCk",
+        "alt": "Soyut bir manzaraya bakmak — video önizlemesi",
+        "credit": "İstanbul Modern Sanat Müzesi",
+        "source": "https://www.youtube.com/watch?v=VNePZ68tCY4",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "İstanbul Modern'den soyut topoğrafyalar ve kurgusal portreler üzerine bir anlatım. Resimde tanıdık bir yer aramak şart mı?"
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "VNePZ68tCY4",
+        "title": "Soyut topoğrafyalar, kurgusal portreler ve içsel mekânlar.",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 103,
+        "orientation": "portrait",
+        "publisher": "İstanbul Modern Sanat Müzesi",
+        "publisherId": "UCFjzHp2Qf6QmvY1Zqrix4cg",
+        "poster": "https://i.ytimg.com/vi/VNePZ68tCY4/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAto2Up0pG_Q-HY2yw0k70S0-lceg&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "İstanbul Modern Sanat Müzesi · Soyut topoğrafyalar, kurgusal portreler ve içsel mekânlar.",
+          "url": "https://www.youtube.com/watch?v=VNePZ68tCY4"
+        },
+        {
+          "label": "İstanbul Modern Sanat Müzesi · kanal",
+          "url": "https://www.youtube.com/channel/UCFjzHp2Qf6QmvY1Zqrix4cg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-pembeli-kadin-a-yakindan",
+      "category": "Sanat",
+      "title": "Pembeli Kadın'a yakından",
+      "subtitle": "Halil Paşa'nın Pembeli Kadın tablosunu Pera Müzesi'nin anlatımıyla inceliyoruz. Renklerin yanında küçük ayrıntılara da dikkat.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Halil Paşa",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Nd0gSmBF-38/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCZtrq2ZVVRz-DQAQZ80DSVAywudQ&usqp=CCk",
+        "alt": "Pembeli Kadın'a yakından — video önizlemesi",
+        "credit": "Pera Müzesi",
+        "source": "https://www.youtube.com/watch?v=Nd0gSmBF-38",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Halil Paşa'nın Pembeli Kadın tablosunu Pera Müzesi'nin anlatımıyla inceliyoruz. Renklerin yanında küçük ayrıntılara da dikkat."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Nd0gSmBF-38",
+        "title": "Derine Bakmak: Halil Paşa ve Pembeli Kadın",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 89,
+        "orientation": "portrait",
+        "publisher": "Pera Müzesi",
+        "publisherId": "UCDkodebtXSRs4QTpjIkk0DQ",
+        "poster": "https://i.ytimg.com/vi/Nd0gSmBF-38/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCZtrq2ZVVRz-DQAQZ80DSVAywudQ&usqp=CCk",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Pera Müzesi · Derine Bakmak: Halil Paşa ve Pembeli Kadın",
+          "url": "https://www.youtube.com/watch?v=Nd0gSmBF-38"
+        },
+        {
+          "label": "Pera Müzesi · kanal",
+          "url": "https://www.youtube.com/channel/UCDkodebtXSRs4QTpjIkk0DQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-goksu-ya-resimden-bakmak",
+      "category": "Sanat",
+      "title": "Göksu'ya resimden bakmak",
+      "subtitle": "Fausto Zonaro'nun Göksu tablosundan ayrıntılar. Eski İstanbul'u bir ressamın seçtiği açıdan görüyoruz.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Fausto Zonaro",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/hSjKmplGaTU/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLC7SAzowamAeBK9FBkCXuP_w5nCkA",
+        "alt": "Göksu'ya resimden bakmak — video önizlemesi",
+        "credit": "İş Sanat",
+        "source": "https://www.youtube.com/watch?v=hSjKmplGaTU",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Fausto Zonaro'nun Göksu tablosundan ayrıntılar. Eski İstanbul'u bir ressamın seçtiği açıdan görüyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "hSjKmplGaTU",
+        "title": "Fausto Zonaro'nun \"Göksu\" eserine gelin yakından bakalım. ✨",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 18,
+        "orientation": "portrait",
+        "publisher": "İş Sanat",
+        "publisherId": "UCBVs-53x7CRhmHpdfEqABwg",
+        "poster": "https://i.ytimg.com/vi/hSjKmplGaTU/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLC7SAzowamAeBK9FBkCXuP_w5nCkA",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "İş Sanat · Fausto Zonaro'nun \"Göksu\" eserine gelin yakından bakalım. ✨",
+          "url": "https://www.youtube.com/watch?v=hSjKmplGaTU"
+        },
+        {
+          "label": "İş Sanat · kanal",
+          "url": "https://www.youtube.com/channel/UCBVs-53x7CRhmHpdfEqABwg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    }
+  ]
+}
