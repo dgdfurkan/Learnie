@@ -11,7 +11,7 @@ export function useBackGesture<T extends HTMLElement>(ref:RefObject<T|null>,onBa
   const up=(e:PointerEvent)=>{if(!start)return;const s=start;start=null;if(Date.now()-s.at<1200&&isBackSwipe(s,{x:e.clientX-s.left,y:e.clientY})){e.preventDefault();dragged=true;callback.current();}};
   const cancel=()=>{start=null;};
   const click=(e:MouseEvent)=>{if(dragged){dragged=false;e.preventDefault();e.stopPropagation();}};
-  element.addEventListener('click',click,true);element.addEventListener('pointerdown',down);element.addEventListener('pointermove',move,{passive:false});element.addEventListener('pointerup',up);element.addEventListener('pointercancel',cancel);
-  return()=>{element.removeEventListener('click',click,true);element.removeEventListener('pointerdown',down);element.removeEventListener('pointermove',move);element.removeEventListener('pointerup',up);element.removeEventListener('pointercancel',cancel);};
+  element.addEventListener('click',click,true);element.addEventListener('pointerdown',down,true);element.addEventListener('pointermove',move,{passive:false,capture:true});element.addEventListener('pointerup',up,true);element.addEventListener('pointercancel',cancel,true);
+  return()=>{element.removeEventListener('click',click,true);element.removeEventListener('pointerdown',down,true);element.removeEventListener('pointermove',move,true);element.removeEventListener('pointerup',up,true);element.removeEventListener('pointercancel',cancel,true);};
  },[ref]);
 }
