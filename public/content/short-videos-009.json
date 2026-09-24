@@ -1,0 +1,1286 @@
+{
+  "version": 1,
+  "title": "Kısa keşifler 9: belgeselden atölyeye",
+  "posts": [
+    {
+      "id": "kisa-video-kayaliklarda-bir-dag-kecisi",
+      "category": "Doğa",
+      "title": "Kayalıklarda bir dağ keçisi",
+      "subtitle": "İsviçre'deki Engadin bölgesinde Alp dağ keçilerini izliyoruz. Dik bir yamacın onlar için nasıl bir yaşam alanına dönüştüğüne dikkat et; bizim yol aradığımız yerde onlar tutunacak yüzey buluyor.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Dağ yaşamı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/U-GeJ3rrymg/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCCXtpI2yTBhkjVSPQflQXNE2isAg",
+        "alt": "Kayalıklarda bir dağ keçisi — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=U-GeJ3rrymg",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "İsviçre'deki Engadin bölgesinde Alp dağ keçilerini izliyoruz. Dik bir yamacın onlar için nasıl bir yaşam alanına dönüştüğüne dikkat et; bizim yol aradığımız yerde onlar tutunacak yüzey buluyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "U-GeJ3rrymg",
+        "title": "Alp Dağ Keçisi #trt #belgesel #dağkeçisi",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 53,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/U-GeJ3rrymg/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCCXtpI2yTBhkjVSPQflQXNE2isAg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Alp Dağ Keçisi #trt #belgesel #dağkeçisi",
+          "url": "https://www.youtube.com/watch?v=U-GeJ3rrymg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-suyu-cekilen-golde-kalan-gemiler",
+      "category": "Coğrafya",
+      "title": "Suyu çekilen gölde kalan gemiler",
+      "subtitle": "Aral Gölü'nün küçülmesi yalnızca haritadaki mavi alanı değiştirmedi. Bu kesitte, karada kalan gemileri parçalayarak geçinen insanlarla karşılaşıyoruz. Çevredeki değişimin gündelik hayata yansıması.",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Değişen kıyılar",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/8vsHiRJiTpc/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBW-dumKgzIhivB5Tb8d-o1IIJQLw",
+        "alt": "Suyu çekilen gölde kalan gemiler — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=8vsHiRJiTpc",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Aral Gölü'nün küçülmesi yalnızca haritadaki mavi alanı değiştirmedi. Bu kesitte, karada kalan gemileri parçalayarak geçinen insanlarla karşılaşıyoruz. Çevredeki değişimin gündelik hayata yansıması."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "8vsHiRJiTpc",
+        "title": "Aral Gölü",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 59,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/8vsHiRJiTpc/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBW-dumKgzIhivB5Tb8d-o1IIJQLw",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Aral Gölü",
+          "url": "https://www.youtube.com/watch?v=8vsHiRJiTpc"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-kursubasi-ayni-sicakligin-cevresinde",
+      "category": "Gündelik",
+      "title": "Kürsübaşı: Aynı sıcaklığın çevresinde",
+      "subtitle": "Kürsübaşı, insanları bir araya getiren geleneksel bir sohbet ortamı. Burada yalnızca oturulacak bir yer değil, birlikte geçirilen zaman da hazırlanıyor. Bu buluşmanın havasına konuk olalım.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Sohbet gelenekleri",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/xFheR5vd61w/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBPdArktnIVWQb3dkbBtMxqzPrJTQ",
+        "alt": "Kürsübaşı: Aynı sıcaklığın çevresinde — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=xFheR5vd61w",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Kürsübaşı, insanları bir araya getiren geleneksel bir sohbet ortamı. Burada yalnızca oturulacak bir yer değil, birlikte geçirilen zaman da hazırlanıyor. Bu buluşmanın havasına konuk olalım."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "xFheR5vd61w",
+        "title": "Kürsübaşı Geleneği",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 59,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/xFheR5vd61w/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBPdArktnIVWQb3dkbBtMxqzPrJTQ",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Kürsübaşı Geleneği",
+          "url": "https://www.youtube.com/watch?v=xFheR5vd61w"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-bu-koyde-mac-voleybol-maci",
+      "category": "Spor",
+      "title": "Bu köyde maç voleybol maçı",
+      "subtitle": "Erzurum'un Pehlivanlı köyünde voleybol gündelik hayatın bir parçası. Sporun mutlaka büyük bir salon ya da profesyonel takım gerektirmediğini gösteren bir köy ziyaretine çıkıyoruz.",
+      "account": "Oyunun İçinden",
+      "handle": "oyununicinden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tennis_ball_on_tennis_court_20170619.jpg/960px-Tennis_ball_on_tennis_court_20170619.jpg",
+      "avatarCredit": {
+        "label": "Santeri Viinamäki",
+        "url": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_tennis_court_20170619.jpg"
+      },
+      "topic": "Köyde spor",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/d_yJbxofNcM/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAZfBuvZmb7BWU6v1mIXHLo4sAZCw",
+        "alt": "Bu köyde maç voleybol maçı — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=d_yJbxofNcM",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Erzurum'un Pehlivanlı köyünde voleybol gündelik hayatın bir parçası. Sporun mutlaka büyük bir salon ya da profesyonel takım gerektirmediğini gösteren bir köy ziyaretine çıkıyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "d_yJbxofNcM",
+        "title": "Voleybol Oynayan Köy",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 57,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/d_yJbxofNcM/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAZfBuvZmb7BWU6v1mIXHLo4sAZCw",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Voleybol Oynayan Köy",
+          "url": "https://www.youtube.com/watch?v=d_yJbxofNcM"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-seylan-cayinin-basladigi-yer",
+      "category": "Coğrafya",
+      "title": "Seylan çayının başladığı yer",
+      "subtitle": "Seylan çayı, Sri Lanka'da yetiştirilen çay için kullanılan ad. Bu kesitte yaprakların elle toplanmasını görüyoruz. Bardaktaki içeceğin öncesinde tarlada verilen emek var.",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Çayın yolculuğu",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/8N5PIKFiWtw/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBmEGGlS-6qZT5-YsXstQ7Sc_cXag",
+        "alt": "Seylan çayının başladığı yer — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=8N5PIKFiWtw",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Seylan çayı, Sri Lanka'da yetiştirilen çay için kullanılan ad. Bu kesitte yaprakların elle toplanmasını görüyoruz. Bardaktaki içeceğin öncesinde tarlada verilen emek var."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "8N5PIKFiWtw",
+        "title": "Seylan Çayı",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 54,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/8N5PIKFiWtw/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBmEGGlS-6qZT5-YsXstQ7Sc_cXag",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Seylan Çayı",
+          "url": "https://www.youtube.com/watch?v=8N5PIKFiWtw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-yesil-anakondaya-yakindan-bakalim",
+      "category": "Doğa",
+      "title": "Yeşil anakondaya yakından bakalım",
+      "subtitle": "Yeşil anakonda, çok büyük ve ağır olabilen bir yılan türü. Büyüklüğünü yalnızca uzunluk olarak düşünmemek gerekiyor. Belgeselde gövdesine ve hareketine yakından bakıyoruz.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Yılanlar",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Z3kl8rHpPCQ/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD1FrazJXeLLwdd6jbgZV86xKkrBQ",
+        "alt": "Yeşil anakondaya yakından bakalım — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=Z3kl8rHpPCQ",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Yeşil anakonda, çok büyük ve ağır olabilen bir yılan türü. Büyüklüğünü yalnızca uzunluk olarak düşünmemek gerekiyor. Belgeselde gövdesine ve hareketine yakından bakıyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Z3kl8rHpPCQ",
+        "title": "Dünyanın En Büyük Yılanı",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 53,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/Z3kl8rHpPCQ/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD1FrazJXeLLwdd6jbgZV86xKkrBQ",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Dünyanın En Büyük Yılanı",
+          "url": "https://www.youtube.com/watch?v=Z3kl8rHpPCQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-baklavanin-bu-h-linde-elma-var",
+      "category": "Gündelik",
+      "title": "Baklavanın bu hâlinde elma var",
+      "subtitle": "Rize'de Hemşin mutfağına uğruyoruz. Kıvanç Kasabalı, elmalı baklava yapımına katılıyor. Aynı yemek adı, farklı bir yörede bambaşka bir tarife karşılık gelebiliyor.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Bölgesel mutfaklar",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/PPHpOwOZbxE/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD5B6XzLQlYnFPRC2MZxRTXuk2KlQ&usqp=CCk",
+        "alt": "Baklavanın bu hâlinde elma var — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=PPHpOwOZbxE",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Rize'de Hemşin mutfağına uğruyoruz. Kıvanç Kasabalı, elmalı baklava yapımına katılıyor. Aynı yemek adı, farklı bir yörede bambaşka bir tarife karşılık gelebiliyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "PPHpOwOZbxE",
+        "title": "Elmalı Baklava",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 59,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/PPHpOwOZbxE/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD5B6XzLQlYnFPRC2MZxRTXuk2KlQ&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Elmalı Baklava",
+          "url": "https://www.youtube.com/watch?v=PPHpOwOZbxE"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-yilana-benziyor-ama-kertenkele",
+      "category": "Doğa",
+      "title": "Yılana benziyor, ama kertenkele",
+      "subtitle": "Oluklu kertenkelede bacak görmeyince onu yılan sanmak kolay. Canlıları sınıflandırırken tek bir dış özelliğe bakmanın neden yetmediğini gösteren ilginç bir örnek.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Sürüngen anatomisi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/07mBpy2feIw/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB6PdqkBUARGqut37ul9p2SLWRaWg",
+        "alt": "Yılana benziyor, ama kertenkele — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=07mBpy2feIw",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Oluklu kertenkelede bacak görmeyince onu yılan sanmak kolay. Canlıları sınıflandırırken tek bir dış özelliğe bakmanın neden yetmediğini gösteren ilginç bir örnek."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "07mBpy2feIw",
+        "title": "Oluklu Kertenkele",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 54,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/07mBpy2feIw/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB6PdqkBUARGqut37ul9p2SLWRaWg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Oluklu Kertenkele",
+          "url": "https://www.youtube.com/watch?v=07mBpy2feIw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-morelia-nin-sokaklarina-ugrayalim",
+      "category": "Coğrafya",
+      "title": "Morelia'nın sokaklarına uğrayalım",
+      "subtitle": "Morelia, Meksika'da bir şehir. Reshad Strik'le sokaklarına ve kent yaşamına bakıyoruz. Ülkeyi tek bir görüntüyle tanımlamak yerine başka bir şehrini görme fırsatı.",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Meksika şehirleri",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Ff_NyqRDt-4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC3DBmUf96a_Kiu78LWXQaDf5_9aA",
+        "alt": "Morelia'nın sokaklarına uğrayalım — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=Ff_NyqRDt-4",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Morelia, Meksika'da bir şehir. Reshad Strik'le sokaklarına ve kent yaşamına bakıyoruz. Ülkeyi tek bir görüntüyle tanımlamak yerine başka bir şehrini görme fırsatı."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Ff_NyqRDt-4",
+        "title": "Meksika’nın Kalbi Morelia Şehri #trt #belgesel #meksika #morelia",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 59,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/Ff_NyqRDt-4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC3DBmUf96a_Kiu78LWXQaDf5_9aA",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Meksika’nın Kalbi Morelia Şehri #trt #belgesel #meksika #morelia",
+          "url": "https://www.youtube.com/watch?v=Ff_NyqRDt-4"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-sanayi-atik-alaninda-bir-cekirge",
+      "category": "Doğa",
+      "title": "Sanayi atık alanında bir çekirge",
+      "subtitle": "Almanya'nın Ruhr bölgesindeki bir cüruf alanındayız. Mavi kanatlı çekirgeler, insan eliyle değişmiş bu yerde yaşıyor. Doğayı yalnızca insanlardan uzak alanlarda aramamak gerek.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Değişen yaşam alanları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/zkT0LCE8Ec4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBILmIoKPvmcqm0pxNj2qRf9UO1vA",
+        "alt": "Sanayi atık alanında bir çekirge — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=zkT0LCE8Ec4",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Almanya'nın Ruhr bölgesindeki bir cüruf alanındayız. Mavi kanatlı çekirgeler, insan eliyle değişmiş bu yerde yaşıyor. Doğayı yalnızca insanlardan uzak alanlarda aramamak gerek."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "zkT0LCE8Ec4",
+        "title": "Mavi Kanatlı Çekirge 🦗",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 59,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/zkT0LCE8Ec4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBILmIoKPvmcqm0pxNj2qRf9UO1vA",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Mavi Kanatlı Çekirge 🦗",
+          "url": "https://www.youtube.com/watch?v=zkT0LCE8Ec4"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-1840-tan-once-yasasaydik",
+      "category": "Tarih",
+      "title": "1840'tan önce yaşasaydık",
+      "subtitle": "Bugün sıradan bulduğumuz pek çok eşya, geçmişte yoktu. Bu tarih turunda sonradan hayatımıza giren şeylere bakıyoruz. Kendi gününden hangisini çıkarmak en zor olurdu?",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Gündelik icatlar",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/dIlC6_SUeEI/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCxdKqRFIZCz6cEXaxu8dtt2cFUHg",
+        "alt": "1840'tan önce yaşasaydık — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=dIlC6_SUeEI",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bugün sıradan bulduğumuz pek çok eşya, geçmişte yoktu. Bu tarih turunda sonradan hayatımıza giren şeylere bakıyoruz. Kendi gününden hangisini çıkarmak en zor olurdu?"
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "dIlC6_SUeEI",
+        "title": "1840'tan Önce Ölsek Neleri Kaçıracaktık?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 59,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/dIlC6_SUeEI/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCxdKqRFIZCz6cEXaxu8dtt2cFUHg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · 1840'tan Önce Ölsek Neleri Kaçıracaktık?",
+          "url": "https://www.youtube.com/watch?v=dIlC6_SUeEI"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-tarlada-calisirken-kurulan-bir-hayal",
+      "category": "Gündelik",
+      "title": "Tarlada çalışırken kurulan bir hayal",
+      "subtitle": "Tütün tarlasında çalışan insanların arasında, bir motosiklet hayali de var. Bu kez bir kavramın tanımını değil, gündelik emeğin içindeki kişisel bir hikâyeyi dinliyoruz.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Emek ve hayaller",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/hhtFKz6hysk/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDWpvOSSyZtSHVRgHi2UT_Jm4f77Q",
+        "alt": "Tarlada çalışırken kurulan bir hayal — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=hhtFKz6hysk",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Tütün tarlasında çalışan insanların arasında, bir motosiklet hayali de var. Bu kez bir kavramın tanımını değil, gündelik emeğin içindeki kişisel bir hikâyeyi dinliyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "hhtFKz6hysk",
+        "title": "Tütün Tarlasında Hayaller",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 51,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/hhtFKz6hysk/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDWpvOSSyZtSHVRgHi2UT_Jm4f77Q",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Tütün Tarlasında Hayaller",
+          "url": "https://www.youtube.com/watch?v=hhtFKz6hysk"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-edirne-buyuk-sinagogu-nun-icine-bakalim",
+      "category": "İnanç",
+      "title": "Edirne Büyük Sinagogu'nun içine bakalım",
+      "subtitle": "Sinagog, Yahudi cemaatinin ibadet ve bir araya gelme mekânıdır. Edirne Büyük Sinagogu'nu gezerken yapının iç düzenine ve mimarisine bakıyoruz.",
+      "account": "Metnin İzinde",
+      "handle": "metninizinde",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "İbadet mekânları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/weB-xlQYhw0/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBlYG68BvAJGO05azPco0Q03GMcCw",
+        "alt": "Edirne Büyük Sinagogu'nun içine bakalım — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=weB-xlQYhw0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Sinagog, Yahudi cemaatinin ibadet ve bir araya gelme mekânıdır. Edirne Büyük Sinagogu'nu gezerken yapının iç düzenine ve mimarisine bakıyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "weB-xlQYhw0",
+        "title": "Avrupa’nın en Büyük Üçüncü Sinagogu 🕍",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 30,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/weB-xlQYhw0/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBlYG68BvAJGO05azPco0Q03GMcCw",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Avrupa’nın en Büyük Üçüncü Sinagogu 🕍",
+          "url": "https://www.youtube.com/watch?v=weB-xlQYhw0"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-atilan-gida-baska-bir-ise-yarayabilir",
+      "category": "Doğa",
+      "title": "Atılan gıda başka bir işe yarayabilir",
+      "subtitle": "Bir geri dönüşüm tesisinde, organik atıkların gübre olarak değerlendirilmesine bakıyoruz. Çöp kutusuna giden her malzemenin aynı yöntemle işlenmediğini görmek için bir örnek.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Organik atıklar",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/sJ442PnCIII/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLD6Ho3WqKDGDC6Pp4GEXVdbyy8_qw",
+        "alt": "Atılan gıda başka bir işe yarayabilir — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=sJ442PnCIII",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bir geri dönüşüm tesisinde, organik atıkların gübre olarak değerlendirilmesine bakıyoruz. Çöp kutusuna giden her malzemenin aynı yöntemle işlenmediğini görmek için bir örnek."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "sJ442PnCIII",
+        "title": "Türkiye'nin En Büyük Geri Dönüşüm Tesisi 😮",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 56,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/sJ442PnCIII/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLD6Ho3WqKDGDC6Pp4GEXVdbyy8_qw",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Türkiye'nin En Büyük Geri Dönüşüm Tesisi 😮",
+          "url": "https://www.youtube.com/watch?v=sJ442PnCIII"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-gozluk-degisince-potayi-tutturmak-zorlasiyor",
+      "category": "Bilim",
+      "title": "Gözlük değişince potayı tutturmak zorlaşıyor",
+      "subtitle": "Gördüğümüz yerle elimizin yöneldiği yer arasında öğrenilmiş bir uyum var. Görüntüyü kaydıran bir gözlük takıldığında, basit bir basket atışı bile şaşırtıcı bir deneye dönüşüyor.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Görme ve hareket",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/m5rTT9dsxO4/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLA1yVwSgCMspxuW88FYxGaNx_THYA",
+        "alt": "Gözlük değişince potayı tutturmak zorlaşıyor — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=m5rTT9dsxO4",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Gördüğümüz yerle elimizin yöneldiği yer arasında öğrenilmiş bir uyum var. Görüntüyü kaydıran bir gözlük takıldığında, basit bir basket atışı bile şaşırtıcı bir deneye dönüşüyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "m5rTT9dsxO4",
+        "title": "Hedef Saptıran Gözlük İle Basket Nasıl Atılamaz?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 55,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/m5rTT9dsxO4/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLA1yVwSgCMspxuW88FYxGaNx_THYA",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Hedef Saptıran Gözlük İle Basket Nasıl Atılamaz?",
+          "url": "https://www.youtube.com/watch?v=m5rTT9dsxO4"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-adi-kedi-batmaz-kendisi-bir-yemek",
+      "category": "Gündelik",
+      "title": "Adı kedi batmaz, kendisi bir yemek",
+      "subtitle": "Kedi batmaz adlı yöresel yemeğin hazırlanışına bakıyoruz. Yemek adları bazen malzeme listesinden daha merak uyandırıcı olabiliyor. Sen bu adı duyunca nasıl bir şey hayal ettin?",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Yerel yemekler",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/AYqJB2OWMMg/hq720_2.jpg?sqp=-oaymwEkCJYDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAWkzhm4aRW3RRIdjWb-EuzYXOX0Q",
+        "alt": "Adı kedi batmaz, kendisi bir yemek — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=AYqJB2OWMMg",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Kedi batmaz adlı yöresel yemeğin hazırlanışına bakıyoruz. Yemek adları bazen malzeme listesinden daha merak uyandırıcı olabiliyor. Sen bu adı duyunca nasıl bir şey hayal ettin?"
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "AYqJB2OWMMg",
+        "title": "“Kedi Batmaz” Tarifi",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 30,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/AYqJB2OWMMg/hq720_2.jpg?sqp=-oaymwEkCJYDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAWkzhm4aRW3RRIdjWb-EuzYXOX0Q",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · “Kedi Batmaz” Tarifi",
+          "url": "https://www.youtube.com/watch?v=AYqJB2OWMMg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-katmerin-incecik-hamuru-nasil-aciliyor",
+      "category": "Gündelik",
+      "title": "Katmerin incecik hamuru nasıl açılıyor?",
+      "subtitle": "Gaziantep katmerinin hazırlanışından bir kesit. Hamurun inceliğine ve ustanın el hareketlerine bak. Tarifin yazılı kısmına sığmayan beceri, burada gözümüzün önünde.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Hamur işi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/PzT4vdXI_co/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCUVOaQXMuJqvE3Cn1E8-J61NvbUQ&usqp=CCk",
+        "alt": "Katmerin incecik hamuru nasıl açılıyor? — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=PzT4vdXI_co",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Gaziantep katmerinin hazırlanışından bir kesit. Hamurun inceliğine ve ustanın el hareketlerine bak. Tarifin yazılı kısmına sığmayan beceri, burada gözümüzün önünde."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "PzT4vdXI_co",
+        "title": "Katmer Hamuru Nasıl Açılır?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 30,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/PzT4vdXI_co/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCUVOaQXMuJqvE3Cn1E8-J61NvbUQ&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Katmer Hamuru Nasıl Açılır?",
+          "url": "https://www.youtube.com/watch?v=PzT4vdXI_co"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-bir-baslik-iki-cografyadan-izler",
+      "category": "Tarih",
+      "title": "Bir başlık, iki coğrafyadan izler",
+      "subtitle": "Türk börkü ile Svan beresine bakıyoruz. Başlıklar yalnızca soğuktan koruyan eşyalar değil; yapıldıkları malzeme ve biçimleriyle yaşadıkları coğrafyadan da iz taşır.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Giyim kültürü",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/k90zjhVm0Os/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLC_8dCz5ijkFPpe0JXYkS4_WSc_vQ",
+        "alt": "Bir başlık, iki coğrafyadan izler — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=k90zjhVm0Os",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Türk börkü ile Svan beresine bakıyoruz. Başlıklar yalnızca soğuktan koruyan eşyalar değil; yapıldıkları malzeme ve biçimleriyle yaşadıkları coğrafyadan da iz taşır."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "k90zjhVm0Os",
+        "title": "Türk Börkü ⚔️ Svan Beresi",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 52,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/k90zjhVm0Os/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLC_8dCz5ijkFPpe0JXYkS4_WSc_vQ",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Türk Börkü ⚔️ Svan Beresi",
+          "url": "https://www.youtube.com/watch?v=k90zjhVm0Os"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-akide-sekerinin-tezg-htaki-yolculugu",
+      "category": "Gündelik",
+      "title": "Akide şekerinin tezgâhtaki yolculuğu",
+      "subtitle": "Akide şekeri hazırlanırken malzemenin kıvamı ve biçimi değişiyor. Sonunda küçücük bir parça olarak gördüğümüz şeyin üretim aşamasına uğrayalım.",
+      "account": "Tam Önündeymiş",
+      "handle": "tamonundeymis",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/960px-Latte_and_dark_coffee.jpg",
+      "avatarCredit": {
+        "label": "Bex Walton",
+        "url": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+      },
+      "topic": "Şekerleme",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/nTrL8OtZ998/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLC9lmUoM3ym3rZnlC8LdWLazR6x4A",
+        "alt": "Akide şekerinin tezgâhtaki yolculuğu — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=nTrL8OtZ998",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Akide şekeri hazırlanırken malzemenin kıvamı ve biçimi değişiyor. Sonunda küçücük bir parça olarak gördüğümüz şeyin üretim aşamasına uğrayalım."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "nTrL8OtZ998",
+        "title": "Akide Şekeri 🍬",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 30,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/nTrL8OtZ998/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLC9lmUoM3ym3rZnlC8LdWLazR6x4A",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Akide Şekeri 🍬",
+          "url": "https://www.youtube.com/watch?v=nTrL8OtZ998"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-yagli-guresin-gecmisine-kisa-bir-bakis",
+      "category": "Spor",
+      "title": "Yağlı güreşin geçmişine kısa bir bakış",
+      "subtitle": "Yağlı güreş, iki sporcunun mücadelesi kadar kendine özgü bir gelenek. Bu kesit, sporun geçmişini ve kültürel tarafını anlatıyor. Sahadaki hareketlerin arkasında uzun bir birikim var.",
+      "account": "Oyunun İçinden",
+      "handle": "oyununicinden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tennis_ball_on_tennis_court_20170619.jpg/960px-Tennis_ball_on_tennis_court_20170619.jpg",
+      "avatarCredit": {
+        "label": "Santeri Viinamäki",
+        "url": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_tennis_court_20170619.jpg"
+      },
+      "topic": "Güreş kültürü",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/nIsL7me3HKY/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLA3iBvR3KL6NaxS_T3Mzq9yD7a-6w",
+        "alt": "Yağlı güreşin geçmişine kısa bir bakış — video önizlemesi",
+        "credit": "TRT Belgesel",
+        "source": "https://www.youtube.com/watch?v=nIsL7me3HKY",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Yağlı güreş, iki sporcunun mücadelesi kadar kendine özgü bir gelenek. Bu kesit, sporun geçmişini ve kültürel tarafını anlatıyor. Sahadaki hareketlerin arkasında uzun bir birikim var."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "nIsL7me3HKY",
+        "title": "Yağlı Güreşin Kısa Tarihi",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 53,
+        "orientation": "portrait",
+        "publisher": "TRT Belgesel",
+        "poster": "https://i.ytimg.com/vi/nIsL7me3HKY/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLA3iBvR3KL6NaxS_T3Mzq9yD7a-6w",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT Belgesel · Yağlı Güreşin Kısa Tarihi",
+          "url": "https://www.youtube.com/watch?v=nIsL7me3HKY"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    }
+  ]
+}

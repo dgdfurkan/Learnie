@@ -1,0 +1,1286 @@
+{
+  "version": 1,
+  "title": "Kısa keşifler 11: belgeselden atölyeye",
+  "posts": [
+    {
+      "id": "kisa-video-iyi-fotograf-yalnizca-makineyle-mi-ilgili",
+      "category": "Sanat",
+      "title": "İyi fotoğraf yalnızca makineyle mi ilgili?",
+      "subtitle": "Mehmet Turgut, fotoğraf üzerine düşüncelerini paylaşıyor. Kadraja neyi aldığımız kadar, neyi dışarıda bıraktığımız da görüntünün anlatımını değiştirir.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Fotoğraf dili",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/i_jp2Y5s_hM/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDiGCjjUixUEwVQfZCKAW1-TBFfXg",
+        "alt": "İyi fotoğraf yalnızca makineyle mi ilgili? — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=i_jp2Y5s_hM",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Mehmet Turgut, fotoğraf üzerine düşüncelerini paylaşıyor. Kadraja neyi aldığımız kadar, neyi dışarıda bıraktığımız da görüntünün anlatımını değiştirir."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "i_jp2Y5s_hM",
+        "title": "Mehmet Turgut 🗣️",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 54,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/i_jp2Y5s_hM/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDiGCjjUixUEwVQfZCKAW1-TBFfXg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Mehmet Turgut 🗣️",
+          "url": "https://www.youtube.com/watch?v=i_jp2Y5s_hM"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-semih-irtes-in-nakkaslik-dunyasi",
+      "category": "Sanat",
+      "title": "Semih İrteş'in nakkaşlık dünyası",
+      "subtitle": "Nakkaşlık, yüzeyleri desen ve boyayla süsleme sanatlarıyla ilişkilidir. Semih İrteş'in çalışmalarına bakarken bir yapının duvarlarının nasıl bir anlatım alanına dönüştüğünü görüyoruz.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Kalem işi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/S_KTRS0SN4c/hq720_1.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDdmsqJoBkEEWbU1h1FLg9daKOgXQ",
+        "alt": "Semih İrteş'in nakkaşlık dünyası — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=S_KTRS0SN4c",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Nakkaşlık, yüzeyleri desen ve boyayla süsleme sanatlarıyla ilişkilidir. Semih İrteş'in çalışmalarına bakarken bir yapının duvarlarının nasıl bir anlatım alanına dönüştüğünü görüyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "S_KTRS0SN4c",
+        "title": "\"Yaşayan İnsan Hazinesi\" Semih İrteş 🖌️",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 51,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/S_KTRS0SN4c/hq720_1.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDdmsqJoBkEEWbU1h1FLg9daKOgXQ",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · \"Yaşayan İnsan Hazinesi\" Semih İrteş 🖌️",
+          "url": "https://www.youtube.com/watch?v=S_KTRS0SN4c"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-bir-heykeli-yalnizca-ayrintisiyla-degerlendirebilir-miyiz",
+      "category": "Sanat",
+      "title": "Bir heykeli yalnızca ayrıntısıyla değerlendirebilir miyiz?",
+      "subtitle": "Rodin ve Balzac üzerinden, bir eserde parça ile bütünün ilişkisi konuşuluyor. Bir ayrıntı tek başına etkileyici olabilir; ama bütünde ne yaptığını da düşünmek gerekir.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Heykel ve bütünlük",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/sTObhLoHIXo/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBtvPWy9byF0aNpO8PgK8YBrg7oUw",
+        "alt": "Bir heykeli yalnızca ayrıntısıyla değerlendirebilir miyiz? — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=sTObhLoHIXo",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Rodin ve Balzac üzerinden, bir eserde parça ile bütünün ilişkisi konuşuluyor. Bir ayrıntı tek başına etkileyici olabilir; ama bütünde ne yaptığını da düşünmek gerekir."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "sTObhLoHIXo",
+        "title": "“Bütün, parçadan önemlidir.”",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 58,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/sTObhLoHIXo/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBtvPWy9byF0aNpO8PgK8YBrg7oUw",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · “Bütün, parçadan önemlidir.”",
+          "url": "https://www.youtube.com/watch?v=sTObhLoHIXo"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-ediz-hun-un-ilk-set-heyecani",
+      "category": "Sanat",
+      "title": "Ediz Hun'un ilk set heyecanı",
+      "subtitle": "Ediz Hun, kamera karşısındaki ilk deneyimlerinden söz ediyor. Tanıdığımız bir oyuncunun da bir zamanlar işe yeni başladığı, neyle karşılaşacağını bilmediği bir gün vardı.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "İlk set günü",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/rRqtHB0zlQ0/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDmatnJUhfdCVsPpgnuIeY6IWIZSw&usqp=CCk",
+        "alt": "Ediz Hun'un ilk set heyecanı — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=rRqtHB0zlQ0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Ediz Hun, kamera karşısındaki ilk deneyimlerinden söz ediyor. Tanıdığımız bir oyuncunun da bir zamanlar işe yeni başladığı, neyle karşılaşacağını bilmediği bir gün vardı."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "rRqtHB0zlQ0",
+        "title": "Ediz Hun ilk set heyecanını paylaşıyor. 🎥",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 52,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/rRqtHB0zlQ0/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDmatnJUhfdCVsPpgnuIeY6IWIZSw&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Ediz Hun ilk set heyecanını paylaşıyor. 🎥",
+          "url": "https://www.youtube.com/watch?v=rRqtHB0zlQ0"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-aytmatov-un-cocuklugu-hangi-dunyada-gecti",
+      "category": "Edebiyat",
+      "title": "Aytmatov'un çocukluğu hangi dünyada geçti?",
+      "subtitle": "Cengiz Aytmatov'un İkinci Dünya Savaşı yıllarındaki yaşamına bakıyoruz. Bir yazarın eserlerini okurken, içinde büyüdüğü dönemin sorularını da bilmek yeni kapılar açabilir.",
+      "account": "Sayfa Arası",
+      "handle": "sayfaarasi",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Yazarların hayatı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/fFH-U8Op3sg/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCMXJyu0cykePEj1DnMaz2qw6PivA",
+        "alt": "Aytmatov'un çocukluğu hangi dünyada geçti? — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=fFH-U8Op3sg",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Cengiz Aytmatov'un İkinci Dünya Savaşı yıllarındaki yaşamına bakıyoruz. Bir yazarın eserlerini okurken, içinde büyüdüğü dönemin sorularını da bilmek yeni kapılar açabilir."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "fFH-U8Op3sg",
+        "title": "Acı tecrübelerin yazarı📚",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 58,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/fFH-U8Op3sg/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCMXJyu0cykePEj1DnMaz2qw6PivA",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Acı tecrübelerin yazarı📚",
+          "url": "https://www.youtube.com/watch?v=fFH-U8Op3sg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-buyuk-taarruz-sonrasinda-ankara",
+      "category": "Tarih",
+      "title": "Büyük Taarruz sonrasında Ankara",
+      "subtitle": "Büyük Taarruz'un ardından Ankara'da çekilmiş arşiv görüntülerini izliyoruz. İnsanların duruşlarına, kalabalığın düzenine ve kameraya verdikleri tepkiye dikkat edebilirsin.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Erken Ankara görüntüleri",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/zTyoHxHjFKA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBFkAgg26cbyCkWl6xIzQoC4wMpcQ&usqp=CCk",
+        "alt": "Büyük Taarruz sonrasında Ankara — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=zTyoHxHjFKA",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Büyük Taarruz'un ardından Ankara'da çekilmiş arşiv görüntülerini izliyoruz. İnsanların duruşlarına, kalabalığın düzenine ve kameraya verdikleri tepkiye dikkat edebilirsin."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "zTyoHxHjFKA",
+        "title": "Büyük Taarruz zaferi sonrası kameralar Ankara'da🇹🇷 🎥",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 59,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/zTyoHxHjFKA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBFkAgg26cbyCkWl6xIzQoC4wMpcQ&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Büyük Taarruz zaferi sonrası kameralar Ankara'da🇹🇷 🎥",
+          "url": "https://www.youtube.com/watch?v=zTyoHxHjFKA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-sisifos-un-bitmeyen-isi",
+      "category": "Felsefe",
+      "title": "Sisifos'un bitmeyen işi",
+      "subtitle": "Sisifos, Yunan mitolojisinde aynı kayayı tekrar tekrar yukarı taşımakla anılır. Bu bir mitolojik anlatı. Sonradan insanların emek ve hayatın anlamı üzerine düşünürken neden ona döndüğünü soralım.",
+      "account": "Bir Soru Daha",
+      "handle": "birsorudaha",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      },
+      "topic": "Yunan mitolojisi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/HsdQ1KbhO1A/hq720_2.jpg?sqp=-oaymwEkCJYDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBG9wchyejrVbJ9Kb505VwP3Oyvmw",
+        "alt": "Sisifos'un bitmeyen işi — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=HsdQ1KbhO1A",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Sisifos, Yunan mitolojisinde aynı kayayı tekrar tekrar yukarı taşımakla anılır. Bu bir mitolojik anlatı. Sonradan insanların emek ve hayatın anlamı üzerine düşünürken neden ona döndüğünü soralım."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "HsdQ1KbhO1A",
+        "title": "Ölümü Yenen Ölümlü",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 50,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/HsdQ1KbhO1A/hq720_2.jpg?sqp=-oaymwEkCJYDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBG9wchyejrVbJ9Kb505VwP3Oyvmw",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Ölümü Yenen Ölümlü",
+          "url": "https://www.youtube.com/watch?v=HsdQ1KbhO1A"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-sadettin-okten-le-zamanin-kiymeti-uzerine",
+      "category": "İnanç",
+      "title": "Sadettin Ökten'le zamanın kıymeti üzerine",
+      "subtitle": "Sadettin Ökten, zamanı ve ümidi İslami düşünce içinden yorumluyor. Kesiti bir kişinin inanç ve hayat anlayışını anlattığı sohbet olarak dinliyoruz.",
+      "account": "Metnin İzinde",
+      "handle": "metninizinde",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Ümit ve sorumluluk",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/B01Vz10ic54/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD-ympc2mZhRGESJksODXTsRTXrdQ",
+        "alt": "Sadettin Ökten'le zamanın kıymeti üzerine — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=B01Vz10ic54",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Sadettin Ökten, zamanı ve ümidi İslami düşünce içinden yorumluyor. Kesiti bir kişinin inanç ve hayat anlayışını anlattığı sohbet olarak dinliyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "B01Vz10ic54",
+        "title": "\"Bize Ümitsizlik Uğrayamaz\" - Sadettin Ökten #TRT2 #shorts #İslam #Müslüman #sohbet #keşfet #dua",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 54,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/B01Vz10ic54/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD-ympc2mZhRGESJksODXTsRTXrdQ",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · \"Bize Ümitsizlik Uğrayamaz\" - Sadettin Ökten #TRT2 #shorts #İslam #Müslüman #sohbet #keşfet #dua",
+          "url": "https://www.youtube.com/watch?v=B01Vz10ic54"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-troya-dan-cikan-bir-eserin-yolculugu",
+      "category": "Tarih",
+      "title": "Troya'dan çıkan bir eserin yolculuğu",
+      "subtitle": "Troya kazılarıyla bağlantılı bir tarihî eserin bulunma hikâyesini dinliyoruz. Bir nesnenin nerede bulunduğu ve sonrasında nereye gittiği, en az görünüşü kadar önemli.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Kültür varlıkları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/03Abo0MLASk/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDDhl-MNn-RR1IJn5EBf3OdbH9xqQ&usqp=CCk",
+        "alt": "Troya'dan çıkan bir eserin yolculuğu — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=03Abo0MLASk",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Troya kazılarıyla bağlantılı bir tarihî eserin bulunma hikâyesini dinliyoruz. Bir nesnenin nerede bulunduğu ve sonrasında nereye gittiği, en az görünüşü kadar önemli."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "03Abo0MLASk",
+        "title": "Truva kazılarından çıkan bir tarihi eserin enteresan yakalanma hikâyesi…",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 56,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/03Abo0MLASk/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDDhl-MNn-RR1IJn5EBf3OdbH9xqQ&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Truva kazılarından çıkan bir tarihi eserin enteresan yakalanma hikâyesi…",
+          "url": "https://www.youtube.com/watch?v=03Abo0MLASk"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-udun-sesine-kisa-bir-mola",
+      "category": "Sanat",
+      "title": "Udun sesine kısa bir mola",
+      "subtitle": "Ud sanatçısı Necati Çelik'i dinliyoruz. Her içerikte yeni bir tanım öğrenmek şart değil; bazen bir çalgının sesini dikkatle dinlemek de onu tanımanın ilk adımı.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Ud",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/L4hq8G0KNBY/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCnxivgGEGfZjFL_ZikF3m_yFk1Jw",
+        "alt": "Udun sesine kısa bir mola — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=L4hq8G0KNBY",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Ud sanatçısı Necati Çelik'i dinliyoruz. Her içerikte yeni bir tanım öğrenmek şart değil; bazen bir çalgının sesini dikkatle dinlemek de onu tanımanın ilk adımı."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "L4hq8G0KNBY",
+        "title": "Udi Necati Çelik 🎶",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 48,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/L4hq8G0KNBY/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCnxivgGEGfZjFL_ZikF3m_yFk1Jw",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Udi Necati Çelik 🎶",
+          "url": "https://www.youtube.com/watch?v=L4hq8G0KNBY"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-kazi-alaninin-bekcisi-kendi-kitabini-yazarsa",
+      "category": "Edebiyat",
+      "title": "Kazı alanının bekçisi kendi kitabını yazarsa",
+      "subtitle": "Sadrettin Dural, Çatalhöyük'te çalışırken kazı ekiplerinden öğrendiklerini yazıya taşıyor. Bir yerin hikâyesi yalnızca orayı uzaktan araştıranlardan gelmeyebilir.",
+      "account": "Sayfa Arası",
+      "handle": "sayfaarasi",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Çatalhöyük hikâyeleri",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/cuWvZ1pcM3w/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDS4pUNlOZ9LS-wsBE_SMYU0fHhBQ",
+        "alt": "Kazı alanının bekçisi kendi kitabını yazarsa — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=cuWvZ1pcM3w",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Sadrettin Dural, Çatalhöyük'te çalışırken kazı ekiplerinden öğrendiklerini yazıya taşıyor. Bir yerin hikâyesi yalnızca orayı uzaktan araştıranlardan gelmeyebilir."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "cuWvZ1pcM3w",
+        "title": "Bekçilikten yazarlığa ✍🏻",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 56,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/cuWvZ1pcM3w/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDS4pUNlOZ9LS-wsBE_SMYU0fHhBQ",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Bekçilikten yazarlığa ✍🏻",
+          "url": "https://www.youtube.com/watch?v=cuWvZ1pcM3w"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-kucuk-figurlerle-bir-tarih-sahnesi-kurmak",
+      "category": "Tarih",
+      "title": "Küçük figürlerle bir tarih sahnesi kurmak",
+      "subtitle": "Diorama, bir sahneyi üç boyutlu olarak canlandıran düzenleme. Hisart Müzesi'nin kurucusu Nejat Çuhadaroğlu'nu dinlerken bu anlatım biçiminin nasıl kullanıldığına bakıyoruz.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Diorama",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/-9gNnNzsAXw/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCB8OKC08yRty0c1wF_Gz8_dp0I5w",
+        "alt": "Küçük figürlerle bir tarih sahnesi kurmak — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=-9gNnNzsAXw",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Diorama, bir sahneyi üç boyutlu olarak canlandıran düzenleme. Hisart Müzesi'nin kurucusu Nejat Çuhadaroğlu'nu dinlerken bu anlatım biçiminin nasıl kullanıldığına bakıyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "-9gNnNzsAXw",
+        "title": "Osmanlı tarihini canlandıran müze ⚔️",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 53,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/-9gNnNzsAXw/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCB8OKC08yRty0c1wF_Gz8_dp0I5w",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Osmanlı tarihini canlandıran müze ⚔️",
+          "url": "https://www.youtube.com/watch?v=-9gNnNzsAXw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-klasik-kemencenin-sesi-ve-yapimi",
+      "category": "Sanat",
+      "title": "Klasik kemençenin sesi ve yapımı",
+      "subtitle": "Derya Türkan'ın icrası eşliğinde klasik kemençenin yapımına bakıyoruz. Sesin arkasında ahşabın biçimi, teller ve ustanın yaptığı küçük ayarlar var.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Çalgı yapımı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/9h8cb5hvib4/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAwJpUf0wUKBW5oq0ryL4q4Hap8ww",
+        "alt": "Klasik kemençenin sesi ve yapımı — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=9h8cb5hvib4",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Derya Türkan'ın icrası eşliğinde klasik kemençenin yapımına bakıyoruz. Sesin arkasında ahşabın biçimi, teller ve ustanın yaptığı küçük ayarlar var."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "9h8cb5hvib4",
+        "title": "Klasik kemençe 🎻",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 46,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/9h8cb5hvib4/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAwJpUf0wUKBW5oq0ryL4q4Hap8ww",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Klasik kemençe 🎻",
+          "url": "https://www.youtube.com/watch?v=9h8cb5hvib4"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-istanbul-da-bir-mumyayla-karsilasmak",
+      "category": "Tarih",
+      "title": "İstanbul'da bir mumyayla karşılaşmak",
+      "subtitle": "Şark Eserleri Müzesi'ndeki bir mumyaya bakıyoruz. Mumyalanmış bir beden, ölümle ilgili inançların yanında koruma teknikleri hakkında da soru sormamızı sağlar.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Müze koleksiyonları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/CRL6HinWNbk/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLClaFDkJYnziCin9auyfply5Rwz7g",
+        "alt": "İstanbul'da bir mumyayla karşılaşmak — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=CRL6HinWNbk",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Şark Eserleri Müzesi'ndeki bir mumyaya bakıyoruz. Mumyalanmış bir beden, ölümle ilgili inançların yanında koruma teknikleri hakkında da soru sormamızı sağlar."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "CRL6HinWNbk",
+        "title": "İstanbul’da bir mumya ⚰️",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 52,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/CRL6HinWNbk/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLClaFDkJYnziCin9auyfply5Rwz7g",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · İstanbul’da bir mumya ⚰️",
+          "url": "https://www.youtube.com/watch?v=CRL6HinWNbk"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-ani-deki-bir-ermeni-kilisesine-bakalim",
+      "category": "İnanç",
+      "title": "Ani'deki bir Ermeni kilisesine bakalım",
+      "subtitle": "Kars'taki Ani Ören Yeri'nde bir Ermeni kilisesine uğruyoruz. Bir ibadet yapısının taş işçiliği, planı ve bulunduğu çevre, farklı türden tarihsel izler taşır.",
+      "account": "Metnin İzinde",
+      "handle": "metninizinde",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Ani'nin mimarisi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/TMXhh3m6J1A/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAugHBOZGXe8SfoamyCd_L9hs9qBQ&usqp=CCk",
+        "alt": "Ani'deki bir Ermeni kilisesine bakalım — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=TMXhh3m6J1A",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Kars'taki Ani Ören Yeri'nde bir Ermeni kilisesine uğruyoruz. Bir ibadet yapısının taş işçiliği, planı ve bulunduğu çevre, farklı türden tarihsel izler taşır."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "TMXhh3m6J1A",
+        "title": "Kars, Ani Ören Yeri’ndeki Ermeni kilisesi ⛪",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 44,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/TMXhh3m6J1A/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAugHBOZGXe8SfoamyCd_L9hs9qBQ&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Kars, Ani Ören Yeri’ndeki Ermeni kilisesi ⛪",
+          "url": "https://www.youtube.com/watch?v=TMXhh3m6J1A"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-dikis-makinesinin-parcalari-baska-bir-seye-donusuyor",
+      "category": "Sanat",
+      "title": "Dikiş makinesinin parçaları başka bir şeye dönüşüyor",
+      "subtitle": "Eski bir dikiş makinesi, otomobil biçimli bir çalışmanın malzemesi oluyor. İleri dönüşümde nesne yalnızca parçalanıp hammaddeye dönmez; eski parçaları yeni bir işte değerlendirilir.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "İleri dönüşüm",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/ilSkDiFI7jA/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCpgXxZBW8zI9SK1iC3wSOlSnpWSw",
+        "alt": "Dikiş makinesinin parçaları başka bir şeye dönüşüyor — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=ilSkDiFI7jA",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Eski bir dikiş makinesi, otomobil biçimli bir çalışmanın malzemesi oluyor. İleri dönüşümde nesne yalnızca parçalanıp hammaddeye dönmez; eski parçaları yeni bir işte değerlendirilir."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "ilSkDiFI7jA",
+        "title": "Dikiş makinesinden otomobil 🚗",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 31,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/ilSkDiFI7jA/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCpgXxZBW8zI9SK1iC3wSOlSnpWSw",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Dikiş makinesinden otomobil 🚗",
+          "url": "https://www.youtube.com/watch?v=ilSkDiFI7jA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-turkan-soray-seyircileriyle-bulusunca",
+      "category": "Sanat",
+      "title": "Türkan Şoray seyircileriyle buluşunca",
+      "subtitle": "Türkan Şoray, izleyicileriyle karşılaşmalarında yaşadığı duyguları anlatıyor. Bir film bitse de onu izleyen kişinin hayatındaki yeri uzun süre devam edebilir.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Oyuncu ve seyirci",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/lbX3hh2Vpgc/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD2NNHq0c068L-08KoEYRPZXAlcug",
+        "alt": "Türkan Şoray seyircileriyle buluşunca — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=lbX3hh2Vpgc",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Türkan Şoray, izleyicileriyle karşılaşmalarında yaşadığı duyguları anlatıyor. Bir film bitse de onu izleyen kişinin hayatındaki yeri uzun süre devam edebilir."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "lbX3hh2Vpgc",
+        "title": "\"Karşılıklı Ağlaşıyoruz...\" 💝 Türkan Şoray, Seyircileri ile Buluşunca #TürkanŞoray #sinema #film",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 44,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/lbX3hh2Vpgc/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD2NNHq0c068L-08KoEYRPZXAlcug",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · \"Karşılıklı Ağlaşıyoruz...\" 💝 Türkan Şoray, Seyircileri ile Buluşunca #TürkanŞoray #sinema #film",
+          "url": "https://www.youtube.com/watch?v=lbX3hh2Vpgc"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-resimde-renk-neden-gercege-uymak-zorunda-olsun",
+      "category": "Sanat",
+      "title": "Resimde renk neden gerçeğe uymak zorunda olsun?",
+      "subtitle": "Fovizm, güçlü ve serbest renk kullanımıyla anılan bir resim akımı. Bir yüzün ya da ağacın rengini gördüğümüz gibi boyamamak, ressama başka ne anlatma imkânı verir?",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Fovizm",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/MwSYbVQ4Z8A/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDGrq-GdJ30-HMfS1gbAtGTUh5HNg",
+        "alt": "Resimde renk neden gerçeğe uymak zorunda olsun? — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=MwSYbVQ4Z8A",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Fovizm, güçlü ve serbest renk kullanımıyla anılan bir resim akımı. Bir yüzün ya da ağacın rengini gördüğümüz gibi boyamamak, ressama başka ne anlatma imkânı verir?"
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "MwSYbVQ4Z8A",
+        "title": "Fovizm akımı  👀",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 59,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/MwSYbVQ4Z8A/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDGrq-GdJ30-HMfS1gbAtGTUh5HNg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Fovizm akımı  👀",
+          "url": "https://www.youtube.com/watch?v=MwSYbVQ4Z8A"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-oyuncu-bir-anda-bize-donup-konusunca",
+      "category": "Sanat",
+      "title": "Oyuncu bir anda bize dönüp konuşunca",
+      "subtitle": "Bazı yapımlarda karakterler doğrudan seyirciye seslenir. Brecht estetiği üzerinden bu tercihe bakıyoruz: Seyirciyi yalnızca hikâyeye kaptırmak yerine, izlediği şey üzerine düşünmeye çağırmak.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Brecht estetiği",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Exy5uT8z1AY/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD6-OLc7JOAwPCDacTe91ngwOsb_g&usqp=CCk",
+        "alt": "Oyuncu bir anda bize dönüp konuşunca — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=Exy5uT8z1AY",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bazı yapımlarda karakterler doğrudan seyirciye seslenir. Brecht estetiği üzerinden bu tercihe bakıyoruz: Seyirciyi yalnızca hikâyeye kaptırmak yerine, izlediği şey üzerine düşünmeye çağırmak."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Exy5uT8z1AY",
+        "title": "Bu karakterler neden ekrana dönüyorlar? 🤔",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 53,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/Exy5uT8z1AY/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD6-OLc7JOAwPCDacTe91ngwOsb_g&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Bu karakterler neden ekrana dönüyorlar? 🤔",
+          "url": "https://www.youtube.com/watch?v=Exy5uT8z1AY"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-dogadaki-hareket-dijital-esere-donusurse",
+      "category": "Sanat",
+      "title": "Doğadaki hareket dijital esere dönüşürse",
+      "subtitle": "Deniz Töleğen, doğadaki hareketle sanat üretimi arasındaki ilişkiyi anlatıyor. Dijital bir işin kaynağı yalnızca bilgisayarın içindeki fikirler olmak zorunda değil.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Dijital üretim",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/obe93uzQvwk/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDYZHKFrVaBf5UUk60q_a0cJXqofg",
+        "alt": "Doğadaki hareket dijital esere dönüşürse — video önizlemesi",
+        "credit": "TRT 2",
+        "source": "https://www.youtube.com/watch?v=obe93uzQvwk",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Deniz Töleğen, doğadaki hareketle sanat üretimi arasındaki ilişkiyi anlatıyor. Dijital bir işin kaynağı yalnızca bilgisayarın içindeki fikirler olmak zorunda değil."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "obe93uzQvwk",
+        "title": "Yaşamın akışı ve dijital sanat 🎇",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 42,
+        "orientation": "portrait",
+        "publisher": "TRT 2",
+        "poster": "https://i.ytimg.com/vi/obe93uzQvwk/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDYZHKFrVaBf5UUk60q_a0cJXqofg",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TRT 2 · Yaşamın akışı ve dijital sanat 🎇",
+          "url": "https://www.youtube.com/watch?v=obe93uzQvwk"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    }
+  ]
+}

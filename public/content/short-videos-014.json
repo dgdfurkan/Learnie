@@ -1,0 +1,1286 @@
+{
+  "version": 1,
+  "title": "Kısa keşifler 14: belgeselden atölyeye",
+  "posts": [
+    {
+      "id": "kisa-video-ay-a-yolculuk-tek-bir-dogrultuda-gitmek-degil",
+      "category": "Uzay",
+      "title": "Ay'a yolculuk tek bir doğrultuda gitmek değil",
+      "subtitle": "Bir uzay aracını fırlatmak, Ay görevindeki adımlardan yalnızca biri. Uzaklaşma, yön düzeltme ve hedefe yaklaşma aşamaları var. Yolculuğu bir görev planı olarak düşünelim.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Görev planlama",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/R2z_tyUaYeg/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA5EgLV_GfSU9q0JaBYEEX9VggtsA&usqp=CCk",
+        "alt": "Ay'a yolculuk tek bir doğrultuda gitmek değil — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=R2z_tyUaYeg",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bir uzay aracını fırlatmak, Ay görevindeki adımlardan yalnızca biri. Uzaklaşma, yön düzeltme ve hedefe yaklaşma aşamaları var. Yolculuğu bir görev planı olarak düşünelim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "R2z_tyUaYeg",
+        "title": "Ay Yolculuğunun Aşamaları Neler?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 36,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/R2z_tyUaYeg/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA5EgLV_GfSU9q0JaBYEEX9VggtsA&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Ay Yolculuğunun Aşamaları Neler?",
+          "url": "https://www.youtube.com/watch?v=R2z_tyUaYeg"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-turksat-6a-nin-firlatma-donemine-donelim",
+      "category": "Uzay",
+      "title": "TÜRKSAT 6A'nın fırlatma dönemine dönelim",
+      "subtitle": "2024'te fırlatılan TÜRKSAT 6A bir haberleşme uydusu. Bu kayıt o dönemin hazırlıklarını anlatıyor. Yörüngeye bir araç göndermek, yerdeki iletişim altyapısının uzaya uzanan kısmını kurmak demek.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Haberleşme uyduları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/cmWllnkH1Zo/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCkQEAa4ONxHDsw_xqBUZzLR9h0Kg&usqp=CCk",
+        "alt": "TÜRKSAT 6A'nın fırlatma dönemine dönelim — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=cmWllnkH1Zo",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "2024'te fırlatılan TÜRKSAT 6A bir haberleşme uydusu. Bu kayıt o dönemin hazırlıklarını anlatıyor. Yörüngeye bir araç göndermek, yerdeki iletişim altyapısının uzaya uzanan kısmını kurmak demek."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "cmWllnkH1Zo",
+        "title": "🛰TÜRKSAT 6A Haberleşme Uydusu Uzaya Fırlatılıyor  #shorts #uzay",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/cmWllnkH1Zo/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCkQEAa4ONxHDsw_xqBUZzLR9h0Kg&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · 🛰TÜRKSAT 6A Haberleşme Uydusu Uzaya Fırlatılıyor  #shorts #uzay",
+          "url": "https://www.youtube.com/watch?v=cmWllnkH1Zo"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-gokyuzunun-mavisi-nereden-geliyor",
+      "category": "Bilim",
+      "title": "Gökyüzünün mavisi nereden geliyor?",
+      "subtitle": "Güneş ışığı atmosferden geçerken saçılır. Farklı dalga boyları aynı miktarda saçılmadığı için gökyüzüne baktığımızda belirli renkler öne çıkar. Mavi bir kubbenin altında değil, ışığın içindeyiz.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Atmosfer ve ışık",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/FmCBVAzXnfE/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB1cCmFE1I6tE2kT1zohBX7PBWTxg&usqp=CCk",
+        "alt": "Gökyüzünün mavisi nereden geliyor? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=FmCBVAzXnfE",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Güneş ışığı atmosferden geçerken saçılır. Farklı dalga boyları aynı miktarda saçılmadığı için gökyüzüne baktığımızda belirli renkler öne çıkar. Mavi bir kubbenin altında değil, ışığın içindeyiz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "FmCBVAzXnfE",
+        "title": "Hiç düşündünüz mü? Gökyüzü Neden Mavidir?🤔 #bilim #bilimgenç",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 51,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/FmCBVAzXnfE/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB1cCmFE1I6tE2kT1zohBX7PBWTxg&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Hiç düşündünüz mü? Gökyüzü Neden Mavidir?🤔 #bilim #bilimgenç",
+          "url": "https://www.youtube.com/watch?v=FmCBVAzXnfE"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-mavi-bastankarayi-taniyabilecek-misin",
+      "category": "Doğa",
+      "title": "Mavi baştankarayı tanıyabilecek misin?",
+      "subtitle": "Mavi baştankara, çevremizde karşılaşabileceğimiz küçük kuşlardan biri. Rengine, başındaki desene ve sesine bakıyoruz. Bir kuşu tanımaya başlamak için hepsinin adını bilmek gerekmiyor.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Bahçe kuşları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/CtNooyxhp8U/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCdrgirv45gxncUW0_qAEJjRlvsvg&usqp=CCk",
+        "alt": "Mavi baştankarayı tanıyabilecek misin? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=CtNooyxhp8U",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Mavi baştankara, çevremizde karşılaşabileceğimiz küçük kuşlardan biri. Rengine, başındaki desene ve sesine bakıyoruz. Bir kuşu tanımaya başlamak için hepsinin adını bilmek gerekmiyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "CtNooyxhp8U",
+        "title": "Türkiye'nin Mavi Baştankarası",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 49,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/CtNooyxhp8U/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCdrgirv45gxncUW0_qAEJjRlvsvg&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Türkiye'nin Mavi Baştankarası",
+          "url": "https://www.youtube.com/watch?v=CtNooyxhp8U"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-yavas-donen-bir-aracta-bile-tutunmak-zor",
+      "category": "Teknoloji",
+      "title": "Yavaş dönen bir araçta bile tutunmak zor",
+      "subtitle": "Emniyet kemeri simülatöründe bir deneyim izliyoruz. Araçla birlikte hareket eden insanın, hareket değişince de aynı yerde kalacağı garanti değil. Kemerin görevi bu ilişkiyi değiştirmek.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Araç güvenliği",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/cdGjwZgQ2bw/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAF4k0jtMOp0saDDz9engo7wrevUg&usqp=CCk",
+        "alt": "Yavaş dönen bir araçta bile tutunmak zor — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=cdGjwZgQ2bw",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Emniyet kemeri simülatöründe bir deneyim izliyoruz. Araçla birlikte hareket eden insanın, hareket değişince de aynı yerde kalacağı garanti değil. Kemerin görevi bu ilişkiyi değiştirmek."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "cdGjwZgQ2bw",
+        "title": "Emniyet Kemeri Takmanın Önemi",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 59,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/cdGjwZgQ2bw/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAF4k0jtMOp0saDDz9engo7wrevUg&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Emniyet Kemeri Takmanın Önemi",
+          "url": "https://www.youtube.com/watch?v=cdGjwZgQ2bw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-gunes-in-de-bir-yasam-suresi-var",
+      "category": "Uzay",
+      "title": "Güneş'in de bir yaşam süresi var",
+      "subtitle": "Güneş, merkezindeki nükleer tepkimelerle enerji üreten bir yıldız. Bu düzen sonsuza kadar aynı biçimde sürmeyecek. Yıldızların da zaman içinde değiştiğini düşünerek geleceğine bakalım.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Yıldızların yaşamı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/6Z9v4Bu1BuQ/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLAvhV3ebSAkIIvVwachSE10cMIz5Q&usqp=CCk",
+        "alt": "Güneş'in de bir yaşam süresi var — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=6Z9v4Bu1BuQ",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Güneş, merkezindeki nükleer tepkimelerle enerji üreten bir yıldız. Bu düzen sonsuza kadar aynı biçimde sürmeyecek. Yıldızların da zaman içinde değiştiğini düşünerek geleceğine bakalım."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "6Z9v4Bu1BuQ",
+        "title": "Güneş'in Ne Kadar Ömrü Kaldı?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 57,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/6Z9v4Bu1BuQ/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLAvhV3ebSAkIIvVwachSE10cMIz5Q&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Güneş'in Ne Kadar Ömrü Kaldı?",
+          "url": "https://www.youtube.com/watch?v=6Z9v4Bu1BuQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-kecinin-goz-bebegi-neden-yatay",
+      "category": "Doğa",
+      "title": "Keçinin göz bebeği neden yatay?",
+      "subtitle": "Göz bebeklerinin biçimi bütün hayvanlarda aynı değil. Keçilerdeki yatay biçim, çevreyi görme biçimiyle ilişkili. Bir gözün tasarımını, hayvanın nasıl yaşadığıyla birlikte düşünelim.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Hayvanların gözleri",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/5fvh-F9ksq0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAIypqzeKj2bYVs9UURgJFCPYA1vQ&usqp=CCk",
+        "alt": "Keçinin göz bebeği neden yatay? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=5fvh-F9ksq0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Göz bebeklerinin biçimi bütün hayvanlarda aynı değil. Keçilerdeki yatay biçim, çevreyi görme biçimiyle ilişkili. Bir gözün tasarımını, hayvanın nasıl yaşadığıyla birlikte düşünelim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "5fvh-F9ksq0",
+        "title": "❓Keçilerin Göz Bebekleri Neden Dikdörtgen şeklindedir?😮",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 58,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/5fvh-F9ksq0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAIypqzeKj2bYVs9UURgJFCPYA1vQ&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · ❓Keçilerin Göz Bebekleri Neden Dikdörtgen şeklindedir?😮",
+          "url": "https://www.youtube.com/watch?v=5fvh-F9ksq0"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-noel-ile-yilbasi-ayni-gun-degil",
+      "category": "İnanç",
+      "title": "Noel ile yılbaşı aynı gün değil",
+      "subtitle": "Noel, Hristiyan geleneklerinde İsa'nın doğumunun anılmasıyla ilgilidir. Yılbaşı ise kullanılan takvimde yeni yılın başlangıcı. Bazen aynı süslerle karşılaşsak da iki kavramın anlamı farklı.",
+      "account": "Metnin İzinde",
+      "handle": "metninizinde",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Takvim ve gelenek",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/hBXF2G85XJQ/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCYMJy3rTpAZbI2y4D184nYJACtYQ&usqp=CCk",
+        "alt": "Noel ile yılbaşı aynı gün değil — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=hBXF2G85XJQ",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Noel, Hristiyan geleneklerinde İsa'nın doğumunun anılmasıyla ilgilidir. Yılbaşı ise kullanılan takvimde yeni yılın başlangıcı. Bazen aynı süslerle karşılaşsak da iki kavramın anlamı farklı."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "hBXF2G85XJQ",
+        "title": "Noel ve Yılbaşı Aynı Şey mi?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 58,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/hBXF2G85XJQ/oar1.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCYMJy3rTpAZbI2y4D184nYJACtYQ&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Noel ve Yılbaşı Aynı Şey mi?",
+          "url": "https://www.youtube.com/watch?v=hBXF2G85XJQ"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-tek-bir-evren-mi-var",
+      "category": "Uzay",
+      "title": "Tek bir evren mi var?",
+      "subtitle": "Çoklu evren düşüncesi, farklı fizik ve kozmoloji modellerinde karşımıza çıkar. Bu fikirleri doğrulanmış bir başka evren keşfi gibi okumamak gerekiyor. Video, büyük bir araştırma sorusuna giriş yapıyor.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Kozmoloji soruları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/qQdpWsGxm_E/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLDrwepHML-bAF_izpjo5PdSZ70WKQ&usqp=CCk",
+        "alt": "Tek bir evren mi var? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=qQdpWsGxm_E",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Çoklu evren düşüncesi, farklı fizik ve kozmoloji modellerinde karşımıza çıkar. Bu fikirleri doğrulanmış bir başka evren keşfi gibi okumamak gerekiyor. Video, büyük bir araştırma sorusuna giriş yapıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "qQdpWsGxm_E",
+        "title": "Birden Fazla Evren Var Olabilir mi?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 59,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/qQdpWsGxm_E/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLDrwepHML-bAF_izpjo5PdSZ70WKQ&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Birden Fazla Evren Var Olabilir mi?",
+          "url": "https://www.youtube.com/watch?v=qQdpWsGxm_E"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-denizin-hareketinden-elektrik-uretmek",
+      "category": "Teknoloji",
+      "title": "Denizin hareketinden elektrik üretmek",
+      "subtitle": "SOWEC projesi üzerinden dalga enerjisine bakıyoruz. Suyun hareketini kullanılabilir enerjiye çevirmek için bir düzenek gerekir. Dalganın var olmasıyla verimli elektrik üretmek aynı şey değil.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Dalga enerjisi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/kejHnvlDx0o/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAZANtIFdP7MTMy1aMbBXottEqazQ&usqp=CCk",
+        "alt": "Denizin hareketinden elektrik üretmek — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=kejHnvlDx0o",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "SOWEC projesi üzerinden dalga enerjisine bakıyoruz. Suyun hareketini kullanılabilir enerjiye çevirmek için bir düzenek gerekir. Dalganın var olmasıyla verimli elektrik üretmek aynı şey değil."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "kejHnvlDx0o",
+        "title": "Dalga Enerjisi ile Ucuz ve Temiz Enerji",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 49,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/kejHnvlDx0o/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAZANtIFdP7MTMy1aMbBXottEqazQ&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Dalga Enerjisi ile Ucuz ve Temiz Enerji",
+          "url": "https://www.youtube.com/watch?v=kejHnvlDx0o"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-bir-ogrenci-takiminin-hidrojenli-araci",
+      "category": "Teknoloji",
+      "title": "Bir öğrenci takımının hidrojenli aracı",
+      "subtitle": "Ankara Üniversitesi'nin Hidroket ekibinin aracını inceliyoruz. Hidrojen burada bir enerji taşıyıcısı. Aracın nasıl hareket ettiği kadar, enerjinin nereden geldiğini de sormak gerekiyor.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Hidrojenli araçlar",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/bumGKiFddKI/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBq0M8Q2tJ3gZT7lHyja8sbk-7aRw&usqp=CCk",
+        "alt": "Bir öğrenci takımının hidrojenli aracı — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=bumGKiFddKI",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Ankara Üniversitesi'nin Hidroket ekibinin aracını inceliyoruz. Hidrojen burada bir enerji taşıyıcısı. Aracın nasıl hareket ettiği kadar, enerjinin nereden geldiğini de sormak gerekiyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "bumGKiFddKI",
+        "title": "Hidrojen Yakıtlı Araba",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 38,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/bumGKiFddKI/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBq0M8Q2tJ3gZT7lHyja8sbk-7aRw&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Hidrojen Yakıtlı Araba",
+          "url": "https://www.youtube.com/watch?v=bumGKiFddKI"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-ucak-pencereleri-neden-koseli-degil",
+      "category": "Teknoloji",
+      "title": "Uçak pencereleri neden köşeli değil?",
+      "subtitle": "Bir yüzeydeki keskin köşeler, gerilmenin belirli noktalarda yoğunlaşmasına yol açabilir. Uçak penceresinin biçimi yalnızca estetik bir karar değil. Kabinin çalışma koşulları da tasarımı belirliyor.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Uçak tasarımı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.1,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/xE7rjPknj70/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCeZr9D4QEjtFoMmug08il9n9hUtw&usqp=CCk",
+        "alt": "Uçak pencereleri neden köşeli değil? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=xE7rjPknj70",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bir yüzeydeki keskin köşeler, gerilmenin belirli noktalarda yoğunlaşmasına yol açabilir. Uçak penceresinin biçimi yalnızca estetik bir karar değil. Kabinin çalışma koşulları da tasarımı belirliyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "xE7rjPknj70",
+        "title": "Uçak Pencereleri Neden Ovaldir? #bilim #uçak #havacılık",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 69,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/xE7rjPknj70/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCeZr9D4QEjtFoMmug08il9n9hUtw&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Uçak Pencereleri Neden Ovaldir? #bilim #uçak #havacılık",
+          "url": "https://www.youtube.com/watch?v=xE7rjPknj70"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-her-virus-her-bakteriden-kucuk-mu",
+      "category": "Bilim",
+      "title": "Her virüs her bakteriden küçük mü?",
+      "subtitle": "Virüsleri ve bakterileri tek birer boyutta düşünmek yanıltır. Çok büyük virüsler de bulunur. Mikro dünyayı sıralarken isimlerden çok, gerçekten neyi ölçtüğümüze bakmamız gerekiyor.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Mikroskobik dünya",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/D6hYd3KB3nE/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBGaL3628VOdWZWx0GgM99hZfiddw&usqp=CCk",
+        "alt": "Her virüs her bakteriden küçük mü? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=D6hYd3KB3nE",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Virüsleri ve bakterileri tek birer boyutta düşünmek yanıltır. Çok büyük virüsler de bulunur. Mikro dünyayı sıralarken isimlerden çok, gerçekten neyi ölçtüğümüze bakmamız gerekiyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "D6hYd3KB3nE",
+        "title": "Bakterilerden Büyük Virüsler Var mı?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 59,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/D6hYd3KB3nE/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBGaL3628VOdWZWx0GgM99hZfiddw&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Bakterilerden Büyük Virüsler Var mı?",
+          "url": "https://www.youtube.com/watch?v=D6hYd3KB3nE"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-antarktika-ile-uzay-arastirmasinin-baglantisi",
+      "category": "Uzay",
+      "title": "Antarktika ile uzay araştırmasının bağlantısı",
+      "subtitle": "Antarktika'daki araştırmaların uzayla ilişkili tarafına bakıyoruz. Bir gözlem yerini seçerken yalnızca hedefin nerede olduğu değil, o yerin çevre koşulları da önem kazanır.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Kutup araştırmaları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/2a7hHSCJd4o/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAkIQMRBcd9AvoH3qxnh-Bmhd-uew&usqp=CCk",
+        "alt": "Antarktika ile uzay araştırmasının bağlantısı — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=2a7hHSCJd4o",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Antarktika'daki araştırmaların uzayla ilişkili tarafına bakıyoruz. Bir gözlem yerini seçerken yalnızca hedefin nerede olduğu değil, o yerin çevre koşulları da önem kazanır."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "2a7hHSCJd4o",
+        "title": "Antarktika'daki Uzay Çalışmaları",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 47,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/2a7hHSCJd4o/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAkIQMRBcd9AvoH3qxnh-Bmhd-uew&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Antarktika'daki Uzay Çalışmaları",
+          "url": "https://www.youtube.com/watch?v=2a7hHSCJd4o"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-sesi-uzaga-tasiyan-cihazin-gecmisi",
+      "category": "Teknoloji",
+      "title": "Sesi uzağa taşıyan cihazın geçmişi",
+      "subtitle": "Telefonun erken dönemlerine kısa bir yolculuk. Sesin uzaktan duyulabilmesi için önce başka bir biçime çevrilmesi, sonra yeniden sese dönüştürülmesi gerekiyor. Cihazlar değişse de temel soru tanıdık.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Telefon tarihi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/52966IqPO6Q/hq720_2.jpg?sqp=-oaymwEkCJYDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAO092XlxBiN_absUc8LFYaQnKiew",
+        "alt": "Sesi uzağa taşıyan cihazın geçmişi — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=52966IqPO6Q",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Telefonun erken dönemlerine kısa bir yolculuk. Sesin uzaktan duyulabilmesi için önce başka bir biçime çevrilmesi, sonra yeniden sese dönüştürülmesi gerekiyor. Cihazlar değişse de temel soru tanıdık."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "52966IqPO6Q",
+        "title": "Telefonun Kısa Tarihi  #shorts #shortsvideo",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 59,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/52966IqPO6Q/hq720_2.jpg?sqp=-oaymwEkCJYDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAO092XlxBiN_absUc8LFYaQnKiew",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Telefonun Kısa Tarihi  #shorts #shortsvideo",
+          "url": "https://www.youtube.com/watch?v=52966IqPO6Q"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-malzeme-muhendisi-yalnizca-metal-mi-inceler",
+      "category": "Teknoloji",
+      "title": "Malzeme mühendisi yalnızca metal mi inceler?",
+      "subtitle": "Bir malzemenin dayanımı, biçimlenmesi ve kullanım alanı birbiriyle ilişkili. Metalurji ve malzeme mühendisliğinin neyle uğraştığına bakıyoruz. Bölüm adı bir mesleğin bütün işlerini anlatmayabilir.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Malzeme mühendisliği",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/4XwgMwUtuJ8/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCheljueUEoCAt0NRjMQ8cTyUXSOw&usqp=CCk",
+        "alt": "Malzeme mühendisi yalnızca metal mi inceler? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=4XwgMwUtuJ8",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bir malzemenin dayanımı, biçimlenmesi ve kullanım alanı birbiriyle ilişkili. Metalurji ve malzeme mühendisliğinin neyle uğraştığına bakıyoruz. Bölüm adı bir mesleğin bütün işlerini anlatmayabilir."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "4XwgMwUtuJ8",
+        "title": "Metalurji ve Malzeme Mühendisliği Bölümünü Tercih Etmeden Önce İzle #yks #yks2025",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 43,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/4XwgMwUtuJ8/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCheljueUEoCAt0NRjMQ8cTyUXSOw&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Metalurji ve Malzeme Mühendisliği Bölümünü Tercih Etmeden Önce İzle #yks #yks2025",
+          "url": "https://www.youtube.com/watch?v=4XwgMwUtuJ8"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-hucrenin-icinde-ne-oldugunu-kim-arastirir",
+      "category": "Bilim",
+      "title": "Hücrenin içinde ne olduğunu kim araştırır?",
+      "subtitle": "Moleküler biyoloji ve genetik alanına kısa bir giriş. Canlılığı yalnızca görünen organlar üzerinden değil, hücrelerin içindeki moleküller ve bilgi aktarımı üzerinden de inceleyebiliriz.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Moleküler biyoloji",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/EJj2vmQUtE0/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBIcevnPrIG4wM7wz6MFtZyzrWL4Q&usqp=CCk",
+        "alt": "Hücrenin içinde ne olduğunu kim araştırır? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=EJj2vmQUtE0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Moleküler biyoloji ve genetik alanına kısa bir giriş. Canlılığı yalnızca görünen organlar üzerinden değil, hücrelerin içindeki moleküller ve bilgi aktarımı üzerinden de inceleyebiliriz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "EJj2vmQUtE0",
+        "title": "Moleküler Biyoloji ve Genetik Bölümünü tanıttık! 🔬 #yks #yks2025",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 34,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/EJj2vmQUtE0/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBIcevnPrIG4wM7wz6MFtZyzrWL4Q&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Moleküler Biyoloji ve Genetik Bölümünü tanıttık! 🔬 #yks #yks2025",
+          "url": "https://www.youtube.com/watch?v=EJj2vmQUtE0"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-insan-ne-zamandir-ata-biniyor",
+      "category": "Tarih",
+      "title": "İnsan ne zamandır ata biniyor?",
+      "subtitle": "Ata binmenin geçmişini anlamak için yazılı metinlerden önceki kanıtlara da bakmak gerekir. Hayvan kalıntıları ve arkeolojik bulgular, insanla atın ilişkisini araştırmanın yollarından bazıları.",
+      "account": "Eski Defter",
+      "handle": "eskidefter",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Atların evcilleştirilmesi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/sd8DmXBvEro/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCwomd8vAsSrGkhOWKTUMs9N0cQdw&usqp=CCk",
+        "alt": "İnsan ne zamandır ata biniyor? — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=sd8DmXBvEro",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Ata binmenin geçmişini anlamak için yazılı metinlerden önceki kanıtlara da bakmak gerekir. Hayvan kalıntıları ve arkeolojik bulgular, insanla atın ilişkisini araştırmanın yollarından bazıları."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "sd8DmXBvEro",
+        "title": "Ata Binmeye Ne Zaman Başladık?🤔🏇🏻",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 59,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/sd8DmXBvEro/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCwomd8vAsSrGkhOWKTUMs9N0cQdw&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Ata Binmeye Ne Zaman Başladık?🤔🏇🏻",
+          "url": "https://www.youtube.com/watch?v=sd8DmXBvEro"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-fosillesmis-diskidan-ne-ogrenilir",
+      "category": "Bilim",
+      "title": "Fosilleşmiş dışkıdan ne öğrenilir?",
+      "subtitle": "Fosilleşmiş dışkıya koprolit denir. Böyle bir kalıntı, eski bir canlının ne yediğine dair izler taşıyabilir. Fosil deyince yalnızca kemik hayal etmeyelim.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Koprolitler",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Y7l4JkUK_3U/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLB-xdRvMEIbG3QJ_RuojjzxxbJ6zA&usqp=CCk",
+        "alt": "Fosilleşmiş dışkıdan ne öğrenilir? — video önizlemesi",
+        "credit": "Evrim Ağacı",
+        "source": "https://www.youtube.com/watch?v=Y7l4JkUK_3U",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Fosilleşmiş dışkıya koprolit denir. Böyle bir kalıntı, eski bir canlının ne yediğine dair izler taşıyabilir. Fosil deyince yalnızca kemik hayal etmeyelim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Y7l4JkUK_3U",
+        "title": "Dinozor Kakası Neden Önemli?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 57,
+        "orientation": "portrait",
+        "publisher": "Evrim Ağacı",
+        "poster": "https://i.ytimg.com/vi/Y7l4JkUK_3U/oar3.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLB-xdRvMEIbG3QJ_RuojjzxxbJ6zA&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "Evrim Ağacı · Dinozor Kakası Neden Önemli?",
+          "url": "https://www.youtube.com/watch?v=Y7l4JkUK_3U"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "kisa-video-gunes-panellerini-bir-iha-denetlerse",
+      "category": "Teknoloji",
+      "title": "Güneş panellerini bir İHA denetlerse",
+      "subtitle": "Bir güneş enerjisi tesisinde çok sayıda paneli kontrol etmek gerekir. E3TECH projesi, bu işe havadan bakıyor. Bir kameranın nereye yerleştirildiği bile bakım işini değiştirebilir.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Enerji tesislerinde robotlar",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/qrK8_QLpl4Y/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDyGS9GJfu221y1oXuOYUR8XNWBDg&usqp=CCk",
+        "alt": "Güneş panellerini bir İHA denetlerse — video önizlemesi",
+        "credit": "TÜBİTAK Bilim Genç",
+        "source": "https://www.youtube.com/watch?v=qrK8_QLpl4Y",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bir güneş enerjisi tesisinde çok sayıda paneli kontrol etmek gerekir. E3TECH projesi, bu işe havadan bakıyor. Bir kameranın nereye yerleştirildiği bile bakım işini değiştirebilir."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "qrK8_QLpl4Y",
+        "title": "Güneş Enerjisi Santralleri için İHA Projesi",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 39,
+        "orientation": "portrait",
+        "publisher": "TÜBİTAK Bilim Genç",
+        "poster": "https://i.ytimg.com/vi/qrK8_QLpl4Y/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDyGS9GJfu221y1oXuOYUR8XNWBDg&usqp=CCk",
+        "audioLanguage": "tr",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-24"
+      },
+      "sources": [
+        {
+          "label": "TÜBİTAK Bilim Genç · Güneş Enerjisi Santralleri için İHA Projesi",
+          "url": "https://www.youtube.com/watch?v=qrK8_QLpl4Y"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-24"
+    }
+  ]
+}

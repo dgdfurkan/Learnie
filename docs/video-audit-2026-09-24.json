@@ -1,0 +1,3827 @@
+{
+  "checkedAt": "2026-09-24",
+  "notes": "200 additional sources (30–120 seconds), excluding every previously published video ID. Public YouTube metadata verification, not a guarantee of future availability or playback on every device. Actual Turkish caption tracks (including ASR) are required; automatic translation does not count. The videos remain hosted by their publishers.",
+  "videos": [
+    {
+      "postId": "kisa-video-kayaliklarda-bir-dag-kecisi",
+      "videoId": "U-GeJ3rrymg",
+      "url": "https://www.youtube.com/watch?v=U-GeJ3rrymg",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Alp Dağ Keçisi #trt #belgesel #dağkeçisi",
+      "durationSeconds": 53,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-suyu-cekilen-golde-kalan-gemiler",
+      "videoId": "8vsHiRJiTpc",
+      "url": "https://www.youtube.com/watch?v=8vsHiRJiTpc",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Aral Gölü",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-kursubasi-ayni-sicakligin-cevresinde",
+      "videoId": "xFheR5vd61w",
+      "url": "https://www.youtube.com/watch?v=xFheR5vd61w",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Kürsübaşı Geleneği",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bu-koyde-mac-voleybol-maci",
+      "videoId": "d_yJbxofNcM",
+      "url": "https://www.youtube.com/watch?v=d_yJbxofNcM",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Voleybol Oynayan Köy",
+      "durationSeconds": 57,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-seylan-cayinin-basladigi-yer",
+      "videoId": "8N5PIKFiWtw",
+      "url": "https://www.youtube.com/watch?v=8N5PIKFiWtw",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Seylan Çayı",
+      "durationSeconds": 54,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-yesil-anakondaya-yakindan-bakalim",
+      "videoId": "Z3kl8rHpPCQ",
+      "url": "https://www.youtube.com/watch?v=Z3kl8rHpPCQ",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Dünyanın En Büyük Yılanı",
+      "durationSeconds": 53,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-baklavanin-bu-h-linde-elma-var",
+      "videoId": "PPHpOwOZbxE",
+      "url": "https://www.youtube.com/watch?v=PPHpOwOZbxE",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Elmalı Baklava",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-yilana-benziyor-ama-kertenkele",
+      "videoId": "07mBpy2feIw",
+      "url": "https://www.youtube.com/watch?v=07mBpy2feIw",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Oluklu Kertenkele",
+      "durationSeconds": 54,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-morelia-nin-sokaklarina-ugrayalim",
+      "videoId": "Ff_NyqRDt-4",
+      "url": "https://www.youtube.com/watch?v=Ff_NyqRDt-4",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Meksika’nın Kalbi Morelia Şehri #trt #belgesel #meksika #morelia",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-sanayi-atik-alaninda-bir-cekirge",
+      "videoId": "zkT0LCE8Ec4",
+      "url": "https://www.youtube.com/watch?v=zkT0LCE8Ec4",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Mavi Kanatlı Çekirge 🦗",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-1840-tan-once-yasasaydik",
+      "videoId": "dIlC6_SUeEI",
+      "url": "https://www.youtube.com/watch?v=dIlC6_SUeEI",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "1840'tan Önce Ölsek Neleri Kaçıracaktık?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-tarlada-calisirken-kurulan-bir-hayal",
+      "videoId": "hhtFKz6hysk",
+      "url": "https://www.youtube.com/watch?v=hhtFKz6hysk",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Tütün Tarlasında Hayaller",
+      "durationSeconds": 51,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-edirne-buyuk-sinagogu-nun-icine-bakalim",
+      "videoId": "weB-xlQYhw0",
+      "url": "https://www.youtube.com/watch?v=weB-xlQYhw0",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Avrupa’nın en Büyük Üçüncü Sinagogu 🕍",
+      "durationSeconds": 30,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-atilan-gida-baska-bir-ise-yarayabilir",
+      "videoId": "sJ442PnCIII",
+      "url": "https://www.youtube.com/watch?v=sJ442PnCIII",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Türkiye'nin En Büyük Geri Dönüşüm Tesisi 😮",
+      "durationSeconds": 56,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-gozluk-degisince-potayi-tutturmak-zorlasiyor",
+      "videoId": "m5rTT9dsxO4",
+      "url": "https://www.youtube.com/watch?v=m5rTT9dsxO4",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Hedef Saptıran Gözlük İle Basket Nasıl Atılamaz?",
+      "durationSeconds": 55,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-adi-kedi-batmaz-kendisi-bir-yemek",
+      "videoId": "AYqJB2OWMMg",
+      "url": "https://www.youtube.com/watch?v=AYqJB2OWMMg",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "“Kedi Batmaz” Tarifi",
+      "durationSeconds": 30,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-katmerin-incecik-hamuru-nasil-aciliyor",
+      "videoId": "PzT4vdXI_co",
+      "url": "https://www.youtube.com/watch?v=PzT4vdXI_co",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Katmer Hamuru Nasıl Açılır?",
+      "durationSeconds": 30,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-baslik-iki-cografyadan-izler",
+      "videoId": "k90zjhVm0Os",
+      "url": "https://www.youtube.com/watch?v=k90zjhVm0Os",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Türk Börkü ⚔️ Svan Beresi",
+      "durationSeconds": 52,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-akide-sekerinin-tezg-htaki-yolculugu",
+      "videoId": "nTrL8OtZ998",
+      "url": "https://www.youtube.com/watch?v=nTrL8OtZ998",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Akide Şekeri 🍬",
+      "durationSeconds": 30,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-yagli-guresin-gecmisine-kisa-bir-bakis",
+      "videoId": "nIsL7me3HKY",
+      "url": "https://www.youtube.com/watch?v=nIsL7me3HKY",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Yağlı Güreşin Kısa Tarihi",
+      "durationSeconds": 53,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-arkeolog-icin-diski-da-bir-kaynak",
+      "videoId": "hreeCGE2r5g",
+      "url": "https://www.youtube.com/watch?v=hreeCGE2r5g",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Koyun Dışkısından Tarih Okumak 🤔",
+      "durationSeconds": 30,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ren-geyikleriyle-kurulan-bir-hayat",
+      "videoId": "aXzyzQj2jiU",
+      "url": "https://www.youtube.com/watch?v=aXzyzQj2jiU",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Ren Geyiği İnsanları",
+      "durationSeconds": 42,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-tuna-nin-denize-acildigi-yerde",
+      "videoId": "nRJif2SssTY",
+      "url": "https://www.youtube.com/watch?v=nRJif2SssTY",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Tuna Deltası",
+      "durationSeconds": 30,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-osmanli-sehrinde-copu-kim-topluyordu",
+      "videoId": "59dz3UAMkR0",
+      "url": "https://www.youtube.com/watch?v=59dz3UAMkR0",
+      "publisher": "TRT Belgesel",
+      "sourceTitle": "Osmanlı'da Çöpler Nasıl Toplanırdı?",
+      "durationSeconds": 34,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-kahramanmaras-in-madalyasi",
+      "videoId": "XcK3DfIxTq4",
+      "url": "https://www.youtube.com/watch?v=XcK3DfIxTq4",
+      "publisher": "TRT 2",
+      "sourceTitle": "Kahramanmaraş 🇹🇷",
+      "durationSeconds": 50,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-hayvani-gormek-baska-fotograflamak-baska",
+      "videoId": "WPujNz_1n4s",
+      "url": "https://www.youtube.com/watch?v=WPujNz_1n4s",
+      "publisher": "TRT 2",
+      "sourceTitle": "Yaban hayatı fotoğrafçılığı 📸",
+      "durationSeconds": 54,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-filiz-akin-in-unutamadigi-sahne",
+      "videoId": "FTgfiFH9urw",
+      "url": "https://www.youtube.com/watch?v=FTgfiFH9urw",
+      "publisher": "TRT 2",
+      "sourceTitle": "Gözyaşlarına Boğan O Sahne - Filiz Akın Anlatıyor #TRT2 #Shorts #FilizAkın #sinema #film #sanat",
+      "durationSeconds": 47,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "tr.4",
+        "en-US.10"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-sanatcinin-arsivinde-neler-bulunur",
+      "videoId": "-WpH_dz2v5E",
+      "url": "https://www.youtube.com/watch?v=-WpH_dz2v5E",
+      "publisher": "TRT 2",
+      "sourceTitle": "Sanatçı Handan Börüteçene arşivi",
+      "durationSeconds": 43,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "en-US.10",
+        "tr.4"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-cobanliktan-guzel-sanatlara",
+      "videoId": "XnULWIxeAfE",
+      "url": "https://www.youtube.com/watch?v=XnULWIxeAfE",
+      "publisher": "TRT 2",
+      "sourceTitle": "Çoban ressam 🎨",
+      "durationSeconds": 53,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-gordion-dugumu-neyin-hik-yesi",
+      "videoId": "FVF6jQVNvPQ",
+      "url": "https://www.youtube.com/watch?v=FVF6jQVNvPQ",
+      "publisher": "TRT 2",
+      "sourceTitle": "Gordion Düğümü 🎀",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-cizilmis-bir-karakter-nasil-canlanir",
+      "videoId": "PhmPJI4It78",
+      "url": "https://www.youtube.com/watch?v=PhmPJI4It78",
+      "publisher": "TRT 2",
+      "sourceTitle": "Çizgi animasyon yapımında “canlandırma sanatçılığı“nı İsa Doğmuş anlatıyor. 💻",
+      "durationSeconds": 40,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-kamerayla-cumhuriyet-in-ilk-yillarina-bakmak",
+      "videoId": "5RLctVkp9Pg",
+      "url": "https://www.youtube.com/watch?v=5RLctVkp9Pg",
+      "publisher": "TRT 2",
+      "sourceTitle": "Münir Hayri Egeli | Tarihin Ruhu",
+      "durationSeconds": 51,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-postanenin-sesinden-piyano-bestesine",
+      "videoId": "eSv4rFdSJR8",
+      "url": "https://www.youtube.com/watch?v=eSv4rFdSJR8",
+      "publisher": "TRT 2",
+      "sourceTitle": "Postanedeki Seslerden İlhamla Yaptığı Bestesi ile Piyanist Büşra Kayıkçı   #müzik #piyano #TRT2",
+      "durationSeconds": 55,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "tr.4",
+        "en-US.10"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-filmdeki-ayak-sesi-gercekten-o-an-mi-kaydedildi",
+      "videoId": "ep4Mc6JM2g4",
+      "url": "https://www.youtube.com/watch?v=ep4Mc6JM2g4",
+      "publisher": "TRT 2",
+      "sourceTitle": "Foley Sanatının İncelikleri #TRT2 #Shorts #sanat #foley #sanatçı #kültür #film #dizi #sinema",
+      "durationSeconds": 35,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "tr.4",
+        "en-US.10"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-zanaat-sonraki-kusaga-nasil-gecer",
+      "videoId": "aLYxqjY0_zU",
+      "url": "https://www.youtube.com/watch?v=aLYxqjY0_zU",
+      "publisher": "TRT 2",
+      "sourceTitle": "Dededen Toruna Kültür Aktarımını Hedefleyen Zeno Buluşmaları #Trabzon #Karadeniz #TRT2 #shorts",
+      "durationSeconds": 52,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "tr.4",
+        "en-US.10"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-tozkoparan-iskender-kimdi",
+      "videoId": "lH0MLJo7f8Y",
+      "url": "https://www.youtube.com/watch?v=lH0MLJo7f8Y",
+      "publisher": "TRT 2",
+      "sourceTitle": "Tozkoparan İskender 🏹",
+      "durationSeconds": 51,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-gece-kusu-nun-arkasindaki-hik-ye",
+      "videoId": "sZEsEcuw8_I",
+      "url": "https://www.youtube.com/watch?v=sZEsEcuw8_I",
+      "publisher": "TRT 2",
+      "sourceTitle": "“Gece Kuşu”nun hikayesi 📺",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-animator-baska-bir-ustadan-ne-ogrenir",
+      "videoId": "o4LNCirQHqs",
+      "url": "https://www.youtube.com/watch?v=o4LNCirQHqs",
+      "publisher": "TRT 2",
+      "sourceTitle": "Animasyonda kültür harmanı 🤝",
+      "durationSeconds": 53,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-renge-neden-turk-kirmizisi-denmis",
+      "videoId": "psJQuLPigO8",
+      "url": "https://www.youtube.com/watch?v=psJQuLPigO8",
+      "publisher": "TRT 2",
+      "sourceTitle": "“Türk kırmızısı” 🇹🇷",
+      "durationSeconds": 35,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ayse-isik-in-resim-yapma-yolu",
+      "videoId": "0XAppk6oyMY",
+      "url": "https://www.youtube.com/watch?v=0XAppk6oyMY",
+      "publisher": "TRT 2",
+      "sourceTitle": "Ayaklarıyla Resim Yapan Ressam Ayşe Işık'ın Sanat Yolculuğu #TRT2 #Shorts #resim #ressam #sanat",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "en-US.10",
+        "tr.4"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-iyi-fotograf-yalnizca-makineyle-mi-ilgili",
+      "videoId": "i_jp2Y5s_hM",
+      "url": "https://www.youtube.com/watch?v=i_jp2Y5s_hM",
+      "publisher": "TRT 2",
+      "sourceTitle": "Mehmet Turgut 🗣️",
+      "durationSeconds": 54,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-semih-irtes-in-nakkaslik-dunyasi",
+      "videoId": "S_KTRS0SN4c",
+      "url": "https://www.youtube.com/watch?v=S_KTRS0SN4c",
+      "publisher": "TRT 2",
+      "sourceTitle": "\"Yaşayan İnsan Hazinesi\" Semih İrteş 🖌️",
+      "durationSeconds": 51,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-heykeli-yalnizca-ayrintisiyla-degerlendirebilir-miyiz",
+      "videoId": "sTObhLoHIXo",
+      "url": "https://www.youtube.com/watch?v=sTObhLoHIXo",
+      "publisher": "TRT 2",
+      "sourceTitle": "“Bütün, parçadan önemlidir.”",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ediz-hun-un-ilk-set-heyecani",
+      "videoId": "rRqtHB0zlQ0",
+      "url": "https://www.youtube.com/watch?v=rRqtHB0zlQ0",
+      "publisher": "TRT 2",
+      "sourceTitle": "Ediz Hun ilk set heyecanını paylaşıyor. 🎥",
+      "durationSeconds": 52,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-aytmatov-un-cocuklugu-hangi-dunyada-gecti",
+      "videoId": "fFH-U8Op3sg",
+      "url": "https://www.youtube.com/watch?v=fFH-U8Op3sg",
+      "publisher": "TRT 2",
+      "sourceTitle": "Acı tecrübelerin yazarı📚",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-buyuk-taarruz-sonrasinda-ankara",
+      "videoId": "zTyoHxHjFKA",
+      "url": "https://www.youtube.com/watch?v=zTyoHxHjFKA",
+      "publisher": "TRT 2",
+      "sourceTitle": "Büyük Taarruz zaferi sonrası kameralar Ankara'da🇹🇷 🎥",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-sisifos-un-bitmeyen-isi",
+      "videoId": "HsdQ1KbhO1A",
+      "url": "https://www.youtube.com/watch?v=HsdQ1KbhO1A",
+      "publisher": "TRT 2",
+      "sourceTitle": "Ölümü Yenen Ölümlü",
+      "durationSeconds": 50,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-sadettin-okten-le-zamanin-kiymeti-uzerine",
+      "videoId": "B01Vz10ic54",
+      "url": "https://www.youtube.com/watch?v=B01Vz10ic54",
+      "publisher": "TRT 2",
+      "sourceTitle": "\"Bize Ümitsizlik Uğrayamaz\" - Sadettin Ökten #TRT2 #shorts #İslam #Müslüman #sohbet #keşfet #dua",
+      "durationSeconds": 54,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "en-US.10",
+        "tr.4"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-troya-dan-cikan-bir-eserin-yolculugu",
+      "videoId": "03Abo0MLASk",
+      "url": "https://www.youtube.com/watch?v=03Abo0MLASk",
+      "publisher": "TRT 2",
+      "sourceTitle": "Truva kazılarından çıkan bir tarihi eserin enteresan yakalanma hikâyesi…",
+      "durationSeconds": 56,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-udun-sesine-kisa-bir-mola",
+      "videoId": "L4hq8G0KNBY",
+      "url": "https://www.youtube.com/watch?v=L4hq8G0KNBY",
+      "publisher": "TRT 2",
+      "sourceTitle": "Udi Necati Çelik 🎶",
+      "durationSeconds": 48,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-kazi-alaninin-bekcisi-kendi-kitabini-yazarsa",
+      "videoId": "cuWvZ1pcM3w",
+      "url": "https://www.youtube.com/watch?v=cuWvZ1pcM3w",
+      "publisher": "TRT 2",
+      "sourceTitle": "Bekçilikten yazarlığa ✍🏻",
+      "durationSeconds": 56,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-kucuk-figurlerle-bir-tarih-sahnesi-kurmak",
+      "videoId": "-9gNnNzsAXw",
+      "url": "https://www.youtube.com/watch?v=-9gNnNzsAXw",
+      "publisher": "TRT 2",
+      "sourceTitle": "Osmanlı tarihini canlandıran müze ⚔️",
+      "durationSeconds": 53,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-klasik-kemencenin-sesi-ve-yapimi",
+      "videoId": "9h8cb5hvib4",
+      "url": "https://www.youtube.com/watch?v=9h8cb5hvib4",
+      "publisher": "TRT 2",
+      "sourceTitle": "Klasik kemençe 🎻",
+      "durationSeconds": 46,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-istanbul-da-bir-mumyayla-karsilasmak",
+      "videoId": "CRL6HinWNbk",
+      "url": "https://www.youtube.com/watch?v=CRL6HinWNbk",
+      "publisher": "TRT 2",
+      "sourceTitle": "İstanbul’da bir mumya ⚰️",
+      "durationSeconds": 52,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ani-deki-bir-ermeni-kilisesine-bakalim",
+      "videoId": "TMXhh3m6J1A",
+      "url": "https://www.youtube.com/watch?v=TMXhh3m6J1A",
+      "publisher": "TRT 2",
+      "sourceTitle": "Kars, Ani Ören Yeri’ndeki Ermeni kilisesi ⛪",
+      "durationSeconds": 44,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-dikis-makinesinin-parcalari-baska-bir-seye-donusuyor",
+      "videoId": "ilSkDiFI7jA",
+      "url": "https://www.youtube.com/watch?v=ilSkDiFI7jA",
+      "publisher": "TRT 2",
+      "sourceTitle": "Dikiş makinesinden otomobil 🚗",
+      "durationSeconds": 31,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-turkan-soray-seyircileriyle-bulusunca",
+      "videoId": "lbX3hh2Vpgc",
+      "url": "https://www.youtube.com/watch?v=lbX3hh2Vpgc",
+      "publisher": "TRT 2",
+      "sourceTitle": "\"Karşılıklı Ağlaşıyoruz...\" 💝 Türkan Şoray, Seyircileri ile Buluşunca #TürkanŞoray #sinema #film",
+      "durationSeconds": 44,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "en-US.10",
+        "tr.4"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-resimde-renk-neden-gercege-uymak-zorunda-olsun",
+      "videoId": "MwSYbVQ4Z8A",
+      "url": "https://www.youtube.com/watch?v=MwSYbVQ4Z8A",
+      "publisher": "TRT 2",
+      "sourceTitle": "Fovizm akımı  👀",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-oyuncu-bir-anda-bize-donup-konusunca",
+      "videoId": "Exy5uT8z1AY",
+      "url": "https://www.youtube.com/watch?v=Exy5uT8z1AY",
+      "publisher": "TRT 2",
+      "sourceTitle": "Bu karakterler neden ekrana dönüyorlar? 🤔",
+      "durationSeconds": 53,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-dogadaki-hareket-dijital-esere-donusurse",
+      "videoId": "obe93uzQvwk",
+      "url": "https://www.youtube.com/watch?v=obe93uzQvwk",
+      "publisher": "TRT 2",
+      "sourceTitle": "Yaşamın akışı ve dijital sanat 🎇",
+      "durationSeconds": 42,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-mazhar-alanson-un-ilk-turkce-sarkilari",
+      "videoId": "UPfdoUcTuoE",
+      "url": "https://www.youtube.com/watch?v=UPfdoUcTuoE",
+      "publisher": "TRT 2",
+      "sourceTitle": "İlk Türkçe şarkıları 🎵",
+      "durationSeconds": 56,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-buyukustanin-satrancla-iliskisi",
+      "videoId": "DO3wj4Y_VUc",
+      "url": "https://www.youtube.com/watch?v=DO3wj4Y_VUc",
+      "publisher": "TRT 2",
+      "sourceTitle": "Türkiye’nin satranç ustası  ♟️",
+      "durationSeconds": 51,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-magaradaki-golgeleri-gercek-sanmak",
+      "videoId": "PyWgWfWCpRo",
+      "url": "https://www.youtube.com/watch?v=PyWgWfWCpRo",
+      "publisher": "TRT 2",
+      "sourceTitle": "Mağara Alegorisi ⛓️",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-rustem-pasa-camii-nin-cinilerine-bakalim",
+      "videoId": "v78EZzPOvic",
+      "url": "https://www.youtube.com/watch?v=v78EZzPOvic",
+      "publisher": "TRT 2",
+      "sourceTitle": "Rüstem Paşa Camii 🕌",
+      "durationSeconds": 49,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-aikidonun-hareketlerin-otesindeki-tarafi",
+      "videoId": "QfgPP-Gyfz4",
+      "url": "https://www.youtube.com/watch?v=QfgPP-Gyfz4",
+      "publisher": "TRT 2",
+      "sourceTitle": "Aikido felsefesi 🥋",
+      "durationSeconds": 57,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-yasadigin-yer-sana-ne-ogretir",
+      "videoId": "A2RGp3AkxJI",
+      "url": "https://www.youtube.com/watch?v=A2RGp3AkxJI",
+      "publisher": "TRT 2",
+      "sourceTitle": "Ercan Kesal’ın tanımıyla “coğrafyanın müfredatı” ⛰️",
+      "durationSeconds": 55,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-orhan-kemal-in-romanlarinda-umut",
+      "videoId": "ZPxwn9MVyU8",
+      "url": "https://www.youtube.com/watch?v=ZPxwn9MVyU8",
+      "publisher": "TRT 2",
+      "sourceTitle": "Orhan Kemal’in Romanlarında Umut #TRT2 #Shorts #OrhanKemal #yazar",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "en-US.10",
+        "tr.4"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-balede-bir-karakter-nasil-anlatilir",
+      "videoId": "KxiZGX2IGII",
+      "url": "https://www.youtube.com/watch?v=KxiZGX2IGII",
+      "publisher": "TRT 2",
+      "sourceTitle": "Bale 👟",
+      "durationSeconds": 50,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-stand-up-gosterisi-nasil-hazirlanir",
+      "videoId": "LYxUlmDjlR0",
+      "url": "https://www.youtube.com/watch?v=LYxUlmDjlR0",
+      "publisher": "TRT 2",
+      "sourceTitle": "Doğu Demirkol, stand-up gösterilerini nasıl hazırladığını anlatıyor. 🎭",
+      "durationSeconds": 31,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-geometrik-bicimler-anadolu-yla-bulusunca",
+      "videoId": "PoCUTtz4JgQ",
+      "url": "https://www.youtube.com/watch?v=PoCUTtz4JgQ",
+      "publisher": "TRT 2",
+      "sourceTitle": "\"Anadolu Kübizmi\"",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "en-US.10",
+        "tr.4"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-calisma-hayati-bir-oyuncuya-ne-kazandirir",
+      "videoId": "6pfk10Ebm1c",
+      "url": "https://www.youtube.com/watch?v=6pfk10Ebm1c",
+      "publisher": "TRT 2",
+      "sourceTitle": "Sinan Çalışkan, çalışma hayatının oyuncuya kazandırdığı gözlem gücünü anlatıyor. 🎭",
+      "durationSeconds": 53,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-dort-bin-yillik-bir-yaziyi-okuyabilmek",
+      "videoId": "SsE3LCKnUns",
+      "url": "https://www.youtube.com/watch?v=SsE3LCKnUns",
+      "publisher": "TRT 2",
+      "sourceTitle": "4 bin yıl önce ile bağlantı kurmak 📜",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ayni-oyun-bambaska-taslar",
+      "videoId": "lJdP4zethuE",
+      "url": "https://www.youtube.com/watch?v=lJdP4zethuE",
+      "publisher": "TRT 2",
+      "sourceTitle": "Satranç takımlarıyla kültür yolculuğu ♟️",
+      "durationSeconds": 57,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-antik-hamamda-da-pazarlik-varmis",
+      "videoId": "aBiKuTYgoqo",
+      "url": "https://www.youtube.com/watch?v=aBiKuTYgoqo",
+      "publisher": "TRT 2",
+      "sourceTitle": "Antik Çağ’da hamam kavgası 😅",
+      "durationSeconds": 48,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-caz-ve-tango-burada-nasil-bir-ses-buldu",
+      "videoId": "b72Wixm9BGk",
+      "url": "https://www.youtube.com/watch?v=b72Wixm9BGk",
+      "publisher": "TRT 2",
+      "sourceTitle": "Türk caz ve tango musikisi",
+      "durationSeconds": 56,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "en-US.10",
+        "tr.4"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-zamanlar-mavinin-bedeli-cok-yuksekti",
+      "videoId": "_gHPKzaND7Q",
+      "url": "https://www.youtube.com/watch?v=_gHPKzaND7Q",
+      "publisher": "TRT 2",
+      "sourceTitle": "Rönesans’ın en pahalı rengi 🖌️",
+      "durationSeconds": 55,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-1970-lerin-kapalicarsi-sinda-kisa-bir-tur",
+      "videoId": "-J1HE4JFz7c",
+      "url": "https://www.youtube.com/watch?v=-J1HE4JFz7c",
+      "publisher": "TRT 2",
+      "sourceTitle": "1970'lerde Kapalıçarşı 📽️",
+      "durationSeconds": 54,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-sener-sen-le-ayni-evi-paylasmak",
+      "videoId": "HqHHUndYyPs",
+      "url": "https://www.youtube.com/watch?v=HqHHUndYyPs",
+      "publisher": "TRT 2",
+      "sourceTitle": "Şener Şen ile Ev Arkadaşlığı Dönemi Anısıyla Kayhan Yıldızoğlu #TRT2  #ŞenerŞen #oyuncu #dizi",
+      "durationSeconds": 56,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "tr.4",
+        "en-US.10"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-yere-gitmekle-onu-fotograflamak-arasindaki-fark",
+      "videoId": "M8Cwa5fTEQo",
+      "url": "https://www.youtube.com/watch?v=M8Cwa5fTEQo",
+      "publisher": "TRT 2",
+      "sourceTitle": "Seyahat fotoğrafçılığı 📸",
+      "durationSeconds": 57,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-eski-kot-pantolonlardan-bir-yuz-cikiyor",
+      "videoId": "QlBYojMbsiM",
+      "url": "https://www.youtube.com/watch?v=QlBYojMbsiM",
+      "publisher": "TRT 2",
+      "sourceTitle": "Denim pantolondan portreler 👖",
+      "durationSeconds": 57,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-tophane-kiyisinda-bir-sinan-yapisi",
+      "videoId": "btDuilcJx_c",
+      "url": "https://www.youtube.com/watch?v=btDuilcJx_c",
+      "publisher": "TRT 2",
+      "sourceTitle": "Denizin Üzerine Kurulan İlk Camii 🕌",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-gramofonun-yeniden-ses-vermesi",
+      "videoId": "gfAjTH1020g",
+      "url": "https://www.youtube.com/watch?v=gfAjTH1020g",
+      "publisher": "TRT 2",
+      "sourceTitle": "Gramofon Baba 💿",
+      "durationSeconds": 57,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-halide-edib-in-cocuklugunda-ramazan",
+      "videoId": "eNNAQhpdjmE",
+      "url": "https://www.youtube.com/watch?v=eNNAQhpdjmE",
+      "publisher": "TRT 2",
+      "sourceTitle": "Mor Salkımlı Ev ve Ramazan | Edebiyat Söyleşileri",
+      "durationSeconds": 52,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-tenor-murat-karahan-a-kulak-verelim",
+      "videoId": "nwkuyF69c70",
+      "url": "https://www.youtube.com/watch?v=nwkuyF69c70",
+      "publisher": "TRT 2",
+      "sourceTitle": "Uluslararası birçok başarıya imza atan tenor Murat Karahan’a kulak verelim. ☺️ #kültür #sanat #opera",
+      "durationSeconds": 52,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bozuk-sandigin-ses-bir-muzik-diline-donusurse",
+      "videoId": "eHrWss6czYI",
+      "url": "https://www.youtube.com/watch?v=eHrWss6czYI",
+      "publisher": "TRT 2",
+      "sourceTitle": "Rock Müziği Değiştiren Bozuk Hoparlör 🎸",
+      "durationSeconds": 53,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-ressamin-gozunden-eski-istanbul",
+      "videoId": "hHYZyALUWM0",
+      "url": "https://www.youtube.com/watch?v=hHYZyALUWM0",
+      "publisher": "TRT 2",
+      "sourceTitle": "Hoca Ali Rıza 🖌️",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-cizimi-silmek-de-eser-sayilir-mi",
+      "videoId": "kXCfNHEfxbw",
+      "url": "https://www.youtube.com/watch?v=kXCfNHEfxbw",
+      "publisher": "TRT 2",
+      "sourceTitle": "Silinmiş De Kooning Çizimi",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-eski-bir-gelenek-yeni-bir-resimde-nasil-yasar",
+      "videoId": "uvWo62uvYCI",
+      "url": "https://www.youtube.com/watch?v=uvWo62uvYCI",
+      "publisher": "TRT 2",
+      "sourceTitle": "Türk sanatı 🖌️",
+      "durationSeconds": 53,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-roketi-yere-indirmek-yerine-yakaladilar",
+      "videoId": "1f4Ajk55Ujc",
+      "url": "https://www.youtube.com/watch?v=1f4Ajk55Ujc",
+      "publisher": "Barış Özcan",
+      "sourceTitle": "SpaceX'in Starship 5. denemesinde itici roketi havada yakaladılar!",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-sifir-yalnizca-hicbir-sey-demek-degil",
+      "videoId": "6EWEC6574to",
+      "url": "https://www.youtube.com/watch?v=6EWEC6574to",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Sıfırın Keşfi #tarih  #bilim",
+      "durationSeconds": 46,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "tr.4",
+        "en-US.10"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ankara-da-bir-biyosfer-muzesi",
+      "videoId": "upPXSpq1QtM",
+      "url": "https://www.youtube.com/watch?v=upPXSpq1QtM",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Biyosfer Müze'de Neler var?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "en-US.10",
+        "tr.4"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-col-deyince-neden-hep-sicak-dusunuyoruz",
+      "videoId": "DlSytcLyxKM",
+      "url": "https://www.youtube.com/watch?v=DlSytcLyxKM",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Çöle Kar Yağar mı?",
+      "durationSeconds": 56,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-kopege-benzeyen-robot-ne-is-yapiyor",
+      "videoId": "aH4HhJhz0YI",
+      "url": "https://www.youtube.com/watch?v=aH4HhJhz0YI",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "İşte karşınızda robot köpek Voltran!",
+      "durationSeconds": 33,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-patent-fikri-nereden-cikti",
+      "videoId": "AGyRe_4JkCo",
+      "url": "https://www.youtube.com/watch?v=AGyRe_4JkCo",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Dünya’daki İlk Patent Neye Verildi?",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-laktozsuz-sut-nasil-elde-ediliyor",
+      "videoId": "gbMRLGjTX1w",
+      "url": "https://www.youtube.com/watch?v=gbMRLGjTX1w",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Laktozsuz Süt Nedir? 🥛",
+      "durationSeconds": 54,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-penguen-diskisinin-rengi-ne-anlatir",
+      "videoId": "GqEKhpJ7fqU",
+      "url": "https://www.youtube.com/watch?v=GqEKhpJ7fqU",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Penguenlerin Dışkısı Neden Pembedir? #shorts #penguen",
+      "durationSeconds": 53,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-universite-ekibi-kendi-gunes-arabasini-yaparsa",
+      "videoId": "dtZzQ_ikKMQ",
+      "url": "https://www.youtube.com/watch?v=dtZzQ_ikKMQ",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Güneş Enerjisi ile Çalışan Araç!",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-lego-yaparken-matematik-de-calisiyor-muyuz",
+      "videoId": "ZSMNmPMlUAw",
+      "url": "https://www.youtube.com/watch?v=ZSMNmPMlUAw",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "❓LEGO Matematik Öğrenmeyi Kolaylaştırıyor mu?🤔😮",
+      "durationSeconds": 54,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-lemurlarin-dunyasina-girelim",
+      "videoId": "s8ugwN1_am0",
+      "url": "https://www.youtube.com/watch?v=s8ugwN1_am0",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Lemurları Ne Kadar Tanıyoruz?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ay-a-bakmak-yetmez-olcmek-de-gerekir",
+      "videoId": "VKiqbFnBu_0",
+      "url": "https://www.youtube.com/watch?v=VKiqbFnBu_0",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Ay Radyometresi ile Gizemleri Keşfediyoruz! 🌕 #uzay",
+      "durationSeconds": 31,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ay-a-yolculuk-tek-bir-dogrultuda-gitmek-degil",
+      "videoId": "R2z_tyUaYeg",
+      "url": "https://www.youtube.com/watch?v=R2z_tyUaYeg",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Ay Yolculuğunun Aşamaları Neler?",
+      "durationSeconds": 36,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-turksat-6a-nin-firlatma-donemine-donelim",
+      "videoId": "cmWllnkH1Zo",
+      "url": "https://www.youtube.com/watch?v=cmWllnkH1Zo",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "🛰TÜRKSAT 6A Haberleşme Uydusu Uzaya Fırlatılıyor  #shorts #uzay",
+      "durationSeconds": 60,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-gokyuzunun-mavisi-nereden-geliyor",
+      "videoId": "FmCBVAzXnfE",
+      "url": "https://www.youtube.com/watch?v=FmCBVAzXnfE",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Hiç düşündünüz mü? Gökyüzü Neden Mavidir?🤔 #bilim #bilimgenç",
+      "durationSeconds": 51,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-mavi-bastankarayi-taniyabilecek-misin",
+      "videoId": "CtNooyxhp8U",
+      "url": "https://www.youtube.com/watch?v=CtNooyxhp8U",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Türkiye'nin Mavi Baştankarası",
+      "durationSeconds": 49,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-yavas-donen-bir-aracta-bile-tutunmak-zor",
+      "videoId": "cdGjwZgQ2bw",
+      "url": "https://www.youtube.com/watch?v=cdGjwZgQ2bw",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Emniyet Kemeri Takmanın Önemi",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-gunes-in-de-bir-yasam-suresi-var",
+      "videoId": "6Z9v4Bu1BuQ",
+      "url": "https://www.youtube.com/watch?v=6Z9v4Bu1BuQ",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Güneş'in Ne Kadar Ömrü Kaldı?",
+      "durationSeconds": 57,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-kecinin-goz-bebegi-neden-yatay",
+      "videoId": "5fvh-F9ksq0",
+      "url": "https://www.youtube.com/watch?v=5fvh-F9ksq0",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "❓Keçilerin Göz Bebekleri Neden Dikdörtgen şeklindedir?😮",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-noel-ile-yilbasi-ayni-gun-degil",
+      "videoId": "hBXF2G85XJQ",
+      "url": "https://www.youtube.com/watch?v=hBXF2G85XJQ",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Noel ve Yılbaşı Aynı Şey mi?",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-tek-bir-evren-mi-var",
+      "videoId": "qQdpWsGxm_E",
+      "url": "https://www.youtube.com/watch?v=qQdpWsGxm_E",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Birden Fazla Evren Var Olabilir mi?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-denizin-hareketinden-elektrik-uretmek",
+      "videoId": "kejHnvlDx0o",
+      "url": "https://www.youtube.com/watch?v=kejHnvlDx0o",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Dalga Enerjisi ile Ucuz ve Temiz Enerji",
+      "durationSeconds": 49,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-ogrenci-takiminin-hidrojenli-araci",
+      "videoId": "bumGKiFddKI",
+      "url": "https://www.youtube.com/watch?v=bumGKiFddKI",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Hidrojen Yakıtlı Araba",
+      "durationSeconds": 38,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ucak-pencereleri-neden-koseli-degil",
+      "videoId": "xE7rjPknj70",
+      "url": "https://www.youtube.com/watch?v=xE7rjPknj70",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Uçak Pencereleri Neden Ovaldir? #bilim #uçak #havacılık",
+      "durationSeconds": 69,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-her-virus-her-bakteriden-kucuk-mu",
+      "videoId": "D6hYd3KB3nE",
+      "url": "https://www.youtube.com/watch?v=D6hYd3KB3nE",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Bakterilerden Büyük Virüsler Var mı?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-antarktika-ile-uzay-arastirmasinin-baglantisi",
+      "videoId": "2a7hHSCJd4o",
+      "url": "https://www.youtube.com/watch?v=2a7hHSCJd4o",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Antarktika'daki Uzay Çalışmaları",
+      "durationSeconds": 47,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-sesi-uzaga-tasiyan-cihazin-gecmisi",
+      "videoId": "52966IqPO6Q",
+      "url": "https://www.youtube.com/watch?v=52966IqPO6Q",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Telefonun Kısa Tarihi  #shorts #shortsvideo",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-malzeme-muhendisi-yalnizca-metal-mi-inceler",
+      "videoId": "4XwgMwUtuJ8",
+      "url": "https://www.youtube.com/watch?v=4XwgMwUtuJ8",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Metalurji ve Malzeme Mühendisliği Bölümünü Tercih Etmeden Önce İzle #yks #yks2025",
+      "durationSeconds": 43,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-hucrenin-icinde-ne-oldugunu-kim-arastirir",
+      "videoId": "EJj2vmQUtE0",
+      "url": "https://www.youtube.com/watch?v=EJj2vmQUtE0",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Moleküler Biyoloji ve Genetik Bölümünü tanıttık! 🔬 #yks #yks2025",
+      "durationSeconds": 34,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-insan-ne-zamandir-ata-biniyor",
+      "videoId": "sd8DmXBvEro",
+      "url": "https://www.youtube.com/watch?v=sd8DmXBvEro",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Ata Binmeye Ne Zaman Başladık?🤔🏇🏻",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-fosillesmis-diskidan-ne-ogrenilir",
+      "videoId": "Y7l4JkUK_3U",
+      "url": "https://www.youtube.com/watch?v=Y7l4JkUK_3U",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Dinozor Kakası Neden Önemli?",
+      "durationSeconds": 57,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-gunes-panellerini-bir-iha-denetlerse",
+      "videoId": "qrK8_QLpl4Y",
+      "url": "https://www.youtube.com/watch?v=qrK8_QLpl4Y",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Güneş Enerjisi Santralleri için İHA Projesi",
+      "durationSeconds": 39,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-anlaticinin-arkasindaki-tabloya-bu-kez-dikkatle-bakalim",
+      "videoId": "eU6FBIhwF-Y",
+      "url": "https://www.youtube.com/watch?v=eU6FBIhwF-Y",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Tablonun Gizli Mesajı Ne?",
+      "durationSeconds": 55,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-yeni-bicilmis-cimin-kokusu-nereden-geliyor",
+      "videoId": "uf58PB2zhLo",
+      "url": "https://www.youtube.com/watch?v=uf58PB2zhLo",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Çimler Biçilince Neden Güzel Kokar?",
+      "durationSeconds": 57,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-havacilik-ve-uzay-muhendisligi-neyi-birlestirir",
+      "videoId": "h2P-22AQbHo",
+      "url": "https://www.youtube.com/watch?v=h2P-22AQbHo",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "📡Havacılık ve Uzay Mühendisliği Bölümünü tanıttık! 🛰️ #yks #yks2025",
+      "durationSeconds": 49,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-goril-neden-mirildaniyor",
+      "videoId": "1whWTcbETE4",
+      "url": "https://www.youtube.com/watch?v=1whWTcbETE4",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Goriller Neden Mırıldanıyor?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-sehirde-yildizlar-nereye-kayboluyor",
+      "videoId": "bthBpPO5b3E",
+      "url": "https://www.youtube.com/watch?v=bthBpPO5b3E",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Yıldızları Gece Neden Göremeyiz?",
+      "durationSeconds": 51,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-gunes-patlamasi-ne-demek",
+      "videoId": "ivVwyOKxkZo",
+      "url": "https://www.youtube.com/watch?v=ivVwyOKxkZo",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "⚠️Güneş Patlamaları Nedir?☀️🤔",
+      "durationSeconds": 52,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-aziz-sancar-in-bilim-yolculugu",
+      "videoId": "tAPjim6oJ7U",
+      "url": "https://www.youtube.com/watch?v=tAPjim6oJ7U",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Nobele Giden Yol - Aziz Sancar",
+      "durationSeconds": 56,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-kopek-siren-ya-da-ezan-duyunca-neden-ulur",
+      "videoId": "1wjubjnHNAw",
+      "url": "https://www.youtube.com/watch?v=1wjubjnHNAw",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Köpekler Ezan Okunurken Neden Ulur?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ay-topragi-nasil-bir-malzeme",
+      "videoId": "lc8Z-qQcwdY",
+      "url": "https://www.youtube.com/watch?v=lc8Z-qQcwdY",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Ay Toprağına Dokunmak Nasıl Bir His?",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-dudaklari-boyama-aliskanligi-nereden-geliyor",
+      "videoId": "ctdigPOxcTc",
+      "url": "https://www.youtube.com/watch?v=ctdigPOxcTc",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Neden Ruj Sürüyoruz?",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "tr.4",
+        "en-US.10"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-filmdeki-raptorla-fosildeki-ayni-mi",
+      "videoId": "D8JONl29ZyE",
+      "url": "https://www.youtube.com/watch?v=D8JONl29ZyE",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Velociraptor, Gerçekte Nasıl Avlanıyordu?",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-yaz-gelince-gunes-e-cok-mu-yaklasiyoruz",
+      "videoId": "0UcBaUIcXn8",
+      "url": "https://www.youtube.com/watch?v=0UcBaUIcXn8",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Mevsimlerin Nasıl Oluşur?  #bilim #uzay",
+      "durationSeconds": 80,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ayni-karbon-iki-bambaska-malzeme",
+      "videoId": "L41NaLUCa90",
+      "url": "https://www.youtube.com/watch?v=L41NaLUCa90",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Elmas mı Kurşun Kalem mi? Karbonun Çift Yüzü!",
+      "durationSeconds": 71,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-kitapla-video-ayni-deneyim-mi",
+      "videoId": "kwkqow0coiw",
+      "url": "https://www.youtube.com/watch?v=kwkqow0coiw",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Kitap Okumak mı, Video İzlemek mi?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-uzay-fotografindaki-renkler-neyi-gosteriyor",
+      "videoId": "Cj5mL6Rx2j4",
+      "url": "https://www.youtube.com/watch?v=Cj5mL6Rx2j4",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Uzay Fotoğrafları Yalan mı?",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-robotik-isi-hangi-bilgileri-bir-araya-getirir",
+      "videoId": "q-kG5SRWfWI",
+      "url": "https://www.youtube.com/watch?v=q-kG5SRWfWI",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Bu videomuzda sizlere Robotik Mühendisliğini tanıttık! 🤗 👨🏻‍💻👩🏻‍💻🤖",
+      "durationSeconds": 35,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-manzara-neden-icimizi-aciyor",
+      "videoId": "MK2-P1vsPrc",
+      "url": "https://www.youtube.com/watch?v=MK2-P1vsPrc",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Manzaraya Bakmak İnsanları Neden Etkiliyor?",
+      "durationSeconds": 55,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-vitaminlerin-adlari-neden-harflerden-olusuyor",
+      "videoId": "8Abr_KNbjjw",
+      "url": "https://www.youtube.com/watch?v=8Abr_KNbjjw",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "🤔 Vitaminler Neden Harflerle İsimlendirilir? #shorts #sağlık",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-hayalet-ucak-gercekten-gorunmez-mi",
+      "videoId": "ZTVRWivaKd0",
+      "url": "https://www.youtube.com/watch?v=ZTVRWivaKd0",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "ANKA 3 Hayalet Uçak mı?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-turkiye-deki-orumceklere-yakindan-bakmak",
+      "videoId": "JJIkDvMKNjw",
+      "url": "https://www.youtube.com/watch?v=JJIkDvMKNjw",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Türkiye'nin Zehirli Örümcekleri",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-arf-gibi-bir-bilgisayar-ne-icin-kurulur",
+      "videoId": "ZcePBxcHtlM",
+      "url": "https://www.youtube.com/watch?v=ZcePBxcHtlM",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "❗️ARF Süper Bilgisayar😮",
+      "durationSeconds": 60,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-pluton-a-ne-oldu-da-adi-degisti",
+      "videoId": "AGcMKxX3QZA",
+      "url": "https://www.youtube.com/watch?v=AGcMKxX3QZA",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Plüton Neden Gezegenlikten Atıldı?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "tr.4",
+        "en-US.10"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-iklim-degisikligi-tek-bir-sicak-gun-degil",
+      "videoId": "Hiuj_e03Qr8",
+      "url": "https://www.youtube.com/watch?v=Hiuj_e03Qr8",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "İklim Değişikliği #iklim #orman #tübitak",
+      "durationSeconds": 49,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-yumurtanin-sicakligi-yavruyu-etkileyebilir",
+      "videoId": "aW5PFslpLSQ",
+      "url": "https://www.youtube.com/watch?v=aW5PFslpLSQ",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Sıcaklıklar Dişi-Erkek dengesini bozabilir!",
+      "durationSeconds": 47,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-vampir-kalamarin-adi-biraz-yaniltici",
+      "videoId": "k9ewWBoBkrY",
+      "url": "https://www.youtube.com/watch?v=k9ewWBoBkrY",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Okyanusun En Havalı Canlısı İle Tanışın!",
+      "durationSeconds": 57,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ay-in-gorunmeyen-yuzu-hep-karanlik-mi",
+      "videoId": "z1GxRRwKymE",
+      "url": "https://www.youtube.com/watch?v=z1GxRRwKymE",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "🌙Ay’ın Karanlık Yüzünde Ne Var? #ay #astronomi",
+      "durationSeconds": 46,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-sirke-aslinda-nasil-olusuyor",
+      "videoId": "Dvbm_aksZMs",
+      "url": "https://www.youtube.com/watch?v=Dvbm_aksZMs",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Sirke Aslında Nedir?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-su-tek-basina-yetmezken-sabun-ne-yapiyor",
+      "videoId": "JxbrjY0Si0Y",
+      "url": "https://www.youtube.com/watch?v=JxbrjY0Si0Y",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "🫧Sabun Nasıl Temizler?",
+      "durationSeconds": 46,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-uzaya-gonderilen-kayitta-turkce-de-var",
+      "videoId": "hcIWb3kBQgA",
+      "url": "https://www.youtube.com/watch?v=hcIWb3kBQgA",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Uzayda yankılanan Türkçe bir ses! Altın Plak 📀  #shorts",
+      "durationSeconds": 75,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "tr.4",
+        "en-US.10"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-kis-uykusu-cok-uzun-bir-normal-uyku-mu",
+      "videoId": "AbUqc9Z4dLg",
+      "url": "https://www.youtube.com/watch?v=AbUqc9Z4dLg",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Kış Uykusundaki Ayıyı Uyandırabilir misiniz?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-konserde-ayni-ritme-kapilmak",
+      "videoId": "2pY_IvMToHk",
+      "url": "https://www.youtube.com/watch?v=2pY_IvMToHk",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "💁🏻‍♀️Neden Konserde Daha Çok Eğleniriz?🎤🤔",
+      "durationSeconds": 51,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-fahrenheit-bize-neden-tuhaf-geliyor",
+      "videoId": "MXmFm1sNZTE",
+      "url": "https://www.youtube.com/watch?v=MXmFm1sNZTE",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Fahrenheit, Celcius'tan Daha Kullanışlı Olabilir mi?",
+      "durationSeconds": 57,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-buz-eriyince-yalnizca-su-seviyesi-mi-degisir",
+      "videoId": "qdIPoH1seLY",
+      "url": "https://www.youtube.com/watch?v=qdIPoH1seLY",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Buzul Erimesi Depremleri Tetikleyebilir mi?",
+      "durationSeconds": 74,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ay-a-gitmek-bize-ne-kazandirabilir",
+      "videoId": "jC7jZ3d9T1Q",
+      "url": "https://www.youtube.com/watch?v=jC7jZ3d9T1Q",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Ay'a Gitmek Neden Önemli? #uzay #bilim",
+      "durationSeconds": 46,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-otomobilin-kanadi-ucurmak-icin-degil-mi",
+      "videoId": "UwjSkOD-0bw",
+      "url": "https://www.youtube.com/watch?v=UwjSkOD-0bw",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "F1 Araçlarında Neden Kanat Var?",
+      "durationSeconds": 56,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ay-gorevi-icin-nasil-bir-arac-hazirlanir",
+      "videoId": "cbHZs5zRqvA",
+      "url": "https://www.youtube.com/watch?v=cbHZs5zRqvA",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Ay'a Gidecek Uzay Aracımızın Özellikleri Neler?",
+      "durationSeconds": 100,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-gorev-veriliyor-ogrenciler-robot-tasarliyor",
+      "videoId": "Jv_w6urcBe8",
+      "url": "https://www.youtube.com/watch?v=Jv_w6urcBe8",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Genç Yeteneklerin Robot Projesi",
+      "durationSeconds": 41,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-su-ayisi-neden-bu-kadar-konusuluyor",
+      "videoId": "pNqR0O6kuRc",
+      "url": "https://www.youtube.com/watch?v=pNqR0O6kuRc",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Uzayda Yaşayabilen Bu Canlı, İnsanlığı Uzaya Götürebilir mi?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "tr.4",
+        "en-US.10"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-hubble-a-uzayda-gozluk-takmak",
+      "videoId": "W17AMJuKfp0",
+      "url": "https://www.youtube.com/watch?v=W17AMJuKfp0",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Hubble Teleskobu Nasıl Tamir Edildi?",
+      "durationSeconds": 52,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "en-US.10",
+        "tr.4"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-sicak-hava-balonu-neden-yukseliyor",
+      "videoId": "HKU3qWHqR9U",
+      "url": "https://www.youtube.com/watch?v=HKU3qWHqR9U",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Sıcak Hava Balonu Nasıl Çalışır?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-dikey-ruzg-r-tunelinde-havada-kalmak",
+      "videoId": "Ng5EUfG8410",
+      "url": "https://www.youtube.com/watch?v=Ng5EUfG8410",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Teknofest İzmir'de Dikey Rüzgâr Tünelini Deneyimledik",
+      "durationSeconds": 33,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-devenin-horgucunde-su-mu-var",
+      "videoId": "gP6J84rx4l4",
+      "url": "https://www.youtube.com/watch?v=gP6J84rx4l4",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Deveye Sormuşlar Sırtın Neden Eğri...",
+      "durationSeconds": 55,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-mil-ve-inc-neden-h-l-kullaniliyor",
+      "videoId": "QLGn6Qs5CmQ",
+      "url": "https://www.youtube.com/watch?v=QLGn6Qs5CmQ",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Amerikalılar Neden Hala Bu Aptal Birimleri Kullanıyorlar?",
+      "durationSeconds": 54,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-orumcek-ipegi-celikten-guclu-mu",
+      "videoId": "9TaucTY3Bfc",
+      "url": "https://www.youtube.com/watch?v=9TaucTY3Bfc",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Örümcek Ağı, Çelikten Güçlü mü?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-seyi-kara-delige-cevirmek-ne-demek",
+      "videoId": "9NqN2JaYMtc",
+      "url": "https://www.youtube.com/watch?v=9NqN2JaYMtc",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Kendinizi Bir Karadeliğe Dönüştürebilir misiniz?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-turkiye-de-dinozor-fosili-bulunur-mu",
+      "videoId": "eSKVVZyOv7A",
+      "url": "https://www.youtube.com/watch?v=eSKVVZyOv7A",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Türkiye'de Dinozor Fosili Var Mı?",
+      "durationSeconds": 51,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-keskin-gozlu-olmak-gozun-hic-bozulmamasi-mi",
+      "videoId": "4ASQk3xPukQ",
+      "url": "https://www.youtube.com/watch?v=4ASQk3xPukQ",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Kartalların Gözü Bozulur mu?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bilgisayar-muhendisligi-yalnizca-kod-yazmak-mi",
+      "videoId": "1DZWz0dja94",
+      "url": "https://www.youtube.com/watch?v=1DZWz0dja94",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Bilgisayar Mühendisliği Bölümünü Tercih Etmeden Önce İzle! #yks #yks2025",
+      "durationSeconds": 36,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ay-neden-bize-hep-ayni-tarafini-gosteriyor",
+      "videoId": "ksgmJ1xgYEs",
+      "url": "https://www.youtube.com/watch?v=ksgmJ1xgYEs",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "❓Neden Ayın Hep Aynı Yüzünü Görürüz?🤔 #ay #evre #gökyüzü",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-uzay-istasyonu-nereye-kuruluyor",
+      "videoId": "7OG60l7vlNs",
+      "url": "https://www.youtube.com/watch?v=7OG60l7vlNs",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Uluslararası Uzay İstasyonu Hakkında Bilgiler",
+      "durationSeconds": 39,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-yumurtadan-iki-sari-cikarsa",
+      "videoId": "qrbmbWGrYKY",
+      "url": "https://www.youtube.com/watch?v=qrbmbWGrYKY",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Çift Sarılı Yumurta Nasıl Oluyor?",
+      "durationSeconds": 54,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-paslanmaz-celik-gercekten-hic-paslanmaz-mi",
+      "videoId": "jOd7N0PC83I",
+      "url": "https://www.youtube.com/watch?v=jOd7N0PC83I",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Paslanmaz Çelik Nasıl Paslanmıyor?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-sabaha-dogru-hava-neden-daha-serin-olabilir",
+      "videoId": "Z2O_1IA2BcI",
+      "url": "https://www.youtube.com/watch?v=Z2O_1IA2BcI",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Neden sabah saatleri geceye göre daha serindir? #shorts",
+      "durationSeconds": 39,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-james-webb-bize-neyi-farkli-gosteriyor",
+      "videoId": "2U94zuO3HO4",
+      "url": "https://www.youtube.com/watch?v=2U94zuO3HO4",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "James Webb Uzay Teleskobu Neler Keşfetti?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-posete-fiyat-koyunca-ne-degisiyor",
+      "videoId": "j6hIQcr7Wao",
+      "url": "https://www.youtube.com/watch?v=j6hIQcr7Wao",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Ücretli Poşet Uygulaması Ne İşe Yaradı?",
+      "durationSeconds": 53,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-daha-buyuk-batarya-her-seyi-cozer-mi",
+      "videoId": "7bWrslx6-rE",
+      "url": "https://www.youtube.com/watch?v=7bWrslx6-rE",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Elektrikli Araçlardaki Menzil Sorunu",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-harfler-karisinca-kelimeyi-nasil-taniyoruz",
+      "videoId": "q4VnwfJ3xZA",
+      "url": "https://www.youtube.com/watch?v=q4VnwfJ3xZA",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Bu Başlığı Okuyabiliyor musunuz?",
+      "durationSeconds": 57,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-siber-guvenlik-uzmani-neyle-ugrasir",
+      "videoId": "nt9QvGmbuN4",
+      "url": "https://www.youtube.com/watch?v=nt9QvGmbuN4",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Bu videomuzda sizlere Siber Güvenlik Uzmanlığını tanıttık! 🤗 👨‍💻👩‍💻🔐",
+      "durationSeconds": 43,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-ruyayi-videoya-cevirebilir-miyiz",
+      "videoId": "SuT9J9wEwyw",
+      "url": "https://www.youtube.com/watch?v=SuT9J9wEwyw",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Rüyalarınızı Cep Telefonunuza Kaydedebilir misiniz?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bes-kutuda-yer-degistiren-kediyi-bulabilir-misin",
+      "videoId": "h2-e62qawfQ",
+      "url": "https://www.youtube.com/watch?v=h2-e62qawfQ",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "💁🏻‍♀️Mantık Bulmacası: Kedi Nerede Saklanıyor?🤔",
+      "durationSeconds": 44,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ucagin-hizi-neye-gore-olculuyor",
+      "videoId": "AFfB_SbqDv4",
+      "url": "https://www.youtube.com/watch?v=AFfB_SbqDv4",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Uçakların Hızı Nasıl Ölçülür?  #bilim #uçak",
+      "durationSeconds": 83,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ulukurt-gercekten-geri-mi-geldi",
+      "videoId": "zdtcWlP6hbc",
+      "url": "https://www.youtube.com/watch?v=zdtcWlP6hbc",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Ulukurtlar Gerçekten Hayata Döndürüldü mü?",
+      "durationSeconds": 60,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-parmak-uclariyla-harf-okumak",
+      "videoId": "1XxKQSEoqTI",
+      "url": "https://www.youtube.com/watch?v=1XxKQSEoqTI",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Dokunarak Okumayı Mümkün Kılan Alfabe!",
+      "durationSeconds": 60,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-sanal-gerceklikte-ortami-kim-tasarliyor",
+      "videoId": "uAWe7eHqozo",
+      "url": "https://www.youtube.com/watch?v=uAWe7eHqozo",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Bu videomuzda sizlere Sanal Gerçeklik Uzmanlığını tanıttık! 🤗👨‍💻👩‍💻🥽",
+      "durationSeconds": 47,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-bir-hidrojen-aracini-takimca-yapmak",
+      "videoId": "ZwLExfAULYU",
+      "url": "https://www.youtube.com/watch?v=ZwLExfAULYU",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Hidromobil Takımı: 1,5 Adana #teknofest #shorts",
+      "durationSeconds": 60,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-insanin-giremedigi-boruya-robot-giriyor",
+      "videoId": "CZM5cpbN5eg",
+      "url": "https://www.youtube.com/watch?v=CZM5cpbN5eg",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Robot Göz: Boru İçi Denetleme Robotu",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-denizanasinin-temasinda-ne-oluyor",
+      "videoId": "0D45BRbgkJI",
+      "url": "https://www.youtube.com/watch?v=0D45BRbgkJI",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Denizanası Sizi Nasıl Çarpıyor?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-mars-ta-da-mevsim-var-mi",
+      "videoId": "COfGGzBxo1Y",
+      "url": "https://www.youtube.com/watch?v=COfGGzBxo1Y",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Mars’ta da Mevsimlerin Olduğunu Biliyor muydunuz?😲 #bilim #shorts",
+      "durationSeconds": 99,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ekinoks-neden-takvimde-hep-ayni-gune-dusmuyor",
+      "videoId": "sLzF44-2ZP0",
+      "url": "https://www.youtube.com/watch?v=sLzF44-2ZP0",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "⁉️Ekinokslar ve Gün Dönümleri Neden Farklı Tarihlerde Gerçekleşir?🤔",
+      "durationSeconds": 66,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-beyni-olmayan-bir-canli-yol-bulabilir-mi",
+      "videoId": "2B_wXZo2Tmw",
+      "url": "https://www.youtube.com/watch?v=2B_wXZo2Tmw",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Cıvık Mantarlar Sizden Zeki mi?",
+      "durationSeconds": 57,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-arinin-gozune-cok-yakindan-bakalim",
+      "videoId": "O2XjEjmztvY",
+      "url": "https://www.youtube.com/watch?v=O2XjEjmztvY",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Elektron mikroskobunu kullanarak arının gözlerini yakından inceledik! 🐝👀⁠",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-gunes-in-sesini-duymak-ne-demek",
+      "videoId": "FJGDTXhAGmE",
+      "url": "https://www.youtube.com/watch?v=FJGDTXhAGmE",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Güneşin Sesini Duydunuz mu?",
+      "durationSeconds": 58,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-kutup-yildizi-ni-nasil-tanirsin",
+      "videoId": "-GgS7dUt24s",
+      "url": "https://www.youtube.com/watch?v=-GgS7dUt24s",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Kutup Yıldızı Nasıl Bulunur? #shorts #shortvideo #shortsvideo",
+      "durationSeconds": 42,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-altin-oran-her-guzel-seyin-sirri-mi",
+      "videoId": "ZVz9s1ypCmg",
+      "url": "https://www.youtube.com/watch?v=ZVz9s1ypCmg",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Altın Oran Gerçek mi?",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-tuz-golu-bazen-neden-pembeye-donuyor",
+      "videoId": "VpCXfgfz-Z4",
+      "url": "https://www.youtube.com/watch?v=VpCXfgfz-Z4",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "Tuz Gölü Neden Pembe?",
+      "durationSeconds": 55,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "en-US.10",
+        "tr.4"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-tasin-icindeki-dev-sarmal",
+      "videoId": "FpIKJvFtX60",
+      "url": "https://www.youtube.com/watch?v=FpIKJvFtX60",
+      "publisher": "Evrim Ağacı",
+      "sourceTitle": "100 Milyon Yıllık Dev Fosil!",
+      "durationSeconds": 59,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "tr.4",
+        "en-US.10"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ay-daki-aracla-nasil-konusacagiz",
+      "videoId": "IRIGMVNZZoU",
+      "url": "https://www.youtube.com/watch?v=IRIGMVNZZoU",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Ay’a Gidecek Uzay Aracımızla Nasıl Bağlantı Kuracağız? 🚀",
+      "durationSeconds": 79,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-uydu-uzayda-yonunu-nasil-degistiriyor",
+      "videoId": "Q1NsY6MOZcs",
+      "url": "https://www.youtube.com/watch?v=Q1NsY6MOZcs",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Uydular Uzayda Nasıl Hareket Ediyor?🤔🛰 #shorts #uzay",
+      "durationSeconds": 38,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-kelebek-yalnizca-bir-gun-mu-yasar",
+      "videoId": "YzsD9pPffC8",
+      "url": "https://www.youtube.com/watch?v=YzsD9pPffC8",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Kelebeklerin Ömrü Yalnızca 1 Gün mü?",
+      "durationSeconds": 39,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    },
+    {
+      "postId": "kisa-video-ay-a-gidince-hangisi-degisir-kutle-mi-agirlik-mi",
+      "videoId": "xZMEaNWatJY",
+      "url": "https://www.youtube.com/watch?v=xZMEaNWatJY",
+      "publisher": "TÜBİTAK Bilim Genç",
+      "sourceTitle": "Kütle mi? Ağırlık mı? #bilim #uzay #gezegenler",
+      "durationSeconds": 85,
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "availableInTurkey": true,
+      "captionLanguage": "tr",
+      "captionKind": "automatic",
+      "audioTrackIds": [
+        "single-track"
+      ],
+      "orientation": "portrait",
+      "checkedAt": "2026-09-24",
+      "evidence": "YouTube public watch page: ytInitialPlayerResponse.videoDetails, playabilityStatus, captions, microformat"
+    }
+  ]
+}

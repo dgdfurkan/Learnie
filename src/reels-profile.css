@@ -1,0 +1,41 @@
+/* The YouTube viewport and Learnie controls occupy separate grid cells. */
+.reels-v2.reels-view{display:flex;flex-direction:column;height:100dvh;min-height:0;background:#000;color:#fff;overflow:hidden}
+.reels-v2 .reels-toolbar{display:flex;align-items:center;gap:8px;flex:0 0 auto;height:52px;padding:env(safe-area-inset-top) max(6px,calc((100% - 560px)/2)) 0;background:#000;box-sizing:content-box;z-index:5}
+.reels-toolbar>button{color:#fff;min-width:44px;min-height:44px;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.reels-toolbar .reels-account{justify-content:flex-start;gap:9px;min-width:0;flex:1;text-align:left;padding:0 4px}
+.reels-account .avatar{width:28px;height:28px;flex:0 0 28px}.reels-account strong{font-size:12px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+.reels-toolbar .reels-clean-toggle{margin-left:auto}.reels-v2 .reels-swiper{height:auto;flex:1;min-height:0;width:100%}
+.reels-v2 .reel-shell{height:100%;max-width:560px;width:100%;margin:auto;background:#000;border-radius:0;aspect-ratio:auto}
+.reels-v2 .reel-shell.is-video{display:grid;grid-template-columns:minmax(0,1fr) 52px;gap:0}
+.reels-v2 .video-reel{display:block;height:100%;width:100%;min-width:0;min-height:0;padding:0;margin:0;background:#000}
+.reels-v2 .native-video.native-video--immersive{width:100%;height:100%;min-height:0;margin:0;display:flex;flex-direction:column;border-radius:0;background:#000;overflow:hidden}
+.reels-v2 .native-video--immersive .youtube-shell{display:flex;flex-direction:column;flex:1;min-height:0;width:100%}
+.reels-v2 .native-video--immersive .native-video-stage{flex:1;min-height:200px;min-width:200px;max-width:none;width:100%;height:auto;aspect-ratio:auto;margin:0;border-radius:0;position:relative;background:#000}
+.reels-v2 .native-video-stage>iframe,.reels-v2 .native-video-stage>video,.reels-v2 .youtube-host{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;border:0}
+.reels-v2 .native-video-stage .video-poster{position:absolute;inset:0;width:100%;height:100%;border-radius:0;background:#000}
+.reels-v2 .video-poster-image{object-fit:contain}.reels-v2 .video-poster-fallback{background:#080808;justify-content:flex-end;padding:25px 20px 70px}
+.reels-v2 .quiet-video-controls{min-height:42px;padding:0 5px calc(3px + env(safe-area-inset-bottom));gap:3px;background:#000;flex-shrink:0}
+.reels-v2 .quiet-video-controls button{height:40px;width:30px;padding:4px}.reels-v2 .quiet-video-controls input{min-width:24px}.reels-v2 .video-clock{font-size:8px}
+.reels-v2 .immersive-player-status{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);padding:0;min-height:0;pointer-events:none}
+.reels-v2 .reel-actions{position:absolute;left:auto;right:0;bottom:28px;display:flex;flex-direction:column;align-items:center;gap:11px;width:52px;padding:0 0 env(safe-area-inset-bottom);z-index:4}
+.reels-v2 .reel-shell.is-video .reel-actions{position:static;grid-column:2;align-self:end;margin-bottom:22px}
+.reels-v2 .reel-actions .icon-button{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;width:48px;height:55px;min-height:55px;padding:5px 0;border-radius:0;background:transparent!important;box-shadow:none;backdrop-filter:none;color:#fff!important}
+.reels-v2 .reel-actions .icon-button svg{width:25px;height:25px;flex:0 0 25px;stroke-width:1.8}.reels-v2 .reel-actions .icon-button span{display:block;height:12px;min-width:0;line-height:12px;text-align:center;font-size:10px;font-weight:550}
+.reels-v2 .reel-actions .icon-button.active{color:#ff3b57!important}.reels-v2 .reel-actions .icon-button[aria-label*="koleksiyon"].active{color:#fff!important}
+.reels-v2 .film-header{padding-left:12px}.film-account{display:flex;align-items:center;gap:9px;min-width:0;flex:1;text-align:left;color:inherit}.film-account>span:not(.avatar){display:flex;flex-direction:column;font-size:12px}.film-account small{opacity:.7;font-size:10px}
+.reels-clean .reels-toolbar{height:36px}.reels-clean .reels-toolbar>button{min-height:36px}.reels-clean .reels-back{visibility:hidden;pointer-events:none}.reels-v2.reels-clean .reel-shell.is-video{grid-template-columns:minmax(0,1fr)}
+.reels-clean .film-top,.reels-clean .film-bottom,.reels-clean .film-audio-note{display:none}
+@media(max-width:560px){.reels-v2 .reel-shell{max-width:none}.reels-v2 .reels-toolbar{padding-inline:4px}}
+@media(max-height:600px){.reels-v2 .reel-actions{gap:0}.reels-v2 .reel-actions .icon-button{height:46px;min-height:46px}.reels-v2 .reel-shell.is-video .reel-actions{margin-bottom:0}.reels-v2 .reels-toolbar{height:42px}}
+
+.dialog:has(.account-profile){width:min(690px,100%);max-width:100%;border-radius:14px;background:var(--canvas);padding:0}
+.dialog:has(.account-profile) .dialog-inner{padding:0}.dialog:has(.account-profile) .dialog-head{padding:15px 17px;margin:0;border-bottom:1px solid var(--border);position:sticky;top:0;background:var(--canvas);z-index:2}
+.dialog:has(.account-profile) .dialog-head h2{font-size:16px;letter-spacing:0}.account-profile{padding:22px 0 0;color:var(--text)}
+.account-overview{display:flex;align-items:center;gap:22px;padding:0 22px}.account-overview>.avatar{width:86px;height:86px;flex:0 0 86px}.account-overview .avatar img{width:100%;height:100%;object-fit:cover}
+.account-stats{display:flex;flex:1;gap:12px;justify-content:space-around}.account-stats>span{display:flex;flex-direction:column;align-items:center;gap:4px;font-size:12px;white-space:nowrap}.account-stats strong{font-size:18px;font-weight:650;line-height:1.2}
+.account-bio{padding:18px 20px 10px}.account-bio h1{font-size:15px;line-height:1.4;margin:0 0 3px}.account-kind{font-size:12px;color:var(--muted-text)}.account-bio p{font-size:13px;line-height:1.65;margin:7px 0 0;max-width:480px}
+.account-buttons{padding:0 20px 20px;display:flex;gap:8px}.account-buttons>button{display:flex;align-items:center;justify-content:center;gap:5px;flex:1;background:var(--text);color:var(--canvas);min-height:35px;border-radius:7px;font-size:13px;font-weight:600}.account-buttons>button.is-followed{background:var(--surface-2);color:var(--text)}.account-buttons>button.account-info-button{flex:0 0 40px;background:var(--surface-2);color:var(--text)}
+.account-disclosure{font-size:12px;line-height:1.6;color:var(--muted-text);margin:0 20px 20px}.account-tabs{display:flex;border-top:1px solid var(--border)}.account-tabs button{flex:1;display:flex;gap:9px;align-items:center;justify-content:center;height:49px;color:var(--muted-text);border-bottom:2px solid transparent;font-size:12px}.account-tabs button[aria-selected=true]{color:var(--text);border-bottom-color:var(--text)}
+.account-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:2px}.account-grid .discovery-tile{position:relative;width:100%;height:auto;aspect-ratio:3/4;overflow:hidden;min-width:0}.account-grid .discovery-tile>*{width:100%;height:100%}.account-more{height:1px}.account-empty{text-align:center;padding:30px 20px;font-size:13px;color:var(--muted-text)}
+.reader-account{display:flex;align-items:center;gap:9px;padding:13px 18px;width:100%;font-size:13px;color:var(--text);text-align:left;border-bottom:1px solid var(--border)}.reader-account .avatar{width:28px;height:28px}.post-caption p>button{font-weight:700;display:inline;color:inherit;text-align:left}
+@media(max-width:768px){.dialog:has(.account-profile){width:100%;max-height:100dvh;height:100dvh;margin:0;border:0;border-radius:0}.dialog:has(.account-profile) .dialog-inner{max-height:none;min-height:100%;padding-bottom:env(safe-area-inset-bottom)}.account-overview{padding:0 16px;gap:12px}.account-overview>.avatar{width:76px;height:76px;flex-basis:76px}.account-stats{gap:8px}.account-stats strong{font-size:17px}.account-stats>span{font-size:11px}.account-bio{padding-inline:16px}.account-buttons{padding-inline:16px}}
