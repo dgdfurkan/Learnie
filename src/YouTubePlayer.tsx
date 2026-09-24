@@ -1,10 +1,9 @@
 import {useEffect,useRef,useState} from 'react';
-import {Play,Pause,Volume2,VolumeX,Maximize,RotateCcw,Settings2} from 'lucide-react';
-import {rememberPosition,rememberedPosition} from './playback.mjs';
-import {youtubeOptions,videoTime} from './youtube.mjs';
+import {YouTubeSession} from './youtube-session.mjs';
+import {youtubeOptions} from './youtube.mjs';
 import type {Post} from './types';
 
-type Player={playVideo:()=>void;pauseVideo:()=>void;mute:()=>void;unMute:()=>void;isMuted:()=>boolean;getCurrentTime:()=>number;getDuration:()=>number;seekTo:(seconds:number,allowSeekAhead:boolean)=>void;getIframe:()=>HTMLIFrameElement;destroy:()=>void};
+type Player={playVideo:()=>void;pauseVideo:()=>void;loadVideoById:(video:{videoId:string;startSeconds:number})=>void;mute:()=>void;unMute:()=>void;isMuted:()=>boolean;getVolume:()=>number;setVolume:(volume:number)=>void;getCurrentTime:()=>number;getDuration:()=>number;getVideoUrl:()=>string;getIframe:()=>HTMLIFrameElement;destroy:()=>void};
 type PlayerEvent={target:Player;data:number};
 type YouTubeApi={Player:new(host:HTMLElement,options:Record<string,unknown>)=>Player};
 declare global{interface Window{YT?:YouTubeApi;onYouTubeIframeAPIReady?:()=>void;}}
@@ -22,36 +21,48 @@ function loadApi(){
  });
  return apiPromise;
 }
-export default function YouTubePlayer({video,active,mode,onMode,clean=false,immersive=false,mutedPreference,onMute}:{active:boolean;mutedPreference:boolean;onMute:(muted:boolean)=>void;clean?:boolean;immersive?:boolean;video:NonNullable<Post['video']>;mode:'minimal'|'native';onMode:(mode:'minimal'|'native')=>void}){
- const hasPlayed=useRef(false);
- const host=useRef<HTMLDivElement>(null),shell=useRef<HTMLDivElement>(null),player=useRef<Player|null>(null);
- const activeRef=useRef(active),muteRef=useRef(mutedPreference);activeRef.current=active;muteRef.current=mutedPreference;
- const [ready,setReady]=useState(false),[state,setState]=useState(-1),[muted,setMuted]=useState(mutedPreference),[time,setTime]=useState(()=>rememberedPosition(video.url)),[duration,setDuration]=useState(video.duration||0),[error,setError]=useState(''),[blocked,setBlocked]=useState(false);
- const savePosition=(p:Player)=>{try{const seconds=p.getCurrentTime();if(hasPlayed.current||seconds>0)rememberPosition(video.url,seconds,p.getDuration());}catch{}};
+
+export default function YouTubePlayer({video,active,mutedPreference,volumePreference,onSound}:{video:NonNullable<Post['video']>;active:boolean;mutedPreference:boolean;volumePreference:number;onSound:(muted:boolean,volume:number)=>void}){
+ const host=useRef<HTMLDivElement>(null),player=useRef<Player|null>(null),session=useRef<YouTubeSession|null>(null);
+ const latest=useRef({video,active,mutedPreference,volumePreference,onSound});latest.current={video,active,mutedPreference,volumePreference,onSound};
+ const [status,setStatus]=useState('loading'),[error,setError]=useState('');
+
+ // A video change, eye toggle, preference update or comment sheet must NEVER
+ // replace this iframe. The same player loads subsequent videos through the API.
  useEffect(()=>{
-  let cancelled=false,instance:Player|null=null;let retriedMuted=false;
-  hasPlayed.current=false;setReady(false);setError('');setState(-1);setBlocked(false);
+  let cancelled=false,instance:Player|null=null;
   loadApi().then(api=>{
    if(cancelled||!host.current)return;
    const mount=document.createElement('div');host.current.replaceChildren(mount);
-   instance=new api.Player(mount,{host:'https://www.youtube-nocookie.com',videoId:video.url,width:'100%',height:'100%',playerVars:{...youtubeOptions(mode,location.origin),autoplay:0,mute:1,start:Math.floor(rememberedPosition(video.url))},events:{
-    onReady:(event:PlayerEvent)=>{if(cancelled)return;const p=event.target;player.current=p;setReady(true);const position=rememberedPosition(video.url);if(position)p.seekTo(position,true);if(muteRef.current)p.mute();else p.unMute();setMuted(p.isMuted());setDuration(p.getDuration()||video.duration||0);p.pauseVideo();},
-    onStateChange:(event:PlayerEvent)=>{if(cancelled)return;const p=event.target;if(event.data===1&&!activeRef.current){p.pauseVideo();return;}if(event.data===1)hasPlayed.current=true;setState(event.data);setTime(p.getCurrentTime()||0);setMuted(p.isMuted());savePosition(p);if(event.data===1)setBlocked(false);},
-    onAutoplayBlocked:(event:PlayerEvent)=>{if(cancelled||!activeRef.current)return;if(!retriedMuted){retriedMuted=true;event.target.mute();setMuted(true);event.target.playVideo();}else setBlocked(true);},
+   instance=new api.Player(mount,{host:'https://www.youtube-nocookie.com',width:'100%',height:'100%',playerVars:youtubeOptions(location.origin),events:{
+    onReady:(event:PlayerEvent)=>{
+     if(cancelled)return;
+     player.current=event.target;
+     const props=latest.current;
+     session.current=new YouTubeSession(event.target,{
+      muted:props.mutedPreference,volume:props.volumePreference,
+      onSound:(muted:boolean,volume:number)=>latest.current.onSound(muted,volume),
+      onStatus:(next:string)=>{if(!cancelled)setStatus(next);}
+     });
+     session.current.select(props.video.url,props.active);
+    },
+    onStateChange:(event:PlayerEvent)=>{if(!cancelled)session.current?.stateChanged(event.data);},
+    onAutoplayBlocked:()=>{if(!cancelled)session.current?.autoplayBlocked();},
     onError:()=>{if(!cancelled)setError('Bu video burada açılamadı. Kaynağında izleyebilirsin.');}
    }});
-   const frame=instance.getIframe();frame.title=video.title;frame.setAttribute('referrerpolicy','strict-origin-when-cross-origin');frame.setAttribute('allow','autoplay; encrypted-media; picture-in-picture; fullscreen');
+   const frame=instance.getIframe();frame.title=latest.current.video.title;
+   frame.setAttribute('referrerpolicy','strict-origin-when-cross-origin');
+   frame.setAttribute('allow','autoplay; encrypted-media; picture-in-picture; fullscreen');
   }).catch(()=>{if(!cancelled)setError('Oynatıcıya bağlanılamadı. Kaynak bağlantısını deneyebilirsin.');});
-  return()=>{cancelled=true;if(instance){if(player.current===instance)savePosition(instance);try{instance.destroy();}catch{}}player.current=null;};
- },[video.url,mode]);
- useEffect(()=>{const p=player.current;if(!ready||!p)return;if(active)p.playVideo();else{savePosition(p);p.pauseVideo();}},[active,ready]);
- useEffect(()=>{const p=player.current;if(!ready||!p)return;if(mutedPreference)p.mute();else p.unMute();setMuted(p.isMuted());},[mutedPreference,ready]);
- useEffect(()=>{if(!ready||state!==1)return;const tick=window.setInterval(()=>{const p=player.current;if(p){const seconds=p.getCurrentTime()||0;setTime(seconds);setDuration(p.getDuration()||video.duration||0);savePosition(p);}},500);return()=>clearInterval(tick);},[ready,state,video.url,video.duration]);
- const play=()=>{const p=player.current;if(!p)return;if(state===1)p.pauseVideo();else{if(state===0)p.seekTo(0,true);p.playVideo();}};
- const volume=()=>{const p=player.current;if(!p)return;const next=!p.isMuted();if(next)p.mute();else p.unMute();setMuted(next);onMute(next);};
- const full=()=>{const el=shell.current;if(document.fullscreenElement)document.exitFullscreen?.().catch(()=>{});else if(el?.requestFullscreen)el.requestFullscreen().catch(()=>onMode('native'));else onMode('native');};
- return <div className="youtube-shell" ref={shell}><div className="native-video-stage"><div className="youtube-host" ref={host}/></div>
-  {!clean&&<div className="quiet-video-controls" role="group" aria-label="Video denetimleri"><button onClick={play} disabled={!ready} aria-label={state===1?'Videoyu duraklat':state===0?'Videoyu yeniden oynat':'Videoyu oynat'}>{state===1?<Pause size={19}/>:state===0?<RotateCcw size={19}/>:<Play size={19}/>}</button><input type="range" aria-label="Video konumu" min={0} max={duration||1} step={1} value={Math.min(time,duration||1)} disabled={!ready} onChange={e=>{const n=Number(e.target.value);setTime(n);rememberPosition(video.url,n,duration);player.current?.seekTo(n,true);}}/><span className="video-clock">{videoTime(time)} / {videoTime(duration)}</span><button onClick={volume} disabled={!ready} aria-label={muted?'Video sesini aç':'Video sesini kapat'}>{muted?<VolumeX size={18}/>:<Volume2 size={18}/>}</button><button onClick={full} aria-label="Videoyu tam ekran aç"><Maximize size={17}/></button><button onClick={()=>onMode(mode==='minimal'?'native':'minimal')} aria-label={mode==='minimal'?'Standart video denetimlerini aç':'Sade video denetimlerini aç'}><Settings2 size={17}/></button></div>}
-  {error?<div className="video-player-options"><span role="status">{error}</span><a href={`https://www.youtube.com/watch?v=${video.url}`} target="_blank" rel="noreferrer">Kaynağında izle</a></div>:blocked?<div className="video-player-options"><button onClick={play}>Videoyu başlat</button></div>:!clean&&<div className={`video-player-options ${immersive?'immersive-player-status':''}`}><span role="status">{!ready?'Oynatıcı yükleniyor…':state===3?'Video yükleniyor…':''}</span></div>}
+  const tick=window.setInterval(()=>session.current?.sample(),250);
+  return()=>{cancelled=true;clearInterval(tick);session.current?.dispose();session.current=null;try{instance?.destroy();}catch{}player.current=null;};
+ },[]);
+ useEffect(()=>{session.current?.setSoundPreference(mutedPreference,volumePreference);},[mutedPreference,volumePreference]);
+ useEffect(()=>{session.current?.select(video.url,active);},[video.url,active]);
+ useEffect(()=>{setError('');if(player.current)player.current.getIframe().title=video.title;},[video.url,video.title]);
+
+ return <div className="youtube-shell" data-playback={status}>
+  <div className="native-video-stage"><div className="youtube-host" ref={host}/></div>
+  {error?<div className="video-player-options" role="status"><span>{error}</span><a href={`https://www.youtube.com/watch?v=${video.url}`} target="_blank" rel="noreferrer">Kaynağında izle</a></div>:status==='blocked'?<p className="video-player-notice" role="status">Tarayıcı otomatik oynatmayı engelledi. Videonun kendi oynat düğmesini kullanabilirsin.</p>:<span className="video-loading-status" role="status">{status==='loading'?'Video yükleniyor…':''}</span>}
  </div>;
 }

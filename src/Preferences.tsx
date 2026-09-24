@@ -1,7 +1,7 @@
 import {createContext,useContext,useEffect,useState,type ReactNode} from 'react';
 import {Moon,Sun,Monitor,Focus,Check} from 'lucide-react';
 import {defaultPreferences,normalizePreferences} from './preferences.mjs';
-export type Preferences={theme:'system'|'light'|'dark';focus:boolean;reveal:'word'|'char';wordSpeed:number;charSpeed:number;textSize:number;narration:boolean;music:boolean;musicVolume:number;savedLayout:'grid'|'list';videoControls:'minimal'|'native';videoMuted:boolean;voiceURI:string;speechRate:number};
+export type Preferences={theme:'system'|'light'|'dark';focus:boolean;reveal:'word'|'char';wordSpeed:number;charSpeed:number;textSize:number;narration:boolean;music:boolean;musicVolume:number;savedLayout:'grid'|'list';videoControls:'minimal'|'native';videoMuted:boolean;videoVolume:number;voiceURI:string;speechRate:number};
 const KEY='learnie-preferences-v1';
 const Context=createContext<{prefs:Preferences;setPrefs:(patch:Partial<Preferences>)=>void;dark:boolean;storageError:boolean}>({prefs:defaultPreferences as Preferences,setPrefs:()=>{},dark:false,storageError:false});
 export function PreferencesProvider({children}:{children:ReactNode}){

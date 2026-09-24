@@ -83,16 +83,24 @@ Mevcut 331 gönderinin kimlikleri korunarak bütün anlatımlar yeniden yazıld�
 
 Keşfet üç sütunlu sanal sonsuz ızgaradır; seçilen gönderiden başlayan tam ekran Reels açılır. Ana Sayfa/Keşfet sekmesine yeniden dokunma sadece en üste götürür; aynı düğmeyi basılı tutup yukarı sürükleme sıralamayı yeniler. Kaydet ilk dokunuşta kaydeder ve koleksiyon seçiciyi açar. Yeni koleksiyon oluşturulduğunda gönderi içine doğrudan eklenir. Profilde beğenilen gönderiler bulunur. Yorum sayıları paneldeki yorumlarla eşleşir; paylaşım yalnız URL içerir.
 
-Beş yeni spor anlatımı (basketbol, hentbol, Amerikan futbolu, beyzbol, curling) ve üç video gönderisi eklendi. Video süreleri 2:11, 4:20 ve 4:58; TED-Ed videolarında Türkçe altyazı mevcut. Gömülü videolar dokunmayla başlar, ekran dışına çıkınca durur. Dış yayıncı erişimi, reklam ve altyazı kullanılabilirliği yayıncının kontrolündedir.
+Beş yeni spor anlatımı (basketbol, hentbol, Amerikan futbolu, beyzbol, curling) ve üç video gönderisi eklendi. Video süreleri 2:11, 4:20 ve 4:58; TED-Ed videolarında Türkçe altyazı mevcut. Gömülü videolar görünür olunca otomatik başlar, ekran dışına çıkınca durur. Dış yayıncı erişimi, reklam ve altyazı kullanılabilirliği yayıncının kontrolündedir.
 
 ### 24 Eylül 2026 · Kaynak çeşitliliği ve kesintisiz oynatma
 
 - 50 yeni YouTube kanalından 200 yeni video: toplam 899 gönderi, 563 video gönderisi, yayıncısı adlandırılmış 56 kanal. Yeni videolar 18–179 saniye. Gerçek Türkçe altyazı kaydı, gömme izni, Türkiye erişimi, süre ve kanal kimliği `docs/video-audit-2026-09-24-sources.json` içinde kayıtlı. Otomatik altyazılar hatalar içerebilir; erişim yayıncı tarafından sonradan değiştirilebilir.
 - Keşfet'te yayıncı filtresi ve kanal adıyla arama. Yeni yayıncılar arasında Bebar Bilim, Khan Academy Türkçe, müzeler, Borusan Sanat, DiyanetTV, BibleProject Türkçe, matematik/müzik kanalları, Socrates, TEMA ve yemek kanalları var. Görseller ve medya dış kaynakta kalır.
-- Görünen alanının yarısından fazlası ekranda olan, merkeze en yakın tek video otomatik başlar. Başlangıç sessizdir; ses tercihi yerelde tutulur. Tarayıcı sesli otomatik oynatmayı reddederse sessiz denenir, gerekirse tek dokunuşluk başlatma sunulur. Ekrandan çıkınca duraklar; oturum içinde geri dönünce süre korunur.
+- Görünen alanının yarısından fazlası ekranda olan, merkeze en yakın tek video otomatik başlar. Başlangıç sessizdir; ses tercihi yerelde tutulur. Tarayıcı sesli otomatik oynatmayı reddederse sessiz denenir, tamamen engellenirse sağlayıcının kendi oynat düğmesi kullanılabilir. Ekrandan çıkınca duraklar; oturum içinde geri dönünce süre korunur.
 - Göz modu, yorumlar ve koleksiyon paneli YouTube oynatıcısını yeniden oluşturmaz. Göz modunda önceki/sonraki düğmeleri ve oynatıcının dışındaki sağ kenar kaydırma alanı kullanılabilir. YouTube iframe'inin içindeki dokunma hareketleri uygulamaya aktarılamaz; videonun üstünü kapatan katman kullanılmaz.
 - Gönderi, profil, yorum ve Reels ekranlarında kenardan içeri yatay kaydırma geri götürür. Üst başlıklardaki bulanıklık kaldırıldı.
 - Gerçek cihaz sesleri arasından Türkçe anlatıcı ve konuşma hızı seçilir, seçim saklanır. Ses örneği dinlenebilir. Yazı konuşma sınırı olaylarını izler; kelime sınırı bildirmeyen cihaz seslerinde cümle takibi kullanılır. Sonraki anlatım kartı konuşma bitince açılır. Ses kalitesi ve kullanılabilir sesler işletim sistemine bağlıdır.
-- YouTube'un desteklenen `controls=0` seçeneğiyle sade oynatıcı kullanılır. YouTube logosu, reklamları ve sağlayıcının iç düğmeleri zorla kaldırılmaz, kırpılmaz veya başka bir katmanla örtülmez.
+- Tek kontrol katmanı YouTube'un kendi `controls=1` oynatıcısıdır. İkinci bir Learnie oynat/ses/ilerletme çubuğu veya posteri başlatma düğmesi yoktur. YouTube logosu, reklamları ve sağlayıcının iç düğmeleri zorla kaldırılmaz, kırpılmaz veya başka bir katmanla örtülmez.
 
 Doğrulama: `npm test` (30 kontrol), `npm run build`, kalıcı gönderi yolları ve içerik şeması. Tarayıcıda düzen ve etkileşim kontrolü, her fiziksel telefonda medya/ses oynatma garantisi değildir.
+
+### Oynatıcı düzeltmesi · 24 Eylül 2026
+
+Reels boyunca tek iframe korunur; sonraki video `loadVideoById` ile aynı oynatıcıya yüklenir. Önceki videoların konumları ayrı saklanır. Göz modu ve yorum/kolleksiyon panelleri oynatıcıya başlat/duraklat komutu göndermez. Otomatik başlatma için hazır olunca yükleme yapılır; yüklemeyi izleyen ikinci oynat/duraklat döngüsü kaldırılmıştır.
+
+Sağlayıcının kendi ses düğmesindeki değişiklikler ve ses seviyesi izlenip yerelde kaydedilir. Her klipte yeniden sessize alma yapılmaz. İlk ziyaret sessiz otomatik oynar; sesli otomatik oynatmanın engellenmesi kullanıcının kayıtlı tercihini değiştirmez. Mobil tarayıcı izinleri, YouTube erişimi ve sağlayıcının sunduğu hız/dokunma hareketleri uygulamanın kontrolünde değildir.
+
+`tests/youtube-session.test.mjs` tek başlatma, kullanıcı duraklatması, sonraki videoda ses, hızlı geçiş, panel güncellemeleri, görünürlük, kaldığı yer ve engellenen otomatik oynatma sıralarını sahte API ile sınar. Gerçek medya testi yerine geçmez.

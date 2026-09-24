@@ -15,8 +15,6 @@
 .reels-v2 .native-video-stage>iframe,.reels-v2 .native-video-stage>video,.reels-v2 .youtube-host{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;border:0}
 .reels-v2 .native-video-stage .video-poster{position:absolute;inset:0;width:100%;height:100%;border-radius:0;background:#000}
 .reels-v2 .video-poster-image{object-fit:contain}.reels-v2 .video-poster-fallback{background:#080808;justify-content:flex-end;padding:25px 20px 70px}
-.reels-v2 .quiet-video-controls{min-height:42px;padding:0 5px calc(3px + env(safe-area-inset-bottom));gap:3px;background:#000;flex-shrink:0}
-.reels-v2 .quiet-video-controls button{height:40px;width:30px;padding:4px}.reels-v2 .quiet-video-controls input{min-width:24px}.reels-v2 .video-clock{font-size:8px}
 .reels-v2 .immersive-player-status{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);padding:0;min-height:0;pointer-events:none}
 .reels-v2 .reel-actions{position:absolute;left:auto;right:0;bottom:28px;display:flex;flex-direction:column;align-items:center;gap:11px;width:52px;padding:0 0 env(safe-area-inset-bottom);z-index:4}
 .reels-v2 .reel-shell.is-video .reel-actions{position:static;grid-column:2;align-self:end;margin-bottom:22px}
@@ -56,3 +54,19 @@
 .reels-v2 .reels-swiper{overflow:clip!important;overflow-anchor:none}
 /* An actual margin outside the cross-origin player keeps edge-back available. */
 .reels-v2 .reel-shell.is-video{padding-left:12px}
+
+/* One persistent iframe outside Swiper's recycled slides. Only the video ID
+   changes. The action rail and navigation never cover YouTube's controls. */
+.reels-stage{position:relative;flex:1;min-height:0;width:100%;isolation:isolate}
+.reels-v2 .reels-stage>.reels-swiper{height:100%;width:100%}
+.reels-video-dock{position:absolute;z-index:2;top:0;bottom:env(safe-area-inset-bottom);left:calc(max(0px,(100% - 560px)/2) + 12px);right:calc(max(0px,(100% - 560px)/2) + 52px);background:#000}
+.reels-video-dock[aria-hidden=true]{visibility:hidden;pointer-events:none}
+.reels-clean .reels-video-dock{right:calc(max(0px,(100% - 560px)/2) + 24px)}
+.reels-video-dock .youtube-host iframe{display:block;width:100%;height:100%;border:0}
+.reel-loading-poster{height:100%;width:100%;object-fit:contain;display:block;background:#000}
+.video-loading-status{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.video-player-notice{flex-shrink:0;padding:8px 12px;margin:0;font-size:11px;line-height:1.5;color:#bbb;background:#000}
+.reels-toolbar .clean-navigation{margin-left:auto;flex-shrink:0}
+.reels-toolbar .clean-navigation button{width:34px}
+.reels-v2 .reels-account{overflow:hidden}
+.youtube-shell{background:#000;color-scheme:dark}
