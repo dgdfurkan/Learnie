@@ -1,4 +1,5 @@
 /* The YouTube viewport and Learnie controls occupy separate grid cells. */
+.app-recovery{max-width:400px;margin:20vh auto;padding:24px;color:var(--text);text-align:center}.app-recovery h1{font-size:24px}.app-recovery p{font-size:14px;line-height:1.7;color:var(--muted-text)}.app-recovery button{padding:12px 20px;margin-top:12px;border-radius:9px;background:var(--text);color:var(--canvas);font-weight:600}
 .reels-v2.reels-view{display:flex;flex-direction:column;height:100dvh;min-height:0;background:#000;color:#fff;overflow:hidden}
 .reels-v2 .reels-toolbar{display:flex;align-items:center;gap:8px;flex:0 0 auto;height:52px;padding:env(safe-area-inset-top) max(6px,calc((100% - 560px)/2)) 0;background:#000;box-sizing:content-box;z-index:5}
 .reels-toolbar>button{color:#fff;min-width:44px;min-height:44px;display:flex;align-items:center;justify-content:center;flex-shrink:0}
