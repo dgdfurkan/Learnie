@@ -19,7 +19,7 @@
 .reels-v2 .immersive-player-status{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);padding:0;min-height:0;pointer-events:none}
 .reels-v2 .reel-actions{position:absolute;left:auto;right:0;bottom:28px;display:flex;flex-direction:column;align-items:center;gap:11px;width:52px;padding:0 0 env(safe-area-inset-bottom);z-index:4}
 .reels-v2 .reel-shell.is-video .reel-actions{position:static;grid-column:2;align-self:end;margin-bottom:22px}
-.reels-v2 .reel-actions .icon-button{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;width:48px;height:55px;min-height:55px;padding:5px 0;border-radius:0;background:transparent!important;box-shadow:none;backdrop-filter:none;color:#fff!important}
+.reels-v2 .reel-actions .icon-button{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;width:48px;min-width:48px;max-width:48px;height:55px;min-height:55px;padding:5px 0;border-radius:0;background:transparent!important;box-shadow:none;backdrop-filter:none;color:#fff!important}
 .reels-v2 .reel-actions .icon-button svg{width:25px;height:25px;flex:0 0 25px;stroke-width:1.8}.reels-v2 .reel-actions .icon-button span{display:block;height:12px;min-width:0;line-height:12px;text-align:center;font-size:10px;font-weight:550}
 .reels-v2 .reel-actions .icon-button.active{color:#ff3b57!important}.reels-v2 .reel-actions .icon-button[aria-label*="koleksiyon"].active{color:#fff!important}
 .reels-v2 .film-header{padding-left:12px}.film-account{display:flex;align-items:center;gap:9px;min-width:0;flex:1;text-align:left;color:inherit}.film-account>span:not(.avatar){display:flex;flex-direction:column;font-size:12px}.film-account small{opacity:.7;font-size:10px}
