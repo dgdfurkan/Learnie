@@ -16,6 +16,7 @@ export function validatePost(p,ids=new Set()){
  if(!p.cover||!https(p.cover.url)||!https(p.cover.source)||!p.cover.credit||!p.cover.alt||!p.cover.license)fail('Dış görsel URL, açıklama, kaynak, sanatçı ve lisans gerekli.');
  if(!p.sources?.length||p.sources.some(s=>!s.label||!https(s.url)))fail('Geçerli bilgi kaynağı gerekli.');
  if(!Array.isArray(p.comments)||p.comments.some(c=>!c.name||!c.text))fail('Örnek yorum biçimi geçersiz.');
+ if(p.learning&&['question','answer','application'].some(k=>typeof p.learning[k]!=='string'||!p.learning[k].trim()||p.learning[k].length>650))fail('Hatırlama kartının sorusu, yanıtı ve uygulama adımı gerekli.');
  if(p.quiz&&(!p.quiz.question||!p.quiz.explanation||p.quiz.options.length<2||!Number.isInteger(p.quiz.answer)||p.quiz.answer<0||p.quiz.answer>=p.quiz.options.length))fail('Soru yanıtı geçersiz.');
  if(p.topic!==undefined&&(typeof p.topic!=='string'||!p.topic.trim()||p.topic.length>100))fail('Konu başlığı geçersiz.');
  if(p.layout!==undefined&&!layoutNames.includes(p.layout))fail('Sunum düzeni geçersiz.');

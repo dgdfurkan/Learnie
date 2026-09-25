@@ -11,6 +11,11 @@ for(const [name,size] of [['icon-192',192],['icon-512',512],['apple-touch-icon',
 await sharp({create:{width:512,height:512,channels:4,background:'#000000'}}).composite([{input:await sharp(svg).resize(340).png().toBuffer(),gravity:'centre'}]).png().toFile('dist/icons/maskable-512.png');
 const template=await fs.readFile('dist/index.html','utf8');const escape=s=>s.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const posts=readAllContent();
+const catalog=JSON.stringify({version:1,posts});
+const catalogFile=`catalog-${crypto.createHash('sha256').update(catalog).digest('hex').slice(0,12)}.json`;
+await fs.writeFile(`dist/content/${catalogFile}`,catalog);
+const contentIndex=JSON.parse(await fs.readFile('dist/content/index.json','utf8'));
+await fs.writeFile('dist/content/index.json',JSON.stringify({...contentIndex,catalog:catalogFile}));
 for(const p of posts){const canonical=origin+base+'p/'+p.id+'/';const meta=`<link rel="canonical" href="${canonical}"/><meta property="og:type" content="article"/><meta property="og:site_name" content="Learnie"/><meta property="og:title" content="${escape(p.title)}"/><meta property="og:description" content="${escape(p.subtitle)}"/><meta property="og:url" content="${canonical}"/><meta property="og:image" content="${escape(p.cover.url)}"/><meta name="twitter:card" content="summary_large_image"/>`;
  const html=template.replace(/<title>.*?<\/title>/,`<title>${escape(p.title)} · Learnie</title>`).replace('</head>',meta+'</head>');await fs.mkdir(`dist/p/${p.id}`,{recursive:true});await fs.writeFile(`dist/p/${p.id}/index.html`,html);}
 await fs.writeFile('dist/404.html',template);await fs.writeFile('dist/.nojekyll','');

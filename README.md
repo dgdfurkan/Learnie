@@ -104,3 +104,12 @@ Reels boyunca tek iframe korunur; sonraki video `loadVideoById` ile aynı oynat�
 Sağlayıcının kendi ses düğmesindeki değişiklikler ve ses seviyesi izlenip yerelde kaydedilir. Her klipte yeniden sessize alma yapılmaz. İlk ziyaret sessiz otomatik oynar; sesli otomatik oynatmanın engellenmesi kullanıcının kayıtlı tercihini değiştirmez. Mobil tarayıcı izinleri, YouTube erişimi ve sağlayıcının sunduğu hız/dokunma hareketleri uygulamanın kontrolünde değildir.
 
 `tests/youtube-session.test.mjs` tek başlatma, kullanıcı duraklatması, sonraki videoda ses, hızlı geçiş, panel güncellemeleri, görünürlük, kaldığı yer ve engellenen otomatik oynatma sıralarını sahte API ile sınar. Gerçek medya testi yerine geçmez.
+
+
+## 25 Eylül 2026 güncellemesi
+
+40 yeni kısa video, toplam 939 gönderi ve 603 doğrudan video gönderisi. İlk iframe açılışında autoplay, video geçişinde ses tercihinin yeniden uygulanması ve mevcut iframe oturumunu koruma. Paylaşılan gönderiler Reels'te açılır; okuma görünümü `mode=read` kullanır.
+
+Ana sayfadaki **Öğrenme molan**: 3/5/7 keşif, konu seçimi, isteğe bağlı hatırlama kartı, kendi cümlelerin ve uygulama notların, 1/3/7/14/30 günlük tekrar programı. Yerel kayıt ve yedekle uyumlu. [Tasarım kararları, araştırma dayanakları ve ölçüm planı](docs/learning-design-2026-09-25.md).
+
+Tarayıcı ilk sesli oynatma için kullanıcı hareketi isteyebilir. YouTube'un yerel kontrolleri ve görüntü üzerindeki hareketleri üçüncü taraf iframe'e aittir; uygulama bunları kaplayarak gizlemez. Testlerde gerçek telefondaki ses/video teslimatı ayrıca doğrulanmalıdır.

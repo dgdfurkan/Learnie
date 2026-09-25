@@ -29,7 +29,8 @@ test('native unmute and volume survive successive videos without mute commands',
  assert.deepEqual(sounds,[[false,63]]);
  const before=calls.length;
  s.setSoundPreference(false,63);s.select('sound-b',true);s.stateChanged(1);s.select('sound-c',true);
- assert.deepEqual(calls.slice(before),[['load','sound-b',0],['load','sound-c',0]]);
+ assert.deepEqual(calls.slice(before).filter(c=>c[0]==='load'||c[0]==='play'),[['load','sound-b',0],['load','sound-c',0]]);
+ assert.ok(!calls.slice(before).some(c=>c[0]==='mute'));
  assert.equal(p.muted,false);assert.equal(p.volume,63);
 });
 
@@ -44,10 +45,10 @@ test('eye/comments rerenders issue no media commands; scroll-away pauses and ret
  const before=calls.length;s.select('resume-a',true);s.select('resume-a',true);
  assert.equal(calls.length,before);
  s.select('resume-a',false);s.select('resume-a',false);s.select('resume-a',true);
- assert.deepEqual(calls.slice(before),[['pause'],['play']]);
+ assert.deepEqual(calls.slice(before).filter(c=>['play','pause','load'].includes(c[0])),[['pause'],['play']]);
  assert.equal(rememberedPosition('resume-a'),24);
  s.select('resume-b',true);s.stateChanged(1);p.time=7;s.select('resume-a',true);
- assert.deepEqual(calls.at(-1),['load','resume-a',24]);assert.equal(rememberedPosition('resume-b'),7);
+ assert.deepEqual(calls.filter(c=>c[0]==='load').at(-1),['load','resume-a',24]);assert.equal(rememberedPosition('resume-b'),7);
 });
 
 test('blocked sound retries muted once without overwriting the user sound preference',()=>{
@@ -80,4 +81,35 @@ test('programmatic volume acknowledgement is not recorded as a user change',()=>
  assert.deepEqual(sounds,[]);
  s.setSoundPreference(true,20);s.sample();assert.deepEqual(sounds,[]);
  p.volume=0;s.sample();assert.deepEqual(sounds,[[true,0]]);
+});
+
+
+test('loading resets native mute but saved audible intent is reapplied after each load',()=>{
+ const {s,p,calls,sounds}=harness({muted:false,volume:71});
+ const load=p.loadVideoById.bind(p);p.loadVideoById=args=>{load(args);p.muted=true;};
+ s.select('reset-a',true);s.stateChanged(1);s.select('reset-b',true);s.stateChanged(1);
+ assert.equal(p.muted,false);assert.equal(p.volume,71);assert.deepEqual(sounds,[]);
+ assert.equal(calls.filter(c=>c[0]==='load').length,2);
+});
+test('a temporary muted fallback is not inherited by the following video',()=>{
+ const {s,p,sounds}=harness({muted:false});s.select('temporary-a',true);s.autoplayBlocked();s.stateChanged(1);
+ assert.equal(p.muted,true);s.select('temporary-b',true);assert.equal(p.muted,false);assert.deepEqual(sounds,[]);
+});
+test('native unmute before the first sound acknowledgement is persisted',()=>{
+ const {s,p,sounds}=harness({muted:true});s.select('quick-unmute',true);p.muted=false;s.stateChanged(1);
+ assert.deepEqual(sounds,[[false,100]]);s.select('quick-next',true);assert.equal(p.muted,false);
+});
+test('an initial URL video is adopted without a redundant load and CUED recovers once',()=>{
+ const {s,p,calls}=harness({muted:false});p.id='initial-url';s.adopt('initial-url',true);s.select('initial-url',true);
+ assert.equal(calls.filter(c=>c[0]==='load').length,0);
+ s.stateChanged(5);s.stateChanged(5);assert.equal(calls.filter(c=>c[0]==='play').length,1);
+ s.stateChanged(1);s.stateChanged(2);s.sample();s.select('initial-url',true);
+ assert.equal(calls.filter(c=>c[0]==='play').length,1);
+});
+test('a navigation gesture recovers audible fallback without changing the preference',()=>{
+ const {s,p,sounds}=harness({muted:false});s.select('gesture-a',true);s.autoplayBlocked();s.stateChanged(1);
+ s.userGesture();assert.equal(p.muted,false);assert.deepEqual(sounds,[]);
+});
+test('a disposed player cannot continue producing background sound',()=>{
+ const {s,calls}=harness();s.select('dispose-a',true);s.stateChanged(1);s.dispose();assert.equal(calls.at(-1)[0],'pause');
 });

@@ -2,6 +2,7 @@ export type Category = 'Tümü' | 'Bilim' | 'Uzay' | 'Sanat' | 'Tarih' | 'Coğra
 export interface Slide { title: string; text: string; kicker?: string; }
 export interface Source {label:string;url:string}
 export interface Post {
+ learning?:{question:string;answer:string;application:string};
  topic?:string; layout?:string; display?:'single'|'carousel'|'video'; art?:{kind:'photo'|'type'|'diagram'|'collage';font:string;paper:string;ink:string;align:'start'|'center'|'end';position:'top'|'middle'|'bottom';label?:string}; avatar?:string; avatarCredit?:Source;
  motion?:'tennis'|'football'|'bottle'|'orbit'|'geometry'|'art'|'particles'|'wave'|'prism'|'pendulum'|'flow'|'layers'|'network'|'helix'|'growth'|'balance'|'gears'|'mosaic'|'pulse'|'probability';
  id:string; category:Category; title:string; subtitle:string; account:string; handle:string;
@@ -14,5 +15,7 @@ export interface Post {
  comments:{name:string;text:string}[];
 }
 export interface Collection {id:string;name:string;postIds:string[];createdAt:string}
-export interface UserState {following:string[];collections:Collection[];read:string[];liked:string[];saved:string[];seen:string[];storySeen:string[];answers:Record<string,number>;comments:Record<string,{text:string;createdAt:string}[]>;name:string;simulation:boolean;}
+export interface LearningRecord {note:string;application:string;applied:boolean;level:number;due:string;last:string;reviews:number}
+export interface LearningState {goal:number;topic:string;records:Record<string,LearningRecord>;days:Record<string,string[]>}
+export interface UserState {learning:LearningState;following:string[];collections:Collection[];read:string[];liked:string[];saved:string[];seen:string[];storySeen:string[];answers:Record<string,number>;comments:Record<string,{text:string;createdAt:string}[]>;name:string;simulation:boolean;}
 export type View = 'feed'|'explore'|'reels'|'saved'|'profile';

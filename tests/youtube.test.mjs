@@ -5,7 +5,7 @@ import {normalizePreferences} from '../src/preferences.mjs';
 test('one native control layer retains Turkish captions and API-driven startup',()=>{
  const vars=youtubeOptions('https://dgdfurkan.github.io');
  assert.equal(vars.cc_lang_pref,'tr');assert.equal(vars.cc_load_policy,1);
- assert.equal(vars.playsinline,1);assert.equal(vars.controls,1);assert.equal(vars.autoplay,0);
+ assert.equal(vars.playsinline,1);assert.equal(vars.controls,1);assert.equal(vars.autoplay,1);
  assert.equal(vars.origin,'https://dgdfurkan.github.io');
  assert.ok(!('modestbranding'in vars));assert.ok(!('showinfo'in vars));
 });
