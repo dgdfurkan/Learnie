@@ -8,13 +8,14 @@ const audit=JSON.parse(fs.readFileSync('docs/video-audit-2026-09-23.json','utf8'
 const secondAudit=JSON.parse(fs.readFileSync('docs/video-audit-2026-09-23-batch-2.json','utf8')).videos;
 const thirdAudit=JSON.parse(fs.readFileSync('docs/video-audit-2026-09-24.json','utf8')).videos;
 const sourcesAudit=JSON.parse(fs.readFileSync('docs/video-audit-2026-09-24-sources.json','utf8'));
-const releases=[{videos:audit,count:60,min:60},{videos:secondAudit,count:100,min:60},{videos:thirdAudit,count:200,min:30},{videos:sourcesAudit.videos,count:200,min:15,max:180}];
-test('200 additional videos preserve earlier releases without reusing a source',()=>{
+const latestAudit=JSON.parse(fs.readFileSync('docs/video-audit-2026-09-25.json','utf8'));
+const releases=[{videos:latestAudit.videos,count:40,min:20,max:120},{videos:audit,count:60,min:60},{videos:secondAudit,count:100,min:60},{videos:thirdAudit,count:200,min:30},{videos:sourcesAudit.videos,count:200,min:15,max:180}];
+test('all video releases preserve prior content without duplicate sources',()=>{
  for(const release of releases)assert.equal(release.videos.length,release.count);
- assert.equal(added.length,560);
+ assert.equal(added.length,600);
  const youtube=posts.filter(p=>p.video?.kind==='youtube');
  assert.equal(new Set(youtube.map(p=>p.video.url)).size,youtube.length);
- assert.equal(new Set(releases.flatMap(r=>r.videos.map(a=>a.postId))).size,560);
+ assert.equal(new Set(releases.flatMap(r=>r.videos.map(a=>a.postId))).size,600);
 });
 test('every short source has verified embed permission, Turkish captions and matching metadata',()=>{
  const byId=new Map(posts.map(p=>[p.id,p]));

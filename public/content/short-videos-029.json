@@ -1,0 +1,1391 @@
+{
+  "version": 1,
+  "title": "Kısa keşifler 29: düşün, hatırla, hayata taşı",
+  "posts": [
+    {
+      "id": "kisa-video-matematik-dunyaya-neden-bu-kadar-uyuyor",
+      "category": "Felsefe",
+      "title": "Matematik dünyaya neden bu kadar uyuyor?",
+      "subtitle": "Ali Nesin, zihnimizde kurduğumuz matematik ile dış dünya arasındaki ilişkiyi tartışıyor. Bir modelin işe yaraması ile gerçeğin kendisi olması arasındaki farkı düşünmek için kısa bir başlangıç.",
+      "account": "Bir Soru Daha",
+      "handle": "birsorudaha",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      },
+      "topic": "Matematik felsefesi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/TdwgL8RIap0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgTihOMA8=&rs=AOn4CLCgS6tkf3Ppsm8BEW7DzsqpDD9OOg",
+        "alt": "Matematik dünyaya neden bu kadar uyuyor? — video önizlemesi",
+        "credit": "Nesin Matematik Köyü",
+        "source": "https://www.youtube.com/watch?v=TdwgL8RIap0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Ali Nesin, zihnimizde kurduğumuz matematik ile dış dünya arasındaki ilişkiyi tartışıyor. Bir modelin işe yaraması ile gerçeğin kendisi olması arasındaki farkı düşünmek için kısa bir başlangıç."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "TdwgL8RIap0",
+        "title": "Zihnimiz ile gerçeklik arasındaki uyumun sırrı ne? #matematik #alinesin  #nesinmatematikköyü",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 103,
+        "orientation": "portrait",
+        "publisher": "Nesin Matematik Köyü",
+        "publisherId": "UCimO9iAJY5hllus2dgtn7tw",
+        "poster": "https://i.ytimg.com/vi/TdwgL8RIap0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgTihOMA8=&rs=AOn4CLCgS6tkf3Ppsm8BEW7DzsqpDD9OOg",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "Nesin Matematik Köyü · Zihnimiz ile gerçeklik arasındaki uyumun sırrı ne? #matematik #alinesin  #nesinmatematikköyü",
+          "url": "https://www.youtube.com/watch?v=TdwgL8RIap0"
+        },
+        {
+          "label": "Nesin Matematik Köyü · kanal",
+          "url": "https://www.youtube.com/channel/UCimO9iAJY5hllus2dgtn7tw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "kisa-video-sonsuz-kucuk-ne-demek",
+      "category": "Bilim",
+      "title": "Sonsuz küçük ne demek?",
+      "subtitle": "Ali Nesin’in anlatımından kısa bir matematik kesiti. “Çok küçük” demekle bir büyüklüğü sınır süreci içinde ele almak arasındaki ayrımı merak edenler için.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Matematik",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/olP9eUUbKw0/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgALQBYoCDAgAEAEYZSBgKEswDw==&rs=AOn4CLBhFO5_5MSnjNB6CdFcrY_W7S8HNw",
+        "alt": "Sonsuz küçük ne demek? — video önizlemesi",
+        "credit": "Nesin Matematik Köyü",
+        "source": "https://www.youtube.com/watch?v=olP9eUUbKw0",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Ali Nesin’in anlatımından kısa bir matematik kesiti. “Çok küçük” demekle bir büyüklüğü sınır süreci içinde ele almak arasındaki ayrımı merak edenler için."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "olP9eUUbKw0",
+        "title": "Sonsuz Küçük🔦 #alinesin  #shorts",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 60,
+        "orientation": "portrait",
+        "publisher": "Nesin Matematik Köyü",
+        "publisherId": "UCimO9iAJY5hllus2dgtn7tw",
+        "poster": "https://i.ytimg.com/vi/olP9eUUbKw0/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgALQBYoCDAgAEAEYZSBgKEswDw==&rs=AOn4CLBhFO5_5MSnjNB6CdFcrY_W7S8HNw",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "Nesin Matematik Köyü · Sonsuz Küçük🔦 #alinesin  #shorts",
+          "url": "https://www.youtube.com/watch?v=olP9eUUbKw0"
+        },
+        {
+          "label": "Nesin Matematik Köyü · kanal",
+          "url": "https://www.youtube.com/channel/UCimO9iAJY5hllus2dgtn7tw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "kisa-video-bir-tutumun-uc-parcasi",
+      "category": "Bilim",
+      "title": "Bir tutumun üç parçası",
+      "subtitle": "Khan Academy Türkçe, tutumların duygusal, davranışsal ve bilişsel bileşenlerini anlatıyor. Bir konu hakkında ne hissettiğimiz, ne düşündüğümüz ve nasıl davrandığımız her zaman aynı yönde olmayabilir.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Psikoloji",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/dpV_DuJL4Yc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACxgqKAgwIABABGHIgVyg_MA8=&rs=AOn4CLDiiD4rLw891mmbUbA0CHGRII6JdQ",
+        "alt": "Bir tutumun üç parçası — video önizlemesi",
+        "credit": "KhanAcademyTurkce",
+        "source": "https://www.youtube.com/watch?v=dpV_DuJL4Yc",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Khan Academy Türkçe, tutumların duygusal, davranışsal ve bilişsel bileşenlerini anlatıyor. Bir konu hakkında ne hissettiğimiz, ne düşündüğümüz ve nasıl davrandığımız her zaman aynı yönde olmayabilir."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "dpV_DuJL4Yc",
+        "title": "Tutum Nedir? Psikolojide Davranışların Ardındaki Sırlar #shorts #shortstrending  #khanacademy",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 89,
+        "orientation": "portrait",
+        "publisher": "KhanAcademyTurkce",
+        "publisherId": "UC8hgx5hCiyDmO3UeBl95_1Q",
+        "poster": "https://i.ytimg.com/vi/dpV_DuJL4Yc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACxgqKAgwIABABGHIgVyg_MA8=&rs=AOn4CLDiiD4rLw891mmbUbA0CHGRII6JdQ",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "KhanAcademyTurkce · Tutum Nedir? Psikolojide Davranışların Ardındaki Sırlar #shorts #shortstrending  #khanacademy",
+          "url": "https://www.youtube.com/watch?v=dpV_DuJL4Yc"
+        },
+        {
+          "label": "KhanAcademyTurkce · kanal",
+          "url": "https://www.youtube.com/channel/UC8hgx5hCiyDmO3UeBl95_1Q"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25",
+      "learning": {
+        "question": "Bir tutumun üç bileşeni nelerdi?",
+        "answer": "Duygusal, bilişsel ve davranışsal bileşenler: ne hissettiğimiz, ne düşündüğümüz ve nasıl davrandığımız.",
+        "application": "Spor yapmak gibi bir konu seç. Hislerini, düşünceni ve davranışını ayrı ayrı birer cümleyle yaz."
+      }
+    },
+    {
+      "id": "kisa-video-laboratuvarda-minyatur-karaciger-modeli",
+      "category": "Bilim",
+      "title": "Laboratuvarda minyatür karaciğer modeli",
+      "subtitle": "Gelecek Bilimde, karaciğer organoidleri ile bağışıklık hücrelerini bir araya getiren araştırmayı tanıtıyor. Organoid, araştırmada kullanılan bir doku modelidir; nakledilmeye hazır tam bir organ anlamına gelmez.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Biyoteknoloji",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/OC2pIxgv_wM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGHEgRChyMA8=&rs=AOn4CLDQSIVTfwqpQtTLmB2KE2aKOxqPTg",
+        "alt": "Laboratuvarda minyatür karaciğer modeli — video önizlemesi",
+        "credit": "Gelecek Bilimde",
+        "source": "https://www.youtube.com/watch?v=OC2pIxgv_wM",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Gelecek Bilimde, karaciğer organoidleri ile bağışıklık hücrelerini bir araya getiren araştırmayı tanıtıyor. Organoid, araştırmada kullanılan bir doku modelidir; nakledilmeye hazır tam bir organ anlamına gelmez."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "OC2pIxgv_wM",
+        "title": "Minyatür Karaciğer Üretildi!",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 99,
+        "orientation": "portrait",
+        "publisher": "Gelecek Bilimde",
+        "publisherId": "UC03cpKIZShIWoSBhfVE5bog",
+        "poster": "https://i.ytimg.com/vi/OC2pIxgv_wM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGHEgRChyMA8=&rs=AOn4CLDQSIVTfwqpQtTLmB2KE2aKOxqPTg",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "Gelecek Bilimde · Minyatür Karaciğer Üretildi!",
+          "url": "https://www.youtube.com/watch?v=OC2pIxgv_wM"
+        },
+        {
+          "label": "Gelecek Bilimde · kanal",
+          "url": "https://www.youtube.com/channel/UC03cpKIZShIWoSBhfVE5bog"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25",
+      "learning": {
+        "question": "Organoid ile tam bir organ arasındaki fark ne?",
+        "answer": "Organoid, bazı doku özelliklerini modellemek için kullanılan laboratuvar yapısıdır. Nakle hazır tam bir organla aynı şey değildir.",
+        "application": "Bir bilim haberinde “model”, “hayvan deneyi” veya “insan çalışması” ifadelerinden hangisinin kullanıldığını bul."
+      }
+    },
+    {
+      "id": "kisa-video-ates-neden-yukselir",
+      "category": "Bilim",
+      "title": "Ateş neden yükselir?",
+      "subtitle": "Gelecek Bilimde, ateş ile bağışıklık sisteminin ilişkisini anlatıyor. Vücut sıcaklığının düzenlenmesi üzerine kısa bir biyoloji anlatımı; kişinin belirtilerine göre değerlendirme veya tedavi önerisi sunmuyor.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "İnsan biyolojisi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.7,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/UpJIZIc_q3g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGFAgZShUMA8=&rs=AOn4CLA0uY_YcR93XkbxsQNGOWLhaX5wUw",
+        "alt": "Ateş neden yükselir? — video önizlemesi",
+        "credit": "Gelecek Bilimde",
+        "source": "https://www.youtube.com/watch?v=UpJIZIc_q3g",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Gelecek Bilimde, ateş ile bağışıklık sisteminin ilişkisini anlatıyor. Vücut sıcaklığının düzenlenmesi üzerine kısa bir biyoloji anlatımı; kişinin belirtilerine göre değerlendirme veya tedavi önerisi sunmuyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "UpJIZIc_q3g",
+        "title": "Ateşimiz Neden Çıkar?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 101,
+        "orientation": "portrait",
+        "publisher": "Gelecek Bilimde",
+        "publisherId": "UC03cpKIZShIWoSBhfVE5bog",
+        "poster": "https://i.ytimg.com/vi/UpJIZIc_q3g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGFAgZShUMA8=&rs=AOn4CLA0uY_YcR93XkbxsQNGOWLhaX5wUw",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "Gelecek Bilimde · Ateşimiz Neden Çıkar?",
+          "url": "https://www.youtube.com/watch?v=UpJIZIc_q3g"
+        },
+        {
+          "label": "Gelecek Bilimde · kanal",
+          "url": "https://www.youtube.com/channel/UC03cpKIZShIWoSBhfVE5bog"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "kisa-video-bilim-deyince-ne-anliyoruz",
+      "category": "Felsefe",
+      "title": "Bilim deyince ne anlıyoruz?",
+      "subtitle": "Gelecek Bilimde’nin röportajından bir soru: Bilim nedir? Farklı insanların bu kavramı nasıl tarif ettiğini dinlerken kendi tanımını da kurabilirsin. Röportaj yanıtları, konuşan kişilerin görüşlerini yansıtıyor.",
+      "account": "Bir Soru Daha",
+      "handle": "birsorudaha",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      },
+      "topic": "Bilim felsefesi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/xz82WNptvyI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGDUgWChyMA8=&rs=AOn4CLDxXUlGwNcJIPyh2OSUc8OBisVu9Q",
+        "alt": "Bilim deyince ne anlıyoruz? — video önizlemesi",
+        "credit": "Gelecek Bilimde",
+        "source": "https://www.youtube.com/watch?v=xz82WNptvyI",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Gelecek Bilimde’nin röportajından bir soru: Bilim nedir? Farklı insanların bu kavramı nasıl tarif ettiğini dinlerken kendi tanımını da kurabilirsin. Röportaj yanıtları, konuşan kişilerin görüşlerini yansıtıyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "xz82WNptvyI",
+        "title": "Bilim Nedir? #röportaj",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 115,
+        "orientation": "portrait",
+        "publisher": "Gelecek Bilimde",
+        "publisherId": "UC03cpKIZShIWoSBhfVE5bog",
+        "poster": "https://i.ytimg.com/vi/xz82WNptvyI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGDUgWChyMA8=&rs=AOn4CLDxXUlGwNcJIPyh2OSUc8OBisVu9Q",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "Gelecek Bilimde · Bilim Nedir? #röportaj",
+          "url": "https://www.youtube.com/watch?v=xz82WNptvyI"
+        },
+        {
+          "label": "Gelecek Bilimde · kanal",
+          "url": "https://www.youtube.com/channel/UC03cpKIZShIWoSBhfVE5bog"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "kisa-video-hicbir-sey-yapmadan-durabilir-miyiz",
+      "category": "Felsefe",
+      "title": "Hiçbir şey yapmadan durabilir miyiz?",
+      "subtitle": "Pelin Dilara Çolak, sürekli bir şeyle meşgul olma hâlini sorguluyor. Bu kısa düşünme molasının ardından telefonu bırakıp birkaç dakika boyunca çevreni fark etmeyi deneyebilirsin.",
+      "account": "Bir Soru Daha",
+      "handle": "birsorudaha",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      },
+      "topic": "Dikkat",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/vXS3r7VGFpg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGEMgWihlMA8=&rs=AOn4CLD2yhZJkxp27BOROGZ8sZy_W149og",
+        "alt": "Hiçbir şey yapmadan durabilir miyiz? — video önizlemesi",
+        "credit": "Pelin Dilara Çolak",
+        "source": "https://www.youtube.com/watch?v=vXS3r7VGFpg",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Pelin Dilara Çolak, sürekli bir şeyle meşgul olma hâlini sorguluyor. Bu kısa düşünme molasının ardından telefonu bırakıp birkaç dakika boyunca çevreni fark etmeyi deneyebilirsin."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "vXS3r7VGFpg",
+        "title": "En son ne zaman hiçbir şey yapmadınız?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 112,
+        "orientation": "portrait",
+        "publisher": "Pelin Dilara Çolak",
+        "publisherId": "UCLUyXhgymG9MRSV56yPUQ2g",
+        "poster": "https://i.ytimg.com/vi/vXS3r7VGFpg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGEMgWihlMA8=&rs=AOn4CLD2yhZJkxp27BOROGZ8sZy_W149og",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "Pelin Dilara Çolak · En son ne zaman hiçbir şey yapmadınız?",
+          "url": "https://www.youtube.com/watch?v=vXS3r7VGFpg"
+        },
+        {
+          "label": "Pelin Dilara Çolak · kanal",
+          "url": "https://www.youtube.com/channel/UCLUyXhgymG9MRSV56yPUQ2g"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "kisa-video-zek-yi-tek-bir-sayiya-sigdirmak",
+      "category": "Bilim",
+      "title": "Zekâyı tek bir sayıya sığdırmak",
+      "subtitle": "Khan Academy Türkçe, analitik, yaratıcı, pratik ve duygusal beceriler üzerinden zekâ tartışmasına bakıyor. Bir testin ölçtüğü beceri ile bir insanın bütün yetenekleri arasındaki fark üzerine bir giriş.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Psikoloji",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/P2Tvs6LPXl8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACxgqKAgwIABABGDAgZSg4MA8=&rs=AOn4CLChah7aJgpam4WKx72cqO4-uZCyCg",
+        "alt": "Zekâyı tek bir sayıya sığdırmak — video önizlemesi",
+        "credit": "KhanAcademyTurkce",
+        "source": "https://www.youtube.com/watch?v=P2Tvs6LPXl8",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Khan Academy Türkçe, analitik, yaratıcı, pratik ve duygusal beceriler üzerinden zekâ tartışmasına bakıyor. Bir testin ölçtüğü beceri ile bir insanın bütün yetenekleri arasındaki fark üzerine bir giriş."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "P2Tvs6LPXl8",
+        "title": "Yüksek IQ Her Kapıyı Açar mı? Zekanın 4 Yüzü!  #khanacademy #shorts #shortstrending #shortsviral",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 91,
+        "orientation": "portrait",
+        "publisher": "KhanAcademyTurkce",
+        "publisherId": "UC8hgx5hCiyDmO3UeBl95_1Q",
+        "poster": "https://i.ytimg.com/vi/P2Tvs6LPXl8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACxgqKAgwIABABGDAgZSg4MA8=&rs=AOn4CLChah7aJgpam4WKx72cqO4-uZCyCg",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "KhanAcademyTurkce · Yüksek IQ Her Kapıyı Açar mı? Zekanın 4 Yüzü!  #khanacademy #shorts #shortstrending #shortsviral",
+          "url": "https://www.youtube.com/watch?v=P2Tvs6LPXl8"
+        },
+        {
+          "label": "KhanAcademyTurkce · kanal",
+          "url": "https://www.youtube.com/channel/UC8hgx5hCiyDmO3UeBl95_1Q"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "kisa-video-bir-tisortun-gorunmeyen-su-ihtiyaci",
+      "category": "Doğa",
+      "title": "Bir tişörtün görünmeyen su ihtiyacı",
+      "subtitle": "+90, pamuklu giysi üretiminin su kullanımıyla ilişkisini ve ikinci el giyimi ele alıyor. Üretim koşullarına göre değişen su ayak izini düşünürken kıyafetin yalnızca mağazada başlayan bir hikâyesi olmadığını fark ediyoruz.",
+      "account": "Doğanın Notları",
+      "handle": "doganinnotlari",
+      "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Samuel Quek / Unsplash",
+        "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+      },
+      "topic": "Sürdürülebilirlik",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/QhCCkwxXsrc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYTyBTKGUwDw==&rs=AOn4CLDxg8OAQfVKhHHYQr7k3lZ4zGIRkw",
+        "alt": "Bir tişörtün görünmeyen su ihtiyacı — video önizlemesi",
+        "credit": "+90",
+        "source": "https://www.youtube.com/watch?v=QhCCkwxXsrc",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "+90, pamuklu giysi üretiminin su kullanımıyla ilişkisini ve ikinci el giyimi ele alıyor. Üretim koşullarına göre değişen su ayak izini düşünürken kıyafetin yalnızca mağazada başlayan bir hikâyesi olmadığını fark ediyoruz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "QhCCkwxXsrc",
+        "title": "1 pamuklu tişört mü 2,5 yıllık içme suyu mu? İkinci el giyimin çevreye faydası ne?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 34,
+        "orientation": "portrait",
+        "publisher": "+90",
+        "publisherId": "UCUnwimZlOXfAedrmRfguS1g",
+        "poster": "https://i.ytimg.com/vi/QhCCkwxXsrc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYTyBTKGUwDw==&rs=AOn4CLDxg8OAQfVKhHHYQr7k3lZ4zGIRkw",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "+90 · 1 pamuklu tişört mü 2,5 yıllık içme suyu mu? İkinci el giyimin çevreye faydası ne?",
+          "url": "https://www.youtube.com/watch?v=QhCCkwxXsrc"
+        },
+        {
+          "label": "+90 · kanal",
+          "url": "https://www.youtube.com/channel/UCUnwimZlOXfAedrmRfguS1g"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25",
+      "learning": {
+        "question": "Bir kıyafetin su ayak izi neden yalnızca yıkamayla ilgili değil?",
+        "answer": "Hammadde yetiştirme ve üretim aşamalarında da su kullanılır. Kullanım miktarı üretim koşullarına göre değişir.",
+        "application": "Dolabındaki bir kıyafetin etiketine bak; lifinin hangi hammaddeden geldiğini bul."
+      }
+    },
+    {
+      "id": "kisa-video-motivasyona-bes-farkli-bakis",
+      "category": "Bilim",
+      "title": "Motivasyona beş farklı bakış",
+      "subtitle": "Khan Academy Türkçe, motivasyonu açıklayan farklı psikoloji yaklaşımlarını bir araya getiriyor. Bir işe başlama nedenimizle o işi sürdürme nedenimizin aynı olup olmadığını düşünmek için kısa bir çerçeve.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Psikoloji",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.5,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/RujshPtsEjY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACxgqKAgwIABABGGUgYSgxMA8=&rs=AOn4CLDHgipZcz4WrTeCnmDZP1dmU9GeuQ",
+        "alt": "Motivasyona beş farklı bakış — video önizlemesi",
+        "credit": "KhanAcademyTurkce",
+        "source": "https://www.youtube.com/watch?v=RujshPtsEjY",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Khan Academy Türkçe, motivasyonu açıklayan farklı psikoloji yaklaşımlarını bir araya getiriyor. Bir işe başlama nedenimizle o işi sürdürme nedenimizin aynı olup olmadığını düşünmek için kısa bir çerçeve."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "RujshPtsEjY",
+        "title": "Motivasyonu Yanlış mı Biliyoruz? (5 Farklı Bilimsel Yaklaşım) #shorts #shortsvideo #shortsviral",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 91,
+        "orientation": "portrait",
+        "publisher": "KhanAcademyTurkce",
+        "publisherId": "UC8hgx5hCiyDmO3UeBl95_1Q",
+        "poster": "https://i.ytimg.com/vi/RujshPtsEjY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACxgqKAgwIABABGGUgYSgxMA8=&rs=AOn4CLDHgipZcz4WrTeCnmDZP1dmU9GeuQ",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "KhanAcademyTurkce · Motivasyonu Yanlış mı Biliyoruz? (5 Farklı Bilimsel Yaklaşım) #shorts #shortsvideo #shortsviral",
+          "url": "https://www.youtube.com/watch?v=RujshPtsEjY"
+        },
+        {
+          "label": "KhanAcademyTurkce · kanal",
+          "url": "https://www.youtube.com/channel/UC8hgx5hCiyDmO3UeBl95_1Q"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "kisa-video-su-var-ama-herkese-yetiyor-mu",
+      "category": "Coğrafya",
+      "title": "Su var ama herkese yetiyor mu?",
+      "subtitle": "İdil Salihoğlu, su stresi kavramını Türkiye üzerinden anlatıyor. Bir ülkenin su kaynaklarını değerlendirirken yalnızca toplam miktara değil, nüfusa ve kullanım baskısına da bakmak gerekiyor. Sayısal veriler videonun yayın dönemine ait.",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Su kaynakları",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/JLT4AvvK1dE/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBVKEIwDw==&rs=AOn4CLBAsM0mJ0U3MF0ASAgLpp0Ba6Um9g",
+        "alt": "Su var ama herkese yetiyor mu? — video önizlemesi",
+        "credit": "İdil Salihoğlu",
+        "source": "https://www.youtube.com/watch?v=JLT4AvvK1dE",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "İdil Salihoğlu, su stresi kavramını Türkiye üzerinden anlatıyor. Bir ülkenin su kaynaklarını değerlendirirken yalnızca toplam miktara değil, nüfusa ve kullanım baskısına da bakmak gerekiyor. Sayısal veriler videonun yayın dönemine ait."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "JLT4AvvK1dE",
+        "title": "Su Stresi ve Türkiye'nin Su Krizi #sukrizi #bilim",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 57,
+        "orientation": "portrait",
+        "publisher": "İdil Salihoğlu",
+        "publisherId": "UCq-2mZvwOVAmGjqpXV-mnxA",
+        "poster": "https://i.ytimg.com/vi/JLT4AvvK1dE/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBVKEIwDw==&rs=AOn4CLBAsM0mJ0U3MF0ASAgLpp0Ba6Um9g",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "İdil Salihoğlu · Su Stresi ve Türkiye'nin Su Krizi #sukrizi #bilim",
+          "url": "https://www.youtube.com/watch?v=JLT4AvvK1dE"
+        },
+        {
+          "label": "İdil Salihoğlu · kanal",
+          "url": "https://www.youtube.com/channel/UCq-2mZvwOVAmGjqpXV-mnxA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25",
+      "learning": {
+        "question": "Su stresi neden yalnızca çöl ülkelerinin sorunu değil?",
+        "answer": "Su kaynakları, nüfus ve kullanım baskısı birlikte değerlendirilir. Suya sahip olmak, herkes için yeterli ve sürdürülebilir su bulunduğu anlamına gelmez.",
+        "application": "Gün içinde su kullanılan üç farklı iş düşün; doğrudan musluktan akanlarla sınırlı kalma."
+      }
+    },
+    {
+      "id": "kisa-video-odysseia-beyaz-perdeye-sigar-mi",
+      "category": "Edebiyat",
+      "title": "Odysseia beyaz perdeye sığar mı?",
+      "subtitle": "Klasik filolog Erman Gören, Odysseia ile sinema uyarlamasını karşılaştırıyor. Bir destanı başka bir anlatım biçimine taşırken hangi olayların seçildiği, hangilerinin dışarıda bırakıldığı üzerine kısa bir konuşma.",
+      "account": "Sayfa Arası",
+      "handle": "sayfaarasi",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+      "avatarCredit": {
+        "label": "Charles Burton Gulick",
+        "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+      },
+      "topic": "Mitoloji",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/wo4KWb5VWqE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACxgqKAgwIABABGHIgSSg1MA8=&rs=AOn4CLDi9SfaLDL9jneJj3Gt_7ypGOK89g",
+        "alt": "Odysseia beyaz perdeye sığar mı? — video önizlemesi",
+        "credit": "Gündem Ötesi",
+        "source": "https://www.youtube.com/watch?v=wo4KWb5VWqE",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Klasik filolog Erman Gören, Odysseia ile sinema uyarlamasını karşılaştırıyor. Bir destanı başka bir anlatım biçimine taşırken hangi olayların seçildiği, hangilerinin dışarıda bırakıldığı üzerine kısa bir konuşma."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "wo4KWb5VWqE",
+        "title": "Destanda yer alan ama Odyssey filminde gösterilmeyen 3 önemli olay! #GündemÖtesi #Odyssey #shorts",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 76,
+        "orientation": "portrait",
+        "publisher": "Gündem Ötesi",
+        "publisherId": "UCXTuTRn0L4c0pxPAcaL1Pfw",
+        "poster": "https://i.ytimg.com/vi/wo4KWb5VWqE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACxgqKAgwIABABGHIgSSg1MA8=&rs=AOn4CLDi9SfaLDL9jneJj3Gt_7ypGOK89g",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "Gündem Ötesi · Destanda yer alan ama Odyssey filminde gösterilmeyen 3 önemli olay! #GündemÖtesi #Odyssey #shorts",
+          "url": "https://www.youtube.com/watch?v=wo4KWb5VWqE"
+        },
+        {
+          "label": "Gündem Ötesi · kanal",
+          "url": "https://www.youtube.com/channel/UCXTuTRn0L4c0pxPAcaL1Pfw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "kisa-video-bilgisayarin-gormesi-ne-demek",
+      "category": "Teknoloji",
+      "title": "Bilgisayarın görmesi ne demek?",
+      "subtitle": "Tek Çare Uzay kanalındaki bu kesit, bilgisayarlı görü konusuna giriş yapıyor. Bir görüntünün insan için anlamlı bir sahne, bilgisayar içinse işlenecek sayısal veri olması arasındaki farkı düşünelim.",
+      "account": "Nasıl Çalışır",
+      "handle": "nasilcalisir",
+      "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "Bao Menglong / Unsplash",
+        "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+      },
+      "topic": "Yapay zekâ",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.8,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/xxklcxS-eOM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDf5E26eTZ5noCM7Df8cBEsv_NMtQ",
+        "alt": "Bilgisayarın görmesi ne demek? — video önizlemesi",
+        "credit": "Dr Umut Yildiz (Tek Çare Uzay)",
+        "source": "https://www.youtube.com/watch?v=xxklcxS-eOM",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Tek Çare Uzay kanalındaki bu kesit, bilgisayarlı görü konusuna giriş yapıyor. Bir görüntünün insan için anlamlı bir sahne, bilgisayar içinse işlenecek sayısal veri olması arasındaki farkı düşünelim."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "xxklcxS-eOM",
+        "title": "Gören Bilgisayarlar",
+        "language": "Türkçe altyazılı",
+        "duration": 49,
+        "orientation": "portrait",
+        "publisher": "Dr Umut Yildiz (Tek Çare Uzay)",
+        "publisherId": "UC5_6R9pPdyQ5-t-VQXS7E2A",
+        "poster": "https://i.ytimg.com/vi/xxklcxS-eOM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDf5E26eTZ5noCM7Df8cBEsv_NMtQ",
+        "captionLanguage": "tr",
+        "captionKind": "published",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "Dr Umut Yildiz (Tek Çare Uzay) · Gören Bilgisayarlar",
+          "url": "https://www.youtube.com/watch?v=xxklcxS-eOM"
+        },
+        {
+          "label": "Dr Umut Yildiz (Tek Çare Uzay) · kanal",
+          "url": "https://www.youtube.com/channel/UC5_6R9pPdyQ5-t-VQXS7E2A"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "kisa-video-seni-yutan-aslani-nasil-bulursun",
+      "category": "Felsefe",
+      "title": "Seni yutan aslanı nasıl bulursun?",
+      "subtitle": "Pelin Dilara Çolak’ın sorusuyla kısa bir düşünce deneyi. Bir sorunu anlamaya çalışırken kendi bakış açımızın da o sorunun içinde olabileceğini düşünmek için felsefi bir kesit.",
+      "account": "Bir Soru Daha",
+      "handle": "birsorudaha",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      },
+      "topic": "Düşünce deneyi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.4,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/Orl5RRSOluI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgUCg9MA8=&rs=AOn4CLBZHQi2pEME3nhUHukkmuNuvzRH5g",
+        "alt": "Seni yutan aslanı nasıl bulursun? — video önizlemesi",
+        "credit": "Pelin Dilara Çolak",
+        "source": "https://www.youtube.com/watch?v=Orl5RRSOluI",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Pelin Dilara Çolak’ın sorusuyla kısa bir düşünce deneyi. Bir sorunu anlamaya çalışırken kendi bakış açımızın da o sorunun içinde olabileceğini düşünmek için felsefi bir kesit."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "Orl5RRSOluI",
+        "title": "Seni Yutan Bir Aslanı Nasıl Bulursun?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 82,
+        "orientation": "portrait",
+        "publisher": "Pelin Dilara Çolak",
+        "publisherId": "UCLUyXhgymG9MRSV56yPUQ2g",
+        "poster": "https://i.ytimg.com/vi/Orl5RRSOluI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgUCg9MA8=&rs=AOn4CLBZHQi2pEME3nhUHukkmuNuvzRH5g",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "Pelin Dilara Çolak · Seni Yutan Bir Aslanı Nasıl Bulursun?",
+          "url": "https://www.youtube.com/watch?v=Orl5RRSOluI"
+        },
+        {
+          "label": "Pelin Dilara Çolak · kanal",
+          "url": "https://www.youtube.com/channel/UCLUyXhgymG9MRSV56yPUQ2g"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "kisa-video-uzay-copleri-neden-sorun",
+      "category": "Uzay",
+      "title": "Uzay çöpleri neden sorun?",
+      "subtitle": "Astrofizikçi Umut Yıldız, yörüngedeki atıkların oluşturduğu sorunu anlatıyor. İşini bitiren bir araç ya da kopan bir parça, uzayda kendiliğinden ortadan kaybolmuyor; diğer araçlarla aynı çevreyi paylaşmaya devam ediyor.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Yörüngeler",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/yCqCuBOv0Hw/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBPKEowDw==&rs=AOn4CLB57CwwyppzU4qqo3M73eIhxEGbfQ",
+        "alt": "Uzay çöpleri neden sorun? — video önizlemesi",
+        "credit": "Dr Umut Yildiz (Tek Çare Uzay)",
+        "source": "https://www.youtube.com/watch?v=yCqCuBOv0Hw",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Astrofizikçi Umut Yıldız, yörüngedeki atıkların oluşturduğu sorunu anlatıyor. İşini bitiren bir araç ya da kopan bir parça, uzayda kendiliğinden ortadan kaybolmuyor; diğer araçlarla aynı çevreyi paylaşmaya devam ediyor."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "yCqCuBOv0Hw",
+        "title": "Uzay çöpleri büyük sorunlara yol açacak!",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 37,
+        "orientation": "portrait",
+        "publisher": "Dr Umut Yildiz (Tek Çare Uzay)",
+        "publisherId": "UC5_6R9pPdyQ5-t-VQXS7E2A",
+        "poster": "https://i.ytimg.com/vi/yCqCuBOv0Hw/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBPKEowDw==&rs=AOn4CLB57CwwyppzU4qqo3M73eIhxEGbfQ",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "Dr Umut Yildiz (Tek Çare Uzay) · Uzay çöpleri büyük sorunlara yol açacak!",
+          "url": "https://www.youtube.com/watch?v=yCqCuBOv0Hw"
+        },
+        {
+          "label": "Dr Umut Yildiz (Tek Çare Uzay) · kanal",
+          "url": "https://www.youtube.com/channel/UC5_6R9pPdyQ5-t-VQXS7E2A"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25",
+      "learning": {
+        "question": "Görevini bitiren bir uydu neden hâlâ sorun olabilir?",
+        "answer": "Yörüngede kalan araç ve parçalar diğer uzay araçlarıyla çarpışma riski oluşturabilir. Görevin bitmesi, aracın yörüngeden hemen çıktığı anlamına gelmez.",
+        "application": "Bu sorunu karadaki trafik veya atık yönetimiyle karşılaştıran bir benzetme kur."
+      }
+    },
+    {
+      "id": "kisa-video-harran-evlerinde-serinligin-izleri",
+      "category": "Sanat",
+      "title": "Harran evlerinde serinliğin izleri",
+      "subtitle": "Harran evlerine yapılan bu ziyarette geleneksel yapı malzemeleri ve serin kalma yöntemleri konuşuluyor. Bir yapıyı anlamak için biçiminin yanında iklimle kurduğu ilişkiye de bakabiliriz.",
+      "account": "Atölyeden",
+      "handle": "atolyeden",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+      "avatarCredit": {
+        "label": "Laitche",
+        "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+      },
+      "topic": "Mimarlık",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.6,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/JY-WnwXAFIA/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYRSBUKHIwDw==&rs=AOn4CLCexKmynPWt4E85fUHttGM5lACpWw",
+        "alt": "Harran evlerinde serinliğin izleri — video önizlemesi",
+        "credit": "Emre Yücelen Şan Dersi",
+        "source": "https://www.youtube.com/watch?v=JY-WnwXAFIA",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Harran evlerine yapılan bu ziyarette geleneksel yapı malzemeleri ve serin kalma yöntemleri konuşuluyor. Bir yapıyı anlamak için biçiminin yanında iklimle kurduğu ilişkiye de bakabiliriz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "JY-WnwXAFIA",
+        "title": "Harran Evlerinin Sırrı: Serinlik, Nem Yok, Taş Devri İnşaatı! #shorts",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 36,
+        "orientation": "portrait",
+        "publisher": "Emre Yücelen Şan Dersi",
+        "publisherId": "UCffjxhLW1_Ol1EQTE5-VQ1Q",
+        "poster": "https://i.ytimg.com/vi/JY-WnwXAFIA/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYRSBUKHIwDw==&rs=AOn4CLCexKmynPWt4E85fUHttGM5lACpWw",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "Emre Yücelen Şan Dersi · Harran Evlerinin Sırrı: Serinlik, Nem Yok, Taş Devri İnşaatı! #shorts",
+          "url": "https://www.youtube.com/watch?v=JY-WnwXAFIA"
+        },
+        {
+          "label": "Emre Yücelen Şan Dersi · kanal",
+          "url": "https://www.youtube.com/channel/UCffjxhLW1_Ol1EQTE5-VQ1Q"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "kisa-video-bilim-insanlarina-neden-guveniriz",
+      "category": "Felsefe",
+      "title": "Bilim insanlarına neden güveniriz?",
+      "subtitle": "Gelecek Bilimde, bilim insanlarına güven üzerine farklı kişilere söz veriyor. Yanıtları dinlerken bir kişinin otoritesi ile iddiasını destekleyen kanıtları ayrı ayrı değerlendirmeyi deneyebilirsin.",
+      "account": "Bir Soru Daha",
+      "handle": "birsorudaha",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+      "avatarCredit": {
+        "label": "Bubba73 (talk) , Jud McCranie",
+        "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+      },
+      "topic": "Bilim iletişimi",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.3,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/v58g28KPldk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGDUgVyhyMA8=&rs=AOn4CLBlPdlb2sZPFtqxaMl5iQOpnbH1-A",
+        "alt": "Bilim insanlarına neden güveniriz? — video önizlemesi",
+        "credit": "Gelecek Bilimde",
+        "source": "https://www.youtube.com/watch?v=v58g28KPldk",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Gelecek Bilimde, bilim insanlarına güven üzerine farklı kişilere söz veriyor. Yanıtları dinlerken bir kişinin otoritesi ile iddiasını destekleyen kanıtları ayrı ayrı değerlendirmeyi deneyebilirsin."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "v58g28KPldk",
+        "title": "Bilim İnsanlarına Güveniyor musunuz? #röportaj",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 77,
+        "orientation": "portrait",
+        "publisher": "Gelecek Bilimde",
+        "publisherId": "UC03cpKIZShIWoSBhfVE5bog",
+        "poster": "https://i.ytimg.com/vi/v58g28KPldk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGDUgVyhyMA8=&rs=AOn4CLBlPdlb2sZPFtqxaMl5iQOpnbH1-A",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "Gelecek Bilimde · Bilim İnsanlarına Güveniyor musunuz? #röportaj",
+          "url": "https://www.youtube.com/watch?v=v58g28KPldk"
+        },
+        {
+          "label": "Gelecek Bilimde · kanal",
+          "url": "https://www.youtube.com/channel/UC03cpKIZShIWoSBhfVE5bog"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "kisa-video-alginin-olcusu-degistiginde",
+      "category": "Bilim",
+      "title": "Algının ölçüsü değiştiğinde",
+      "subtitle": "Bebar Bilim, Alice Harikalar Diyarında sendromu adıyla bilinen algı değişikliklerini tanıtıyor. Bir nesnenin fiziksel boyutu ile algılanan boyutunun aynı şey olmadığını gösteren bir örnek. Video kişisel tanı amacı taşımaz.",
+      "account": "Bilimin İçinden",
+      "handle": "bilimini̇cinden",
+      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+      "avatarCredit": {
+        "label": "SHTTEFAN / Unsplash",
+        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+      },
+      "topic": "Algı",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/tv1CDrJHbAA/maxresdefault.jpg",
+        "alt": "Algının ölçüsü değiştiğinde — video önizlemesi",
+        "credit": "Bebar Bilim",
+        "source": "https://www.youtube.com/watch?v=tv1CDrJHbAA",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Bebar Bilim, Alice Harikalar Diyarında sendromu adıyla bilinen algı değişikliklerini tanıtıyor. Bir nesnenin fiziksel boyutu ile algılanan boyutunun aynı şey olmadığını gösteren bir örnek. Video kişisel tanı amacı taşımaz."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "tv1CDrJHbAA",
+        "title": "Bir Garip Rahatsızlık: Alice Harikalar Diyarında Sendromu",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 116,
+        "orientation": "portrait",
+        "publisher": "Bebar Bilim",
+        "publisherId": "UCDTSUkdlbcgEU-IGH_mHgmw",
+        "poster": "https://i.ytimg.com/vi/tv1CDrJHbAA/maxresdefault.jpg",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "Bebar Bilim · Bir Garip Rahatsızlık: Alice Harikalar Diyarında Sendromu",
+          "url": "https://www.youtube.com/watch?v=tv1CDrJHbAA"
+        },
+        {
+          "label": "Bebar Bilim · kanal",
+          "url": "https://www.youtube.com/channel/UCDTSUkdlbcgEU-IGH_mHgmw"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "kisa-video-okyanusta-bir-sehir-kurmak",
+      "category": "Coğrafya",
+      "title": "Okyanusta bir şehir kurmak",
+      "subtitle": "İdil Salihoğlu, okyanusta sürekli yaşama fikrini ele alıyor. Karada sıradan görünen barınma ve altyapı ihtiyaçlarının su altında neden başka sorular doğurduğunu düşünmek için kısa bir başlangıç.",
+      "account": "Harita Kenarı",
+      "handle": "haritakenari",
+      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+      "avatarCredit": {
+        "label": "Basile Morin",
+        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+      },
+      "topic": "Okyanuslar",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 0.9,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/938RiLemec8/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBXKE0wDw==&rs=AOn4CLDQ2PftNdZ6AzBY2mnPvqHLorcy6Q",
+        "alt": "Okyanusta bir şehir kurmak — video önizlemesi",
+        "credit": "İdil Salihoğlu",
+        "source": "https://www.youtube.com/watch?v=938RiLemec8",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "İdil Salihoğlu, okyanusta sürekli yaşama fikrini ele alıyor. Karada sıradan görünen barınma ve altyapı ihtiyaçlarının su altında neden başka sorular doğurduğunu düşünmek için kısa bir başlangıç."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "938RiLemec8",
+        "title": "Neden Okyanus Medeniyeti Kuramıyoruz? #okyanus #bilim #denizbiyolojisi",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 56,
+        "orientation": "portrait",
+        "publisher": "İdil Salihoğlu",
+        "publisherId": "UCq-2mZvwOVAmGjqpXV-mnxA",
+        "poster": "https://i.ytimg.com/vi/938RiLemec8/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBXKE0wDw==&rs=AOn4CLDQ2PftNdZ6AzBY2mnPvqHLorcy6Q",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "İdil Salihoğlu · Neden Okyanus Medeniyeti Kuramıyoruz? #okyanus #bilim #denizbiyolojisi",
+          "url": "https://www.youtube.com/watch?v=938RiLemec8"
+        },
+        {
+          "label": "İdil Salihoğlu · kanal",
+          "url": "https://www.youtube.com/channel/UCq-2mZvwOVAmGjqpXV-mnxA"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "kisa-video-ay-in-gecmisini-nasil-arastiriyoruz",
+      "category": "Uzay",
+      "title": "Ay’ın geçmişini nasıl araştırıyoruz?",
+      "subtitle": "Gelecek Bilimde, Ay’ın oluşumunu ve simülasyonların bu soruya katkısını ele alıyor. Bilgisayarda bir senaryo kurmakla o senaryoyu gözlem ve örneklerle desteklemek arasındaki ilişkiye odaklanabilirsin.",
+      "account": "Kozmos",
+      "handle": "kozmos",
+      "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+      "avatarCredit": {
+        "label": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      "topic": "Ay",
+      "layout": "poster",
+      "display": "video",
+      "format": "reel",
+      "minutes": 1.0,
+      "accent": "#65705a",
+      "art": {
+        "kind": "photo",
+        "font": "DM Sans",
+        "paper": "#000000",
+        "ink": "#f2f0e7",
+        "align": "start",
+        "position": "bottom",
+        "label": "Kısa video"
+      },
+      "cover": {
+        "url": "https://i.ytimg.com/vi/9Pp7C2RMxsI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgTyhdMA8=&rs=AOn4CLCRg1Bi627eG9BElXVp_l_qN62ihQ",
+        "alt": "Ay’ın geçmişini nasıl araştırıyoruz? — video önizlemesi",
+        "credit": "Gelecek Bilimde",
+        "source": "https://www.youtube.com/watch?v=9Pp7C2RMxsI",
+        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+        "licenseUrl": "https://www.youtube.com/static?template=terms"
+      },
+      "slides": [
+        {
+          "title": "",
+          "text": "Gelecek Bilimde, Ay’ın oluşumunu ve simülasyonların bu soruya katkısını ele alıyor. Bilgisayarda bir senaryo kurmakla o senaryoyu gözlem ve örneklerle desteklemek arasındaki ilişkiye odaklanabilirsin."
+        }
+      ],
+      "video": {
+        "kind": "youtube",
+        "url": "9Pp7C2RMxsI",
+        "title": "Ay nasıl oluştu? Kuantum simülasyonlar ne anlatıyor?",
+        "language": "Türkçe · otomatik altyazı",
+        "duration": 61,
+        "orientation": "portrait",
+        "publisher": "Gelecek Bilimde",
+        "publisherId": "UC03cpKIZShIWoSBhfVE5bog",
+        "poster": "https://i.ytimg.com/vi/9Pp7C2RMxsI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgTyhdMA8=&rs=AOn4CLCRg1Bi627eG9BElXVp_l_qN62ihQ",
+        "captionLanguage": "tr",
+        "captionKind": "automatic",
+        "verifiedAt": "2026-09-25"
+      },
+      "sources": [
+        {
+          "label": "Gelecek Bilimde · Ay nasıl oluştu? Kuantum simülasyonlar ne anlatıyor?",
+          "url": "https://www.youtube.com/watch?v=9Pp7C2RMxsI"
+        },
+        {
+          "label": "Gelecek Bilimde · kanal",
+          "url": "https://www.youtube.com/channel/UC03cpKIZShIWoSBhfVE5bog"
+        }
+      ],
+      "comments": [],
+      "updatedAt": "2026-09-25"
+    }
+  ]
+}

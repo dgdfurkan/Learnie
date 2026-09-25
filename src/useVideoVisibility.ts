@@ -22,8 +22,9 @@ export function useVideoVisibility(ref:RefObject<HTMLDivElement|null>,active:boo
   const element=ref.current;if(!element)return;
   candidates.set(token.current,{element,active});
   const observer=new IntersectionObserver(schedule,{threshold:[0,.25,.51,.75,1]});observer.observe(element);
-  window.addEventListener('scroll',schedule,true);window.addEventListener('resize',schedule);document.addEventListener('visibilitychange',schedule);schedule();
-  return()=>{candidates.delete(token.current);observer.disconnect();window.removeEventListener('scroll',schedule,true);window.removeEventListener('resize',schedule);document.removeEventListener('visibilitychange',schedule);schedule();};
+  window.addEventListener('scroll',schedule,true);window.addEventListener('resize',schedule);document.addEventListener('visibilitychange',measure);schedule();
+  return()=>{candidates.delete(token.current);observer.disconnect();window.removeEventListener('scroll',schedule,true);window.removeEventListener('resize',schedule);document.removeEventListener('visibilitychange',measure);schedule();};
  },[ref,active]);
- return useSyncExternalStore(subscribe,()=>selected===token.current,()=>false);
+ const visible=useSyncExternalStore(subscribe,()=>selected===token.current,()=>false);
+ return active&&visible;
 }

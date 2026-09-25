@@ -1,11 +1,11 @@
-import {useEffect,useRef,useState} from 'react';
-import YouTubePlayer from './YouTubePlayer';
+import {useEffect,useRef,useState,type RefObject} from 'react';
+import YouTubePlayer,{type VideoController} from './YouTubePlayer';
 import {usePreferences} from './Preferences';
 import {useVideoVisibility} from './useVideoVisibility';
 import {rememberedPosition,rememberPosition} from './playback.mjs';
 import {ExternalLink} from 'lucide-react';
 import type {Post} from './types';
-export default function VideoEmbed({post,active=true,immersive=false}:{post:Post;active?:boolean;immersive?:boolean}){
+export default function VideoEmbed({post,active=true,immersive=false,controllerRef}:{controllerRef?:RefObject<VideoController|null>;post:Post;active?:boolean;immersive?:boolean}){
  const {prefs,setPrefs}=usePreferences();
  const container=useRef<HTMLDivElement>(null),file=useRef<HTMLVideoElement>(null);const video=post.video;
  const expectedSound=useRef<{muted:boolean;volume:number}|null>(null);
@@ -20,7 +20,7 @@ export default function VideoEmbed({post,active=true,immersive=false}:{post:Post
  },[visible,started,video?.url]);
  if(!video)return null;
  return <div className={`native-video ${video.orientation==='portrait'?'native-video--portrait':''} ${immersive?'native-video--immersive':''}`} ref={container}>
-  {started&&video.kind==='youtube'?<YouTubePlayer video={video} active={visible} mutedPreference={prefs.videoMuted} volumePreference={prefs.videoVolume} onSound={(videoMuted,videoVolume)=>setPrefs({videoMuted,videoVolume})}/>:<div className="native-video-stage">{started?<video ref={file} src={video.url} controls playsInline preload="metadata" onLoadedMetadata={e=>{e.currentTarget.currentTime=rememberedPosition(video.url);}} onTimeUpdate={e=>rememberPosition(video.url,e.currentTarget.currentTime,e.currentTarget.duration)} onVolumeChange={e=>{const v=e.currentTarget;if(expectedSound.current&&v.muted===expectedSound.current.muted&&v.volume===expectedSound.current.volume)return;expectedSound.current=null;setPrefs({videoMuted:v.muted,videoVolume:Math.round(v.volume*100)});}}/>:<div className="video-poster" role="img" aria-label={video.title}><VideoPoster post={post} className="video-poster-image"/><span className="video-length">{video.duration?`${Math.floor(video.duration/60)}:${String(video.duration%60).padStart(2,'0')}`:'Video'}</span></div>}</div>}
+  {started&&video.kind==='youtube'?<YouTubePlayer controllerRef={controllerRef} video={video} active={visible} mutedPreference={prefs.videoMuted} volumePreference={prefs.videoVolume} onSound={(videoMuted,videoVolume)=>setPrefs({videoMuted,videoVolume})}/>:<div className="native-video-stage">{started?<video ref={file} src={video.url} controls playsInline preload="metadata" onLoadedMetadata={e=>{e.currentTarget.currentTime=rememberedPosition(video.url);}} onTimeUpdate={e=>rememberPosition(video.url,e.currentTarget.currentTime,e.currentTarget.duration)} onVolumeChange={e=>{const v=e.currentTarget;if(expectedSound.current&&v.muted===expectedSound.current.muted&&v.volume===expectedSound.current.volume)return;expectedSound.current=null;setPrefs({videoMuted:v.muted,videoVolume:Math.round(v.volume*100)});}}/>:<div className="video-poster" role="img" aria-label={video.title}><VideoPoster post={post} className="video-poster-image"/><span className="video-length">{video.duration?`${Math.floor(video.duration/60)}:${String(video.duration%60).padStart(2,'0')}`:'Video'}</span></div>}</div>}
   {!immersive&&<div className="video-credit"><span>{video.publisher&&<strong>{video.publisher} · </strong>}{video.language}</span><a href={video.kind==='youtube'?`https://www.youtube.com/watch?v=${video.url}`:video.url} target="_blank" rel="noreferrer">Kaynağında izle <ExternalLink size={13}/></a></div>}
  </div>;
 }
