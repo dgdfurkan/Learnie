@@ -19,7 +19,7 @@ Node.js 24 önerilir. Yayın dizini `dist/`, repo tabanı `/Learnie/`.
 - Her oturumda yeniden sıralanan, kategori çeşitliliği gözeten ve görülenleri hatırlayan sonsuz akış.
 - Dokunmatik kaydırmalı gönderiler (Swiper), hikâyeler ve Remotion Player ile kısa anlatımlar.
 - Sanallaştırılmış akış ve reels; ekranda olmayan anlatım oynatıcıları durur.
-- Tüm videolar için uygulama boyunca yaşayan tek bir oynatıcı (`src/VideoStage.tsx`, `src/video-engine.mjs`). Videolar sesli başlar; tarayıcı sesi engellerse sessiz devam eder. iOS'ta tek bir dokunuş videonun kendi çerçevesine iletilir ve o oturumdaki sonraki videolar sesli akar. Reels'te dokun: durdur, çift dokun: beğen, alttaki çizgiyi sürükle: ileri/geri sar, göz simgesi: sadece video. Akışta videolar yerinde oynar.
+- Tüm videolar için uygulama boyunca yaşayan tek bir oynatıcı (`src/VideoStage.tsx`, `src/video-engine.mjs`). Videolar sesli başlar; tarayıcı sesi engellerse sessiz devam eder. iOS'ta tek bir dokunuş videonun kendi çerçevesine iletilir ve o oturumdaki sonraki videolar sesli akar. Reels'te ortaya dokun: durdur; çift dokun: beğen; basılı tut: 2× (sağa/sola kaydırarak hız); alttaki çizgi: ileri/geri sar; göz simgesi: ayarlarda seçilen öğeleri gizler. Sıradaki videolar arka planda hazır bekler. Akışta videolar yerinde oynar.
 - Öğrenme döngüsü: günlük hedef, seri, akış içinde hatırlama kartları ve Reels'te belirli aralıklarla mola kartı.
 - Beğeniler, kayıtlar, yanıtlar, görülen gönderiler ve kişisel yorumlar için cihazda IndexedDB / Dexie.
 - Keşfet, Türkçe arama, konu seçimi, okuma paneli, iki etkileşimli deney ve açıklamalı sorular.
@@ -27,7 +27,7 @@ Node.js 24 önerilir. Yayın dizini `dist/`, repo tabanı `/Learnie/`.
 - JSON yedek indirme / geri yükleme.
 - PWA manifesti, build sırasında üretilen yükleme simgeleri, sürümlenmiş service worker ve çevrimdışı uygulama kabuğu.
 - Her gönderi için `/Learnie/p/<id>/` statik sayfası; Open Graph etiketleri ve kart numarasıyla paylaşım.
-- Kaynak, görsel kredisi ve kullanım bilgisini içeren 1.700'ü aşkın gönderi; bunların 1.400'den fazlası doğrulanmış Türkçe altyazılı kısa videodur (bkz. `docs/video-audit-*.json`).
+- Kaynak, görsel kredisi ve kullanım bilgisini içeren 1.700'ü aşkın gönderi; bunların 1.350'den fazlası doğrulanmış Türkçe altyazılı kısa videodur (bkz. `docs/video-audit-*.json`).
 
 ## GitHub Pages
 
