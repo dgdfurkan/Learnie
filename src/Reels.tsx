@@ -3,7 +3,7 @@ import {createPortal} from 'react-dom';
 import type {Swiper as SwiperInstance} from 'swiper';
 import {Swiper,SwiperSlide} from 'swiper/react';
 import {Virtual,Mousewheel,Keyboard,A11y} from 'swiper/modules';
-import {Bookmark,ChevronLeft,Heart,MessageCircle,Send,BookOpen,Volume2,VolumeX,Play,ExternalLink,ArrowRight,Eye,EyeOff,Captions,CaptionsOff} from 'lucide-react';
+import {Bookmark,ChevronLeft,Heart,MessageCircle,Send,BookOpen,Volume2,VolumeX,Play,Pause,ExternalLink,ArrowRight,Eye,EyeOff,Captions,CaptionsOff} from 'lucide-react';
 import {useBackGesture} from './useBackGesture';
 import {engagement,formatCount,reelQueue} from './social.mjs';
 import {Avatar} from './components';
@@ -112,6 +112,7 @@ function VideoLayer({post,owner,onDoubleTap,onNext}:{post:Post;owner:boolean;onD
  const {stage,state}=useVideoStage();const video=post.video!;
  const mine=owner&&state.id===video.url;
  const showing=mine&&['playing','paused','needs-tap'].includes(state.status);
+ const [flash,setFlash]=useState<{key:number;paused:boolean}|null>(null);
  const gesture=useRef<{x:number;y:number;at:number;hold:number;held:boolean;moved:boolean}|null>(null);
  const lastTap=useRef<{at:number;x:number;y:number;timer:number}|null>(null);
  const down=(e:ReactPointerEvent<HTMLDivElement>)=>{
@@ -127,7 +128,7 @@ function VideoLayer({post,owner,onDoubleTap,onNext}:{post:Post;owner:boolean;onD
   const rect=e.currentTarget.getBoundingClientRect(),x=e.clientX-rect.left,y=e.clientY-rect.top;
   const last=lastTap.current;
   if(last&&Date.now()-last.at<280&&Math.hypot(last.x-x,last.y-y)<60){clearTimeout(last.timer);lastTap.current=null;onDoubleTap(x,y);return;}
-  const timer=window.setTimeout(()=>{lastTap.current=null;stage.togglePause();},230);
+  const timer=window.setTimeout(()=>{lastTap.current=null;stage.togglePause();setFlash({key:Date.now(),paused:stage.state.held});},230);
   lastTap.current={at:Date.now(),x,y,timer};
  };
  const cancel=()=>{const g=gesture.current;gesture.current=null;if(g){clearTimeout(g.hold);if(g.held)stage.hold(false);}};
@@ -138,8 +139,8 @@ function VideoLayer({post,owner,onDoubleTap,onNext}:{post:Post;owner:boolean;onD
   <div className="reel-shade" aria-hidden="true"/>
   <div className="reel-gesture" onPointerDown={down} onPointerMove={move} onPointerUp={up} onPointerCancel={cancel} onContextMenu={e=>e.preventDefault()} aria-label="Dokun: durdur veya oynat. İki kez dokun: beğen." role="button" tabIndex={-1}/>
   {loading&&<span className="reel-loading" aria-label="Video yükleniyor" role="status"/>}
-  {mine&&state.held&&<span className="reel-center-icon is-paused" aria-hidden="true"><Play size={34} fill="currentColor"/></span>}
-  {mine&&state.needsTap&&<div className="reel-tap-hint" role="status"><span><Play size={30} fill="currentColor"/></span><strong>{state.tapReason==='sound'?'Sesli izlemek için videoya dokun':'Başlatmak için videoya dokun'}</strong><small>Bir kez yeterli; sonraki videolar kendiliğinden sesli akar.</small></div>}
+  {mine&&flash&&<span key={flash.key} className="reel-center-icon is-pop" aria-hidden="true">{flash.paused?<Pause size={32} fill="currentColor"/>:<Play size={32} fill="currentColor"/>}</span>}
+  {mine&&state.needsTap&&<div className="reel-tap-hint" role="status"><strong>{state.tapReason==='sound'?'Sesi açmak için videodaki ▶ düğmesine dokun':'Başlatmak için videodaki ▶ düğmesine dokun'}</strong><small>Bir kez yeterli, sonraki videolar sesli akar.</small></div>}
   {mine&&state.status==='playing'&&state.muted&&!state.needsTap&&<button className="reel-sound-pill" onClick={()=>stage.toggleSound()}><VolumeX size={15}/> Sesi aç</button>}
   {mine&&state.status==='error'&&<div className="reel-error" role="status"><p>{state.error}</p><a href={`https://www.youtube.com/watch?v=${video.url}`} target="_blank" rel="noreferrer">Kaynağında izle <ExternalLink size={13}/></a><button onClick={onNext}>Sıradaki <ArrowRight size={14}/></button></div>}
   {mine&&<Scrubber playing={state.status==='playing'}/>}

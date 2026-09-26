@@ -110,3 +110,12 @@ test('tap pauses and resumes; seeking moves the playhead without reloading',()=>
  e.togglePause();assert.equal(e.held,false);assert.equal(calls.at(-1),'play');
  e.seek(12);assert.ok(calls.includes('seek:12'));assert.equal(calls.filter(c=>c.startsWith('load')).length,1);
 });
+
+test('WebKit: resuming before unlock goes muted so the video never stays stuck paused',()=>{
+ const calls=[];const p={id:'',muted:false,playVideo(){calls.push('play');},pauseVideo(){calls.push('pause');},loadVideoById({videoId}){this.id=videoId;},mute(){calls.push('mute');this.muted=true;},unMute(){calls.push('unmute');this.muted=false;},setVolume(){},isMuted(){return this.muted;},getPlayerState(){return UNSTARTED;},getCurrentTime(){return 0;},getDuration(){return 30;},seekTo(){},getVideoUrl(){return `https://www.youtube.com/watch?v=${this.id}`;}};
+ const e=new PlaybackEngine(p,{mutedUntilUnlocked:true});
+ e.select('r1',true);e.stateChanged(PLAYING);
+ e.togglePause();e.stateChanged(PAUSED);
+ p.muted=false;e.muted=false;calls.length=0;
+ e.togglePause();assert.deepEqual(calls,['mute','play']);
+});

@@ -1,5 +1,5 @@
 import {createContext,useContext,useEffect,useRef,useState,useSyncExternalStore,type ReactNode,type RefObject} from 'react';
-import {Volume2,VolumeX,Maximize2,Play} from 'lucide-react';
+import {Volume2,VolumeX,Maximize2,Play,Pause} from 'lucide-react';
 import {VideoPoster} from './VideoPoster';
 import {PlaybackEngine,UNSTARTED,ENDED,PLAYING,PAUSED,BUFFERING} from './video-engine.mjs';
 import {youtubeOptions} from './youtube.mjs';
@@ -207,11 +207,12 @@ export function VideoStageProvider({children}:{children:ReactNode}){
 /** Controls drawn over the feed video: tap to pause, sound, full screen and a progress line. */
 function InlineControls({stage,state,post}:{stage:Stage;state:StageState;post:Post}){
  const mine=state.id===post.video?.url,showing=mine&&['playing','paused','needs-tap'].includes(state.status);
+ const [flash,setFlash]=useState<{key:number;paused:boolean}|null>(null);
  return <div className={`inline-controls ${state.needsTap?'is-passthrough':''}`}>
   <div className={`inline-poster ${showing?'is-hidden':''}`}><VideoPoster post={post} className="inline-poster-image"/></div>
-  <button type="button" className="inline-tap" aria-label={state.held?'Videoyu oynat':'Videoyu durdur'} onClick={()=>stage.togglePause()}/>
-  {mine&&state.held&&<span className="inline-center" aria-hidden="true"><Play size={30} fill="currentColor"/></span>}
-  {mine&&state.needsTap&&<span className="inline-hint" role="status"><Play size={16} fill="currentColor"/> {state.tapReason==='sound'?'Sesli izlemek için videoya dokun':'Başlatmak için videoya dokun'}</span>}
+  <button type="button" className="inline-tap" aria-label={state.held?'Videoyu oynat':'Videoyu durdur'} onClick={()=>{stage.togglePause();setFlash({key:Date.now(),paused:stage.state.held});}}/>
+  {mine&&flash&&<span key={flash.key} className="inline-center" aria-hidden="true">{flash.paused?<Pause size={28} fill="currentColor"/>:<Play size={28} fill="currentColor"/>}</span>}
+  {mine&&state.needsTap&&<span className="inline-hint" role="status">{state.tapReason==='sound'?'Sesi açmak için videodaki ▶ düğmesine dokun':'Başlatmak için videodaki ▶ düğmesine dokun'}</span>}
   {mine&&state.status==='loading'&&<span className="reel-loading" aria-hidden="true"/>}
   <button type="button" className="inline-button inline-expand" aria-label="Tam ekran izle" onClick={()=>stage.expandInline()}><Maximize2 size={17}/></button>
   <button type="button" className="inline-button inline-sound" aria-label={state.muted?'Sesi aç':'Sesi kapat'} onClick={()=>stage.toggleSound()}>{state.muted?<VolumeX size={17}/>:<Volume2 size={17}/>}</button>

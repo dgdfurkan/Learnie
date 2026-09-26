@@ -48,7 +48,12 @@ export class PlaybackEngine {
   this.muted=!this.wantSound;
  }
  pause(){this.expectPause=this.now()+1500;try{this.player.pauseVideo();}catch{}}
- play(wait=AUTOPLAY_WAIT){this.deadline=this.now()+wait;try{this.player.playVideo();}catch{}}
+ play(wait=AUTOPLAY_WAIT){
+  // Before the frame is unlocked WebKit refuses to resume with sound, and the
+  // video would just stay paused. Resume muted instead; sound needs the tap.
+  if(this.mutedUntilUnlocked&&!this.unlocked&&!this.needsTap&&!this.muted){this.soundAt=this.now();try{this.player.mute();}catch{}this.muted=true;this.mutedRetry=true;}
+  this.deadline=this.now()+wait;try{this.player.playVideo();}catch{}
+ }
 
  /** Select the video the UI shows. Inactive means: keep it loaded but silent and paused. */
  select(id,active,{start}={}){
