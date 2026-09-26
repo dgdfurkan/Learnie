@@ -26,7 +26,7 @@ export class PlaybackEngine {
   this.player=player;this.now=now;this.onChange=onChange;this.onSoundPreference=onSoundPreference;this.onEnded=onEnded;
   this.id='';this.active=false;this.status='idle';this.error='';
   this.wantSound=wantSound;this.muted=!wantSound;this.needsTap=false;this.tapReason='';this.unlocked=false;
-  this.held=false;this.played=false;this.mutedRetry=false;this.resumes=0;
+  this.held=false;this.played=false;this.mutedRetry=false;this.resumes=0;this.preloaded=false;this.rate=1;
   this.deadline=0;this.loadStarted=0;this.verifyAt=0;this.soundWindow=0;this.expectPause=0;this.soundAt=0;
  }
 
@@ -64,12 +64,18 @@ export class PlaybackEngine {
   }
   const wasActive=this.active;this.active=true;
   if(id!==this.id){this.load(id,start??rememberedPosition(id));return;}
+  if(!wasActive&&this.preloaded){
+   // A video buffered in the background: start it from the top, with sound if allowed.
+   this.preloaded=false;this.held=false;this.loadStarted=this.now();
+   try{this.player.seekTo(0,true);}catch{}
+   if(this.wantSound&&this.muted&&!(this.mutedUntilUnlocked&&!this.unlocked))this.applySound();
+  }
   if(!wasActive&&!this.held&&!this.needsTap){this.resumes=0;this.play();}
   this.emit();
  }
 
  load(id,start=0){
-  this.save();
+  this.save();this.preloaded=false;this.setRate(1);
   this.id=id;this.status='loading';this.error='';this.played=false;this.needsTap=false;this.tapReason='';
   this.mutedRetry=false;this.resumes=0;this.held=false;this.verifyAt=0;
   this.loadStarted=this.now();this.deadline=this.loadStarted+AUTOPLAY_WAIT;
@@ -79,10 +85,23 @@ export class PlaybackEngine {
   this.emit();
  }
 
+ /** Buffer a video silently in the background so it starts instantly later. */
+ preload(id){
+  if(!id||this.id===id)return;
+  this.save();
+  this.id=id;this.active=false;this.preloaded=true;this.status='loading';this.error='';this.played=false;
+  this.needsTap=false;this.tapReason='';this.held=false;this.deadline=0;this.verifyAt=0;this.mutedRetry=this.mutedUntilUnlocked&&!this.unlocked;
+  this.soundAt=this.now();try{this.player.mute();}catch{}this.muted=true;
+  try{this.player.loadVideoById({videoId:id,startSeconds:0});}catch{}
+ }
+
+ setRate(rate){if(this.rate===rate)return;this.rate=rate;try{this.player.setPlaybackRate(rate);}catch{}}
+ rates(){try{const list=this.player.getAvailablePlaybackRates();if(Array.isArray(list)&&list.length)return list;}catch{}return [.25,.5,.75,1,1.25,1.5,1.75,2];}
+
  stateChanged(state){
   if(!this.id||!this.matchesLoaded())return;
   if(state===PLAYING){
-   if(!this.active||this.held){this.pause();return;}
+   if(!this.active||this.held){this.pause();if(!this.active&&this.preloaded){this.status='paused';}return;}
    if(this.needsTap)this.unlocked=true; // The only way to get here is a tap inside the frame.
    this.needsTap=false;this.tapReason='';this.status='playing';this.played=true;this.deadline=0;this.resumes=0;
    this.readMuted();
@@ -126,7 +145,10 @@ export class PlaybackEngine {
   */
  askForTap(reason){
   this.needsTap=true;this.tapReason=reason;this.status='needs-tap';this.deadline=0;this.verifyAt=0;this.soundWindow=0;
-  this.pause();
+  // A cued video shows YouTube's large play button: a real tap target inside the frame.
+  let at=0;try{at=this.player.getCurrentTime()||0;}catch{}
+  if(typeof this.player.cueVideoById==='function'){this.expectPause=this.now()+1500;try{this.player.cueVideoById({videoId:this.id,startSeconds:at});}catch{this.pause();}}
+  else this.pause();
   if(this.wantSound){try{this.player.unMute();this.player.setVolume(100);}catch{}this.muted=false;}
   this.emit();
  }

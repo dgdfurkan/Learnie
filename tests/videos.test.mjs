@@ -8,17 +8,18 @@ const audit=JSON.parse(fs.readFileSync('docs/video-audit-2026-09-23.json','utf8'
 const secondAudit=JSON.parse(fs.readFileSync('docs/video-audit-2026-09-23-batch-2.json','utf8')).videos;
 const thirdAudit=JSON.parse(fs.readFileSync('docs/video-audit-2026-09-24.json','utf8')).videos;
 const sourcesAudit=JSON.parse(fs.readFileSync('docs/video-audit-2026-09-24-sources.json','utf8'));
+const retired=new Set(JSON.parse(fs.readFileSync('docs/video-retired-2026-09-27.json','utf8')).videos.map(v=>v.postId));
 const releases=[{videos:audit,count:60,min:60},{videos:secondAudit,count:100,min:60},{videos:thirdAudit,count:200,min:30},{videos:sourcesAudit.videos,count:200,min:15,max:180}];
 test('200 additional videos preserve earlier releases without reusing a source',()=>{
  for(const release of releases)assert.equal(release.videos.length,release.count);
- assert.equal(added.length,560);
+ assert.equal(added.length+[...retired].filter(id=>id.startsWith('kisa-video-')).length,560,'every earlier video is still here or listed as retired');
  const youtube=posts.filter(p=>p.video?.kind==='youtube');
  assert.equal(new Set(youtube.map(p=>p.video.url)).size,youtube.length);
  assert.equal(new Set(releases.flatMap(r=>r.videos.map(a=>a.postId))).size,560);
 });
 test('every short source has verified embed permission, Turkish captions and matching metadata',()=>{
  const byId=new Map(posts.map(p=>[p.id,p]));
- for(const release of releases)for(const a of release.videos){const p=byId.get(a.postId);assert.ok(p);const v=p.video;assert.equal(a.videoId,v.url);assert.equal(v.duration,a.durationSeconds);assert.ok(v.duration>=release.min&&v.duration<=(release.max||120));assert.equal(a.playabilityStatus,'OK');assert.equal(a.playableInEmbed,true);assert.equal(a.availableInTurkey,true);assert.equal(a.captionLanguage,'tr');assert.equal(v.captionLanguage,'tr');assert.equal(v.captionKind,a.captionKind);assert.equal(v.publisher,a.publisher);assert.equal(v.verifiedAt,a.checkedAt);assert.equal(p.display,'video');assert.ok(v.poster.startsWith('https://'));assert.ok(!v.poster.includes('/frame0.jpg'));assert.ok(p.slides.every(s=>s.text.length<=300));}
+ for(const release of releases)for(const a of release.videos){const p=byId.get(a.postId);if(!p){assert.ok(retired.has(a.postId),a.postId);continue;}const v=p.video;assert.equal(a.videoId,v.url);assert.equal(v.duration,a.durationSeconds);assert.ok(v.duration>=release.min&&v.duration<=(release.max||120));assert.equal(a.playabilityStatus,'OK');assert.equal(a.playableInEmbed,true);assert.equal(a.availableInTurkey,true);assert.equal(a.captionLanguage,'tr');assert.equal(v.captionLanguage,'tr');assert.equal(v.captionKind,a.captionKind);assert.equal(v.publisher,a.publisher);assert.equal(v.verifiedAt,a.checkedAt);assert.equal(p.display,'video');assert.ok(v.poster.startsWith('https://'));assert.ok(!v.poster.includes('/frame0.jpg'));assert.ok(p.slides.every(s=>s.text.length<=300));}
 });
 test('verified videos reject unsupported language and malformed presentation metadata',()=>{
  const p=added[0];
@@ -32,7 +33,7 @@ test('new source expansion adds 200 videos from 50 actual channels, with at leas
  assert.equal(sourcesAudit.videos.length,200);assert.equal(new Set(sourcesAudit.videos.map(a=>a.publisherId)).size,50);
  assert.ok(new Set(posts.filter(p=>p.video?.publisher).map(p=>p.video.publisher)).size>=50);
  const byId=new Map(posts.map(p=>[p.id,p]));
- for(const a of sourcesAudit.videos){const p=byId.get(a.postId);assert.equal(p.video.publisherId,a.publisherId);assert.match(a.publisherId,/^UC[\w-]{22}$/);assert.equal(a.publisherUrl,'https://www.youtube.com/channel/'+a.publisherId);}
+ for(const a of sourcesAudit.videos){const p=byId.get(a.postId);if(!p){assert.ok(retired.has(a.postId));continue;}assert.equal(p.video.publisherId,a.publisherId);assert.match(a.publisherId,/^UC[\w-]{22}$/);assert.equal(a.publisherUrl,'https://www.youtube.com/channel/'+a.publisherId);}
 });
 
 test('September 26 release: every new video is verified, captioned in Turkish and never reuses a source',()=>{
@@ -43,7 +44,7 @@ test('September 26 release: every new video is verified, captioned in Turkish an
  const earlier=new Set(releases.flatMap(r=>r.videos.map(a=>a.videoId)));
  const byId=new Map(posts.map(p=>[p.id,p]));
  for(const a of release.videos){
-  const p=byId.get(a.postId);assert.ok(p,a.postId);const v=p.video;
+  const p=byId.get(a.postId);assert.ok(p,a.postId);assert.ok(!retired.has(a.postId));const v=p.video;
   assert.ok(!earlier.has(a.videoId),`${a.videoId} was already published`);
   assert.equal(v.url,a.videoId);assert.equal(v.duration,a.durationSeconds);assert.ok(v.duration>=12&&v.duration<=180);
   assert.equal(a.playabilityStatus,'OK');assert.equal(a.playableInEmbed,true);assert.equal(a.availableInTurkey,true);
@@ -51,4 +52,10 @@ test('September 26 release: every new video is verified, captioned in Turkish an
   assert.equal(p.display,'video');assert.ok(p.subtitle.length<=300&&p.slides[0].text===p.subtitle);
  }
  assert.equal(new Set(release.publishers.map(p=>p.id)).size,release.newPublisherCount);
+});
+
+test('retired exam-prep channels are gone for good and broken posters use a pillarbox frame',()=>{
+ const exam=/Rehber Matematik|ŞENOL HOCA|YAVUZ TUNA|FİZİK AĞACI|Rüştü Hoca|İbrahim Hoca|Coğrafyanın Kodları|Tarihane/;
+ assert.ok(!posts.some(p=>exam.test(p.video?.publisher||'')));
+ for(const p of posts.filter(p=>p.video?.posterKind))assert.equal(p.video.posterKind,'pillarbox');
 });

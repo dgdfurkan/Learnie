@@ -179,12 +179,12 @@
   {
    "file": "short-videos-019.json",
    "title": "Kısa keşifler 19: yeni sesler, yeni konular",
-   "count": 20
+   "count": 18
   },
   {
    "file": "short-videos-020.json",
    "title": "Kısa keşifler 20: yeni sesler, yeni konular",
-   "count": 20
+   "count": 18
   },
   {
    "file": "short-videos-021.json",
@@ -194,7 +194,7 @@
   {
    "file": "short-videos-022.json",
    "title": "Kısa keşifler 22: yeni sesler, yeni konular",
-   "count": 20
+   "count": 17
   },
   {
    "file": "short-videos-023.json",
@@ -204,7 +204,7 @@
   {
    "file": "short-videos-024.json",
    "title": "Kısa keşifler 24: yeni sesler, yeni konular",
-   "count": 20
+   "count": 17
   },
   {
    "file": "short-videos-025.json",
@@ -214,12 +214,12 @@
   {
    "file": "short-videos-026.json",
    "title": "Kısa keşifler 26: yeni sesler, yeni konular",
-   "count": 20
+   "count": 18
   },
   {
    "file": "short-videos-027.json",
    "title": "Kısa keşifler 27: yeni sesler, yeni konular",
-   "count": 20
+   "count": 17
   },
   {
    "file": "short-videos-028.json",
@@ -329,12 +329,7 @@
   {
    "file": "reels-021.json",
    "title": "Kısa videolar · 21",
-   "count": 40
-  },
-  {
-   "file": "reels-022.json",
-   "title": "Kısa videolar · 22",
-   "count": 28
+   "count": 20
   }
  ]
 }

@@ -3,142 +3,6 @@
   "title": "Kısa keşifler 20: yeni sesler, yeni konular",
   "posts": [
     {
-      "id": "kisa-video-polinomda-yerine-koyma",
-      "category": "Bilim",
-      "title": "Polinomda yerine koyma",
-      "subtitle": "Polinom, sayı ve değişkenlerden kurulan bir matematiksel ifade. Şenol Hoca bir değer bulma sorusunun çözümünü gösteriyor.",
-      "account": "Bilimin İçinden",
-      "handle": "bilimini̇cinden",
-      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
-      "avatarCredit": {
-        "label": "SHTTEFAN / Unsplash",
-        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
-      },
-      "topic": "Polinomlar",
-      "layout": "poster",
-      "display": "video",
-      "format": "reel",
-      "minutes": 1.9,
-      "accent": "#65705a",
-      "art": {
-        "kind": "photo",
-        "font": "DM Sans",
-        "paper": "#000000",
-        "ink": "#f2f0e7",
-        "align": "start",
-        "position": "bottom",
-        "label": "Kısa video"
-      },
-      "cover": {
-        "url": "https://i.ytimg.com/vi/-ZbtOerUngE/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDBzY21AyNibhbm3F14pFIgjIwN6w&usqp=CCk",
-        "alt": "Polinomda yerine koyma — video önizlemesi",
-        "credit": "ŞENOL HOCA MATEMATİK",
-        "source": "https://www.youtube.com/watch?v=-ZbtOerUngE",
-        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-        "licenseUrl": "https://www.youtube.com/static?template=terms"
-      },
-      "slides": [
-        {
-          "title": "",
-          "text": "Polinom, sayı ve değişkenlerden kurulan bir matematiksel ifade. Şenol Hoca bir değer bulma sorusunun çözümünü gösteriyor."
-        }
-      ],
-      "video": {
-        "kind": "youtube",
-        "url": "-ZbtOerUngE",
-        "title": "POLİNOMDA DEĞER BULMA #ayt #shorts  #yks #matematik",
-        "language": "Türkçe · otomatik altyazı",
-        "duration": 114,
-        "orientation": "portrait",
-        "publisher": "ŞENOL HOCA MATEMATİK",
-        "publisherId": "UC1nmW5kw6nXnB_5Sv-zeCNQ",
-        "poster": "https://i.ytimg.com/vi/-ZbtOerUngE/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDBzY21AyNibhbm3F14pFIgjIwN6w&usqp=CCk",
-        "captionLanguage": "tr",
-        "captionKind": "automatic",
-        "verifiedAt": "2026-09-24"
-      },
-      "sources": [
-        {
-          "label": "ŞENOL HOCA MATEMATİK · POLİNOMDA DEĞER BULMA #ayt #shorts  #yks #matematik",
-          "url": "https://www.youtube.com/watch?v=-ZbtOerUngE"
-        },
-        {
-          "label": "ŞENOL HOCA MATEMATİK · kanal",
-          "url": "https://www.youtube.com/channel/UC1nmW5kw6nXnB_5Sv-zeCNQ"
-        }
-      ],
-      "comments": [],
-      "updatedAt": "2026-09-24"
-    },
-    {
-      "id": "kisa-video-fonksiyon-sorusunda-yolu-kisaltmak",
-      "category": "Bilim",
-      "title": "Fonksiyon sorusunda yolu kısaltmak",
-      "subtitle": "Rehber Matematik'ten bir fonksiyon sorusu. Önce kendi çözümünü düşün; sonra anlatılan yöntemle karşılaştır.",
-      "account": "Bilimin İçinden",
-      "handle": "bilimini̇cinden",
-      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
-      "avatarCredit": {
-        "label": "SHTTEFAN / Unsplash",
-        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
-      },
-      "topic": "Fonksiyon soruları",
-      "layout": "poster",
-      "display": "video",
-      "format": "reel",
-      "minutes": 1.5,
-      "accent": "#65705a",
-      "art": {
-        "kind": "photo",
-        "font": "DM Sans",
-        "paper": "#000000",
-        "ink": "#f2f0e7",
-        "align": "start",
-        "position": "bottom",
-        "label": "Kısa video"
-      },
-      "cover": {
-        "url": "https://i.ytimg.com/vi/nUIOaLpCG98/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBlcOL9SArMreg8Z_p-xb6h4IxOyA",
-        "alt": "Fonksiyon sorusunda yolu kısaltmak — video önizlemesi",
-        "credit": "Rehber Matematik",
-        "source": "https://www.youtube.com/watch?v=nUIOaLpCG98",
-        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-        "licenseUrl": "https://www.youtube.com/static?template=terms"
-      },
-      "slides": [
-        {
-          "title": "",
-          "text": "Rehber Matematik'ten bir fonksiyon sorusu. Önce kendi çözümünü düşün; sonra anlatılan yöntemle karşılaştır."
-        }
-      ],
-      "video": {
-        "kind": "youtube",
-        "url": "nUIOaLpCG98",
-        "title": "Sınavda Zaman Kazandıran Fonksiyon Püf Noktası 💡",
-        "language": "Türkçe · otomatik altyazı",
-        "duration": 88,
-        "orientation": "portrait",
-        "publisher": "Rehber Matematik",
-        "publisherId": "UCzxj9SKkLuDhdxSDXxcmwqQ",
-        "poster": "https://i.ytimg.com/vi/nUIOaLpCG98/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBlcOL9SArMreg8Z_p-xb6h4IxOyA",
-        "captionLanguage": "tr",
-        "captionKind": "automatic",
-        "verifiedAt": "2026-09-24"
-      },
-      "sources": [
-        {
-          "label": "Rehber Matematik · Sınavda Zaman Kazandıran Fonksiyon Püf Noktası 💡",
-          "url": "https://www.youtube.com/watch?v=nUIOaLpCG98"
-        },
-        {
-          "label": "Rehber Matematik · kanal",
-          "url": "https://www.youtube.com/channel/UCzxj9SKkLuDhdxSDXxcmwqQ"
-        }
-      ],
-      "comments": [],
-      "updatedAt": "2026-09-24"
-    },
-    {
       "id": "kisa-video-kanit-olmadan-matematik-olur-mu",
       "category": "Bilim",
       "title": "Kanıt olmadan matematik olur mu?",
@@ -426,7 +290,7 @@
       "layout": "poster",
       "display": "video",
       "format": "reel",
-      "minutes": 1.0,
+      "minutes": 1,
       "accent": "#65705a",
       "art": {
         "kind": "photo",
@@ -562,7 +426,7 @@
       "layout": "poster",
       "display": "video",
       "format": "reel",
-      "minutes": 1.0,
+      "minutes": 1,
       "accent": "#65705a",
       "art": {
         "kind": "photo",

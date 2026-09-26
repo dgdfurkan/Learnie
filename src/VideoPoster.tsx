@@ -10,5 +10,9 @@ export function posterSources(post:Post){
 export function VideoPoster({post,className='',eager=false}:{post:Post;className?:string;eager?:boolean}){
  const [attempt,setAttempt]=useState(0);const sources=posterSources(post);const video=post.video;
  if(attempt>=sources.length)return <span className={`${className} video-poster-fallback`} role="img" aria-label={post.title}><small>{video?.publisher||post.account}</small><strong>{post.title}</strong></span>;
- return <img className={className} src={sources[attempt]} alt="" loading={eager?'eager':'lazy'} decoding="async" fetchPriority={eager?'high':'auto'} referrerPolicy="no-referrer" onError={()=>setAttempt(n=>n+1)}/>;
+ const src=sources[attempt];
+ const img=(cls:string)=><img className={cls} src={src} alt="" loading={eager?'eager':'lazy'} decoding="async" fetchPriority={eager?'high':'auto'} referrerPolicy="no-referrer" onError={()=>setAttempt(n=>n+1)}/>;
+ // A 4:3 frame with a vertical video in the middle: show just the video, never the black side bands.
+ const pillar=video?.orientation!=='landscape'&&(video?.posterKind==='pillarbox'||/\/(hq|sd)default\.jpg/.test(src));
+ return pillar?<span className={`${className} poster-pillar`}>{img('poster-pillar-img')}</span>:img(className);
 }

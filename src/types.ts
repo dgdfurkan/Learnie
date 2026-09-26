@@ -10,9 +10,9 @@ export interface Post {
  slides:Slide[]; sources:Source[]; updatedAt:string;
  quiz?:{question:string;options:string[];answer:number;explanation:string};
  experiment?:'pressure'|'light';
- video?:{kind:'youtube'|'file';url:string;title:string;language:string;duration?:number;orientation?:'portrait'|'landscape';publisher?:string;publisherId?:string;poster?:string;audioLanguage?:string;captionLanguage?:string;captionKind?:'published'|'automatic';verifiedAt?:string};
+ video?:{kind:'youtube'|'file';url:string;title:string;language:string;duration?:number;orientation?:'portrait'|'landscape';publisher?:string;publisherId?:string;poster?:string;posterKind?:'pillarbox';audioLanguage?:string;captionLanguage?:string;captionKind?:'published'|'automatic';verifiedAt?:string};
  comments:{name:string;text:string}[];
 }
 export interface Collection {id:string;name:string;postIds:string[];createdAt:string}
-export interface UserState {following:string[];collections:Collection[];read:string[];liked:string[];saved:string[];seen:string[];storySeen:string[];answers:Record<string,number>;comments:Record<string,{text:string;createdAt:string}[]>;name:string;simulation:boolean;activity?:Record<string,number>;goal?:number;recalled?:string[];}
+export interface UserState {following:string[];collections:Collection[];read:string[];liked:string[];saved:string[];seen:string[];storySeen:string[];answers:Record<string,number>;comments:Record<string,{text:string;createdAt:string}[]>;name:string;simulation:boolean;activity?:Record<string,number>;goal?:number;recalled?:string[];username?:string;hiddenPosts?:string[];hiddenChannels?:{id:string;name:string}[];}
 export type View = 'feed'|'explore'|'reels'|'saved'|'profile';

@@ -3,1026 +3,6 @@
  "title": "Kısa videolar · 5",
  "posts": [
   {
-   "id": "reels-fatih-sultan-mehmed-in-en-leri",
-   "category": "Tarih",
-   "title": "Fatih Sultan Mehmed'in “en”leri",
-   "subtitle": "Gündem Ötesi'nde Ozan Bodur, Fatih'in öne çıkan özelliklerini anlatıyor.",
-   "account": "Eski Defter",
-   "handle": "eskidefter",
-   "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
-   "avatarCredit": {
-    "label": "Charles Burton Gulick",
-    "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
-   },
-   "topic": "Fatih Sultan Mehmed",
-   "layout": "poster",
-   "display": "video",
-   "format": "reel",
-   "minutes": 1.3,
-   "accent": "#8a6a2f",
-   "art": {
-    "kind": "photo",
-    "font": "DM Sans",
-    "paper": "#000000",
-    "ink": "#f2f0e7",
-    "align": "start",
-    "position": "bottom",
-    "label": "Kısa video"
-   },
-   "cover": {
-    "url": "https://i.ytimg.com/vi/5MbnSyelrk8/oardefault.jpg",
-    "alt": "Fatih Sultan Mehmed'in “en”leri — video önizlemesi",
-    "credit": "Gündem Ötesi",
-    "source": "https://www.youtube.com/watch?v=5MbnSyelrk8",
-    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-    "licenseUrl": "https://www.youtube.com/static?template=terms"
-   },
-   "slides": [
-    {
-     "title": "",
-     "text": "Gündem Ötesi'nde Ozan Bodur, Fatih'in öne çıkan özelliklerini anlatıyor."
-    }
-   ],
-   "video": {
-    "kind": "youtube",
-    "url": "5MbnSyelrk8",
-    "title": "Fatih Sultan Mehmed’in enleri 🗡️ Pelin Çift sordu, Ozan Bodur cevapladı. #GündemÖtesi",
-    "language": "Türkçe · otomatik altyazı",
-    "duration": 77,
-    "orientation": "portrait",
-    "publisher": "Gündem Ötesi",
-    "publisherId": "UCXTuTRn0L4c0pxPAcaL1Pfw",
-    "poster": "https://i.ytimg.com/vi/5MbnSyelrk8/oardefault.jpg",
-    "captionLanguage": "tr",
-    "captionKind": "automatic",
-    "verifiedAt": "2026-09-26"
-   },
-   "sources": [
-    {
-     "label": "Gündem Ötesi · Fatih Sultan Mehmed’in enleri 🗡️ Pelin Çift sordu, Ozan Bodur cevapladı. #GündemÖtesi",
-     "url": "https://www.youtube.com/watch?v=5MbnSyelrk8"
-    },
-    {
-     "label": "Gündem Ötesi · kanal",
-     "url": "https://www.youtube.com/channel/UCXTuTRn0L4c0pxPAcaL1Pfw"
-    }
-   ],
-   "comments": [],
-   "updatedAt": "2026-09-26"
-  },
-  {
-   "id": "reels-ahlak-dine-mi-dayanir",
-   "category": "Felsefe",
-   "title": "Ahlak dine mi dayanır?",
-   "subtitle": "Prof. Dr. Ahmet Arslan, din ile ahlak arasındaki ilişkiyi felsefi açıdan ele alıyor. Farklı görüşlerin tartışıldığı bir alan.",
-   "account": "Bir Soru Daha",
-   "handle": "birsorudaha",
-   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
-   "avatarCredit": {
-    "label": "Bubba73 (talk) , Jud McCranie",
-    "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
-   },
-   "topic": "Din ve ahlak",
-   "layout": "poster",
-   "display": "video",
-   "format": "reel",
-   "minutes": 0.7,
-   "accent": "#5e4a8a",
-   "art": {
-    "kind": "photo",
-    "font": "DM Sans",
-    "paper": "#000000",
-    "ink": "#f2f0e7",
-    "align": "start",
-    "position": "bottom",
-    "label": "Kısa video"
-   },
-   "cover": {
-    "url": "https://i.ytimg.com/vi/I9HidsZ_1U4/oardefault.jpg",
-    "alt": "Ahlak dine mi dayanır? — video önizlemesi",
-    "credit": "Teke Tek Bilim",
-    "source": "https://www.youtube.com/watch?v=I9HidsZ_1U4",
-    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-    "licenseUrl": "https://www.youtube.com/static?template=terms"
-   },
-   "slides": [
-    {
-     "title": "",
-     "text": "Prof. Dr. Ahmet Arslan, din ile ahlak arasındaki ilişkiyi felsefi açıdan ele alıyor. Farklı görüşlerin tartışıldığı bir alan."
-    }
-   ],
-   "video": {
-    "kind": "youtube",
-    "url": "I9HidsZ_1U4",
-    "title": "Din ve ahlak arasındaki ilişki / Prof. Dr. Ahmet Arslan-Teke Tek Bilim",
-    "language": "Türkçe · otomatik altyazı",
-    "duration": 40,
-    "orientation": "portrait",
-    "publisher": "Teke Tek Bilim",
-    "publisherId": "UCvCVGYB-HXxhfNB0dtF0_tw",
-    "poster": "https://i.ytimg.com/vi/I9HidsZ_1U4/oardefault.jpg",
-    "captionLanguage": "tr",
-    "captionKind": "automatic",
-    "verifiedAt": "2026-09-26"
-   },
-   "sources": [
-    {
-     "label": "Teke Tek Bilim · Din ve ahlak arasındaki ilişki / Prof. Dr. Ahmet Arslan-Teke Tek Bilim",
-     "url": "https://www.youtube.com/watch?v=I9HidsZ_1U4"
-    },
-    {
-     "label": "Teke Tek Bilim · kanal",
-     "url": "https://www.youtube.com/channel/UCvCVGYB-HXxhfNB0dtF0_tw"
-    }
-   ],
-   "comments": [],
-   "updatedAt": "2026-09-26"
-  },
-  {
-   "id": "reels-intihar-riskinde-iltihabin-rolu",
-   "category": "Sağlık",
-   "title": "İntihar riskinde iltihabın rolü",
-   "subtitle": "Bazı araştırmalar vücuttaki iltihabın ruh sağlığıyla ilişkisini inceliyor. Gelecek Bilimde anlatıyor. Zor bir dönemdeysen bir uzmana ulaş.",
-   "account": "Vücudun Hikâyesi",
-   "handle": "vucudunhikayesi",
-   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Deoroller.JPG/330px-Deoroller.JPG",
-   "avatarCredit": {
-    "label": "Joho345",
-    "url": "https://commons.wikimedia.org/wiki/File:Deoroller.JPG"
-   },
-   "topic": "Ruh sağlığı",
-   "layout": "poster",
-   "display": "video",
-   "format": "reel",
-   "minutes": 2.1,
-   "accent": "#a03f55",
-   "art": {
-    "kind": "photo",
-    "font": "DM Sans",
-    "paper": "#000000",
-    "ink": "#f2f0e7",
-    "align": "start",
-    "position": "bottom",
-    "label": "Kısa video"
-   },
-   "cover": {
-    "url": "https://i.ytimg.com/vi/vH6SyPNyH9o/oardefault.jpg",
-    "alt": "İntihar riskinde iltihabın rolü — video önizlemesi",
-    "credit": "Gelecek Bilimde",
-    "source": "https://www.youtube.com/watch?v=vH6SyPNyH9o",
-    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-    "licenseUrl": "https://www.youtube.com/static?template=terms"
-   },
-   "slides": [
-    {
-     "title": "",
-     "text": "Bazı araştırmalar vücuttaki iltihabın ruh sağlığıyla ilişkisini inceliyor. Gelecek Bilimde anlatıyor. Zor bir dönemdeysen bir uzmana ulaş."
-    }
-   ],
-   "video": {
-    "kind": "youtube",
-    "url": "vH6SyPNyH9o",
-    "title": "İntiharın Gizli Nedeni!",
-    "language": "Türkçe · otomatik altyazı",
-    "duration": 126,
-    "orientation": "portrait",
-    "publisher": "Gelecek Bilimde",
-    "publisherId": "UC03cpKIZShIWoSBhfVE5bog",
-    "poster": "https://i.ytimg.com/vi/vH6SyPNyH9o/oardefault.jpg",
-    "captionLanguage": "tr",
-    "captionKind": "automatic",
-    "verifiedAt": "2026-09-26"
-   },
-   "sources": [
-    {
-     "label": "Gelecek Bilimde · İntiharın Gizli Nedeni!",
-     "url": "https://www.youtube.com/watch?v=vH6SyPNyH9o"
-    },
-    {
-     "label": "Gelecek Bilimde · kanal",
-     "url": "https://www.youtube.com/channel/UC03cpKIZShIWoSBhfVE5bog"
-    }
-   ],
-   "comments": [],
-   "updatedAt": "2026-09-26"
-  },
-  {
-   "id": "reels-sonsuz-tane-sayi-nasil-toplanir",
-   "category": "Bilim",
-   "title": "Sonsuz tane sayı nasıl toplanır?",
-   "subtitle": "Sonsuz sayıda terimi toplayıp sonlu bir sonuca varmak mümkün mü? Nesin Matematik Köyü'nden serilere sade bir giriş.",
-   "account": "Bilimin İçinden",
-   "handle": "bilimini̇cinden",
-   "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
-   "avatarCredit": {
-    "label": "SHTTEFAN / Unsplash",
-    "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
-   },
-   "topic": "Sonsuz toplamlar",
-   "layout": "poster",
-   "display": "video",
-   "format": "reel",
-   "minutes": 1,
-   "accent": "#2f6f8f",
-   "art": {
-    "kind": "photo",
-    "font": "DM Sans",
-    "paper": "#000000",
-    "ink": "#f2f0e7",
-    "align": "start",
-    "position": "bottom",
-    "label": "Kısa video"
-   },
-   "cover": {
-    "url": "https://i.ytimg.com/vi/fL2MoGye6-4/oardefault.jpg",
-    "alt": "Sonsuz tane sayı nasıl toplanır? — video önizlemesi",
-    "credit": "Nesin Matematik Köyü",
-    "source": "https://www.youtube.com/watch?v=fL2MoGye6-4",
-    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-    "licenseUrl": "https://www.youtube.com/static?template=terms"
-   },
-   "slides": [
-    {
-     "title": "",
-     "text": "Sonsuz sayıda terimi toplayıp sonlu bir sonuca varmak mümkün mü? Nesin Matematik Köyü'nden serilere sade bir giriş."
-    }
-   ],
-   "video": {
-    "kind": "youtube",
-    "url": "fL2MoGye6-4",
-    "title": "Sonsuz Sayı Nasıl Toplanır? 🐾 #alinesin  #shorts",
-    "language": "Türkçe · otomatik altyazı",
-    "duration": 58,
-    "orientation": "portrait",
-    "publisher": "Nesin Matematik Köyü",
-    "publisherId": "UCimO9iAJY5hllus2dgtn7tw",
-    "poster": "https://i.ytimg.com/vi/fL2MoGye6-4/oardefault.jpg",
-    "captionLanguage": "tr",
-    "captionKind": "automatic",
-    "verifiedAt": "2026-09-26"
-   },
-   "sources": [
-    {
-     "label": "Nesin Matematik Köyü · Sonsuz Sayı Nasıl Toplanır? 🐾 #alinesin  #shorts",
-     "url": "https://www.youtube.com/watch?v=fL2MoGye6-4"
-    },
-    {
-     "label": "Nesin Matematik Köyü · kanal",
-     "url": "https://www.youtube.com/channel/UCimO9iAJY5hllus2dgtn7tw"
-    }
-   ],
-   "comments": [],
-   "updatedAt": "2026-09-26"
-  },
-  {
-   "id": "reels-sivrisinek-sokmasini-neden-hissetmiyoruz",
-   "category": "Doğa",
-   "title": "Sivrisinek sokmasını neden hissetmiyoruz?",
-   "subtitle": "Sivrisineklerin incelikli iğnesi ve salyasındaki maddeler. Evrim Ağacı anlatıyor.",
-   "account": "Doğanın Notları",
-   "handle": "doganinnotlari",
-   "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
-   "avatarCredit": {
-    "label": "Samuel Quek / Unsplash",
-    "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
-   },
-   "topic": "Sivrisinekler",
-   "layout": "poster",
-   "display": "video",
-   "format": "reel",
-   "minutes": 0.9,
-   "accent": "#2f7a4a",
-   "art": {
-    "kind": "photo",
-    "font": "DM Sans",
-    "paper": "#000000",
-    "ink": "#f2f0e7",
-    "align": "start",
-    "position": "bottom",
-    "label": "Kısa video"
-   },
-   "cover": {
-    "url": "https://i.ytimg.com/vi/RTPQIQWqpLM/oardefault.jpg",
-    "alt": "Sivrisinek sokmasını neden hissetmiyoruz? — video önizlemesi",
-    "credit": "Evrim Ağacı",
-    "source": "https://www.youtube.com/watch?v=RTPQIQWqpLM",
-    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-    "licenseUrl": "https://www.youtube.com/static?template=terms"
-   },
-   "slides": [
-    {
-     "title": "",
-     "text": "Sivrisineklerin incelikli iğnesi ve salyasındaki maddeler. Evrim Ağacı anlatıyor."
-    }
-   ],
-   "video": {
-    "kind": "youtube",
-    "url": "RTPQIQWqpLM",
-    "title": "Sivrisinek Sokmasını Neden Hissetmiyoruz?",
-    "language": "Türkçe · otomatik altyazı",
-    "duration": 56,
-    "orientation": "portrait",
-    "publisher": "Evrim Ağacı",
-    "publisherId": "UCatnasFAiXUvWwH8NlSdd3A",
-    "poster": "https://i.ytimg.com/vi/RTPQIQWqpLM/oardefault.jpg",
-    "captionLanguage": "tr",
-    "captionKind": "automatic",
-    "verifiedAt": "2026-09-26"
-   },
-   "sources": [
-    {
-     "label": "Evrim Ağacı · Sivrisinek Sokmasını Neden Hissetmiyoruz?",
-     "url": "https://www.youtube.com/watch?v=RTPQIQWqpLM"
-    },
-    {
-     "label": "Evrim Ağacı · kanal",
-     "url": "https://www.youtube.com/channel/UCatnasFAiXUvWwH8NlSdd3A"
-    }
-   ],
-   "comments": [],
-   "updatedAt": "2026-09-26"
-  },
-  {
-   "id": "reels-nigde-de-sivali-kafataslari",
-   "category": "Tarih",
-   "title": "Niğde'de sıvalı kafatasları",
-   "subtitle": "Neolitik dönemde ölülerin yüzlerini sıvayla yeniden şekillendirmek. Arkeofili anlatıyor.",
-   "account": "Eski Defter",
-   "handle": "eskidefter",
-   "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
-   "avatarCredit": {
-    "label": "Charles Burton Gulick",
-    "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
-   },
-   "topic": "Sıvalı kafatasları",
-   "layout": "poster",
-   "display": "video",
-   "format": "reel",
-   "minutes": 1,
-   "accent": "#8a6a2f",
-   "art": {
-    "kind": "photo",
-    "font": "DM Sans",
-    "paper": "#000000",
-    "ink": "#f2f0e7",
-    "align": "start",
-    "position": "bottom",
-    "label": "Kısa video"
-   },
-   "cover": {
-    "url": "https://i.ytimg.com/vi/ny-vhkvRhnA/oardefault.jpg",
-    "alt": "Niğde'de sıvalı kafatasları — video önizlemesi",
-    "credit": "Arkeofili",
-    "source": "https://www.youtube.com/watch?v=ny-vhkvRhnA",
-    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-    "licenseUrl": "https://www.youtube.com/static?template=terms"
-   },
-   "slides": [
-    {
-     "title": "",
-     "text": "Neolitik dönemde ölülerin yüzlerini sıvayla yeniden şekillendirmek. Arkeofili anlatıyor."
-    }
-   ],
-   "video": {
-    "kind": "youtube",
-    "url": "ny-vhkvRhnA",
-    "title": "Niğde'de sıvalı kafatasları!",
-    "language": "Türkçe · otomatik altyazı",
-    "duration": 59,
-    "orientation": "portrait",
-    "publisher": "Arkeofili",
-    "publisherId": "UCMlB2csKpp9eaf8TsNitecw",
-    "poster": "https://i.ytimg.com/vi/ny-vhkvRhnA/oardefault.jpg",
-    "captionLanguage": "tr",
-    "captionKind": "automatic",
-    "verifiedAt": "2026-09-26"
-   },
-   "sources": [
-    {
-     "label": "Arkeofili · Niğde'de sıvalı kafatasları!",
-     "url": "https://www.youtube.com/watch?v=ny-vhkvRhnA"
-    },
-    {
-     "label": "Arkeofili · kanal",
-     "url": "https://www.youtube.com/channel/UCMlB2csKpp9eaf8TsNitecw"
-    }
-   ],
-   "comments": [],
-   "updatedAt": "2026-09-26"
-  },
-  {
-   "id": "reels-gordugu-en-distopik-yer-canary-wharf",
-   "category": "Coğrafya",
-   "title": "Gördüğü en distopik yer: Canary Wharf",
-   "subtitle": "Pelin Dilara Çolak, Londra'nın finans bölgesinin insanda bıraktığı hissi ve kent mimarisinin ruh hâlimize etkisini anlatıyor.",
-   "account": "Harita Kenarı",
-   "handle": "haritakenari",
-   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
-   "avatarCredit": {
-    "label": "Basile Morin",
-    "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
-   },
-   "topic": "Kent ve mimari",
-   "layout": "poster",
-   "display": "video",
-   "format": "reel",
-   "minutes": 1.8,
-   "accent": "#3f7a55",
-   "art": {
-    "kind": "photo",
-    "font": "DM Sans",
-    "paper": "#000000",
-    "ink": "#f2f0e7",
-    "align": "start",
-    "position": "bottom",
-    "label": "Kısa video"
-   },
-   "cover": {
-    "url": "https://i.ytimg.com/vi/O68Ch54Phuw/oardefault.jpg",
-    "alt": "Gördüğü en distopik yer: Canary Wharf — video önizlemesi",
-    "credit": "Pelin Dilara Çolak",
-    "source": "https://www.youtube.com/watch?v=O68Ch54Phuw",
-    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-    "licenseUrl": "https://www.youtube.com/static?template=terms"
-   },
-   "slides": [
-    {
-     "title": "",
-     "text": "Pelin Dilara Çolak, Londra'nın finans bölgesinin insanda bıraktığı hissi ve kent mimarisinin ruh hâlimize etkisini anlatıyor."
-    }
-   ],
-   "video": {
-    "kind": "youtube",
-    "url": "O68Ch54Phuw",
-    "title": "Gördüğüm En Distopik Yer: Canary Wharf",
-    "language": "Türkçe · otomatik altyazı",
-    "duration": 105,
-    "orientation": "portrait",
-    "publisher": "Pelin Dilara Çolak",
-    "publisherId": "UCLUyXhgymG9MRSV56yPUQ2g",
-    "poster": "https://i.ytimg.com/vi/O68Ch54Phuw/oardefault.jpg",
-    "captionLanguage": "tr",
-    "captionKind": "automatic",
-    "verifiedAt": "2026-09-26"
-   },
-   "sources": [
-    {
-     "label": "Pelin Dilara Çolak · Gördüğüm En Distopik Yer: Canary Wharf",
-     "url": "https://www.youtube.com/watch?v=O68Ch54Phuw"
-    },
-    {
-     "label": "Pelin Dilara Çolak · kanal",
-     "url": "https://www.youtube.com/channel/UCLUyXhgymG9MRSV56yPUQ2g"
-    }
-   ],
-   "comments": [],
-   "updatedAt": "2026-09-26"
-  },
-  {
-   "id": "reels-kalp-masaji-nasil-yapilir",
-   "category": "Sağlık",
-   "title": "Kalp masajı nasıl yapılır?",
-   "subtitle": "Doğru el pozisyonu, derinlik ve ritim. Hüseyin Çalışkan simülasyonla gösteriyor. İlk yardım eğitimi almanı öneririz.",
-   "account": "Vücudun Hikâyesi",
-   "handle": "vucudunhikayesi",
-   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Deoroller.JPG/330px-Deoroller.JPG",
-   "avatarCredit": {
-    "label": "Joho345",
-    "url": "https://commons.wikimedia.org/wiki/File:Deoroller.JPG"
-   },
-   "topic": "Kalp masajı",
-   "layout": "poster",
-   "display": "video",
-   "format": "reel",
-   "minutes": 1.7,
-   "accent": "#a03f55",
-   "art": {
-    "kind": "photo",
-    "font": "DM Sans",
-    "paper": "#000000",
-    "ink": "#f2f0e7",
-    "align": "start",
-    "position": "bottom",
-    "label": "Kısa video"
-   },
-   "cover": {
-    "url": "https://i.ytimg.com/vi/HC4bvzkiXJs/oardefault.jpg",
-    "alt": "Kalp masajı nasıl yapılır? — video önizlemesi",
-    "credit": "Hüseyin Çalışkan",
-    "source": "https://www.youtube.com/watch?v=HC4bvzkiXJs",
-    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-    "licenseUrl": "https://www.youtube.com/static?template=terms"
-   },
-   "slides": [
-    {
-     "title": "",
-     "text": "Doğru el pozisyonu, derinlik ve ritim. Hüseyin Çalışkan simülasyonla gösteriyor. İlk yardım eğitimi almanı öneririz."
-    }
-   ],
-   "video": {
-    "kind": "youtube",
-    "url": "HC4bvzkiXJs",
-    "title": "UEFA KALP MASAJI ÖĞRETİYOR, KALP MASAJI NASIL YAPILIR? SİMÜLASYON",
-    "language": "Türkçe · otomatik altyazı",
-    "duration": 102,
-    "orientation": "portrait",
-    "publisher": "Hüseyin Çalışkan",
-    "publisherId": "UCFzPR5ciS3P3bZYfAssmdIg",
-    "poster": "https://i.ytimg.com/vi/HC4bvzkiXJs/oardefault.jpg",
-    "captionLanguage": "tr",
-    "captionKind": "automatic",
-    "verifiedAt": "2026-09-26"
-   },
-   "sources": [
-    {
-     "label": "Hüseyin Çalışkan · UEFA KALP MASAJI ÖĞRETİYOR, KALP MASAJI NASIL YAPILIR? SİMÜLASYON",
-     "url": "https://www.youtube.com/watch?v=HC4bvzkiXJs"
-    },
-    {
-     "label": "Hüseyin Çalışkan · kanal",
-     "url": "https://www.youtube.com/channel/UCFzPR5ciS3P3bZYfAssmdIg"
-    }
-   ],
-   "comments": [],
-   "updatedAt": "2026-09-26"
-  },
-  {
-   "id": "reels-hac-sembolunun-sasirtici-hikayesi",
-   "category": "İnanç",
-   "title": "Haç sembolünün şaşırtıcı hikâyesi",
-   "subtitle": "Hristiyanlığın en bilinen sembolünün geç ortaya çıkışı. Kronik Tarih anlatıyor.",
-   "account": "Metnin İzinde",
-   "handle": "metninizinde",
-   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
-   "avatarCredit": {
-    "label": "Laitche",
-    "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
-   },
-   "topic": "Haç sembolü",
-   "layout": "poster",
-   "display": "video",
-   "format": "reel",
-   "minutes": 1.1,
-   "accent": "#65705a",
-   "art": {
-    "kind": "photo",
-    "font": "DM Sans",
-    "paper": "#000000",
-    "ink": "#f2f0e7",
-    "align": "start",
-    "position": "bottom",
-    "label": "Kısa video"
-   },
-   "cover": {
-    "url": "https://i.ytimg.com/vi/R3gRSVNZkFY/oardefault.jpg",
-    "alt": "Haç sembolünün şaşırtıcı hikâyesi — video önizlemesi",
-    "credit": "Kronik Tarih",
-    "source": "https://www.youtube.com/watch?v=R3gRSVNZkFY",
-    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-    "licenseUrl": "https://www.youtube.com/static?template=terms"
-   },
-   "slides": [
-    {
-     "title": "",
-     "text": "Hristiyanlığın en bilinen sembolünün geç ortaya çıkışı. Kronik Tarih anlatıyor."
-    }
-   ],
-   "video": {
-    "kind": "youtube",
-    "url": "R3gRSVNZkFY",
-    "title": "Haç Sembolünün Tuhaf Hikayesi",
-    "language": "Türkçe · otomatik altyazı",
-    "duration": 67,
-    "orientation": "portrait",
-    "publisher": "Kronik Tarih",
-    "publisherId": "UCaEs8Vj-Ozxx7WsAjYcKjiA",
-    "poster": "https://i.ytimg.com/vi/R3gRSVNZkFY/oardefault.jpg",
-    "captionLanguage": "tr",
-    "captionKind": "automatic",
-    "verifiedAt": "2026-09-26"
-   },
-   "sources": [
-    {
-     "label": "Kronik Tarih · Haç Sembolünün Tuhaf Hikayesi",
-     "url": "https://www.youtube.com/watch?v=R3gRSVNZkFY"
-    },
-    {
-     "label": "Kronik Tarih · kanal",
-     "url": "https://www.youtube.com/channel/UCaEs8Vj-Ozxx7WsAjYcKjiA"
-    }
-   ],
-   "comments": [],
-   "updatedAt": "2026-09-26"
-  },
-  {
-   "id": "reels-kelime-ile-sozcuk-arasinda-fark-var-mi",
-   "category": "Edebiyat",
-   "title": "“Kelime” ile “sözcük” arasında fark var mı?",
-   "subtitle": "Arapça ve Türkçe kökenli iki eş anlamlının hikâyesi. NerdenGeliyo? anlatıyor.",
-   "account": "Sayfa Arası",
-   "handle": "sayfaarasi",
-   "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
-   "avatarCredit": {
-    "label": "Charles Burton Gulick",
-    "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
-   },
-   "topic": "Kelime ve sözcük",
-   "layout": "poster",
-   "display": "video",
-   "format": "reel",
-   "minutes": 2.3,
-   "accent": "#7a3f5e",
-   "art": {
-    "kind": "photo",
-    "font": "DM Sans",
-    "paper": "#000000",
-    "ink": "#f2f0e7",
-    "align": "start",
-    "position": "bottom",
-    "label": "Kısa video"
-   },
-   "cover": {
-    "url": "https://i.ytimg.com/vi/-jg4Nc2fb7s/oardefault.jpg",
-    "alt": "“Kelime” ile “sözcük” arasında fark var mı? — video önizlemesi",
-    "credit": "NerdenGeliyo?",
-    "source": "https://www.youtube.com/watch?v=-jg4Nc2fb7s",
-    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-    "licenseUrl": "https://www.youtube.com/static?template=terms"
-   },
-   "slides": [
-    {
-     "title": "",
-     "text": "Arapça ve Türkçe kökenli iki eş anlamlının hikâyesi. NerdenGeliyo? anlatıyor."
-    }
-   ],
-   "video": {
-    "kind": "youtube",
-    "url": "-jg4Nc2fb7s",
-    "title": "SÖZ Verdim Açıklıyorum | KELİME ve SÖZCÜK Farkı NerdenGeliyo? #etimoloji #shorts",
-    "language": "Türkçe · otomatik altyazı",
-    "duration": 135,
-    "orientation": "portrait",
-    "publisher": "NerdenGeliyo?",
-    "publisherId": "UC-_CipNBRyb-F7Oi7AKaKUg",
-    "poster": "https://i.ytimg.com/vi/-jg4Nc2fb7s/oardefault.jpg",
-    "captionLanguage": "tr",
-    "captionKind": "automatic",
-    "verifiedAt": "2026-09-26"
-   },
-   "sources": [
-    {
-     "label": "NerdenGeliyo? · SÖZ Verdim Açıklıyorum | KELİME ve SÖZCÜK Farkı NerdenGeliyo? #etimoloji #shorts",
-     "url": "https://www.youtube.com/watch?v=-jg4Nc2fb7s"
-    },
-    {
-     "label": "NerdenGeliyo? · kanal",
-     "url": "https://www.youtube.com/channel/UC-_CipNBRyb-F7Oi7AKaKUg"
-    }
-   ],
-   "comments": [],
-   "updatedAt": "2026-09-26"
-  },
-  {
-   "id": "reels-uyku-pozisyonu-onemli-mi",
-   "category": "Sağlık",
-   "title": "Uyku pozisyonu önemli mi?",
-   "subtitle": "Sırt üstü, yan ya da yüz üstü: uyku pozisyonunun beden üzerindeki etkileri. Haluk Tatar anlatıyor.",
-   "account": "Vücudun Hikâyesi",
-   "handle": "vucudunhikayesi",
-   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Deoroller.JPG/330px-Deoroller.JPG",
-   "avatarCredit": {
-    "label": "Joho345",
-    "url": "https://commons.wikimedia.org/wiki/File:Deoroller.JPG"
-   },
-   "topic": "Uyku",
-   "layout": "poster",
-   "display": "video",
-   "format": "reel",
-   "minutes": 1.5,
-   "accent": "#a03f55",
-   "art": {
-    "kind": "photo",
-    "font": "DM Sans",
-    "paper": "#000000",
-    "ink": "#f2f0e7",
-    "align": "start",
-    "position": "bottom",
-    "label": "Kısa video"
-   },
-   "cover": {
-    "url": "https://i.ytimg.com/vi/S-6iipwhlL0/oardefault.jpg",
-    "alt": "Uyku pozisyonu önemli mi? — video önizlemesi",
-    "credit": "Haluk TATAR",
-    "source": "https://www.youtube.com/watch?v=S-6iipwhlL0",
-    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-    "licenseUrl": "https://www.youtube.com/static?template=terms"
-   },
-   "slides": [
-    {
-     "title": "",
-     "text": "Sırt üstü, yan ya da yüz üstü: uyku pozisyonunun beden üzerindeki etkileri. Haluk Tatar anlatıyor."
-    }
-   ],
-   "video": {
-    "kind": "youtube",
-    "url": "S-6iipwhlL0",
-    "title": "Uyku Pozisyonu Önemli mi?  #uyku  #tavsiye  #mutluluk",
-    "language": "Türkçe · otomatik altyazı",
-    "duration": 88,
-    "orientation": "portrait",
-    "publisher": "Haluk TATAR",
-    "publisherId": "UCrVR30q-Seo82gBhmAe_1uQ",
-    "poster": "https://i.ytimg.com/vi/S-6iipwhlL0/oardefault.jpg",
-    "captionLanguage": "tr",
-    "captionKind": "automatic",
-    "verifiedAt": "2026-09-26"
-   },
-   "sources": [
-    {
-     "label": "Haluk TATAR · Uyku Pozisyonu Önemli mi?  #uyku  #tavsiye  #mutluluk",
-     "url": "https://www.youtube.com/watch?v=S-6iipwhlL0"
-    },
-    {
-     "label": "Haluk TATAR · kanal",
-     "url": "https://www.youtube.com/channel/UCrVR30q-Seo82gBhmAe_1uQ"
-    }
-   ],
-   "comments": [],
-   "updatedAt": "2026-09-26"
-  },
-  {
-   "id": "reels-ataturk-un-yazdirdigi-astronomi-kitabi",
-   "category": "Uzay",
-   "title": "Atatürk'ün yazdırdığı astronomi kitabı",
-   "subtitle": "Cumhuriyetin ilk yıllarında okullar için hazırlanan “Kozmoğrafya”. Astrapera anlatıyor.",
-   "account": "Kozmos",
-   "handle": "kozmos",
-   "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
-   "avatarCredit": {
-    "label": "NASA",
-    "url": "https://science.nasa.gov/earth/facts/"
-   },
-   "topic": "Kozmoğrafya",
-   "layout": "poster",
-   "display": "video",
-   "format": "reel",
-   "minutes": 1,
-   "accent": "#3b3f8f",
-   "art": {
-    "kind": "photo",
-    "font": "DM Sans",
-    "paper": "#000000",
-    "ink": "#f2f0e7",
-    "align": "start",
-    "position": "bottom",
-    "label": "Kısa video"
-   },
-   "cover": {
-    "url": "https://i.ytimg.com/vi/A6Ef_0HKLxQ/oardefault.jpg",
-    "alt": "Atatürk'ün yazdırdığı astronomi kitabı — video önizlemesi",
-    "credit": "Astrapera",
-    "source": "https://www.youtube.com/watch?v=A6Ef_0HKLxQ",
-    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-    "licenseUrl": "https://www.youtube.com/static?template=terms"
-   },
-   "slides": [
-    {
-     "title": "",
-     "text": "Cumhuriyetin ilk yıllarında okullar için hazırlanan “Kozmoğrafya”. Astrapera anlatıyor."
-    }
-   ],
-   "video": {
-    "kind": "youtube",
-    "url": "A6Ef_0HKLxQ",
-    "title": "Atatürk'ün Yazdırdığı Astronomi Kitabı #shorts",
-    "language": "Türkçe · otomatik altyazı",
-    "duration": 59,
-    "orientation": "portrait",
-    "publisher": "Astrapera",
-    "publisherId": "UCIgwGoUO7QXQQWK8Kj58v8w",
-    "poster": "https://i.ytimg.com/vi/A6Ef_0HKLxQ/oardefault.jpg",
-    "captionLanguage": "tr",
-    "captionKind": "automatic",
-    "verifiedAt": "2026-09-26"
-   },
-   "sources": [
-    {
-     "label": "Astrapera · Atatürk'ün Yazdırdığı Astronomi Kitabı #shorts",
-     "url": "https://www.youtube.com/watch?v=A6Ef_0HKLxQ"
-    },
-    {
-     "label": "Astrapera · kanal",
-     "url": "https://www.youtube.com/channel/UCIgwGoUO7QXQQWK8Kj58v8w"
-    }
-   ],
-   "comments": [],
-   "updatedAt": "2026-09-26"
-  },
-  {
-   "id": "reels-mars-ta-ucan-helikopter-ingenuity-nin-hikayesi",
-   "category": "Uzay",
-   "title": "Mars'ta uçan helikopter Ingenuity'nin hikâyesi",
-   "subtitle": "Başka bir gezegende ilk motorlu uçuş. Dr. Umut Yıldız, Ingenuity'yi anlatıyor.",
-   "account": "Kozmos",
-   "handle": "kozmos",
-   "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
-   "avatarCredit": {
-    "label": "NASA",
-    "url": "https://science.nasa.gov/earth/facts/"
-   },
-   "topic": "Ingenuity",
-   "layout": "poster",
-   "display": "video",
-   "format": "reel",
-   "minutes": 1,
-   "accent": "#3b3f8f",
-   "art": {
-    "kind": "photo",
-    "font": "DM Sans",
-    "paper": "#000000",
-    "ink": "#f2f0e7",
-    "align": "start",
-    "position": "bottom",
-    "label": "Kısa video"
-   },
-   "cover": {
-    "url": "https://i.ytimg.com/vi/IL07Ous0KK4/oardefault.jpg",
-    "alt": "Mars'ta uçan helikopter Ingenuity'nin hikâyesi — video önizlemesi",
-    "credit": "Dr Umut Yildiz (Tek Çare Uzay)",
-    "source": "https://www.youtube.com/watch?v=IL07Ous0KK4",
-    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-    "licenseUrl": "https://www.youtube.com/static?template=terms"
-   },
-   "slides": [
-    {
-     "title": "",
-     "text": "Başka bir gezegende ilk motorlu uçuş. Dr. Umut Yıldız, Ingenuity'yi anlatıyor."
-    }
-   ],
-   "video": {
-    "kind": "youtube",
-    "url": "IL07Ous0KK4",
-    "title": "Mars’a gönderdiğimiz helikopter Ingenuity’nin hikayesi 🚀 #nasa #mars #perseverance #marshelicopter",
-    "language": "Türkçe · otomatik altyazı",
-    "duration": 60,
-    "orientation": "portrait",
-    "publisher": "Dr Umut Yildiz (Tek Çare Uzay)",
-    "publisherId": "UC5_6R9pPdyQ5-t-VQXS7E2A",
-    "poster": "https://i.ytimg.com/vi/IL07Ous0KK4/oardefault.jpg",
-    "captionLanguage": "tr",
-    "captionKind": "automatic",
-    "verifiedAt": "2026-09-26"
-   },
-   "sources": [
-    {
-     "label": "Dr Umut Yildiz (Tek Çare Uzay) · Mars’a gönderdiğimiz helikopter Ingenuity’nin hikayesi 🚀 #nasa #mars #perseverance #marshelicopter",
-     "url": "https://www.youtube.com/watch?v=IL07Ous0KK4"
-    },
-    {
-     "label": "Dr Umut Yildiz (Tek Çare Uzay) · kanal",
-     "url": "https://www.youtube.com/channel/UC5_6R9pPdyQ5-t-VQXS7E2A"
-    }
-   ],
-   "comments": [],
-   "updatedAt": "2026-09-26"
-  },
-  {
-   "id": "reels-ben-karadeniz-im",
-   "category": "Coğrafya",
-   "title": "“Ben Karadeniz'im”",
-   "subtitle": "Az tuzlu suları ve derinlerdeki oksijensiz tabakasıyla Karadeniz kendini tanıtıyor. Coğrafyanın Kodları'ndan.",
-   "account": "Harita Kenarı",
-   "handle": "haritakenari",
-   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
-   "avatarCredit": {
-    "label": "Basile Morin",
-    "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
-   },
-   "topic": "Karadeniz",
-   "layout": "poster",
-   "display": "video",
-   "format": "reel",
-   "minutes": 0.5,
-   "accent": "#3f7a55",
-   "art": {
-    "kind": "photo",
-    "font": "DM Sans",
-    "paper": "#000000",
-    "ink": "#f2f0e7",
-    "align": "start",
-    "position": "bottom",
-    "label": "Kısa video"
-   },
-   "cover": {
-    "url": "https://i.ytimg.com/vi/g4thnSXGqeI/oardefault.jpg",
-    "alt": "“Ben Karadeniz'im” — video önizlemesi",
-    "credit": "Coğrafyanın Kodları",
-    "source": "https://www.youtube.com/watch?v=g4thnSXGqeI",
-    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-    "licenseUrl": "https://www.youtube.com/static?template=terms"
-   },
-   "slides": [
-    {
-     "title": "",
-     "text": "Az tuzlu suları ve derinlerdeki oksijensiz tabakasıyla Karadeniz kendini tanıtıyor. Coğrafyanın Kodları'ndan."
-    }
-   ],
-   "video": {
-    "kind": "youtube",
-    "url": "g4thnSXGqeI",
-    "title": "Ben Karadeniz’im #coğrafya",
-    "language": "Türkçe · otomatik altyazı",
-    "duration": 32,
-    "orientation": "portrait",
-    "publisher": "Coğrafyanın Kodları",
-    "publisherId": "UCIvX31CHx2RsFQM46qbjuJA",
-    "poster": "https://i.ytimg.com/vi/g4thnSXGqeI/oardefault.jpg",
-    "captionLanguage": "tr",
-    "captionKind": "automatic",
-    "verifiedAt": "2026-09-26"
-   },
-   "sources": [
-    {
-     "label": "Coğrafyanın Kodları · Ben Karadeniz’im #coğrafya",
-     "url": "https://www.youtube.com/watch?v=g4thnSXGqeI"
-    },
-    {
-     "label": "Coğrafyanın Kodları · kanal",
-     "url": "https://www.youtube.com/channel/UCIvX31CHx2RsFQM46qbjuJA"
-    }
-   ],
-   "comments": [],
-   "updatedAt": "2026-09-26"
-  },
-  {
-   "id": "reels-siyaset-sozcugu-nereden-geliyor",
-   "category": "Felsefe",
-   "title": "“Siyaset” sözcüğü nereden geliyor?",
-   "subtitle": "Bir kelimenin kökünden siyaset kavramına bakış. İlk Felsefe anlatıyor.",
-   "account": "Bir Soru Daha",
-   "handle": "birsorudaha",
-   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
-   "avatarCredit": {
-    "label": "Bubba73 (talk) , Jud McCranie",
-    "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
-   },
-   "topic": "Siyaset",
-   "layout": "poster",
-   "display": "video",
-   "format": "reel",
-   "minutes": 1,
-   "accent": "#5e4a8a",
-   "art": {
-    "kind": "photo",
-    "font": "DM Sans",
-    "paper": "#000000",
-    "ink": "#f2f0e7",
-    "align": "start",
-    "position": "bottom",
-    "label": "Kısa video"
-   },
-   "cover": {
-    "url": "https://i.ytimg.com/vi/H4mRLudWyJ4/oardefault.jpg",
-    "alt": "“Siyaset” sözcüğü nereden geliyor? — video önizlemesi",
-    "credit": "İlk Felsefe",
-    "source": "https://www.youtube.com/watch?v=H4mRLudWyJ4",
-    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-    "licenseUrl": "https://www.youtube.com/static?template=terms"
-   },
-   "slides": [
-    {
-     "title": "",
-     "text": "Bir kelimenin kökünden siyaset kavramına bakış. İlk Felsefe anlatıyor."
-    }
-   ],
-   "video": {
-    "kind": "youtube",
-    "url": "H4mRLudWyJ4",
-    "title": "Siyaset Sözcüğünün Kökeni #siyaset #shorts",
-    "language": "Türkçe · otomatik altyazı",
-    "duration": 59,
-    "orientation": "portrait",
-    "publisher": "İlk Felsefe",
-    "publisherId": "UCQr4zvYuPk02ISz2OQU56tg",
-    "poster": "https://i.ytimg.com/vi/H4mRLudWyJ4/oardefault.jpg",
-    "captionLanguage": "tr",
-    "captionKind": "automatic",
-    "verifiedAt": "2026-09-26"
-   },
-   "sources": [
-    {
-     "label": "İlk Felsefe · Siyaset Sözcüğünün Kökeni #siyaset #shorts",
-     "url": "https://www.youtube.com/watch?v=H4mRLudWyJ4"
-    },
-    {
-     "label": "İlk Felsefe · kanal",
-     "url": "https://www.youtube.com/channel/UCQr4zvYuPk02ISz2OQU56tg"
-    }
-   ],
-   "comments": [],
-   "updatedAt": "2026-09-26"
-  },
-  {
    "id": "reels-turkiye-adi-nereden-geliyor",
    "category": "Tarih",
    "title": "“Türkiye” adı nereden geliyor?",
@@ -1186,7 +166,7 @@
     "label": "Kısa video"
    },
    "cover": {
-    "url": "https://i.ytimg.com/vi/-nbK3-sDqQ4/oardefault.jpg",
+    "url": "https://i.ytimg.com/vi/-nbK3-sDqQ4/sddefault.jpg",
     "alt": "Vefa Kilise Camii'nin kayıp mozaikleri — video önizlemesi",
     "credit": "Bloomberg HT Tarih",
     "source": "https://www.youtube.com/watch?v=-nbK3-sDqQ4",
@@ -1208,7 +188,8 @@
     "orientation": "portrait",
     "publisher": "Bloomberg HT Tarih",
     "publisherId": "UCf8bqeYsSJteBU5iENQ1Cww",
-    "poster": "https://i.ytimg.com/vi/-nbK3-sDqQ4/oardefault.jpg",
+    "poster": "https://i.ytimg.com/vi/-nbK3-sDqQ4/sddefault.jpg",
+    "posterKind": "pillarbox",
     "captionLanguage": "tr",
     "captionKind": "automatic",
     "verifiedAt": "2026-09-26"
@@ -2138,7 +1119,7 @@
     "label": "Kısa video"
    },
    "cover": {
-    "url": "https://i.ytimg.com/vi/-RYDL4X5YmE/oardefault.jpg",
+    "url": "https://i.ytimg.com/vi/-RYDL4X5YmE/sddefault.jpg",
     "alt": "UNESCO listesindeki ahşap cami: Mahmut Bey Camii — video önizlemesi",
     "credit": "DiyanetTV",
     "source": "https://www.youtube.com/watch?v=-RYDL4X5YmE",
@@ -2160,7 +1141,8 @@
     "orientation": "portrait",
     "publisher": "DiyanetTV",
     "publisherId": "UC3d1AdmvAP6Jq16-WpD086g",
-    "poster": "https://i.ytimg.com/vi/-RYDL4X5YmE/oardefault.jpg",
+    "poster": "https://i.ytimg.com/vi/-RYDL4X5YmE/sddefault.jpg",
+    "posterKind": "pillarbox",
     "captionLanguage": "tr",
     "captionKind": "automatic",
     "verifiedAt": "2026-09-26"
@@ -2717,6 +1699,1029 @@
     {
      "label": "TRT Arşiv · kanal",
      "url": "https://www.youtube.com/channel/UCQkPrgNhhdOJR3OzTdWd5lQ"
+    }
+   ],
+   "comments": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "reels-uc-kibritten-alti-yapabilir-misin",
+   "category": "Soru",
+   "title": "Üç kibritten altı yapabilir misin?",
+   "subtitle": "Kırmadan çözülen bir kibrit bulmacası. Olumlu Bak'tan.",
+   "account": "Bir Tahmin",
+   "handle": "birtahmin",
+   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg",
+   "avatarCredit": {
+    "label": "Christoph Braun",
+    "url": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg"
+   },
+   "topic": "Kibrit bulmacası",
+   "layout": "poster",
+   "display": "video",
+   "format": "reel",
+   "minutes": 0.5,
+   "accent": "#7a6a2f",
+   "art": {
+    "kind": "photo",
+    "font": "DM Sans",
+    "paper": "#000000",
+    "ink": "#f2f0e7",
+    "align": "start",
+    "position": "bottom",
+    "label": "Kısa video"
+   },
+   "cover": {
+    "url": "https://i.ytimg.com/vi/P7Y0skiVmpE/sddefault.jpg",
+    "alt": "Üç kibritten altı yapabilir misin? — video önizlemesi",
+    "credit": "OLUMLU BAK",
+    "source": "https://www.youtube.com/watch?v=P7Y0skiVmpE",
+    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+    "licenseUrl": "https://www.youtube.com/static?template=terms"
+   },
+   "slides": [
+    {
+     "title": "",
+     "text": "Kırmadan çözülen bir kibrit bulmacası. Olumlu Bak'tan."
+    }
+   ],
+   "video": {
+    "kind": "youtube",
+    "url": "P7Y0skiVmpE",
+    "title": "3 Kibritten, Kibritleri Kırmadan “6” Kibrit Yapabilir Misiniz? #Shorts",
+    "language": "Türkçe · otomatik altyazı",
+    "duration": 31,
+    "orientation": "portrait",
+    "publisher": "OLUMLU BAK",
+    "publisherId": "UCadTei_kVzFAfcec1WyUspw",
+    "poster": "https://i.ytimg.com/vi/P7Y0skiVmpE/sddefault.jpg",
+    "posterKind": "pillarbox",
+    "captionLanguage": "tr",
+    "captionKind": "automatic",
+    "verifiedAt": "2026-09-26"
+   },
+   "sources": [
+    {
+     "label": "OLUMLU BAK · 3 Kibritten, Kibritleri Kırmadan “6” Kibrit Yapabilir Misiniz? #Shorts",
+     "url": "https://www.youtube.com/watch?v=P7Y0skiVmpE"
+    },
+    {
+     "label": "OLUMLU BAK · kanal",
+     "url": "https://www.youtube.com/channel/UCadTei_kVzFAfcec1WyUspw"
+    }
+   ],
+   "comments": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "reels-meraklisina-bes-bilim-kurgu-kitabi",
+   "category": "Edebiyat",
+   "title": "Meraklısına beş bilim kurgu kitabı",
+   "subtitle": "İdil Salihoğlu'ndan bilime ilgi duyanlar için bilim kurgu önerileri.",
+   "account": "Sayfa Arası",
+   "handle": "sayfaarasi",
+   "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Letter_on_Papyrus.jpg",
+   "avatarCredit": {
+    "label": "Charles Burton Gulick",
+    "url": "https://commons.wikimedia.org/wiki/File:Letter_on_Papyrus.jpg"
+   },
+   "topic": "Bilim kurgu",
+   "layout": "poster",
+   "display": "video",
+   "format": "reel",
+   "minutes": 0.8,
+   "accent": "#7a3f5e",
+   "art": {
+    "kind": "photo",
+    "font": "DM Sans",
+    "paper": "#000000",
+    "ink": "#f2f0e7",
+    "align": "start",
+    "position": "bottom",
+    "label": "Kısa video"
+   },
+   "cover": {
+    "url": "https://i.ytimg.com/vi/EdbLOvfrEOE/oardefault.jpg",
+    "alt": "Meraklısına beş bilim kurgu kitabı — video önizlemesi",
+    "credit": "İdil Salihoğlu",
+    "source": "https://www.youtube.com/watch?v=EdbLOvfrEOE",
+    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+    "licenseUrl": "https://www.youtube.com/static?template=terms"
+   },
+   "slides": [
+    {
+     "title": "",
+     "text": "İdil Salihoğlu'ndan bilime ilgi duyanlar için bilim kurgu önerileri."
+    }
+   ],
+   "video": {
+    "kind": "youtube",
+    "url": "EdbLOvfrEOE",
+    "title": "Meraklısına 5 Bilim Kurgu Kitabı #booktok #bilimkurgu",
+    "language": "Türkçe · otomatik altyazı",
+    "duration": 47,
+    "orientation": "portrait",
+    "publisher": "İdil Salihoğlu",
+    "publisherId": "UCq-2mZvwOVAmGjqpXV-mnxA",
+    "poster": "https://i.ytimg.com/vi/EdbLOvfrEOE/oardefault.jpg",
+    "captionLanguage": "tr",
+    "captionKind": "automatic",
+    "verifiedAt": "2026-09-26"
+   },
+   "sources": [
+    {
+     "label": "İdil Salihoğlu · Meraklısına 5 Bilim Kurgu Kitabı #booktok #bilimkurgu",
+     "url": "https://www.youtube.com/watch?v=EdbLOvfrEOE"
+    },
+    {
+     "label": "İdil Salihoğlu · kanal",
+     "url": "https://www.youtube.com/channel/UCq-2mZvwOVAmGjqpXV-mnxA"
+    }
+   ],
+   "comments": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "reels-huseyin-avni-lifij-in-eserlerine-yakindan-bak",
+   "category": "Sanat",
+   "title": "Hüseyin Avni Lifij'in eserlerine yakından bak",
+   "subtitle": "Türk resminin özgün isimlerinden Lifij'in eserleri. İş Sanat'tan kısa bir bakış.",
+   "account": "Atölyeden",
+   "handle": "atolyeden",
+   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+   "avatarCredit": {
+    "label": "Laitche",
+    "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+   },
+   "topic": "Hüseyin Avni Lifij",
+   "layout": "poster",
+   "display": "video",
+   "format": "reel",
+   "minutes": 0.3,
+   "accent": "#9a4a3a",
+   "art": {
+    "kind": "photo",
+    "font": "DM Sans",
+    "paper": "#000000",
+    "ink": "#f2f0e7",
+    "align": "start",
+    "position": "bottom",
+    "label": "Kısa video"
+   },
+   "cover": {
+    "url": "https://i.ytimg.com/vi/ajMAe9A7wCI/sddefault.jpg",
+    "alt": "Hüseyin Avni Lifij'in eserlerine yakından bak — video önizlemesi",
+    "credit": "İş Sanat",
+    "source": "https://www.youtube.com/watch?v=ajMAe9A7wCI",
+    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+    "licenseUrl": "https://www.youtube.com/static?template=terms"
+   },
+   "slides": [
+    {
+     "title": "",
+     "text": "Türk resminin özgün isimlerinden Lifij'in eserleri. İş Sanat'tan kısa bir bakış."
+    }
+   ],
+   "video": {
+    "kind": "youtube",
+    "url": "ajMAe9A7wCI",
+    "title": "Hüseyin Avni Lifij'in eserlerine gelin yakından bakalım. ✨",
+    "language": "Türkçe · otomatik altyazı",
+    "duration": 16,
+    "orientation": "portrait",
+    "publisher": "İş Sanat",
+    "publisherId": "UCBVs-53x7CRhmHpdfEqABwg",
+    "poster": "https://i.ytimg.com/vi/ajMAe9A7wCI/sddefault.jpg",
+    "posterKind": "pillarbox",
+    "captionLanguage": "tr",
+    "captionKind": "automatic",
+    "verifiedAt": "2026-09-26"
+   },
+   "sources": [
+    {
+     "label": "İş Sanat · Hüseyin Avni Lifij'in eserlerine gelin yakından bakalım. ✨",
+     "url": "https://www.youtube.com/watch?v=ajMAe9A7wCI"
+    },
+    {
+     "label": "İş Sanat · kanal",
+     "url": "https://www.youtube.com/channel/UCBVs-53x7CRhmHpdfEqABwg"
+    }
+   ],
+   "comments": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "reels-ay-in-merkezi-ilk-kez-haritalandi",
+   "category": "Uzay",
+   "title": "Ay'ın merkezi ilk kez haritalandı",
+   "subtitle": "Ay'ın iç yapısına dair yeni bir çalışma. Bizim Gezegenimiz anlatıyor.",
+   "account": "Kozmos",
+   "handle": "kozmos",
+   "avatar": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002131/GSFC_20171208_Archive_e002131~large.jpg",
+   "avatarCredit": {
+    "label": "NASA",
+    "url": "https://science.nasa.gov/earth/facts/"
+   },
+   "topic": "Ay'ın içi",
+   "layout": "poster",
+   "display": "video",
+   "format": "reel",
+   "minutes": 0.5,
+   "accent": "#3b3f8f",
+   "art": {
+    "kind": "photo",
+    "font": "DM Sans",
+    "paper": "#000000",
+    "ink": "#f2f0e7",
+    "align": "start",
+    "position": "bottom",
+    "label": "Kısa video"
+   },
+   "cover": {
+    "url": "https://i.ytimg.com/vi/7TwjguHXu4E/oardefault.jpg",
+    "alt": "Ay'ın merkezi ilk kez haritalandı — video önizlemesi",
+    "credit": "Bizim Gezegenimiz",
+    "source": "https://www.youtube.com/watch?v=7TwjguHXu4E",
+    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+    "licenseUrl": "https://www.youtube.com/static?template=terms"
+   },
+   "slides": [
+    {
+     "title": "",
+     "text": "Ay'ın iç yapısına dair yeni bir çalışma. Bizim Gezegenimiz anlatıyor."
+    }
+   ],
+   "video": {
+    "kind": "youtube",
+    "url": "7TwjguHXu4E",
+    "title": "Ay'ın Merkezi İlk Kez Haritalandı! #shorts",
+    "language": "Türkçe · otomatik altyazı",
+    "duration": 29,
+    "orientation": "portrait",
+    "publisher": "Bizim Gezegenimiz",
+    "publisherId": "UCuukd-TFci9MLLwMz2eiONQ",
+    "poster": "https://i.ytimg.com/vi/7TwjguHXu4E/oardefault.jpg",
+    "captionLanguage": "tr",
+    "captionKind": "automatic",
+    "verifiedAt": "2026-09-26"
+   },
+   "sources": [
+    {
+     "label": "Bizim Gezegenimiz · Ay'ın Merkezi İlk Kez Haritalandı! #shorts",
+     "url": "https://www.youtube.com/watch?v=7TwjguHXu4E"
+    },
+    {
+     "label": "Bizim Gezegenimiz · kanal",
+     "url": "https://www.youtube.com/channel/UCuukd-TFci9MLLwMz2eiONQ"
+    }
+   ],
+   "comments": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "reels-futbolda-hucum-zekasi-ne-demek",
+   "category": "Spor",
+   "title": "Futbolda hücum zekâsı ne demek?",
+   "subtitle": "Boşluğu görmek, zamanlama ve karar verme. Hastalık Bu Futbol anlatıyor.",
+   "account": "Oyunun İçinden",
+   "handle": "oyununicinden",
+   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tennis_ball_on_tennis_court_20170619.jpg/960px-Tennis_ball_on_tennis_court_20170619.jpg",
+   "avatarCredit": {
+    "label": "Santeri Viinamäki",
+    "url": "https://commons.wikimedia.org/wiki/File:Tennis_ball_on_tennis_court_20170619.jpg"
+   },
+   "topic": "Hücum zekâsı",
+   "layout": "poster",
+   "display": "video",
+   "format": "reel",
+   "minutes": 2.1,
+   "accent": "#a0522d",
+   "art": {
+    "kind": "photo",
+    "font": "DM Sans",
+    "paper": "#000000",
+    "ink": "#f2f0e7",
+    "align": "start",
+    "position": "bottom",
+    "label": "Kısa video"
+   },
+   "cover": {
+    "url": "https://i.ytimg.com/vi/l155Det7u5A/oardefault.jpg",
+    "alt": "Futbolda hücum zekâsı ne demek? — video önizlemesi",
+    "credit": "Hastalık Bu Futbol",
+    "source": "https://www.youtube.com/watch?v=l155Det7u5A",
+    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+    "licenseUrl": "https://www.youtube.com/static?template=terms"
+   },
+   "slides": [
+    {
+     "title": "",
+     "text": "Boşluğu görmek, zamanlama ve karar verme. Hastalık Bu Futbol anlatıyor."
+    }
+   ],
+   "video": {
+    "kind": "youtube",
+    "url": "l155Det7u5A",
+    "title": "🧠 ofansif zeka",
+    "language": "Türkçe · otomatik altyazı",
+    "duration": 124,
+    "orientation": "portrait",
+    "publisher": "Hastalık Bu Futbol",
+    "publisherId": "UCOOHAPbOr0jBDwQEmlecS0A",
+    "poster": "https://i.ytimg.com/vi/l155Det7u5A/oardefault.jpg",
+    "captionLanguage": "tr",
+    "captionKind": "automatic",
+    "verifiedAt": "2026-09-26"
+   },
+   "sources": [
+    {
+     "label": "Hastalık Bu Futbol · 🧠 ofansif zeka",
+     "url": "https://www.youtube.com/watch?v=l155Det7u5A"
+    },
+    {
+     "label": "Hastalık Bu Futbol · kanal",
+     "url": "https://www.youtube.com/channel/UCOOHAPbOr0jBDwQEmlecS0A"
+    }
+   ],
+   "comments": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "reels-hayalindeki-sehri-animasyona-donustur",
+   "category": "Sanat",
+   "title": "Hayalindeki şehri animasyona dönüştür",
+   "subtitle": "İKSV'nin stop-motion atölyesinde katılımcılar şehirde yön bulma deneyimlerini animasyona dönüştürüyor.",
+   "account": "Atölyeden",
+   "handle": "atolyeden",
+   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+   "avatarCredit": {
+    "label": "Laitche",
+    "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+   },
+   "topic": "Stop-motion",
+   "layout": "poster",
+   "display": "video",
+   "format": "reel",
+   "minutes": 0.6,
+   "accent": "#9a4a3a",
+   "art": {
+    "kind": "photo",
+    "font": "DM Sans",
+    "paper": "#000000",
+    "ink": "#f2f0e7",
+    "align": "start",
+    "position": "bottom",
+    "label": "Kısa video"
+   },
+   "cover": {
+    "url": "https://i.ytimg.com/vi/FgrFlVEnQmI/oardefault.jpg",
+    "alt": "Hayalindeki şehri animasyona dönüştür — video önizlemesi",
+    "credit": "İstanbul Kültür Sanat Vakfı",
+    "source": "https://www.youtube.com/watch?v=FgrFlVEnQmI",
+    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+    "licenseUrl": "https://www.youtube.com/static?template=terms"
+   },
+   "slides": [
+    {
+     "title": "",
+     "text": "İKSV'nin stop-motion atölyesinde katılımcılar şehirde yön bulma deneyimlerini animasyona dönüştürüyor."
+    }
+   ],
+   "video": {
+    "kind": "youtube",
+    "url": "FgrFlVEnQmI",
+    "title": "Hayalindeki şehri bir animasyon filmine dönüştürmek ister miydin? 🌆",
+    "language": "Türkçe · otomatik altyazı",
+    "duration": 33,
+    "orientation": "portrait",
+    "publisher": "İstanbul Kültür Sanat Vakfı",
+    "publisherId": "UCifL1IuTFbjEoCFRTs-Zeyw",
+    "poster": "https://i.ytimg.com/vi/FgrFlVEnQmI/oardefault.jpg",
+    "captionLanguage": "tr",
+    "captionKind": "automatic",
+    "verifiedAt": "2026-09-26"
+   },
+   "sources": [
+    {
+     "label": "İstanbul Kültür Sanat Vakfı · Hayalindeki şehri bir animasyon filmine dönüştürmek ister miydin? 🌆",
+     "url": "https://www.youtube.com/watch?v=FgrFlVEnQmI"
+    },
+    {
+     "label": "İstanbul Kültür Sanat Vakfı · kanal",
+     "url": "https://www.youtube.com/channel/UCifL1IuTFbjEoCFRTs-Zeyw"
+    }
+   ],
+   "comments": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "reels-orman-yanginlarini-daha-baslamadan-onlemek",
+   "category": "Doğa",
+   "title": "Orman yangınlarını daha başlamadan önlemek",
+   "subtitle": "TEMA Vakfı, yangınları önlemek için herkesin yapabileceği basit şeyleri anlatıyor.",
+   "account": "Doğanın Notları",
+   "handle": "doganinnotlari",
+   "avatar": "https://images.unsplash.com/photo-1772171916445-905b8fcd65ee?auto=format&fit=crop&w=1200&q=85",
+   "avatarCredit": {
+    "label": "Samuel Quek / Unsplash",
+    "url": "https://unsplash.com/photos/sunlight-streams-through-tall-trees-in-a-forest-PbSETt1j5IA"
+   },
+   "topic": "Orman yangınları",
+   "layout": "poster",
+   "display": "video",
+   "format": "reel",
+   "minutes": 0.8,
+   "accent": "#2f7a4a",
+   "art": {
+    "kind": "photo",
+    "font": "DM Sans",
+    "paper": "#000000",
+    "ink": "#f2f0e7",
+    "align": "start",
+    "position": "bottom",
+    "label": "Kısa video"
+   },
+   "cover": {
+    "url": "https://i.ytimg.com/vi/J9rf86D_hJk/oardefault.jpg",
+    "alt": "Orman yangınlarını daha başlamadan önlemek — video önizlemesi",
+    "credit": "TEMA Vakfı",
+    "source": "https://www.youtube.com/watch?v=J9rf86D_hJk",
+    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+    "licenseUrl": "https://www.youtube.com/static?template=terms"
+   },
+   "slides": [
+    {
+     "title": "",
+     "text": "TEMA Vakfı, yangınları önlemek için herkesin yapabileceği basit şeyleri anlatıyor."
+    }
+   ],
+   "video": {
+    "kind": "youtube",
+    "url": "J9rf86D_hJk",
+    "title": "Geleceğimizi Yakma",
+    "language": "Türkçe · otomatik altyazı",
+    "duration": 48,
+    "orientation": "portrait",
+    "publisher": "TEMA Vakfı",
+    "publisherId": "UCw7Bwuqvv4nciPqEeW9z2Ew",
+    "poster": "https://i.ytimg.com/vi/J9rf86D_hJk/oardefault.jpg",
+    "captionLanguage": "tr",
+    "captionKind": "automatic",
+    "verifiedAt": "2026-09-26"
+   },
+   "sources": [
+    {
+     "label": "TEMA Vakfı · Geleceğimizi Yakma",
+     "url": "https://www.youtube.com/watch?v=J9rf86D_hJk"
+    },
+    {
+     "label": "TEMA Vakfı · kanal",
+     "url": "https://www.youtube.com/channel/UCw7Bwuqvv4nciPqEeW9z2Ew"
+    }
+   ],
+   "comments": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "reels-doga-parki-gibi-tasarlanan-hastane",
+   "category": "Sağlık",
+   "title": "Doğa parkı gibi tasarlanan hastane",
+   "subtitle": "Singapur'daki Khoo Teck Puat Hastanesi, yeşil alanlarla iyileşmeyi desteklemeyi amaçlıyor. Donanım Haber anlatıyor.",
+   "account": "Vücudun Hikâyesi",
+   "handle": "vucudunhikayesi",
+   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Deoroller.JPG/330px-Deoroller.JPG",
+   "avatarCredit": {
+    "label": "Joho345",
+    "url": "https://commons.wikimedia.org/wiki/File:Deoroller.JPG"
+   },
+   "topic": "İyileştiren mimari",
+   "layout": "poster",
+   "display": "video",
+   "format": "reel",
+   "minutes": 1.8,
+   "accent": "#a03f55",
+   "art": {
+    "kind": "photo",
+    "font": "DM Sans",
+    "paper": "#000000",
+    "ink": "#f2f0e7",
+    "align": "start",
+    "position": "bottom",
+    "label": "Kısa video"
+   },
+   "cover": {
+    "url": "https://i.ytimg.com/vi/K5uLrvUxPX8/oardefault.jpg",
+    "alt": "Doğa parkı gibi tasarlanan hastane — video önizlemesi",
+    "credit": "Donanım Haber",
+    "source": "https://www.youtube.com/watch?v=K5uLrvUxPX8",
+    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+    "licenseUrl": "https://www.youtube.com/static?template=terms"
+   },
+   "slides": [
+    {
+     "title": "",
+     "text": "Singapur'daki Khoo Teck Puat Hastanesi, yeşil alanlarla iyileşmeyi desteklemeyi amaçlıyor. Donanım Haber anlatıyor."
+    }
+   ],
+   "video": {
+    "kind": "youtube",
+    "url": "K5uLrvUxPX8",
+    "title": "🏥🌱Doğanın İyileştirici Teknolojisi",
+    "language": "Türkçe · otomatik altyazı",
+    "duration": 109,
+    "orientation": "portrait",
+    "publisher": "Donanım Haber",
+    "publisherId": "UCfIVTpOAjmeKmaiBd3rfwlA",
+    "poster": "https://i.ytimg.com/vi/K5uLrvUxPX8/oardefault.jpg",
+    "captionLanguage": "tr",
+    "captionKind": "automatic",
+    "verifiedAt": "2026-09-26"
+   },
+   "sources": [
+    {
+     "label": "Donanım Haber · 🏥🌱Doğanın İyileştirici Teknolojisi",
+     "url": "https://www.youtube.com/watch?v=K5uLrvUxPX8"
+    },
+    {
+     "label": "Donanım Haber · kanal",
+     "url": "https://www.youtube.com/channel/UCfIVTpOAjmeKmaiBd3rfwlA"
+    }
+   ],
+   "comments": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "reels-yolu-bilmek-ve-yolda-yurumek",
+   "category": "Felsefe",
+   "title": "Yolu bilmek ve yolda yürümek",
+   "subtitle": "Sinan Canan, bir şeyi bilmekle onu yaşamak arasındaki farkı anlatıyor. Öğrendiğini hayata taşımak üzerine.",
+   "account": "Bir Soru Daha",
+   "handle": "birsorudaha",
+   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/960px-ChessStartingPosition.jpg",
+   "avatarCredit": {
+    "label": "Bubba73 (talk) , Jud McCranie",
+    "url": "https://commons.wikimedia.org/wiki/File:ChessStartingPosition.jpg"
+   },
+   "topic": "Bilmek ve yapmak",
+   "layout": "poster",
+   "display": "video",
+   "format": "reel",
+   "minutes": 0.8,
+   "accent": "#5e4a8a",
+   "art": {
+    "kind": "photo",
+    "font": "DM Sans",
+    "paper": "#000000",
+    "ink": "#f2f0e7",
+    "align": "start",
+    "position": "bottom",
+    "label": "Kısa video"
+   },
+   "cover": {
+    "url": "https://i.ytimg.com/vi/idSsRHe-Ups/oardefault.jpg",
+    "alt": "Yolu bilmek ve yolda yürümek — video önizlemesi",
+    "credit": "Sinan Canan",
+    "source": "https://www.youtube.com/watch?v=idSsRHe-Ups",
+    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+    "licenseUrl": "https://www.youtube.com/static?template=terms"
+   },
+   "slides": [
+    {
+     "title": "",
+     "text": "Sinan Canan, bir şeyi bilmekle onu yaşamak arasındaki farkı anlatıyor. Öğrendiğini hayata taşımak üzerine."
+    }
+   ],
+   "video": {
+    "kind": "youtube",
+    "url": "idSsRHe-Ups",
+    "title": "“Yolu bilmek ve yolda yürümek farklı şeylerdir..” #sinancanan  #psikoloji  #açıkbeyin",
+    "language": "Türkçe · otomatik altyazı",
+    "duration": 45,
+    "orientation": "portrait",
+    "publisher": "Sinan Canan",
+    "publisherId": "UCGlsgo3lOkL5fkRg4XVkjdA",
+    "poster": "https://i.ytimg.com/vi/idSsRHe-Ups/oardefault.jpg",
+    "captionLanguage": "tr",
+    "captionKind": "automatic",
+    "verifiedAt": "2026-09-26"
+   },
+   "sources": [
+    {
+     "label": "Sinan Canan · “Yolu bilmek ve yolda yürümek farklı şeylerdir..” #sinancanan  #psikoloji  #açıkbeyin",
+     "url": "https://www.youtube.com/watch?v=idSsRHe-Ups"
+    },
+    {
+     "label": "Sinan Canan · kanal",
+     "url": "https://www.youtube.com/channel/UCGlsgo3lOkL5fkRg4XVkjdA"
+    }
+   ],
+   "comments": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "reels-insanlik-yararina-teknoloji-gelistiren-gencler",
+   "category": "Teknoloji",
+   "title": "İnsanlık yararına teknoloji geliştiren gençler",
+   "subtitle": "Yaşları küçük, fikirleri büyük yarışmacılarla tanışma. TEKNOFEST'ten.",
+   "account": "Nasıl Çalışır",
+   "handle": "nasilcalisir",
+   "avatar": "https://images.unsplash.com/photo-1602681248457-f1b71f782323?auto=format&fit=crop&w=1200&q=85",
+   "avatarCredit": {
+    "label": "Bao Menglong / Unsplash",
+    "url": "https://unsplash.com/photos/books-on-brown-wooden-shelf-fHKndElXyhE"
+   },
+   "topic": "Genç mucitler",
+   "layout": "poster",
+   "display": "video",
+   "format": "reel",
+   "minutes": 0.8,
+   "accent": "#35607a",
+   "art": {
+    "kind": "photo",
+    "font": "DM Sans",
+    "paper": "#000000",
+    "ink": "#f2f0e7",
+    "align": "start",
+    "position": "bottom",
+    "label": "Kısa video"
+   },
+   "cover": {
+    "url": "https://i.ytimg.com/vi/82DoVJ3o-Y4/oardefault.jpg",
+    "alt": "İnsanlık yararına teknoloji geliştiren gençler — video önizlemesi",
+    "credit": "TEKNOFEST",
+    "source": "https://www.youtube.com/watch?v=82DoVJ3o-Y4",
+    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+    "licenseUrl": "https://www.youtube.com/static?template=terms"
+   },
+   "slides": [
+    {
+     "title": "",
+     "text": "Yaşları küçük, fikirleri büyük yarışmacılarla tanışma. TEKNOFEST'ten."
+    }
+   ],
+   "video": {
+    "kind": "youtube",
+    "url": "82DoVJ3o-Y4",
+    "title": "Yaşları küçük, fikirleri kocaman! İnsanlık Yararına Teknolojiler Yarışması’nın gençleriyle tanışın.",
+    "language": "Türkçe · otomatik altyazı",
+    "duration": 45,
+    "orientation": "portrait",
+    "publisher": "TEKNOFEST",
+    "publisherId": "UCQrsBJS1Yb-UJ0VevqfSJHw",
+    "poster": "https://i.ytimg.com/vi/82DoVJ3o-Y4/oardefault.jpg",
+    "captionLanguage": "tr",
+    "captionKind": "automatic",
+    "verifiedAt": "2026-09-26"
+   },
+   "sources": [
+    {
+     "label": "TEKNOFEST · Yaşları küçük, fikirleri kocaman! İnsanlık Yararına Teknolojiler Yarışması’nın gençleriyle tanışın.",
+     "url": "https://www.youtube.com/watch?v=82DoVJ3o-Y4"
+    },
+    {
+     "label": "TEKNOFEST · kanal",
+     "url": "https://www.youtube.com/channel/UCQrsBJS1Yb-UJ0VevqfSJHw"
+    }
+   ],
+   "comments": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "reels-radyo-tiyatrolari-neden-hala-sevilir",
+   "category": "Sanat",
+   "title": "Radyo tiyatroları neden hâlâ sevilir?",
+   "subtitle": "Sesle kurulan dünyalar. TRT Dinle'den radyo tiyatrosu geleneğine kısa bir bakış.",
+   "account": "Atölyeden",
+   "handle": "atolyeden",
+   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+   "avatarCredit": {
+    "label": "Laitche",
+    "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+   },
+   "topic": "Radyo tiyatrosu",
+   "layout": "poster",
+   "display": "video",
+   "format": "reel",
+   "minutes": 0.8,
+   "accent": "#9a4a3a",
+   "art": {
+    "kind": "photo",
+    "font": "DM Sans",
+    "paper": "#000000",
+    "ink": "#f2f0e7",
+    "align": "start",
+    "position": "bottom",
+    "label": "Kısa video"
+   },
+   "cover": {
+    "url": "https://i.ytimg.com/vi/6RtwgG2eo_s/oardefault.jpg",
+    "alt": "Radyo tiyatroları neden hâlâ sevilir? — video önizlemesi",
+    "credit": "TRT Dinle",
+    "source": "https://www.youtube.com/watch?v=6RtwgG2eo_s",
+    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+    "licenseUrl": "https://www.youtube.com/static?template=terms"
+   },
+   "slides": [
+    {
+     "title": "",
+     "text": "Sesle kurulan dünyalar. TRT Dinle'den radyo tiyatrosu geleneğine kısa bir bakış."
+    }
+   ],
+   "video": {
+    "kind": "youtube",
+    "url": "6RtwgG2eo_s",
+    "title": "Tiyatro tutkunlarının kalbinde özel bir yer edinen radyo tiyatroları TRT Dinle’de.🎭",
+    "language": "Türkçe · otomatik altyazı",
+    "duration": 47,
+    "orientation": "portrait",
+    "publisher": "TRT Dinle",
+    "publisherId": "UCJdaY9KKq1F3pUxAvoY_rfA",
+    "poster": "https://i.ytimg.com/vi/6RtwgG2eo_s/oardefault.jpg",
+    "captionLanguage": "tr",
+    "captionKind": "automatic",
+    "verifiedAt": "2026-09-26"
+   },
+   "sources": [
+    {
+     "label": "TRT Dinle · Tiyatro tutkunlarının kalbinde özel bir yer edinen radyo tiyatroları TRT Dinle’de.🎭",
+     "url": "https://www.youtube.com/watch?v=6RtwgG2eo_s"
+    },
+    {
+     "label": "TRT Dinle · kanal",
+     "url": "https://www.youtube.com/channel/UCJdaY9KKq1F3pUxAvoY_rfA"
+    }
+   ],
+   "comments": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "reels-stephen-hawking-in-zaman-yolcularina-partisi",
+   "category": "Bilim",
+   "title": "Stephen Hawking'in zaman yolcularına partisi",
+   "subtitle": "Davetiyeleri parti bittikten sonra gönderilen ünlü deney. Entelgraf anlatıyor.",
+   "account": "Bilimin İçinden",
+   "handle": "bilimini̇cinden",
+   "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
+   "avatarCredit": {
+    "label": "SHTTEFAN / Unsplash",
+    "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
+   },
+   "topic": "Zaman yolculuğu",
+   "layout": "poster",
+   "display": "video",
+   "format": "reel",
+   "minutes": 0.9,
+   "accent": "#2f6f8f",
+   "art": {
+    "kind": "photo",
+    "font": "DM Sans",
+    "paper": "#000000",
+    "ink": "#f2f0e7",
+    "align": "start",
+    "position": "bottom",
+    "label": "Kısa video"
+   },
+   "cover": {
+    "url": "https://i.ytimg.com/vi/dtkLHeNFwz8/oardefault.jpg",
+    "alt": "Stephen Hawking'in zaman yolcularına partisi — video önizlemesi",
+    "credit": "Entelgraf",
+    "source": "https://www.youtube.com/watch?v=dtkLHeNFwz8",
+    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+    "licenseUrl": "https://www.youtube.com/static?template=terms"
+   },
+   "slides": [
+    {
+     "title": "",
+     "text": "Davetiyeleri parti bittikten sonra gönderilen ünlü deney. Entelgraf anlatıyor."
+    }
+   ],
+   "video": {
+    "kind": "youtube",
+    "url": "dtkLHeNFwz8",
+    "title": "Zamanda Yolculuk Mümkün mü? - Stephan Hawking’in İlginç Partisi",
+    "language": "Türkçe · otomatik altyazı",
+    "duration": 56,
+    "orientation": "portrait",
+    "publisher": "Entelgraf",
+    "publisherId": "UCvS56KjEoc9huv4mNB3AGaQ",
+    "poster": "https://i.ytimg.com/vi/dtkLHeNFwz8/oardefault.jpg",
+    "captionLanguage": "tr",
+    "captionKind": "automatic",
+    "verifiedAt": "2026-09-26"
+   },
+   "sources": [
+    {
+     "label": "Entelgraf · Zamanda Yolculuk Mümkün mü? - Stephan Hawking’in İlginç Partisi",
+     "url": "https://www.youtube.com/watch?v=dtkLHeNFwz8"
+    },
+    {
+     "label": "Entelgraf · kanal",
+     "url": "https://www.youtube.com/channel/UCvS56KjEoc9huv4mNB3AGaQ"
+    }
+   ],
+   "comments": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "reels-ekipman-sesi-sandigin-kadar-belirliyor-mu",
+   "category": "Sanat",
+   "title": "Ekipman sesi sandığın kadar belirliyor mu?",
+   "subtitle": "Deniz Sayman'a göre güzel sesin sırrı pahalı ekipmandan çok ellerde.",
+   "account": "Atölyeden",
+   "handle": "atolyeden",
+   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+   "avatarCredit": {
+    "label": "Laitche",
+    "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+   },
+   "topic": "Gitar sesi",
+   "layout": "poster",
+   "display": "video",
+   "format": "reel",
+   "minutes": 0.5,
+   "accent": "#9a4a3a",
+   "art": {
+    "kind": "photo",
+    "font": "DM Sans",
+    "paper": "#000000",
+    "ink": "#f2f0e7",
+    "align": "start",
+    "position": "bottom",
+    "label": "Kısa video"
+   },
+   "cover": {
+    "url": "https://i.ytimg.com/vi/fAXXhJOddfc/oardefault.jpg",
+    "alt": "Ekipman sesi sandığın kadar belirliyor mu? — video önizlemesi",
+    "credit": "Deniz Sayman",
+    "source": "https://www.youtube.com/watch?v=fAXXhJOddfc",
+    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+    "licenseUrl": "https://www.youtube.com/static?template=terms"
+   },
+   "slides": [
+    {
+     "title": "",
+     "text": "Deniz Sayman'a göre güzel sesin sırrı pahalı ekipmandan çok ellerde."
+    }
+   ],
+   "video": {
+    "kind": "youtube",
+    "url": "fAXXhJOddfc",
+    "title": "Gitar ekipmanınızın, çıkan sese düşündüğünüz kadar etkisi yok",
+    "language": "Türkçe · otomatik altyazı",
+    "duration": 29,
+    "orientation": "portrait",
+    "publisher": "Deniz Sayman",
+    "publisherId": "UCzb4ZTp-BtNdkfeU4qJSF8g",
+    "poster": "https://i.ytimg.com/vi/fAXXhJOddfc/oardefault.jpg",
+    "captionLanguage": "tr",
+    "captionKind": "automatic",
+    "verifiedAt": "2026-09-26"
+   },
+   "sources": [
+    {
+     "label": "Deniz Sayman · Gitar ekipmanınızın, çıkan sese düşündüğünüz kadar etkisi yok",
+     "url": "https://www.youtube.com/watch?v=fAXXhJOddfc"
+    },
+    {
+     "label": "Deniz Sayman · kanal",
+     "url": "https://www.youtube.com/channel/UCzb4ZTp-BtNdkfeU4qJSF8g"
+    }
+   ],
+   "comments": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "reels-bu-tabloda-bir-bulmaca-sakli",
+   "category": "Sanat",
+   "title": "Bu tabloda bir bulmaca saklı",
+   "subtitle": "Resimlerdeki gizli ayrıntıları okumak. Portal anlatıyor.",
+   "account": "Atölyeden",
+   "handle": "atolyeden",
+   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+   "avatarCredit": {
+    "label": "Laitche",
+    "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+   },
+   "topic": "Gizli ayrıntılar",
+   "layout": "poster",
+   "display": "video",
+   "format": "reel",
+   "minutes": 0.5,
+   "accent": "#9a4a3a",
+   "art": {
+    "kind": "photo",
+    "font": "DM Sans",
+    "paper": "#000000",
+    "ink": "#f2f0e7",
+    "align": "start",
+    "position": "bottom",
+    "label": "Kısa video"
+   },
+   "cover": {
+    "url": "https://i.ytimg.com/vi/FJw-QZMsJrQ/oardefault.jpg",
+    "alt": "Bu tabloda bir bulmaca saklı — video önizlemesi",
+    "credit": "Portal",
+    "source": "https://www.youtube.com/watch?v=FJw-QZMsJrQ",
+    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+    "licenseUrl": "https://www.youtube.com/static?template=terms"
+   },
+   "slides": [
+    {
+     "title": "",
+     "text": "Resimlerdeki gizli ayrıntıları okumak. Portal anlatıyor."
+    }
+   ],
+   "video": {
+    "kind": "youtube",
+    "url": "FJw-QZMsJrQ",
+    "title": "Bu Resimde Bulmaca Saklı",
+    "language": "Türkçe · otomatik altyazı",
+    "duration": 32,
+    "orientation": "portrait",
+    "publisher": "Portal",
+    "publisherId": "UCpfg5f3R5uqQM6Q2dI2KU2A",
+    "poster": "https://i.ytimg.com/vi/FJw-QZMsJrQ/oardefault.jpg",
+    "captionLanguage": "tr",
+    "captionKind": "automatic",
+    "verifiedAt": "2026-09-26"
+   },
+   "sources": [
+    {
+     "label": "Portal · Bu Resimde Bulmaca Saklı",
+     "url": "https://www.youtube.com/watch?v=FJw-QZMsJrQ"
+    },
+    {
+     "label": "Portal · kanal",
+     "url": "https://www.youtube.com/channel/UCpfg5f3R5uqQM6Q2dI2KU2A"
+    }
+   ],
+   "comments": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "reels-sarkilarda-ses-efektleri-neden-kullanilir",
+   "category": "Sanat",
+   "title": "Şarkılarda ses efektleri neden kullanılır?",
+   "subtitle": "Bazı vokaller işlenir, bazıları doğal bırakılır. Emre Yücelen bunun nedenlerini anlatıyor.",
+   "account": "Atölyeden",
+   "handle": "atolyeden",
+   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+   "avatarCredit": {
+    "label": "Laitche",
+    "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+   },
+   "topic": "Ses efektleri",
+   "layout": "poster",
+   "display": "video",
+   "format": "reel",
+   "minutes": 0.8,
+   "accent": "#9a4a3a",
+   "art": {
+    "kind": "photo",
+    "font": "DM Sans",
+    "paper": "#000000",
+    "ink": "#f2f0e7",
+    "align": "start",
+    "position": "bottom",
+    "label": "Kısa video"
+   },
+   "cover": {
+    "url": "https://i.ytimg.com/vi/TFGkvrubf3c/sddefault.jpg",
+    "alt": "Şarkılarda ses efektleri neden kullanılır? — video önizlemesi",
+    "credit": "Emre Yücelen Şan Dersi",
+    "source": "https://www.youtube.com/watch?v=TFGkvrubf3c",
+    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+    "licenseUrl": "https://www.youtube.com/static?template=terms"
+   },
+   "slides": [
+    {
+     "title": "",
+     "text": "Bazı vokaller işlenir, bazıları doğal bırakılır. Emre Yücelen bunun nedenlerini anlatıyor."
+    }
+   ],
+   "video": {
+    "kind": "youtube",
+    "url": "TFGkvrubf3c",
+    "title": "Şarkılarda Ses Efektleri: Hangi Şarkıda Neden Kullanılmış? #shorts",
+    "language": "Türkçe · otomatik altyazı",
+    "duration": 47,
+    "orientation": "portrait",
+    "publisher": "Emre Yücelen Şan Dersi",
+    "publisherId": "UCffjxhLW1_Ol1EQTE5-VQ1Q",
+    "poster": "https://i.ytimg.com/vi/TFGkvrubf3c/sddefault.jpg",
+    "posterKind": "pillarbox",
+    "captionLanguage": "tr",
+    "captionKind": "automatic",
+    "verifiedAt": "2026-09-26"
+   },
+   "sources": [
+    {
+     "label": "Emre Yücelen Şan Dersi · Şarkılarda Ses Efektleri: Hangi Şarkıda Neden Kullanılmış? #shorts",
+     "url": "https://www.youtube.com/watch?v=TFGkvrubf3c"
+    },
+    {
+     "label": "Emre Yücelen Şan Dersi · kanal",
+     "url": "https://www.youtube.com/channel/UCffjxhLW1_Ol1EQTE5-VQ1Q"
     }
    ],
    "comments": [],

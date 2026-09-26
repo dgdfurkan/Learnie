@@ -119,3 +119,23 @@ test('WebKit: resuming before unlock goes muted so the video never stays stuck p
  p.muted=false;e.muted=false;calls.length=0;
  e.togglePause();assert.deepEqual(calls,['mute','play']);
 });
+
+test('preloaded videos buffer muted in the background and start from the top instantly',()=>{
+ const {p,e,calls}=harness();p.seekTo=function(s){calls.push(`seek:${s}`);this.time=s;};
+ e.preload('next');assert.deepEqual(calls.slice(-2),['mute','load:next:0']);assert.equal(e.active,false);
+ p.state=PLAYING;e.stateChanged(PLAYING);assert.equal(calls.at(-1),'pause','buffering play is stopped at once');
+ calls.length=0;e.select('next',true);
+ assert.deepEqual(calls,['seek:0','unmute','play']);assert.equal(calls.filter(c=>c.startsWith('load')).length,0);
+});
+
+test('asking for a tap cues the video so the frame shows a play button',()=>{
+ const {p,e,calls}=harness();p.cueVideoById=function({videoId,startSeconds}){calls.push(`cue:${videoId}:${startSeconds}`);};
+ e.select('c',true);p.state=PLAYING;e.stateChanged(PLAYING);p.time=7;
+ e.askForTap('sound');assert.ok(calls.includes('cue:c:7'));assert.equal(e.needsTap,true);
+});
+
+test('playback rate changes and resets on the next video',()=>{
+ const {p,e}=harness();const rates=[];p.setPlaybackRate=r=>rates.push(r);p.getAvailablePlaybackRates=()=>[.5,1,1.5,2];
+ e.select('r',true);e.setRate(2);assert.deepEqual(e.rates(),[.5,1,1.5,2]);
+ e.select('s',true);assert.deepEqual(rates,[2,1]);
+});

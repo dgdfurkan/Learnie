@@ -5,7 +5,7 @@ import type {Post,UserState} from './types';
 export const BASE=import.meta.env.BASE_URL as string;
 const db=new Dexie('learnie-local-v1') as Dexie & {state:Table<{key:string;value:UserState}>};
 db.version(1).stores({state:'key'});
-export const emptyState:UserState={following:[],collections:[],read:[],liked:[],saved:[],seen:[],storySeen:[],answers:{},comments:{},name:'Meraklı',simulation:true,activity:{},goal:10,recalled:[]};
+export const emptyState:UserState={following:[],collections:[],read:[],liked:[],saved:[],seen:[],storySeen:[],answers:{},comments:{},name:'Meraklı',simulation:true,activity:{},goal:10,recalled:[],username:'',hiddenPosts:[],hiddenChannels:[]};
 export async function loadState():Promise<UserState>{try {const row=await db.state.get('user'); const state={...emptyState,...row?.value};return {...state,following:normalizeFollowing(state.following),collections:normalizeCollections(state.collections,state.saved)};}catch{return {...emptyState};}}
 let saveQueue=Promise.resolve();
 export function saveState(value:UserState){saveQueue=saveQueue.catch(()=>{}).then(()=>db.state.put({key:'user',value})).then(()=>{});return saveQueue;}
@@ -35,5 +35,8 @@ export function parseBackup(raw:string):UserState {
  if(s.read!==undefined&&(!Array.isArray(s.read)||!s.read.every((x:unknown)=>typeof x==='string')))throw new Error('Okuma verisi geçersiz.');
  const activity:Record<string,number>={};if(s.activity&&typeof s.activity==='object'&&!Array.isArray(s.activity))for(const [k,v] of Object.entries(s.activity))if(/^\d{4}-\d{2}-\d{2}$/.test(k)&&Number.isInteger(v)&&Number(v)>=0&&Number(v)<100000)activity[k]=Number(v);
  const recalled=Array.isArray(s.recalled)?s.recalled.filter((x:unknown)=>typeof x==='string'):[];
- return {following:normalizeFollowing(s.following),collections:normalizeCollections(s.collections,s.saved),read:s.read||[],liked:s.liked,saved:s.saved,seen:s.seen,storySeen:s.storySeen,answers:s.answers,comments:s.comments,name:s.name,simulation:s.simulation,activity,goal:[5,10,20].includes(s.goal)?s.goal:10,recalled};
+ const username=typeof s.username==='string'?s.username.replace(/[^a-z0-9._]/g,'').slice(0,30):'';
+ const hiddenPosts=Array.isArray(s.hiddenPosts)?s.hiddenPosts.filter((x:unknown)=>typeof x==='string'):[];
+ const hiddenChannels=Array.isArray(s.hiddenChannels)?s.hiddenChannels.filter((c:{id?:unknown;name?:unknown})=>c&&typeof c.id==='string'&&typeof c.name==='string').map((c:{id:string;name:string})=>({id:c.id,name:c.name.slice(0,120)})):[];
+ return {following:normalizeFollowing(s.following),collections:normalizeCollections(s.collections,s.saved),read:s.read||[],liked:s.liked,saved:s.saved,seen:s.seen,storySeen:s.storySeen,answers:s.answers,comments:s.comments,name:s.name,simulation:s.simulation,activity,goal:[5,10,20].includes(s.goal)?s.goal:10,recalled,username,hiddenPosts,hiddenChannels};
 }

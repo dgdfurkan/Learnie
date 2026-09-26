@@ -368,7 +368,7 @@
         "position": "bottom"
       },
       "cover": {
-        "url": "https://i.ytimg.com/vi/sI8NsYIyQ2A/hqdefault.jpg",
+        "url": "https://i.ytimg.com/vi/sI8NsYIyQ2A/sddefault.jpg",
         "alt": "Kedi yine evin içinde yarışa başladı. video önizlemesi",
         "credit": "TED-Ed · Tony Buffington",
         "source": "https://ed.ted.com/lessons/why-do-cats-act-so-weird-tony-buffington",
@@ -380,7 +380,9 @@
         "url": "sI8NsYIyQ2A",
         "title": "Kedi yine evin içinde yarışa başladı.",
         "duration": 298,
-        "language": "İngilizce · Türkçe altyazı mevcut"
+        "language": "İngilizce · Türkçe altyazı mevcut",
+        "poster": "https://i.ytimg.com/vi/sI8NsYIyQ2A/sddefault.jpg",
+        "posterKind": "pillarbox"
       }
     },
     {
@@ -429,7 +431,7 @@
         "position": "bottom"
       },
       "cover": {
-        "url": "https://i.ytimg.com/vi/2tM1LFFxeKg/hqdefault.jpg",
+        "url": "https://i.ytimg.com/vi/2tM1LFFxeKg/sddefault.jpg",
         "alt": "Bir kas büyürken içeride ne oluyor? video önizlemesi",
         "credit": "TED-Ed · Jeffrey Siegel",
         "source": "https://ed.ted.com/lessons/what-makes-muscles-grow-jeffrey-siegel",
@@ -441,7 +443,9 @@
         "url": "2tM1LFFxeKg",
         "title": "Bir kas büyürken içeride ne oluyor?",
         "duration": 260,
-        "language": "İngilizce · Türkçe altyazı mevcut"
+        "language": "İngilizce · Türkçe altyazı mevcut",
+        "poster": "https://i.ytimg.com/vi/2tM1LFFxeKg/sddefault.jpg",
+        "posterKind": "pillarbox"
       }
     },
     {
@@ -485,7 +489,7 @@
         "position": "bottom"
       },
       "cover": {
-        "url": "https://i.ytimg.com/vi/nBN3jheTBG0/hqdefault.jpg",
+        "url": "https://i.ytimg.com/vi/nBN3jheTBG0/sddefault.jpg",
         "alt": "Gündüzün ortasında Güneş nereye gitti? video önizlemesi",
         "credit": "NASA Space Place",
         "source": "https://science.nasa.gov/resource/what-is-a-solar-eclipse/",
@@ -497,7 +501,9 @@
         "url": "nBN3jheTBG0",
         "title": "Gündüzün ortasında Güneş nereye gitti?",
         "duration": 131,
-        "language": "İngilizce"
+        "language": "İngilizce",
+        "poster": "https://i.ytimg.com/vi/nBN3jheTBG0/sddefault.jpg",
+        "posterKind": "pillarbox"
       }
     }
   ]

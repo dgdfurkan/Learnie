@@ -288,3 +288,57 @@ img[loading=lazy]{transition:opacity .35s}
 .reels-root .reel-tap-hint>span{display:none}
 .reels-root .reel-tap-hint strong{font-size:14.5px}
 .inline-hint{top:14px;left:14px;right:56px;transform:none;white-space:normal;border-radius:12px;font-size:12.5px}
+
+/* ---------- Round 4 ---------- */
+/* Feed: when a tap must reach the YouTube frame, nothing of ours may sit on top of it. */
+.inline-controls.is-passthrough{pointer-events:none}
+.inline-controls.is-passthrough :is(.inline-button){pointer-events:auto}
+/* Play/pause feedback: half a second, then gone. */
+.reel-center-icon.is-pop{animation:learnie-popfade .5s var(--ease-out) forwards!important}
+.inline-center{animation:learnie-popfade .5s var(--ease-out) forwards!important}
+/* Clean mode: only what the user chose in settings is hidden. */
+.reels-root[data-clean] :is(.reel-actions,.reel-meta,.reel-shade,.reels-back,.reels-title,.reels-extra,.reel-sound-pill,.reel-scrubber){opacity:1;pointer-events:auto!important}
+.reels-root[data-clean] .reel-meta{pointer-events:none!important}
+.reels-root[data-clean] .reel-meta>*{pointer-events:auto}
+.reels-root[data-clean] .reel-shade{pointer-events:none!important}
+.reels-root[data-clean].hide-header .part-header,.reels-root[data-clean].hide-sound .part-sound,.reels-root[data-clean].hide-captions .part-captions,.reels-root[data-clean].hide-like .part-like,.reels-root[data-clean].hide-comment .part-comment,.reels-root[data-clean].hide-share .part-share,.reels-root[data-clean].hide-save .part-save,.reels-root[data-clean].hide-note .part-note,.reels-root[data-clean].hide-more .part-more,.reels-root[data-clean].hide-account .part-account,.reels-root[data-clean].hide-title .part-title,.reels-root[data-clean].hide-caption .part-caption,.reels-root[data-clean].hide-source .part-source,.reels-root[data-clean].hide-progress .part-progress,.reels-root[data-clean].hide-shade .part-shade{opacity:0!important;pointer-events:none!important}
+.reels-root .part-header,.reels-root .part-sound,.reels-root .part-captions,.reels-root [class*=part-]{transition:opacity .2s}
+.reels-root .reel-meta.is-open{background:none}
+/* Scrubber knob */
+.reel-scrubber{height:40px}
+.reel-scrub-line{position:relative}
+.reel-scrub-line i{position:absolute;top:50%;left:0;width:14px;height:14px;margin:-7px 0 0 -7px;border-radius:50%;background:#fff;box-shadow:0 1px 6px #0008;transform:scale(0);transition:transform .15s}
+.reel-scrubber:hover .reel-scrub-line i,.reel-scrubber.is-dragging .reel-scrub-line i{transform:scale(1)}
+/* Speed (press and hold) */
+.reel-speed{position:absolute;z-index:6;top:calc(64px + env(safe-area-inset-top));left:50%;transform:translateX(-50%);display:flex;flex-direction:column;align-items:center;gap:2px;padding:8px 16px;border-radius:14px;background:#000b;backdrop-filter:blur(10px);color:#fff;pointer-events:none;animation:learnie-fadein .15s}
+.reel-speed strong{font-size:18px;font-variant-numeric:tabular-nums}
+.reel-speed small{font-size:11px;opacity:.75}
+/* Post menu */
+.post-menu{display:grid;padding:6px 8px 12px}
+.post-menu button{display:flex;align-items:center;gap:14px;padding:14px 12px;border-radius:12px;text-align:left;color:var(--text);width:100%}
+.post-menu button:hover{background:var(--surface-2)}
+.post-menu button span{display:grid;gap:2px}
+.post-menu strong{font-size:15px;font-weight:600}
+.post-menu small{font-size:12.5px;color:var(--muted-text)}
+.post-menu button:first-child svg,.post-menu button:nth-child(2) svg{color:#e0484f}
+.toast-action{margin-left:10px;font-weight:700;text-decoration:underline;color:inherit}
+/* Settings */
+.simple-settings h3{font-size:14px;margin:14px 0 4px}
+.setting-help{font-size:12.5px;color:var(--muted-text);margin:0 0 10px}
+.chip-grid{display:flex;flex-wrap:wrap;gap:8px;padding:0 0 16px}
+.chip-grid button{display:inline-flex;align-items:center;gap:5px;padding:8px 12px;border-radius:999px;border:1px solid var(--border);font-size:13px;color:var(--text);background:var(--surface)}
+.chip-grid button[aria-pressed=true]{background:var(--text);color:var(--canvas,#fff);border-color:var(--text)}
+.hidden-settings .setting-line span{display:grid;gap:2px;flex:1;min-width:0}
+.hidden-settings .setting-line small{font-size:11.5px;color:var(--muted-text)}
+.hidden-settings .setting-line button{display:inline-flex;align-items:center;gap:5px;font-size:13px;font-weight:600;color:var(--accent);flex-shrink:0}
+.username-input{display:flex;align-items:center;gap:1px;flex:1;justify-content:flex-end;min-width:0}
+.username-input b{color:var(--muted-text);font-weight:500}
+.username-input input{max-width:180px!important}
+.profile-head{display:flex;align-items:center;gap:18px;padding:26px 0 22px}
+.profile-head h1{font-size:22px;margin:0;letter-spacing:-.3px}
+.profile-head p{margin:3px 0 0;color:var(--muted-text);font-size:14px}
+.profile-avatar{width:76px;height:76px;border-radius:50%;display:grid;place-items:center;font-size:30px;font-weight:700;color:#fff;background:linear-gradient(135deg,#f9ce34,#ee2a7b,#6228d7);flex-shrink:0;box-shadow:0 0 0 3px var(--canvas),0 0 0 5px var(--border)}
+@media(max-width:700px){.profile-head{padding:22px 16px 18px}}
+/* Pillarboxed YouTube frames: crop to the vertical video inside, whatever the box shape. */
+.poster-pillar{display:block;overflow:hidden;container-type:size;background:#000}
+.poster-pillar-img{position:absolute;left:50%;top:50%;height:max(100cqh,calc(100cqw * 16 / 9));width:auto;aspect-ratio:4/3;max-width:none;object-fit:fill;transform:translate(-50%,-50%)}

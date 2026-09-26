@@ -7,7 +7,7 @@ import {usePreferences} from './Preferences';
 import type {Post} from './types';
 
 type Video=NonNullable<Post['video']>;
-type Adapter={playVideo:()=>void;pauseVideo:()=>void;loadVideoById:(v:{videoId:string;startSeconds:number})=>void;mute:()=>void;unMute:()=>void;isMuted:()=>boolean;setVolume:(v:number)=>void;getPlayerState:()=>number;getCurrentTime:()=>number;getDuration:()=>number;getVideoUrl:()=>string;seekTo:(s:number,a:boolean)=>void};
+type Adapter={cueVideoById?:(v:{videoId:string;startSeconds:number})=>void;setPlaybackRate?:(r:number)=>void;getAvailablePlaybackRates?:()=>number[];playVideo:()=>void;pauseVideo:()=>void;loadVideoById:(v:{videoId:string;startSeconds:number})=>void;mute:()=>void;unMute:()=>void;isMuted:()=>boolean;setVolume:(v:number)=>void;getPlayerState:()=>number;getCurrentTime:()=>number;getDuration:()=>number;getVideoUrl:()=>string;seekTo:(s:number,a:boolean)=>void};
 type YTPlayer=Adapter&{getIframe:()=>HTMLIFrameElement;destroy:()=>void;loadModule?:(m:string)=>void;unloadModule?:(m:string)=>void;getOption?:(m:string,o:string)=>unknown;setOption?:(m:string,o:string,v:unknown)=>void};
 type YouTubeApi={Player:new(host:HTMLElement,options:Record<string,unknown>)=>YTPlayer};
 declare global{interface Window{YT?:YouTubeApi;onYouTubeIframeAPIReady?:()=>void;}}
@@ -48,36 +48,79 @@ function strictAutoplay(){const ua=navigator.userAgent;return /iP(hone|ad|od)/.t
 export type StageMode='hidden'|'reels'|'inline';
 export type StageState={mode:StageMode;id:string;active:boolean;status:string;error:string;muted:boolean;wantSound:boolean;needsTap:boolean;tapReason:string;held:boolean;unlocked:boolean;orientation:'portrait'|'landscape';inlinePost:Post|null;captions:boolean};
 type Slot={el:HTMLElement;post:Post;onExpand:()=>void};
+type Player={host:HTMLDivElement;yt:YTPlayer|null;ready:boolean;creating:boolean;engine:PlaybackEngine;used:number;queued:(()=>void)|null;file?:boolean};
+
+/** Current video plus up to three buffered neighbours (next two, previous one). */
+const POOL=4;
 
 /**
- * The single player for the whole app. It lives in one DOM node for the whole
- * session (moving an iframe would reload it and lose the iOS sound unlock) and
- * is either full screen under Reels, laid over the feed card that is most in
- * view, or hidden.
+ * The players for the whole app. They live for the whole session (moving an
+ * iframe would reload it and lose the iOS sound unlock). One is in front and
+ * shown full screen under Reels or laid over a feed card; the others silently
+ * buffer the neighbouring reels so a swipe starts instantly.
  */
 class Stage {
- state:StageState;listeners=new Set<()=>void>();engine:PlaybackEngine;
- host:HTMLDivElement|null=null;column:HTMLDivElement|null=null;ytHost:HTMLDivElement|null=null;fileEl:HTMLVideoElement|null=null;
- yt:YTPlayer|null=null;ytReady=false;creating=false;file:Adapter|null=null;
+ state:StageState;listeners=new Set<()=>void>();
+ host:HTMLDivElement|null=null;column:HTMLDivElement|null=null;frame:HTMLDivElement|null=null;fileEl:HTMLVideoElement|null=null;
+ players:Player[]=[];current:Player|null=null;filePlayer:Player|null=null;solo:Player|null=null;clock=0;wanted=new Set<string>();
+ strict=strictAutoplay();wantSound:boolean;
  requested:{video:Video;active:boolean}|null=null;timer=0;onSoundPreference:(muted:boolean)=>void;
- reels=false;inlineAllowed=false;slots=new Map<symbol,Slot>();inlineKey:symbol|null=null;frame=0;captionsFor='';
+ reels=false;inlineAllowed=false;slots=new Map<symbol,Slot>();inlineKey:symbol|null=null;raf=0;captionsFor='';
  constructor(wantSound:boolean,captions:boolean,onSoundPreference:(muted:boolean)=>void){
-  this.onSoundPreference=onSoundPreference;
-  this.engine=new PlaybackEngine(idle,{wantSound,mutedUntilUnlocked:strictAutoplay(),onChange:s=>this.set(s),onSoundPreference:m=>this.onSoundPreference(m)});
-  this.state={...this.engine.snapshot(),mode:'hidden',orientation:'portrait',inlinePost:null,captions};
+  this.onSoundPreference=onSoundPreference;this.wantSound=wantSound;
+  this.state={id:'',active:false,status:'idle',error:'',muted:!wantSound,wantSound,needsTap:false,tapReason:'',held:false,unlocked:false,mode:'hidden',orientation:'portrait',inlinePost:null,captions};
  }
+ get engine(){return this.current?.engine;}
  set(patch:Partial<StageState>){
   this.state={...this.state,...patch};this.listeners.forEach(fn=>fn());
   if(this.state.status==='playing'&&this.captionsFor!==this.state.id){this.captionsFor=this.state.id;this.applyCaptions();setTimeout(()=>this.applyCaptions(),900);}
  }
  subscribe=(fn:()=>void)=>{this.listeners.add(fn);return()=>{this.listeners.delete(fn);};};
  getSnapshot=()=>this.state;
- attach(host:HTMLDivElement|null,column:HTMLDivElement|null,ytHost:HTMLDivElement|null,fileEl:HTMLVideoElement|null){this.host=host;this.column=column;this.ytHost=ytHost;this.fileEl=fileEl;}
+ attach(host:HTMLDivElement|null,column:HTMLDivElement|null,frame:HTMLDivElement|null,fileEl:HTMLVideoElement|null){this.host=host;this.column=column;this.frame=frame;this.fileEl=fileEl;}
+
+ private newEngine(player:()=>Player){
+  return new PlaybackEngine(idle,{wantSound:this.wantSound,mutedUntilUnlocked:this.strict,onSoundPreference:m=>this.onSoundPreference(m),onChange:s=>{
+   const p=player();if(s.unlocked&&this.strict&&!this.solo&&!p.file)this.solo=p;
+   if(p===this.current)this.set(s);
+  }});
+ }
+ private createPlayer(){
+  const host=document.createElement('div');host.className='video-stage-youtube';this.frame?.appendChild(host);
+  const p:Player={host,yt:null,ready:false,creating:false,used:0,queued:null,engine:null as unknown as PlaybackEngine};
+  p.engine=this.newEngine(()=>p);this.players.push(p);return p;
+ }
+ private boot(p:Player){
+  if(p.creating||p.ready)return;p.creating=true;
+  loadApi().then(api=>{
+   const mount=document.createElement('div');p.host.replaceChildren(mount);
+   // On WebKit the player must be muted from the first frame, or iOS refuses to autoplay it.
+   const vars={...youtubeOptions(location.origin),cc_load_policy:this.state.captions?1:0,...(this.strict&&!this.solo?{mute:1}:{})};
+   const yt=new api.Player(mount,{host:'https://www.youtube-nocookie.com',width:'100%',height:'100%',playerVars:vars,events:{
+    onReady:()=>{p.yt=yt;p.ready=true;p.engine.player=yt;try{yt.getIframe().setAttribute('title','Learnie video oynatıcısı');}catch{}const q=p.queued;p.queued=null;q?.();},
+    onStateChange:(e:{data:number})=>p.engine.stateChanged(e.data),
+    onApiChange:()=>{if(p===this.current)this.applyCaptions();},
+    onAutoplayBlocked:()=>p.engine.blocked(),
+    onError:(e:{data:number})=>p.engine.fail(e.data===101||e.data===150?'Yayıncı bu videonun başka sitelerde oynatılmasına şu an izin vermiyor.':'Bu video şu an açılamıyor.')
+   }});
+  }).catch(()=>{p.creating=false;if(p===this.current)this.set({status:'error',error:'YouTube oynatıcısına bağlanılamadı. Bağlantını kontrol edebilirsin.'});});
+ }
+ private run(p:Player,action:()=>void){if(p.ready||p.file)action();else{p.queued=action;this.boot(p);}}
+ /** A player for this video: the one already holding it, else the least recently used free one. */
+ private pick(url:string,forPreload=false){
+  if(this.solo&&!forPreload)return this.solo;
+  const holder=this.players.find(p=>p.engine.id===url);if(holder)return holder;
+  const free=this.players.filter(p=>p!==this.current&&p!==this.solo&&!(forPreload&&this.wanted.has(p.engine.id)&&p.engine.id!==url)).sort((a,b)=>a.used-b.used);
+  if(this.players.length<POOL&&(forPreload||!free.length||free[0].engine.id))return this.createPlayer();
+  if(!forPreload){const spare=free.find(p=>!this.wanted.has(p.engine.id))||free[0];if(spare)return spare;}
+  return free[0]||null;
+ }
+ private front(p:Player){for(const x of this.players)x.host.style.zIndex=x===p?'2':'1';if(this.fileEl)this.fileEl.style.zIndex=p.file?'3':'0';}
 
  private setMode(mode:StageMode){
   if(this.state.mode===mode)return;
-  if(mode==='hidden'){this.engine.select(this.engine.id,false);this.requested=null;}
-  if(mode==='hidden'){clearInterval(this.timer);this.timer=0;}else if(!this.timer)this.timer=window.setInterval(()=>{this.engine.tick();if(this.state.mode==='inline')this.place();},250);
+  if(mode==='hidden'){this.engine?.select(this.engine.id,false);this.requested=null;clearInterval(this.timer);this.timer=0;}
+  else if(!this.timer)this.timer=window.setInterval(()=>{this.engine?.tick();if(this.state.mode==='inline')this.place();},250);
   if(mode!=='reels')this.setOffset(0,0);
   if(mode!=='inline'&&this.host){const st=this.host.style;st.top=st.left=st.width=st.height='';}
   this.set({mode});
@@ -85,15 +128,26 @@ class Stage {
 
  // ----- Reels -----
  enterReels(){this.reels=true;this.inlineKey=null;this.set({inlinePost:null});this.setMode('reels');}
- leaveReels(){this.reels=false;this.setMode('hidden');this.schedule();}
+ leaveReels(){this.reels=false;this.wanted.clear();this.setMode('hidden');this.schedule();}
  /** Keep the video glued to its slide while the user drags between reels. */
  setOffset(y:number,ms:number){const c=this.column;if(!c)return;c.style.transitionDuration=`${ms}ms`;c.style.transform=y?`translate(-50%,${y}px)`:'';}
+ /** Buffer neighbours (most important first). On iOS, once sound is unlocked, one player keeps it. */
+ preload(videos:Video[]){
+  if(this.solo)return;
+  const list=videos.filter(v=>v.kind==='youtube').slice(0,POOL-1);
+  this.wanted=new Set(list.map(v=>v.url));
+  for(const v of list){
+   if(this.players.some(p=>p.engine.id===v.url))continue;
+   const p=this.pick(v.url,true);if(!p||p===this.current)break;
+   p.used=++this.clock;this.run(p,()=>p.engine.preload(v.url));
+  }
+ }
 
  // ----- Feed (inline) -----
  register(slot:Slot){const key=Symbol('slot');this.slots.set(key,slot);this.schedule();return ()=>{this.slots.delete(key);if(this.inlineKey===key)this.inlineKey=null;this.schedule();};}
  setInlineAllowed(allowed:boolean){if(this.inlineAllowed===allowed)return;this.inlineAllowed=allowed;this.schedule();}
- schedule=()=>{if(!this.frame)this.frame=requestAnimationFrame(()=>{this.frame=0;this.pick();});};
- private pick(){
+ schedule=()=>{if(!this.raf)this.raf=requestAnimationFrame(()=>{this.raf=0;this.pickInline();});};
+ private pickInline(){
   if(this.reels)return;
   let best:[symbol,Slot]|null=null,score=0;
   if(this.inlineAllowed&&!document.hidden){
@@ -116,7 +170,7 @@ class Stage {
  // ----- Captions -----
  setCaptions(on:boolean){if(this.state.captions===on)return;this.set({captions:on});this.applyCaptions();}
  private applyCaptions(){
-  const p=this.yt;if(!p||this.engine.player!==p)return;
+  const p=this.current?.yt;if(!p||!this.current?.ready)return;
   try{
    if(this.state.captions){
     p.loadModule?.('captions');
@@ -127,55 +181,35 @@ class Stage {
   }catch{}
  }
 
- private createYouTube(){
-  if(this.creating||!this.ytHost)return;
-  this.creating=true;
-  loadApi().then(api=>{
-   if(!this.ytHost)return;
-   const mount=document.createElement('div');this.ytHost.replaceChildren(mount);
-   const vars={...youtubeOptions(location.origin),cc_load_policy:this.state.captions?1:0};
-   const player=new api.Player(mount,{host:'https://www.youtube-nocookie.com',width:'100%',height:'100%',playerVars:vars,events:{
-    onReady:()=>{this.yt=player;this.ytReady=true;try{player.getIframe().setAttribute('title','Learnie video oynatıcısı');}catch{}if(this.requested)this.play(this.requested.video,this.requested.active);},
-    onStateChange:(e:{data:number})=>{if(this.engine.player===player)this.engine.stateChanged(e.data);},
-    onApiChange:()=>this.applyCaptions(),
-    onAutoplayBlocked:()=>{if(this.engine.player===player)this.engine.blocked();},
-    onError:(e:{data:number})=>{if(this.engine.player===player)this.engine.fail(e.data===101||e.data===150?'Yayıncı bu videonun başka sitelerde oynatılmasına şu an izin vermiyor.':'Bu video şu an açılamıyor.');}
-   }});
-  }).catch(()=>{this.creating=false;this.engine.id='';this.set({status:'error',error:'YouTube oynatıcısına bağlanılamadı. Bağlantını kontrol edebilirsin.'});});
- }
-
  play(video:Video|undefined,active:boolean){
-  if(!video){this.requested=null;this.engine.select(this.engine.id,false);return;}
+  if(!video){this.requested=null;this.engine?.select(this.engine.id,false);return;}
   this.requested={video,active};
   const orientation=video.orientation==='landscape'?'landscape':'portrait';
   if(orientation!==this.state.orientation)this.set({orientation});
-  let adapter:Adapter;
+  let p:Player|null;
   if(video.kind==='file'){
    if(!this.fileEl)return;
-   this.file??=fileAdapter(this.fileEl,()=>this.engine);adapter=this.file;
-  }else{
-   if(!this.ytReady||!this.yt){
-    this.createYouTube();
-    if(this.state.id!==video.url||this.state.status!=='loading')this.set({id:video.url,status:'loading',error:'',needsTap:false});
-    return;
-   }
-   adapter=this.yt;
-  }
-  if(this.engine.player!==adapter){
-   try{this.engine.player.pauseVideo();}catch{}
-   this.engine.save();this.engine.player=adapter;this.engine.id='';
-  }
-  this.engine.select(video.url,active);
+   if(!this.filePlayer){const fp:Player={host:document.createElement('div'),yt:null,ready:true,creating:false,used:0,queued:null,file:true,engine:null as unknown as PlaybackEngine};fp.engine=this.newEngine(()=>fp);fp.engine.player=fileAdapter(this.fileEl,()=>fp.engine);this.filePlayer=fp;}
+   p=this.filePlayer;
+  }else p=this.pick(video.url);
+  if(!p)return;
+  if(p!==this.current){this.current?.engine.select(this.current.engine.id,false);this.current=p;this.front(p);this.captionsFor='';}
+  p.used=++this.clock;
+  const target=p;
+  if(!target.ready){this.set({...target.engine.snapshot(),id:video.url,status:'loading',error:'',needsTap:false});}
+  this.run(target,()=>{target.engine.select(video.url,active);if(target===this.current)this.set(target.engine.snapshot());});
  }
- toggleSound(){this.engine.toggleSound();}
- togglePause(){this.engine.togglePause();}
- hold(on:boolean){this.engine.hold(on);}
- seek(seconds:number){this.engine.seek(seconds);}
- progress(){return this.engine.progress();}
- setWantSound(want:boolean){this.engine.setSoundPreference(want);}
+ toggleSound(){this.engine?.toggleSound();}
+ togglePause(){this.engine?.togglePause();}
+ hold(on:boolean){this.engine?.hold(on);}
+ seek(seconds:number){this.engine?.seek(seconds);}
+ setRate(rate:number){this.engine?.setRate(rate);}
+ rates(){return this.engine?.rates()||[.25,.5,.75,1,1.25,1.5,1.75,2];}
+ progress(){return this.engine?.progress()||{time:0,duration:0};}
+ setWantSound(want:boolean){this.wantSound=want;for(const p of this.players)p.engine.setSoundPreference(want);this.filePlayer?.engine.setSoundPreference(want);}
  visibility(hidden:boolean){
   if(this.state.mode==='hidden'||!this.requested)return;
-  if(hidden)this.engine.select(this.engine.id,false);else this.play(this.requested.video,this.requested.active);
+  if(hidden)this.engine?.select(this.engine.id,false);else this.play(this.requested.video,this.requested.active);
  }
 }
 
@@ -186,9 +220,9 @@ export function VideoStageProvider({children}:{children:ReactNode}){
  const setRef=useRef(setPrefs);setRef.current=setPrefs;
  const [stage]=useState(()=>new Stage(!prefs.videoMuted,prefs.videoCaptions,muted=>setRef.current({videoMuted:muted})));
  if(import.meta.env.DEV)(window as unknown as {__learnieStage:Stage}).__learnieStage=stage;
- const host=useRef<HTMLDivElement>(null),column=useRef<HTMLDivElement>(null),ytHost=useRef<HTMLDivElement>(null),fileEl=useRef<HTMLVideoElement>(null);
+ const host=useRef<HTMLDivElement>(null),column=useRef<HTMLDivElement>(null),frame=useRef<HTMLDivElement>(null),fileEl=useRef<HTMLVideoElement>(null);
  const state=useSyncExternalStore(stage.subscribe,stage.getSnapshot);
- useEffect(()=>{stage.attach(host.current,column.current,ytHost.current,fileEl.current);},[stage]);
+ useEffect(()=>{stage.attach(host.current,column.current,frame.current,fileEl.current);},[stage]);
  useEffect(()=>{stage.setWantSound(!prefs.videoMuted);},[stage,prefs.videoMuted]);
  useEffect(()=>{stage.setCaptions(prefs.videoCaptions);},[stage,prefs.videoCaptions]);
  useEffect(()=>{
@@ -198,21 +232,20 @@ export function VideoStageProvider({children}:{children:ReactNode}){
  },[stage]);
  return <StageContext.Provider value={stage}>{children}
   <div ref={host} className="video-stage" data-mode={state.mode} data-orientation={state.orientation} data-status={state.status} data-needs-tap={state.needsTap||undefined}>
-   <div ref={column} className="video-stage-column"><div className="video-stage-frame"><div className="video-stage-youtube" ref={ytHost}/><video className="video-stage-file" ref={fileEl} playsInline preload="none"/></div></div>
+   <div ref={column} className="video-stage-column"><div ref={frame} className="video-stage-frame"><video className="video-stage-file" ref={fileEl} playsInline preload="none"/></div></div>
    {state.mode==='inline'&&state.inlinePost&&<InlineControls stage={stage} state={state} post={state.inlinePost}/>}
   </div>
  </StageContext.Provider>;
 }
 
-/** Controls drawn over the feed video: tap to pause, sound, full screen and a progress line. */
+/** Controls drawn over the feed video: centre tap to pause, sound, full screen and a progress line. */
 function InlineControls({stage,state,post}:{stage:Stage;state:StageState;post:Post}){
  const mine=state.id===post.video?.url,showing=mine&&['playing','paused','needs-tap'].includes(state.status);
  const [flash,setFlash]=useState<{key:number;paused:boolean}|null>(null);
  return <div className={`inline-controls ${state.needsTap?'is-passthrough':''}`}>
   <div className={`inline-poster ${showing?'is-hidden':''}`}><VideoPoster post={post} className="inline-poster-image"/></div>
   <button type="button" className="inline-tap" aria-label={state.held?'Videoyu oynat':'Videoyu durdur'} onClick={()=>{stage.togglePause();setFlash({key:Date.now(),paused:stage.state.held});}}/>
-  {mine&&flash&&<span key={flash.key} className="inline-center" aria-hidden="true">{flash.paused?<Pause size={28} fill="currentColor"/>:<Play size={28} fill="currentColor"/>}</span>}
-  {mine&&state.needsTap&&<span className="inline-hint" role="status">{state.tapReason==='sound'?'Sesi açmak için videodaki ▶ düğmesine dokun':'Başlatmak için videodaki ▶ düğmesine dokun'}</span>}
+  {mine&&flash&&<span key={flash.key} className="inline-center" aria-hidden="true">{flash.paused?<Pause size={26} fill="currentColor"/>:<Play size={26} fill="currentColor"/>}</span>}
   {mine&&state.status==='loading'&&<span className="reel-loading" aria-hidden="true"/>}
   <button type="button" className="inline-button inline-expand" aria-label="Tam ekran izle" onClick={()=>stage.expandInline()}><Maximize2 size={17}/></button>
   <button type="button" className="inline-button inline-sound" aria-label={state.muted?'Sesi aç':'Sesi kapat'} onClick={()=>stage.toggleSound()}>{state.muted?<VolumeX size={17}/>:<Volume2 size={17}/>}</button>

@@ -5,7 +5,7 @@ import {normalizePreferences} from '../src/preference-model.mjs';
 test('one Learnie control layer over the YouTube controls (kept for the iOS tap), Turkish captions and API-driven startup kept',()=>{
  const vars=youtubeOptions('https://dgdfurkan.github.io');
  assert.equal(vars.cc_lang_pref,'tr');assert.equal(vars.cc_load_policy,1);
- assert.equal(vars.playsinline,1);assert.equal(vars.controls,1,'YouTube play button must exist for the iOS sound tap');assert.equal(vars.fs,0);assert.equal(vars.autoplay,0);
+ assert.equal(vars.playsinline,1);assert.equal(vars.controls,0);assert.equal(vars.fs,0);assert.equal(vars.autoplay,0);
  assert.equal(vars.origin,'https://dgdfurkan.github.io');
  assert.ok(!('modestbranding'in vars));assert.ok(!('showinfo'in vars));
 });

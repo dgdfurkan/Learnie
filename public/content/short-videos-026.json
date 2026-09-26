@@ -3,142 +3,6 @@
   "title": "Kısa keşifler 26: yeni sesler, yeni konular",
   "posts": [
     {
-      "id": "kisa-video-ruzg-rin-sekillendirdigi-yer-yardang",
-      "category": "Coğrafya",
-      "title": "Rüzgârın şekillendirdiği yer: yardang",
-      "subtitle": "Yardang, rüzgâr aşındırmasıyla oluşan bir yer şekli. Adı yabancı gelse de oluşum fikrini kısa bir anlatımla kavrayabiliriz.",
-      "account": "Harita Kenarı",
-      "handle": "haritakenari",
-      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
-      "avatarCredit": {
-        "label": "Basile Morin",
-        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
-      },
-      "topic": "Yardang",
-      "layout": "poster",
-      "display": "video",
-      "format": "reel",
-      "minutes": 0.4,
-      "accent": "#65705a",
-      "art": {
-        "kind": "photo",
-        "font": "DM Sans",
-        "paper": "#000000",
-        "ink": "#f2f0e7",
-        "align": "start",
-        "position": "bottom",
-        "label": "Kısa video"
-      },
-      "cover": {
-        "url": "https://i.ytimg.com/vi/nBME6MFrghU/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB5AWgWty02U7smO2qYSMDUAiMO5w",
-        "alt": "Rüzgârın şekillendirdiği yer: yardang — video önizlemesi",
-        "credit": "Coğrafyanın Kodları",
-        "source": "https://www.youtube.com/watch?v=nBME6MFrghU",
-        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-        "licenseUrl": "https://www.youtube.com/static?template=terms"
-      },
-      "slides": [
-        {
-          "title": "",
-          "text": "Yardang, rüzgâr aşındırmasıyla oluşan bir yer şekli. Adı yabancı gelse de oluşum fikrini kısa bir anlatımla kavrayabiliriz."
-        }
-      ],
-      "video": {
-        "kind": "youtube",
-        "url": "nBME6MFrghU",
-        "title": "Yardang nedir | Kodlamalarla KPSS AGS coğrafya genel tekrar | 35",
-        "language": "Türkçe · otomatik altyazı",
-        "duration": 26,
-        "orientation": "portrait",
-        "publisher": "Coğrafyanın Kodları",
-        "publisherId": "UCIvX31CHx2RsFQM46qbjuJA",
-        "poster": "https://i.ytimg.com/vi/nBME6MFrghU/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB5AWgWty02U7smO2qYSMDUAiMO5w",
-        "captionLanguage": "tr",
-        "captionKind": "automatic",
-        "verifiedAt": "2026-09-24"
-      },
-      "sources": [
-        {
-          "label": "Coğrafyanın Kodları · Yardang nedir | Kodlamalarla KPSS AGS coğrafya genel tekrar | 35",
-          "url": "https://www.youtube.com/watch?v=nBME6MFrghU"
-        },
-        {
-          "label": "Coğrafyanın Kodları · kanal",
-          "url": "https://www.youtube.com/channel/UCIvX31CHx2RsFQM46qbjuJA"
-        }
-      ],
-      "comments": [],
-      "updatedAt": "2026-09-24"
-    },
-    {
-      "id": "kisa-video-grafik-bize-ne-soyluyor",
-      "category": "Bilim",
-      "title": "Grafik bize ne söylüyor?",
-      "subtitle": "Bir çizgiye bakıp hangi bilgileri okuyabiliriz? Şenol Hoca ile fonksiyon grafikleri üzerine kısa bir alıştırma.",
-      "account": "Bilimin İçinden",
-      "handle": "bilimini̇cinden",
-      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
-      "avatarCredit": {
-        "label": "SHTTEFAN / Unsplash",
-        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
-      },
-      "topic": "Fonksiyon grafikleri",
-      "layout": "poster",
-      "display": "video",
-      "format": "reel",
-      "minutes": 1.9,
-      "accent": "#65705a",
-      "art": {
-        "kind": "photo",
-        "font": "DM Sans",
-        "paper": "#000000",
-        "ink": "#f2f0e7",
-        "align": "start",
-        "position": "bottom",
-        "label": "Kısa video"
-      },
-      "cover": {
-        "url": "https://i.ytimg.com/vi/lrZNSXVWjGc/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDha0ib4L2bWf708pqqlyk21arz7A&usqp=CCk",
-        "alt": "Grafik bize ne söylüyor? — video önizlemesi",
-        "credit": "ŞENOL HOCA MATEMATİK",
-        "source": "https://www.youtube.com/watch?v=lrZNSXVWjGc",
-        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-        "licenseUrl": "https://www.youtube.com/static?template=terms"
-      },
-      "slides": [
-        {
-          "title": "",
-          "text": "Bir çizgiye bakıp hangi bilgileri okuyabiliriz? Şenol Hoca ile fonksiyon grafikleri üzerine kısa bir alıştırma."
-        }
-      ],
-      "video": {
-        "kind": "youtube",
-        "url": "lrZNSXVWjGc",
-        "title": "FONKSİYON GRAFİKLERİ #2025ayt #yks #2025tayfa #shorts",
-        "language": "Türkçe · otomatik altyazı",
-        "duration": 111,
-        "orientation": "portrait",
-        "publisher": "ŞENOL HOCA MATEMATİK",
-        "publisherId": "UC1nmW5kw6nXnB_5Sv-zeCNQ",
-        "poster": "https://i.ytimg.com/vi/lrZNSXVWjGc/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDha0ib4L2bWf708pqqlyk21arz7A&usqp=CCk",
-        "captionLanguage": "tr",
-        "captionKind": "automatic",
-        "verifiedAt": "2026-09-24"
-      },
-      "sources": [
-        {
-          "label": "ŞENOL HOCA MATEMATİK · FONKSİYON GRAFİKLERİ #2025ayt #yks #2025tayfa #shorts",
-          "url": "https://www.youtube.com/watch?v=lrZNSXVWjGc"
-        },
-        {
-          "label": "ŞENOL HOCA MATEMATİK · kanal",
-          "url": "https://www.youtube.com/channel/UC1nmW5kw6nXnB_5Sv-zeCNQ"
-        }
-      ],
-      "comments": [],
-      "updatedAt": "2026-09-24"
-    },
-    {
       "id": "kisa-video-saat-gibi-calisan-matematik",
       "category": "Bilim",
       "title": "Saat gibi çalışan matematik",
@@ -698,7 +562,7 @@
       "layout": "poster",
       "display": "video",
       "format": "reel",
-      "minutes": 1.0,
+      "minutes": 1,
       "accent": "#65705a",
       "art": {
         "kind": "photo",
@@ -1174,7 +1038,7 @@
       "layout": "poster",
       "display": "video",
       "format": "reel",
-      "minutes": 1.0,
+      "minutes": 1,
       "accent": "#65705a",
       "art": {
         "kind": "photo",

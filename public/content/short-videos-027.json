@@ -71,142 +71,6 @@
       "updatedAt": "2026-09-24"
     },
     {
-      "id": "kisa-video-baskentten-biraz-daha-fazlasi",
-      "category": "Coğrafya",
-      "title": "Başkentten biraz daha fazlası",
-      "subtitle": "Ankara'nın coğrafi özelliklerine kısa bir bakış. İlin adını bir nokta olarak ezberlemek yerine çevresiyle düşünelim.",
-      "account": "Harita Kenarı",
-      "handle": "haritakenari",
-      "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
-      "avatarCredit": {
-        "label": "Basile Morin",
-        "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
-      },
-      "topic": "Ankara",
-      "layout": "poster",
-      "display": "video",
-      "format": "reel",
-      "minutes": 1.3,
-      "accent": "#65705a",
-      "art": {
-        "kind": "photo",
-        "font": "DM Sans",
-        "paper": "#000000",
-        "ink": "#f2f0e7",
-        "align": "start",
-        "position": "bottom",
-        "label": "Kısa video"
-      },
-      "cover": {
-        "url": "https://i.ytimg.com/vi/zuL4u5EO36g/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCdlfXOgiGNOmLBhVNlOby9n_smkA&usqp=CCk",
-        "alt": "Başkentten biraz daha fazlası — video önizlemesi",
-        "credit": "Coğrafyanın Kodları",
-        "source": "https://www.youtube.com/watch?v=zuL4u5EO36g",
-        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-        "licenseUrl": "https://www.youtube.com/static?template=terms"
-      },
-      "slides": [
-        {
-          "title": "",
-          "text": "Ankara'nın coğrafi özelliklerine kısa bir bakış. İlin adını bir nokta olarak ezberlemek yerine çevresiyle düşünelim."
-        }
-      ],
-      "video": {
-        "kind": "youtube",
-        "url": "zuL4u5EO36g",
-        "title": "Ankara 06 #coğrafya",
-        "language": "Türkçe · otomatik altyazı",
-        "duration": 80,
-        "orientation": "portrait",
-        "publisher": "Coğrafyanın Kodları",
-        "publisherId": "UCIvX31CHx2RsFQM46qbjuJA",
-        "poster": "https://i.ytimg.com/vi/zuL4u5EO36g/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCdlfXOgiGNOmLBhVNlOby9n_smkA&usqp=CCk",
-        "captionLanguage": "tr",
-        "captionKind": "automatic",
-        "verifiedAt": "2026-09-24"
-      },
-      "sources": [
-        {
-          "label": "Coğrafyanın Kodları · Ankara 06 #coğrafya",
-          "url": "https://www.youtube.com/watch?v=zuL4u5EO36g"
-        },
-        {
-          "label": "Coğrafyanın Kodları · kanal",
-          "url": "https://www.youtube.com/channel/UCIvX31CHx2RsFQM46qbjuJA"
-        }
-      ],
-      "comments": [],
-      "updatedAt": "2026-09-24"
-    },
-    {
-      "id": "kisa-video-bir-makinenin-ciktisi-otekine-girerse",
-      "category": "Bilim",
-      "title": "Bir makinenin çıktısı ötekine girerse",
-      "subtitle": "Bileşke fonksiyonun fikri bu: bir işlemin sonucunu başka bir işleme veriyoruz. Şenol Hoca çözüm üzerinden gösteriyor.",
-      "account": "Bilimin İçinden",
-      "handle": "bilimini̇cinden",
-      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
-      "avatarCredit": {
-        "label": "SHTTEFAN / Unsplash",
-        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
-      },
-      "topic": "Bileşke fonksiyon",
-      "layout": "poster",
-      "display": "video",
-      "format": "reel",
-      "minutes": 1.0,
-      "accent": "#65705a",
-      "art": {
-        "kind": "photo",
-        "font": "DM Sans",
-        "paper": "#000000",
-        "ink": "#f2f0e7",
-        "align": "start",
-        "position": "bottom",
-        "label": "Kısa video"
-      },
-      "cover": {
-        "url": "https://i.ytimg.com/vi/oQb36fLyyjY/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB2mmAH0Oe6mh19cS2vEArArBiITw&usqp=CCk",
-        "alt": "Bir makinenin çıktısı ötekine girerse — video önizlemesi",
-        "credit": "ŞENOL HOCA MATEMATİK",
-        "source": "https://www.youtube.com/watch?v=oQb36fLyyjY",
-        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-        "licenseUrl": "https://www.youtube.com/static?template=terms"
-      },
-      "slides": [
-        {
-          "title": "",
-          "text": "Bileşke fonksiyonun fikri bu: bir işlemin sonucunu başka bir işleme veriyoruz. Şenol Hoca çözüm üzerinden gösteriyor."
-        }
-      ],
-      "video": {
-        "kind": "youtube",
-        "url": "oQb36fLyyjY",
-        "title": "Bileşke Fonksiyon #2025ayt #2025tayfa #yks #shorts",
-        "language": "Türkçe · otomatik altyazı",
-        "duration": 58,
-        "orientation": "portrait",
-        "publisher": "ŞENOL HOCA MATEMATİK",
-        "publisherId": "UC1nmW5kw6nXnB_5Sv-zeCNQ",
-        "poster": "https://i.ytimg.com/vi/oQb36fLyyjY/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB2mmAH0Oe6mh19cS2vEArArBiITw&usqp=CCk",
-        "captionLanguage": "tr",
-        "captionKind": "automatic",
-        "verifiedAt": "2026-09-24"
-      },
-      "sources": [
-        {
-          "label": "ŞENOL HOCA MATEMATİK · Bileşke Fonksiyon #2025ayt #2025tayfa #yks #shorts",
-          "url": "https://www.youtube.com/watch?v=oQb36fLyyjY"
-        },
-        {
-          "label": "ŞENOL HOCA MATEMATİK · kanal",
-          "url": "https://www.youtube.com/channel/UC1nmW5kw6nXnB_5Sv-zeCNQ"
-        }
-      ],
-      "comments": [],
-      "updatedAt": "2026-09-24"
-    },
-    {
       "id": "kisa-video-sezgin-bu-soruda-ne-diyor",
       "category": "Bilim",
       "title": "Sezgin bu soruda ne diyor?",
@@ -222,7 +86,7 @@
       "layout": "poster",
       "display": "video",
       "format": "reel",
-      "minutes": 2.0,
+      "minutes": 2,
       "accent": "#65705a",
       "art": {
         "kind": "photo",
@@ -494,7 +358,7 @@
       "layout": "poster",
       "display": "video",
       "format": "reel",
-      "minutes": 2.0,
+      "minutes": 2,
       "accent": "#65705a",
       "art": {
         "kind": "photo",
@@ -1038,7 +902,7 @@
       "layout": "poster",
       "display": "video",
       "format": "reel",
-      "minutes": 2.0,
+      "minutes": 2,
       "accent": "#65705a",
       "art": {
         "kind": "photo",
@@ -1153,74 +1017,6 @@
         {
           "label": "Borusan Sanat · kanal",
           "url": "https://www.youtube.com/channel/UCS7PoWtHZIs_e9T8NKlgydQ"
-        }
-      ],
-      "comments": [],
-      "updatedAt": "2026-09-24"
-    },
-    {
-      "id": "kisa-video-iki-polinom-ne-zaman-esit-olur",
-      "category": "Bilim",
-      "title": "İki polinom ne zaman eşit olur?",
-      "subtitle": "Şenol Hoca, polinom eşitliğini bir soru üzerinden anlatıyor. Sonucu ezberlemek yerine eşitliğin nasıl kullanıldığını izle.",
-      "account": "Bilimin İçinden",
-      "handle": "bilimini̇cinden",
-      "avatar": "https://images.unsplash.com/photo-1498354136128-58f790194fa7?auto=format&fit=crop&w=1200&q=85",
-      "avatarCredit": {
-        "label": "SHTTEFAN / Unsplash",
-        "url": "https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw"
-      },
-      "topic": "Polinom eşitliği",
-      "layout": "poster",
-      "display": "video",
-      "format": "reel",
-      "minutes": 1.6,
-      "accent": "#65705a",
-      "art": {
-        "kind": "photo",
-        "font": "DM Sans",
-        "paper": "#000000",
-        "ink": "#f2f0e7",
-        "align": "start",
-        "position": "bottom",
-        "label": "Kısa video"
-      },
-      "cover": {
-        "url": "https://i.ytimg.com/vi/xLGN2-QtnKY/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCthaR2IXikSroJNfsp_HPSlD6atg&usqp=CCk",
-        "alt": "İki polinom ne zaman eşit olur? — video önizlemesi",
-        "credit": "ŞENOL HOCA MATEMATİK",
-        "source": "https://www.youtube.com/watch?v=xLGN2-QtnKY",
-        "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-        "licenseUrl": "https://www.youtube.com/static?template=terms"
-      },
-      "slides": [
-        {
-          "title": "",
-          "text": "Şenol Hoca, polinom eşitliğini bir soru üzerinden anlatıyor. Sonucu ezberlemek yerine eşitliğin nasıl kullanıldığını izle."
-        }
-      ],
-      "video": {
-        "kind": "youtube",
-        "url": "xLGN2-QtnKY",
-        "title": "Polinom Eşitliği  #yks #2025tayfa #2025ayt #shorts",
-        "language": "Türkçe · otomatik altyazı",
-        "duration": 95,
-        "orientation": "portrait",
-        "publisher": "ŞENOL HOCA MATEMATİK",
-        "publisherId": "UC1nmW5kw6nXnB_5Sv-zeCNQ",
-        "poster": "https://i.ytimg.com/vi/xLGN2-QtnKY/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCthaR2IXikSroJNfsp_HPSlD6atg&usqp=CCk",
-        "captionLanguage": "tr",
-        "captionKind": "automatic",
-        "verifiedAt": "2026-09-24"
-      },
-      "sources": [
-        {
-          "label": "ŞENOL HOCA MATEMATİK · Polinom Eşitliği  #yks #2025tayfa #2025ayt #shorts",
-          "url": "https://www.youtube.com/watch?v=xLGN2-QtnKY"
-        },
-        {
-          "label": "ŞENOL HOCA MATEMATİK · kanal",
-          "url": "https://www.youtube.com/channel/UC1nmW5kw6nXnB_5Sv-zeCNQ"
         }
       ],
       "comments": [],

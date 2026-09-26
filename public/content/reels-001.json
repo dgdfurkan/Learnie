@@ -1023,74 +1023,6 @@
    "updatedAt": "2026-09-26"
   },
   {
-   "id": "reels-hangi-urun-nerede-yetisiyor",
-   "category": "Coğrafya",
-   "title": "Hangi ürün nerede yetişiyor?",
-   "subtitle": "Coğrafyanın Kodları, güncel TÜİK verileriyle Türkiye'de tarım ürünlerinin öne çıktığı illeri özetliyor.",
-   "account": "Harita Kenarı",
-   "handle": "haritakenari",
-   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg/960px-Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
-   "avatarCredit": {
-    "label": "Basile Morin",
-    "url": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
-   },
-   "topic": "Türkiye tarımı",
-   "layout": "poster",
-   "display": "video",
-   "format": "reel",
-   "minutes": 1.7,
-   "accent": "#3f7a55",
-   "art": {
-    "kind": "photo",
-    "font": "DM Sans",
-    "paper": "#000000",
-    "ink": "#f2f0e7",
-    "align": "start",
-    "position": "bottom",
-    "label": "Kısa video"
-   },
-   "cover": {
-    "url": "https://i.ytimg.com/vi/6n-YaM30dhM/oardefault.jpg",
-    "alt": "Hangi ürün nerede yetişiyor? — video önizlemesi",
-    "credit": "Coğrafyanın Kodları",
-    "source": "https://www.youtube.com/watch?v=6n-YaM30dhM",
-    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
-    "licenseUrl": "https://www.youtube.com/static?template=terms"
-   },
-   "slides": [
-    {
-     "title": "",
-     "text": "Coğrafyanın Kodları, güncel TÜİK verileriyle Türkiye'de tarım ürünlerinin öne çıktığı illeri özetliyor."
-    }
-   ],
-   "video": {
-    "kind": "youtube",
-    "url": "6n-YaM30dhM",
-    "title": "Tek video güncel TÜİK verileri #coğrafya",
-    "language": "Türkçe · otomatik altyazı",
-    "duration": 99,
-    "orientation": "portrait",
-    "publisher": "Coğrafyanın Kodları",
-    "publisherId": "UCIvX31CHx2RsFQM46qbjuJA",
-    "poster": "https://i.ytimg.com/vi/6n-YaM30dhM/oardefault.jpg",
-    "captionLanguage": "tr",
-    "captionKind": "automatic",
-    "verifiedAt": "2026-09-26"
-   },
-   "sources": [
-    {
-     "label": "Coğrafyanın Kodları · Tek video güncel TÜİK verileri #coğrafya",
-     "url": "https://www.youtube.com/watch?v=6n-YaM30dhM"
-    },
-    {
-     "label": "Coğrafyanın Kodları · kanal",
-     "url": "https://www.youtube.com/channel/UCIvX31CHx2RsFQM46qbjuJA"
-    }
-   ],
-   "comments": [],
-   "updatedAt": "2026-09-26"
-  },
-  {
    "id": "reels-nietzsche-ye-gore-felsefe-nedir",
    "category": "Felsefe",
    "title": "Nietzsche'ye göre felsefe nedir?",
@@ -1322,7 +1254,7 @@
     "label": "Kısa video"
    },
    "cover": {
-    "url": "https://i.ytimg.com/vi/jaJnYXGh3i8/oardefault.jpg",
+    "url": "https://i.ytimg.com/vi/jaJnYXGh3i8/sddefault.jpg",
     "alt": "Kalenderhane Camii'nin asıl kimliği — video önizlemesi",
     "credit": "Bloomberg HT Tarih",
     "source": "https://www.youtube.com/watch?v=jaJnYXGh3i8",
@@ -1344,7 +1276,8 @@
     "orientation": "portrait",
     "publisher": "Bloomberg HT Tarih",
     "publisherId": "UCf8bqeYsSJteBU5iENQ1Cww",
-    "poster": "https://i.ytimg.com/vi/jaJnYXGh3i8/oardefault.jpg",
+    "poster": "https://i.ytimg.com/vi/jaJnYXGh3i8/sddefault.jpg",
+    "posterKind": "pillarbox",
     "captionLanguage": "tr",
     "captionKind": "automatic",
     "verifiedAt": "2026-09-26"
@@ -1526,7 +1459,7 @@
     "label": "Kısa video"
    },
    "cover": {
-    "url": "https://i.ytimg.com/vi/JScpxAdtnM0/oardefault.jpg",
+    "url": "https://i.ytimg.com/vi/JScpxAdtnM0/sddefault.jpg",
     "alt": "Şizofreni teşhisi nasıl konur? — video önizlemesi",
     "credit": "+90",
     "source": "https://www.youtube.com/watch?v=JScpxAdtnM0",
@@ -1548,7 +1481,8 @@
     "orientation": "portrait",
     "publisher": "+90",
     "publisherId": "UCUnwimZlOXfAedrmRfguS1g",
-    "poster": "https://i.ytimg.com/vi/JScpxAdtnM0/oardefault.jpg",
+    "poster": "https://i.ytimg.com/vi/JScpxAdtnM0/sddefault.jpg",
+    "posterKind": "pillarbox",
     "captionLanguage": "tr",
     "captionKind": "automatic",
     "verifiedAt": "2026-09-26"
@@ -1662,7 +1596,7 @@
     "label": "Kısa video"
    },
    "cover": {
-    "url": "https://i.ytimg.com/vi/B8kUhcKmnEo/oardefault.jpg",
+    "url": "https://i.ytimg.com/vi/B8kUhcKmnEo/sddefault.jpg",
     "alt": "Bir akrebin tehlikeli olup olmadığı nasıl anlaşılır? — video önizlemesi",
     "credit": "TRT Belgesel",
     "source": "https://www.youtube.com/watch?v=B8kUhcKmnEo",
@@ -1684,7 +1618,8 @@
     "orientation": "portrait",
     "publisher": "TRT Belgesel",
     "publisherId": "UCdVBWUBCuREx1Q2Ikw9R8Mw",
-    "poster": "https://i.ytimg.com/vi/B8kUhcKmnEo/oardefault.jpg",
+    "poster": "https://i.ytimg.com/vi/B8kUhcKmnEo/sddefault.jpg",
+    "posterKind": "pillarbox",
     "captionLanguage": "tr",
     "captionKind": "automatic",
     "verifiedAt": "2026-09-26"
@@ -2138,7 +2073,7 @@
     "label": "Kısa video"
    },
    "cover": {
-    "url": "https://i.ytimg.com/vi/g8RzIwN-zVs/oardefault.jpg",
+    "url": "https://i.ytimg.com/vi/g8RzIwN-zVs/sddefault.jpg",
     "alt": "Almanya yenilince Osmanlı da yenik mi sayıldı? — video önizlemesi",
     "credit": "DFT Tarih",
     "source": "https://www.youtube.com/watch?v=g8RzIwN-zVs",
@@ -2160,7 +2095,8 @@
     "orientation": "portrait",
     "publisher": "DFT Tarih",
     "publisherId": "UC6AdnJAlvHwlWKGC40-nVUg",
-    "poster": "https://i.ytimg.com/vi/g8RzIwN-zVs/oardefault.jpg",
+    "poster": "https://i.ytimg.com/vi/g8RzIwN-zVs/sddefault.jpg",
+    "posterKind": "pillarbox",
     "captionLanguage": "tr",
     "captionKind": "automatic",
     "verifiedAt": "2026-09-26"
@@ -2274,7 +2210,7 @@
     "label": "Kısa video"
    },
    "cover": {
-    "url": "https://i.ytimg.com/vi/0tdbgfnnllg/oardefault.jpg",
+    "url": "https://i.ytimg.com/vi/0tdbgfnnllg/sddefault.jpg",
     "alt": "Kastamonu adı nereden geliyor? — video önizlemesi",
     "credit": "DiyanetTV",
     "source": "https://www.youtube.com/watch?v=0tdbgfnnllg",
@@ -2296,7 +2232,8 @@
     "orientation": "portrait",
     "publisher": "DiyanetTV",
     "publisherId": "UC3d1AdmvAP6Jq16-WpD086g",
-    "poster": "https://i.ytimg.com/vi/0tdbgfnnllg/oardefault.jpg",
+    "poster": "https://i.ytimg.com/vi/0tdbgfnnllg/sddefault.jpg",
+    "posterKind": "pillarbox",
     "captionLanguage": "tr",
     "captionKind": "automatic",
     "verifiedAt": "2026-09-26"
@@ -2717,6 +2654,74 @@
     {
      "label": "Pera Müzesi · kanal",
      "url": "https://www.youtube.com/channel/UCDkodebtXSRs4QTpjIkk0DQ"
+    }
+   ],
+   "comments": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "reels-giybet-nedir",
+   "category": "İnanç",
+   "title": "Gıybet nedir?",
+   "subtitle": "Bir hadiste anlatılan tanım: birini, duyduğunda hoşlanmayacağı bir şekilde anmak. Diyanet Dijital'den.",
+   "account": "Metnin İzinde",
+   "handle": "metninizinde",
+   "avatar": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cranes_made_by_Origami_paper.jpg/960px-Cranes_made_by_Origami_paper.jpg",
+   "avatarCredit": {
+    "label": "Laitche",
+    "url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg"
+   },
+   "topic": "Gıybet",
+   "layout": "poster",
+   "display": "video",
+   "format": "reel",
+   "minutes": 0.5,
+   "accent": "#65705a",
+   "art": {
+    "kind": "photo",
+    "font": "DM Sans",
+    "paper": "#000000",
+    "ink": "#f2f0e7",
+    "align": "start",
+    "position": "bottom",
+    "label": "Kısa video"
+   },
+   "cover": {
+    "url": "https://i.ytimg.com/vi/VofrJAjL9M0/oardefault.jpg",
+    "alt": "Gıybet nedir? — video önizlemesi",
+    "credit": "Diyanet Dijital",
+    "source": "https://www.youtube.com/watch?v=VofrJAjL9M0",
+    "license": "Yayıncının YouTube önizlemesi; hakları yayıncısına aittir.",
+    "licenseUrl": "https://www.youtube.com/static?template=terms"
+   },
+   "slides": [
+    {
+     "title": "",
+     "text": "Bir hadiste anlatılan tanım: birini, duyduğunda hoşlanmayacağı bir şekilde anmak. Diyanet Dijital'den."
+    }
+   ],
+   "video": {
+    "kind": "youtube",
+    "url": "VofrJAjL9M0",
+    "title": "Gıybet Nedir Biliyor Musun?",
+    "language": "Türkçe · otomatik altyazı",
+    "duration": 28,
+    "orientation": "portrait",
+    "publisher": "Diyanet Dijital",
+    "publisherId": "UCE7X5yJpLm4k_L-V_WH7yWA",
+    "poster": "https://i.ytimg.com/vi/VofrJAjL9M0/oardefault.jpg",
+    "captionLanguage": "tr",
+    "captionKind": "automatic",
+    "verifiedAt": "2026-09-26"
+   },
+   "sources": [
+    {
+     "label": "Diyanet Dijital · Gıybet Nedir Biliyor Musun?",
+     "url": "https://www.youtube.com/watch?v=VofrJAjL9M0"
+    },
+    {
+     "label": "Diyanet Dijital · kanal",
+     "url": "https://www.youtube.com/channel/UCE7X5yJpLm4k_L-V_WH7yWA"
     }
    ],
    "comments": [],
