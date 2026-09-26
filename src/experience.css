@@ -3,14 +3,40 @@
 @media(max-width:760px){:root{--reel-w:100%}}
 
 /* ---------- Shared video stage (one persistent player for the whole app) ---------- */
-.video-stage{position:fixed;inset:0;z-index:60;background:#000;visibility:hidden;pointer-events:none}
-.video-stage[data-open=true]{visibility:visible;pointer-events:auto}
-.video-stage-column{position:absolute;top:0;bottom:0;left:50%;width:var(--reel-w);transform:translateX(-50%);overflow:hidden;container-type:size;background:#000}
-.video-stage-frame{position:absolute;left:50%;top:50%;width:max(100cqw,calc(100cqh * 9 / 16));height:max(100cqh,calc(100cqw * 16 / 9));transform:translate(-50%,-50%)}
-.video-stage[data-orientation=landscape] .video-stage-frame{width:100cqw;height:calc(100cqw * 9 / 16)}
+.video-stage{position:fixed;left:0;top:0;width:0;height:0;overflow:hidden;visibility:hidden;pointer-events:none;background:#000}
+.video-stage[data-mode=reels]{inset:0;width:auto;height:auto;z-index:60;visibility:visible;pointer-events:auto}
+.video-stage[data-mode=inline]{position:absolute;z-index:2;visibility:visible;pointer-events:auto}
+.video-stage-column{position:absolute;top:0;bottom:0;left:50%;width:var(--reel-w);transform:translateX(-50%);overflow:hidden;container-type:size;background:#000;transition-property:transform;transition-timing-function:ease;will-change:transform}
+.video-stage[data-mode=inline] .video-stage-column{left:0;width:100%;transform:none!important;transition:none}
+/* Reels: fit the whole video on screen (no cropped edges on tall phones). */
+.video-stage-frame{position:absolute;left:50%;top:50%;width:min(100cqw,calc(100cqh * 9 / 16));height:min(100cqh,calc(100cqw * 16 / 9));transform:translate(-50%,-50%)}
+.video-stage[data-orientation=landscape] .video-stage-frame{width:min(100cqw,calc(100cqh * 16 / 9));height:min(100cqh,calc(100cqw * 9 / 16))}
+/* Feed: fill the card like a photo. */
+.video-stage[data-mode=inline] .video-stage-frame{width:max(100cqw,calc(100cqh * 9 / 16));height:max(100cqh,calc(100cqw * 16 / 9))}
+.video-stage[data-mode=inline][data-orientation=landscape] .video-stage-frame{width:max(100cqw,calc(100cqh * 16 / 9));height:max(100cqh,calc(100cqw * 9 / 16))}
 .video-stage-youtube,.video-stage-youtube>*,.video-stage-youtube iframe{position:absolute;inset:0;width:100%!important;height:100%!important;border:0;display:block}
-.video-stage-file{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;background:#000}
+.video-stage-file{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000}
 .video-stage-file:not([src]){display:none}
+.topbar{z-index:20}
+
+/* Feed inline player */
+.feed-video{position:relative;aspect-ratio:4/5;max-height:78vh;width:100%;background:#000;overflow:hidden}
+.feed-video-poster{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.inline-controls{position:absolute;inset:0;color:#fff}
+.inline-poster{position:absolute;inset:0;background:#000;transition:opacity .3s var(--ease-out)}
+.inline-poster.is-hidden{opacity:0;pointer-events:none}
+.inline-poster-image{width:100%;height:100%;object-fit:cover}
+.inline-tap{position:absolute;inset:0;background:transparent;cursor:pointer}
+.inline-controls.is-passthrough .inline-tap,.inline-controls.is-passthrough .inline-poster{pointer-events:none;opacity:0}
+.inline-button{position:absolute;width:34px;height:34px;border-radius:50%;display:grid;place-items:center;background:#0009;color:#fff;backdrop-filter:blur(8px);transition:transform .15s}
+.inline-button:active{transform:scale(.88)}
+.inline-sound{right:12px;bottom:14px}
+.inline-expand{right:12px;top:12px}
+.inline-center{position:absolute;left:50%;top:50%;width:64px;height:64px;margin:-32px 0 0 -32px;border-radius:50%;display:grid;place-items:center;padding-left:4px;background:#0008;backdrop-filter:blur(8px);pointer-events:none;animation:learnie-fadein .15s}
+.inline-hint{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);display:flex;align-items:center;gap:8px;padding:10px 14px;border-radius:999px;background:#000b;font-size:13px;font-weight:600;white-space:nowrap;pointer-events:none}
+.inline-progress{position:absolute;left:0;right:0;bottom:0;height:3px;background:#ffffff33;pointer-events:none}
+.inline-progress span{display:block;height:100%;background:#fff;transform-origin:0 50%;transform:scaleX(0);transition:transform .25s linear}
+.inline-controls .reel-loading{bottom:0}
 
 /* ---------- Reels ---------- */
 .reels-open .main-grid.reels-layout{position:static!important;z-index:auto!important;background:none!important;height:0!important;overflow:hidden}
@@ -24,13 +50,12 @@
 .reel-film-loading .reel-poster{opacity:.5;filter:blur(18px) saturate(1.2);transform:scale(1.1)}
 .reel-poster-wrap{position:absolute;inset:0;background:#000;transition:opacity .3s var(--ease-out);will-change:opacity}
 .reel-poster-wrap.is-hidden{opacity:0;transition-delay:.05s}
-.reels-root[data-moving] .reel-poster-wrap{opacity:1;transition:none}
-.reel-poster{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.reel-poster{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;display:block;background:#000}
 .reel-poster.video-poster-fallback{display:flex!important;justify-content:flex-end;padding:0 24px 190px}
 .is-landscape .reel-poster:not(.reel-poster-backdrop){object-fit:contain;z-index:1}
 .reel-poster-backdrop{filter:blur(28px) brightness(.55);transform:scale(1.2)}
 .reel-shade{position:absolute;inset:0;pointer-events:none;background:linear-gradient(180deg,#0008 0,#0000 17%,#0000 52%,#0009 82%,#000c 100%)}
-.reel-gesture{position:absolute;inset:0;z-index:1;cursor:pointer;touch-action:pan-y;-webkit-touch-callout:none}
+.reel-gesture{position:absolute;inset:0;z-index:1;cursor:pointer;touch-action:none;-webkit-touch-callout:none}
 .reels-top{position:absolute;z-index:6;top:0;left:50%;transform:translateX(-50%);width:var(--reel-w);display:flex;align-items:center;gap:4px;padding:calc(6px + env(safe-area-inset-top)) 6px 6px;pointer-events:none}
 .reels-top>*{pointer-events:auto}
 .reels-title{flex:1;font-size:20px;font-weight:750;letter-spacing:-.4px;text-shadow:0 1px 10px #0007;pointer-events:none}
@@ -196,3 +221,63 @@ img[loading=lazy]{transition:opacity .35s}
 .reels-root .film-player .film-header{background:transparent!important;backdrop-filter:none!important;box-shadow:none!important;justify-content:flex-end;padding:0!important}
 .reels-root .film-player .film-header .icon-button{filter:drop-shadow(0 1px 4px #0009)}
 .reels-root:focus{outline:none}
+
+/* Clean mode: only the video (and the eye to bring the interface back). */
+.reels-root[data-clean] :is(.reel-actions,.reel-meta,.reel-shade,.reels-back,.reels-title,.reels-extra,.reel-sound-pill,.reel-scrubber){opacity:0;pointer-events:none!important;transition:opacity .2s}
+.reels-root :is(.reel-actions,.reel-meta,.reel-shade,.reels-back,.reels-title,.reels-extra,.reel-scrubber){transition:opacity .2s}
+.reels-root[data-clean] .reels-eye{opacity:.75}
+
+/* Scrubber: thin line, large touch target, grows while dragging. */
+.reel-meta{padding-bottom:calc(40px + env(safe-area-inset-bottom))}
+.reel-scrubber{position:absolute;z-index:5;left:0;right:0;bottom:env(safe-area-inset-bottom);height:34px;display:flex;align-items:flex-end;cursor:pointer;touch-action:none}
+.reel-scrub-line{position:relative;width:100%;height:3px;background:#ffffff38;transition:height .15s}
+.reel-scrub-line span{position:absolute;inset:0;background:#fff;transform-origin:0 50%;transform:scaleX(0)}
+.reel-scrubber:hover .reel-scrub-line,.reel-scrubber.is-dragging .reel-scrub-line{height:6px}
+.reel-scrub-time{position:absolute;bottom:22px;transform:translateX(-50%);padding:5px 10px;border-radius:8px;background:#000c;font-size:13px;font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap;pointer-events:none}
+.reels-root .reel-loading{bottom:env(safe-area-inset-bottom)}
+
+/* Break card: quiet and plain, like the rest of the app. */
+.reel-break{background:#000;justify-content:center;gap:12px;padding:40px 28px}
+.reel-break small{font-size:13px;color:#ffffff99}
+.reel-break h2{font-size:26px;letter-spacing:-.5px}
+.reel-break p{font-size:15px;color:#ffffffcc}
+.reel-break li{background:none;border:0;border-bottom:1px solid #ffffff1f;border-radius:0;padding:12px 0;font-size:14.5px}
+.reel-break-actions button{border-radius:10px}
+
+/* ---------- Daily line, recall post, simple settings (same language as the rest of the app) ---------- */
+.learning-pulse,.goal-picker{display:none}
+.daily-line{margin:0 0 20px;display:grid;gap:8px;color:var(--text)}
+.daily-line-top{display:flex;justify-content:space-between;align-items:baseline;font-size:13px;color:var(--muted-text)}
+.daily-line-top strong{color:var(--text);font-size:15px}
+.daily-line-streak{display:inline-flex;align-items:center;gap:4px;color:var(--text);font-weight:600}
+.daily-line-streak svg{color:var(--accent)}
+.daily-line-bar{height:3px;border-radius:3px;background:var(--border);overflow:hidden}
+.daily-line-bar i{display:block;height:100%;background:var(--accent);border-radius:inherit;transition:width .6s var(--ease-out)}
+.recall-avatar{width:36px;height:36px;border-radius:50%;display:grid;place-items:center;background:var(--surface-2);color:var(--text);flex-shrink:0}
+.recall-body{padding:4px 16px 18px;display:grid;gap:12px}
+.recall-body h3{margin:0;font-size:17px;line-height:1.35;letter-spacing:-.2px}
+.recall-body p{margin:0;font-size:14px;line-height:1.6;color:var(--secondary)}
+.recall-link{justify-self:start;font-size:14px;font-weight:600;color:var(--accent);padding:0}
+.recall-actions{display:flex;flex-wrap:wrap;gap:16px}
+.recall-actions button{display:inline-flex;align-items:center;gap:6px;font-size:13.5px;font-weight:600;color:var(--text);padding:0}
+.recall-note{font-size:13px!important;color:var(--muted-text)!important}
+.recall-post .quiz{margin:0;padding:0;border:0;background:none}
+.recall-post .quiz .eyebrow,.recall-post .quiz h3{display:none}
+.simple-settings{padding:4px 18px!important}
+.setting-line{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:14px 0;border-bottom:1px solid var(--border);font-size:14px;color:var(--text);width:100%;text-align:left}
+.setting-line:last-of-type{border-bottom:0}
+.setting-line>span{flex-shrink:0}
+.setting-line input:not([type=checkbox]){flex:1;min-width:0;max-width:220px;text-align:right;background:transparent;border:0;font:inherit;color:var(--text);padding:4px 0}
+.setting-line .segmented{flex:0 1 auto}
+.setting-button{background:none}
+.simple-settings .local-note{font-size:12px;color:var(--muted-text);padding:0 0 14px;margin:0}
+@media(max-width:700px){.daily-line{margin:0 16px 16px}.recall-post{border-radius:0}}
+.setting-line input[type=checkbox]{appearance:none;background:var(--border);width:40px;height:24px;border-radius:20px;position:relative;flex-shrink:0;cursor:pointer;transition:background .2s}
+.setting-line input[type=checkbox]:checked{background:var(--accent)}
+.setting-line input[type=checkbox]:before{content:'';position:absolute;left:3px;top:3px;width:18px;height:18px;border-radius:50%;background:#fff;transition:transform .2s var(--ease-spring);box-shadow:0 1px 3px #0003}
+.setting-line input[type=checkbox]:checked:before{transform:translateX(16px)}
+.setting-line .segmented{padding:3px;gap:2px}
+.setting-line .segmented button{padding:7px 11px;font-size:12.5px;flex:0 0 auto}
+@media(max-width:700px){.simple-settings,.profile .liked-link{margin:0 14px 14px!important;width:auto}.setting-line .segmented button svg{display:none}}
+.feed-video-open{position:absolute;inset:0;padding:0;border:0;background:none;display:block;cursor:pointer}
+.feed-video-badge{position:absolute;top:12px;left:12px;width:28px;height:28px;border-radius:50%;display:grid;place-items:center;padding-left:2px;background:#0008;color:#fff}

@@ -1,5 +1,6 @@
 import {EditorialCover,EditorialSlide,PostNarrative} from './PostDesign';
 import {VideoPoster} from './VideoPoster';
+import {useInlineSlot} from './VideoStage';
 import {videoTime} from './youtube.mjs';
 import {useBackGesture} from './useBackGesture';
 import {engagement,formatCount} from './social.mjs';
@@ -32,7 +33,7 @@ export function PostCard({onWatch,post,user,onLike,onSave,onComments,onShare,onO
  return <article className="post" ref={cardRef} style={{'--post-accent':post.accent} as CSSProperties}>
  <header className="post-header"><button className="account-button" aria-label={`${post.account} profilini aç`} onClick={onAccount}><Avatar post={post}/><span><strong>{post.account}</strong><small>{post.category} <span>·</span> {post.minutes} dk</small></span></button><IconButton label="Kaynaklar ve görsel bilgisi" onClick={()=>setSources(true)}><MoreHorizontal size={22}/></IconButton></header>
  <div className="post-visual" onDoubleClick={doubleLike}>
- {post.display==='video'&&post.video?<VideoCard post={post} eager={eager} onWatch={onWatch}/>:post.display==='single'?<EditorialCover post={post} onOpen={()=>onOpen(0)}><Cover post={post} eager={eager}/></EditorialCover>:<Swiper modules={[Keyboard,A11y]} keyboard={{enabled:true,onlyInViewport:true}} onSlideChange={s=>setSlide(s.activeIndex)} nested touchAngle={35} resistanceRatio={.65}>
+ {post.display==='video'&&post.video?<FeedVideo post={post} eager={eager} onExpand={onWatch}/>:post.display==='single'?<EditorialCover post={post} onOpen={()=>onOpen(0)}><Cover post={post} eager={eager}/></EditorialCover>:<Swiper modules={[Keyboard,A11y]} keyboard={{enabled:true,onlyInViewport:true}} onSlideChange={s=>setSlide(s.activeIndex)} nested touchAngle={35} resistanceRatio={.65}>
  <SwiperSlide><EditorialCover post={post} onOpen={()=>onOpen(0)}><Cover post={post} eager={eager}/></EditorialCover></SwiperSlide>
  {post.slides.map((s,i)=><SwiperSlide key={i}><EditorialSlide post={post} slide={s} index={i}/></SwiperSlide>)}
  </Swiper>}
@@ -49,7 +50,13 @@ export function Reader({post,user,initialSlide,onWatch,onClose,onAnswer,onStory,
  return <Dialog title={post.account} onClose={onClose} wide><div className="reader" ref={ref}><button className="reader-account" onClick={onAccount} aria-label={`${post.account} profilini aç`}><Avatar post={post}/><strong>{post.account}</strong></button><div className="reader-toolbar">{post.display!=='video'&&<button className="reader-watch" onClick={onStory}><Play size={17}/> İzle</button>}<button onClick={onRead} aria-pressed={user.read.includes(post.id)}>{user.read.includes(post.id)?<Check size={17}/>:<BookOpen size={17}/>} {user.read.includes(post.id)?'Okundu':'Okudum'}</button><span/><IconButton label="Gönderiyi paylaş" onClick={onShare}><Send size={19}/></IconButton><IconButton label={user.saved.includes(post.id)?'Koleksiyonları düzenle':'Daha sonra okumak için kaydet'} active={user.saved.includes(post.id)} onClick={onSave}><Bookmark fill={user.saved.includes(post.id)?'currentColor':'none'}/></IconButton></div><div className="reader-cover">{post.display==='video'?<VideoCard post={post} eager onWatch={onWatch}/>:<EditorialCover post={post} onOpen={onStory}><Cover post={post} eager/></EditorialCover>}</div><div className="reader-body"><h1>{post.title}</h1><p className="reader-lead">{post.subtitle}</p>{(post.display!=='video'||post.slides.some(s=>s.text!==post.subtitle))&&<PostNarrative post={post} initialSlide={initialSlide}/>}{post.art?.kind==='diagram'&&<DiscoveryLab post={post}/>}{post.experiment&&<Experiment kind={post.experiment}/>}<Quiz post={post} answer={user.answers[post.id]} onAnswer={onAnswer}/>{post.display!=='video'&&<button className="primary-button" onClick={onStory}><Play size={17}/> Kısa anlatımı izle</button>}<Sources post={post}/></div></div></Dialog>;
 }
 
-/** A feed or reader video: a light poster. Playback happens full screen in Reels with the shared player. */
+/** A feed video: plays in place with the shared player once it is mostly in view. */
+export function FeedVideo({post,eager=false,onExpand}:{post:Post;eager?:boolean;onExpand:()=>void}){
+ const ref=useRef<HTMLDivElement>(null);useInlineSlot(ref,post,onExpand);
+ return <div ref={ref} className="feed-video"><button type="button" className="feed-video-open" aria-label={`${post.title} videosunu izle`} onClick={onExpand}><VideoPoster post={post} className="feed-video-poster" eager={eager}/><span className="feed-video-badge" aria-hidden="true"><Play size={13} fill="currentColor"/></span></button></div>;
+}
+
+/** A reader video: a light poster. Playback happens full screen in Reels with the shared player. */
 export function VideoCard({post,eager=false,onWatch}:{post:Post;eager?:boolean;onWatch:()=>void}){
  const video=post.video!;
  return <button type="button" className={`video-card ${video.orientation==='landscape'?'is-landscape':''}`} onClick={onWatch} aria-label={`${post.title} videosunu izle`}>

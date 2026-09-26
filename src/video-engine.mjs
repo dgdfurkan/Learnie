@@ -163,6 +163,16 @@ export class PlaybackEngine {
   this.emit();
  }
 
+ /** Tap on the video: pause or resume (the same state a long press uses). */
+ togglePause(){this.hold(!this.held);}
+
+ seek(seconds){
+  if(!this.id||!Number.isFinite(seconds))return;
+  try{this.player.seekTo(Math.max(0,seconds),true);}catch{}
+  rememberPosition(this.id,seconds,0);
+  if(this.active&&!this.held&&!this.needsTap&&this.status!=='playing')this.play();
+ }
+
  fail(message){this.status='error';this.error=message;this.deadline=0;this.needsTap=false;this.emit();}
 
  /** Poll at ~4 Hz: autoplay deadline, unmute verification and mute drift. */

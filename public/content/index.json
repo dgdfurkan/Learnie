@@ -304,7 +304,37 @@
   {
    "file": "reels-016.json",
    "title": "Kısa videolar · 16",
-   "count": 27
+   "count": 40
+  },
+  {
+   "file": "reels-017.json",
+   "title": "Kısa videolar · 17",
+   "count": 40
+  },
+  {
+   "file": "reels-018.json",
+   "title": "Kısa videolar · 18",
+   "count": 40
+  },
+  {
+   "file": "reels-019.json",
+   "title": "Kısa videolar · 19",
+   "count": 40
+  },
+  {
+   "file": "reels-020.json",
+   "title": "Kısa videolar · 20",
+   "count": 40
+  },
+  {
+   "file": "reels-021.json",
+   "title": "Kısa videolar · 21",
+   "count": 40
+  },
+  {
+   "file": "reels-022.json",
+   "title": "Kısa videolar · 22",
+   "count": 28
   }
  ]
 }

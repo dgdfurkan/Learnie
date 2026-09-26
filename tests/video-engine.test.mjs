@@ -103,3 +103,10 @@ test('WebKit starts muted until the frame is unlocked, then plays with sound',()
  e.stateChanged(PLAYING);assert.equal(e.unlocked,true);
  calls.length=0;e.select('w2',true);assert.deepEqual(calls,['unmute','load:w2']);
 });
+
+test('tap pauses and resumes; seeking moves the playhead without reloading',()=>{
+ const {p,e,calls}=harness();e.select('s',true);p.state=PLAYING;e.stateChanged(PLAYING);
+ e.togglePause();assert.equal(e.held,true);assert.equal(calls.at(-1),'pause');
+ e.togglePause();assert.equal(e.held,false);assert.equal(calls.at(-1),'play');
+ e.seek(12);assert.ok(calls.includes('seek:12'));assert.equal(calls.filter(c=>c.startsWith('load')).length,1);
+});
