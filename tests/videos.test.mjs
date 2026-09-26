@@ -34,3 +34,21 @@ test('new source expansion adds 200 videos from 50 actual channels, with at leas
  const byId=new Map(posts.map(p=>[p.id,p]));
  for(const a of sourcesAudit.videos){const p=byId.get(a.postId);assert.equal(p.video.publisherId,a.publisherId);assert.match(a.publisherId,/^UC[\w-]{22}$/);assert.equal(a.publisherUrl,'https://www.youtube.com/channel/'+a.publisherId);}
 });
+
+test('September 26 release: every new video is verified, captioned in Turkish and never reuses a source',()=>{
+ const release=JSON.parse(fs.readFileSync('docs/video-audit-2026-09-26.json','utf8'));
+ const fresh=posts.filter(p=>p.id.startsWith('reels-'));
+ assert.equal(fresh.length,release.videos.length);assert.equal(release.newVideoCount,fresh.length);
+ assert.ok(fresh.length>=400);
+ const earlier=new Set(releases.flatMap(r=>r.videos.map(a=>a.videoId)));
+ const byId=new Map(posts.map(p=>[p.id,p]));
+ for(const a of release.videos){
+  const p=byId.get(a.postId);assert.ok(p,a.postId);const v=p.video;
+  assert.ok(!earlier.has(a.videoId),`${a.videoId} was already published`);
+  assert.equal(v.url,a.videoId);assert.equal(v.duration,a.durationSeconds);assert.ok(v.duration>=12&&v.duration<=180);
+  assert.equal(a.playabilityStatus,'OK');assert.equal(a.playableInEmbed,true);assert.equal(a.availableInTurkey,true);
+  assert.equal(v.captionLanguage,'tr');assert.equal(v.captionKind,a.captionKind);assert.equal(v.publisherId,a.publisherId);
+  assert.equal(p.display,'video');assert.ok(p.subtitle.length<=300&&p.slides[0].text===p.subtitle);
+ }
+ assert.equal(new Set(release.publishers.map(p=>p.id)).size,release.newPublisherCount);
+});

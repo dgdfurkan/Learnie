@@ -1,4 +1,4 @@
-import {VideoPoster} from './VideoEmbed';
+import {VideoPoster} from './VideoPoster';
 import {useState,type CSSProperties,type ReactNode} from 'react';
 import {ArrowUpRight,ArrowRight,Plus,Play,Copy} from 'lucide-react';
 import {MotionScene} from './MotionScene';

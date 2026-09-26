@@ -1,20 +1,13 @@
 import {useEffect,useMemo,useRef,useState} from 'react';
 import {AbsoluteFill,Img,interpolate,useCurrentFrame,useVideoConfig} from 'remotion';
 import {Player,type PlayerRef} from '@remotion/player';
-import type {Swiper as SwiperInstance} from 'swiper';
-import {useBackGesture} from './useBackGesture';
-import {Swiper,SwiperSlide} from 'swiper/react';
-import {Virtual,Mousewheel,Keyboard,A11y} from 'swiper/modules';
-import {Bookmark,ChevronUp,ChevronDown,ChevronLeft,ChevronRight,Heart,Pause,Play,Send,X,BookOpen,Focus,Volume2,VolumeX,Music2,MessageCircle,Eye,EyeOff} from 'lucide-react';
-import VideoEmbed,{VideoPoster} from './VideoEmbed';
-import {engagement,formatCount,reelQueue} from './social.mjs';
+import {Bookmark,ChevronLeft,ChevronRight,Pause,Play,Send,X,Focus,Volume2,VolumeX,Music2} from 'lucide-react';
 import {Avatar,IconButton} from './components';
 import {FocusSettings,usePreferences,type Preferences} from './Preferences';
-import {createScenes,revealUnits,visibleUnitCount} from './preferences.mjs';
+import {createScenes,revealUnits,visibleUnitCount} from './preference-model.mjs';
 import {MotionScene} from './MotionScene';
 import {AmbientSound} from './audio';
-import {shuffle} from './engine.mjs';
-import type {Post,UserState} from './types';
+import type {Post} from './types';
 import SpeechSettings,{useTurkishVoices} from './SpeechSettings';
 import {chooseVoice,spokenUnitCount} from './narration.mjs';
 import {useNarration} from './useNarration';
@@ -60,22 +53,5 @@ export function FilmPlayer({post,active=true,story=false,onEnd,onClose,onSeen,on
  <div className="film-bottom" inert={panel}><div className="film-utilities"><IconButton label={soundEnabled?'Sesi kapat':'Sesi başlat'} active={soundEnabled} onClick={enableAudio}>{soundEnabled?<Volume2 size={19}/>:<VolumeX size={19}/>}</IconButton>{onSave&&<IconButton label={saved?'Koleksiyonları düzenle':'Daha sonra okumak için kaydet'} active={saved} onClick={onSave}><Bookmark size={19} fill={saved?'currentColor':'none'}/></IconButton>}{onShare&&<IconButton label="Anlatımı paylaş" onClick={onShare}><Send size={19}/></IconButton>}</div><div className="film-nav"><IconButton label="Önceki sahne" onClick={()=>seek(-1)}><ChevronLeft/></IconButton><span>{current+1} / {scenes.length}</span><IconButton label="Sonraki sahne" onClick={()=>seek(1)}><ChevronRight/></IconButton></div></div>
  {audioNote&&!panel&&<p className="film-audio-note" role="status">{audioNote}</p>}
  {panel&&<div ref={settingsRef} className="film-settings swiper-no-swiping swiper-no-mousewheel" role="region" aria-label="Anlatım ayarları" onKeyDown={e=>{if(e.key==='Escape'){e.preventDefault();e.stopPropagation();togglePanel();}}}><header><span><Focus size={18}/> Kendi ritminde</span><IconButton label="Anlatım ayarlarını kapat" onClick={togglePanel}><X size={20}/></IconButton></header><div className="film-settings-scroll"><FocusSettings compact/><div className="audio-settings"><h3>Biraz da ses</h3><label className="switch-row"><span><strong><Volume2 size={17}/> Türkçe seslendirme</strong><small>Yazı, konuşmayla birlikte ilerler.</small></span><input aria-label="Türkçe seslendirme" type="checkbox" role="switch" disabled={!voiced} checked={prefs.narration} onChange={e=>{setPrefs({narration:e.target.checked});setSoundEnabled(true);}}/></label><SpeechSettings compact/><label className="switch-row"><span><strong><Music2 size={17}/> Hafif müzik</strong></span><input aria-label="Hafif müzik" type="checkbox" role="switch" checked={prefs.music} onChange={e=>{setPrefs({music:e.target.checked});setSoundEnabled(true);}}/></label>{prefs.music&&<label className="setting-field"><span>Müzik seviyesi <output>%{prefs.musicVolume}</output></span><input aria-label="Müzik seviyesi" type="range" min="0" max="40" value={prefs.musicVolume} onChange={e=>setPrefs({musicVolume:Number(e.target.value)})}/></label>}<p className="preference-note">Kelime zamanlaması sunmayan seslerde metin cümle cümle takip edilir.</p></div>{audioNote&&<p className="preference-note" role="status">{audioNote}</p>}</div><button className="primary-button settings-done" onClick={()=>{setPanel(false);setPlaying(true);}}><Play size={16}/> Devam et</button></div>}
- </div>;
-}
-export default function Reels({posts,user,onLike,onSave,onShare,onOpen,onSeen,onClose,onComments,onAccount,visible=true,initialId}:{initialId?:string;posts:Post[];user:UserState;onLike:(id:string)=>void;onSave:(id:string)=>void;onShare:(p:Post)=>void;onOpen:(p:Post)=>void;onSeen:(id:string)=>void;onClose:()=>void;onComments:(p:Post)=>void;onAccount:(p:Post)=>void;visible?:boolean}){
- const reelsRef=useRef<HTMLDivElement>(null),swiper=useRef<SwiperInstance|null>(null),swipeStart=useRef<{x:number;y:number}|null>(null);useBackGesture(reelsRef,()=>{if(visible)onClose();});
- const [active,setActive]=useState(0),[clean,setClean]=useState(false);const [items,setItems]=useState(()=>reelQueue(posts,initialId));const current=items[active];
- const isVideo=current?.display==='video'&&!!current.video;
- const lastVideo=useRef<Post|undefined>(undefined);if(isVideo)lastVideo.current=current;
- return <div ref={reelsRef} className={`reels-view reels-v2 ${clean?'reels-clean':''}`} onKeyDown={e=>{if(e.key==='Escape'){e.preventDefault();if(clean)setClean(false);else onClose();}}}>
-  <header className="reels-toolbar"><button className="reels-back" aria-label="Reels akışını kapat" onClick={onClose}><ChevronLeft size={27}/></button>{!clean&&current&&<button className="reels-account" onClick={()=>onAccount(current)} aria-label={`${current.account} profilini aç`}><Avatar post={current}/><strong>{current.account}</strong></button>}<div className="clean-navigation"><button aria-label="Önceki video" disabled={active===0} onClick={()=>swiper.current?.slidePrev()}><ChevronUp size={21}/></button><button aria-label="Sonraki video" onClick={()=>swiper.current?.slideNext()}><ChevronDown size={21}/></button></div><button className="reels-clean-toggle" aria-label={clean?'Arayüzü göster':'Arayüzü gizle'} aria-pressed={clean} onClick={()=>setClean(v=>!v)}>{clean?<Eye size={22}/>:<EyeOff size={22}/>}</button></header>
-  <div className="reels-stage">
-  <Swiper onSwiper={s=>{swiper.current=s;}} direction="vertical" modules={[Virtual,Mousewheel,Keyboard,A11y]} virtual a11y={{scrollOnFocus:false}} mousewheel={{forceToAxis:true}} keyboard={{enabled:visible}} onSlideChange={s=>{setActive(s.activeIndex);if(items[s.activeIndex])onSeen(items[s.activeIndex].id);if(s.activeIndex>=items.length-3)setItems(v=>[...v,...shuffle(posts)]);}} className="reels-swiper">{items.map((p,i)=>{const counts=engagement(p,user),video=p.display==='video'&&p.video;return <SwiperSlide key={`${p.id}-${i}`} virtualIndex={i}><div className={`reel-shell ${video?'is-video':''}`} inert={i!==active}>
-   {Math.abs(active-i)<=1&&(video?<div className={`video-reel ${p.video?.orientation==='portrait'?'video-reel--portrait':''}`}><VideoPoster post={p} className="reel-loading-poster"/></div>:<FilmPlayer key={`${p.id}-${i}`} post={p} active={active===i&&visible} onAccount={()=>onAccount(p)}/>)}
-   {clean&&video&&<div className="reel-swipe-lane swiper-no-swiping" role="group" aria-label="Videolar arasında kaydırma alanı" onPointerDown={e=>{swipeStart.current={x:e.clientX,y:e.clientY};e.currentTarget.setPointerCapture(e.pointerId);}} onPointerUp={e=>{const start=swipeStart.current;swipeStart.current=null;if(!start)return;const dx=e.clientX-start.x,dy=e.clientY-start.y;if(Math.abs(dy)>45&&Math.abs(dy)>Math.abs(dx)*1.5){if(dy<0)swiper.current?.slideNext();else swiper.current?.slidePrev();}}} onPointerCancel={()=>{swipeStart.current=null;}}><i/></div>}
-   {!clean&&<div className="reel-actions" aria-label="Gönderi işlemleri"><IconButton label="Reels beğen" active={user.liked.includes(p.id)} onClick={()=>onLike(p.id)}><Heart fill={user.liked.includes(p.id)?'currentColor':'none'}/><span>{formatCount(counts.likes)}</span></IconButton><IconButton label="Reels yorumları" onClick={()=>onComments(p)}><MessageCircle/><span>{counts.comments||''}</span></IconButton><IconButton label="Reels paylaş" onClick={()=>onShare(p)}><Send/><span>{counts.shares?formatCount(counts.shares):''}</span></IconButton><IconButton label={user.saved.includes(p.id)?'Reels koleksiyonlarını düzenle':'Reels kaydet'} active={user.saved.includes(p.id)} onClick={()=>onSave(p.id)}><Bookmark fill={user.saved.includes(p.id)?'currentColor':'none'}/></IconButton><IconButton label="Anlatımı oku" onClick={()=>onOpen(p)}><BookOpen/></IconButton></div>}
-  </div></SwiperSlide>;})}</Swiper>
-  {lastVideo.current&&<div className="reels-video-dock" aria-hidden={!isVideo} inert={!isVideo}><VideoEmbed post={lastVideo.current} active={!!isVideo&&visible} immersive/></div>}
-  </div>
  </div>;
 }

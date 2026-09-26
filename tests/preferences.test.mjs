@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {defaultPreferences,normalizePreferences,createScenes,visibleUnitCount,revealUnits,splitPassages} from '../src/preferences.mjs';
+import {defaultPreferences,normalizePreferences,createScenes,visibleUnitCount,revealUnits,splitPassages} from '../src/preference-model.mjs';
 import {readAllContent} from '../scripts/validate-content.mjs';
 test('legacy or damaged settings receive safe defaults without losing valid preferences',()=>{assert.deepEqual(normalizePreferences(null),defaultPreferences);const p=normalizePreferences({theme:'dark',focus:true,wordSpeed:999,charSpeed:-1,musicVolume:Infinity,reveal:'unknown'});assert.equal(p.theme,'dark');assert.equal(p.focus,true);assert.equal(p.wordSpeed,360);assert.equal(p.charSpeed,5);assert.equal(p.musicVolume,18);assert.equal(p.reveal,'word');});
 test('progressive text preserves Turkish characters and every word',()=>{const text='İyi bir söz. 🌿 Şimdi düşün.';for(const mode of ['word','char'])assert.equal(revealUnits(text,mode).join(''),text);const p={...defaultPreferences,focus:true};assert.equal(visibleUnitCount(text,'word',0,p),0);assert.equal(visibleUnitCount(text,'word',48,p),4);assert.equal(visibleUnitCount(text,'word',99999,p),6);});

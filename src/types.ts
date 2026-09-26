@@ -14,5 +14,5 @@ export interface Post {
  comments:{name:string;text:string}[];
 }
 export interface Collection {id:string;name:string;postIds:string[];createdAt:string}
-export interface UserState {following:string[];collections:Collection[];read:string[];liked:string[];saved:string[];seen:string[];storySeen:string[];answers:Record<string,number>;comments:Record<string,{text:string;createdAt:string}[]>;name:string;simulation:boolean;}
+export interface UserState {following:string[];collections:Collection[];read:string[];liked:string[];saved:string[];seen:string[];storySeen:string[];answers:Record<string,number>;comments:Record<string,{text:string;createdAt:string}[]>;name:string;simulation:boolean;activity?:Record<string,number>;goal?:number;recalled?:string[];}
 export type View = 'feed'|'explore'|'reels'|'saved'|'profile';

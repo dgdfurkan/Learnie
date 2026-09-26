@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {rememberPosition,rememberedPosition,closestVisibleVideo} from '../src/playback.mjs';
 import {chooseVoice,turkishVoices,speechSegments,wordBoundaryEnd,spokenUnitCount} from '../src/narration.mjs';
 import {isBackSwipe} from '../src/gestures.mjs';
-import {normalizePreferences} from '../src/preferences.mjs';
+import {normalizePreferences} from '../src/preference-model.mjs';
 
 test('only one eligible video wins autoplay; covered and half-visible videos never win',()=>{
  const rows=[{id:'background',active:false,fraction:1,distance:0},{id:'next',active:true,fraction:.5,distance:0},{id:'visible',active:true,fraction:.9,distance:15},{id:'farther',active:true,fraction:.9,distance:160}];

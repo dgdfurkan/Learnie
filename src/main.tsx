@@ -3,9 +3,11 @@ import {createRoot} from 'react-dom/client';
 import App from './App';
 import AppBoundary from './AppBoundary';
 import {PreferencesProvider} from './Preferences';
+import {VideoStageProvider} from './VideoStage';
 import './styles.css';
-createRoot(document.getElementById('root')!).render(<React.StrictMode><AppBoundary><PreferencesProvider><App/></PreferencesProvider></AppBoundary></React.StrictMode>);
+createRoot(document.getElementById('root')!).render(<React.StrictMode><AppBoundary><PreferencesProvider><VideoStageProvider><App/></VideoStageProvider></PreferencesProvider></AppBoundary></React.StrictMode>);
 if('serviceWorker' in navigator && import.meta.env.PROD){window.addEventListener('load',()=>{navigator.serviceWorker.register(`${import.meta.env.BASE_URL}sw.js`,{scope:import.meta.env.BASE_URL}).catch(()=>{});});}
 import './refresh.css';
 
 import './reels-profile.css';
+import './experience.css';

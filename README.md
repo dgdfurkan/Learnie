@@ -19,13 +19,15 @@ Node.js 24 önerilir. Yayın dizini `dist/`, repo tabanı `/Learnie/`.
 - Her oturumda yeniden sıralanan, kategori çeşitliliği gözeten ve görülenleri hatırlayan sonsuz akış.
 - Dokunmatik kaydırmalı gönderiler (Swiper), hikâyeler ve Remotion Player ile kısa anlatımlar.
 - Sanallaştırılmış akış ve reels; ekranda olmayan anlatım oynatıcıları durur.
+- Tüm videolar için uygulama boyunca yaşayan tek bir oynatıcı (`src/VideoStage.tsx`, `src/video-engine.mjs`). Videolar sesli başlar; tarayıcı sesi engellerse sessiz devam eder. iOS'ta tek bir dokunuş videonun kendi çerçevesine iletilir ve o oturumdaki sonraki videolar sesli akar. Reels'te dokun: ses, basılı tut: durdur, çift dokun: beğen.
+- Öğrenme döngüsü: günlük hedef, seri, akış içinde hatırlama kartları ve Reels'te belirli aralıklarla mola kartı.
 - Beğeniler, kayıtlar, yanıtlar, görülen gönderiler ve kişisel yorumlar için cihazda IndexedDB / Dexie.
 - Keşfet, Türkçe arama, konu seçimi, okuma paneli, iki etkileşimli deney ve açıklamalı sorular.
 - Profilde kurgu sosyal etkileşim açıklaması ve bunları kapatma ayarı. Gerçek ortak yorum hizmeti yoktur.
 - JSON yedek indirme / geri yükleme.
 - PWA manifesti, build sırasında üretilen yükleme simgeleri, sürümlenmiş service worker ve çevrimdışı uygulama kabuğu.
 - Her gönderi için `/Learnie/p/<id>/` statik sayfası; Open Graph etiketleri ve kart numarasıyla paylaşım.
-- Kaynak, görsel kredisi ve kullanım bilgisini içeren 339 gönderi.
+- Kaynak, görsel kredisi ve kullanım bilgisini içeren 1.500'ü aşkın gönderi; bunların 1.100'den fazlası doğrulanmış Türkçe altyazılı kısa videodur (bkz. `docs/video-audit-*.json`).
 
 ## GitHub Pages
 
@@ -49,13 +51,16 @@ PWA yükleme, tarayıcı desteğine bağlıdır. iOS'ta Safari paylaş menüsü,
 
 - `src/App.tsx`: görünüm, akış, arama, paylaşım, yerel kullanıcı deneyimi.
 - `src/components.tsx`: gönderi, okuma, kaynak, yorum, deney ve soru bileşenleri.
-- `src/Film.tsx`: tembel yüklenen Remotion anlatımları ve dikey reels.
+- `src/Film.tsx`: tembel yüklenen Remotion anlatımları.
+- `src/Reels.tsx`: dikey Reels; video katmanı altta paylaşılan oynatıcıda oynar, jestler ve arayüz üstte kalır.
+- `src/VideoStage.tsx` ve `src/video-engine.mjs`: tek YouTube/video oynatıcısı; otomatik oynatma engeli, sessiz yedek ve iOS ses kilidi yönetimi.
+- `src/Learning.tsx` ve `src/learning-model.mjs`: günlük hedef, seri ve hatırlama kartları.
 - `src/engine.mjs`: karıştırma, benzersiz sıra, sabit etkileşim tohumu ve URL üretimi.
 - `src/data.ts`: içerik paketlerini okuma, yerel veritabanı ve yedek doğrulama.
 - `scripts/validate-content.mjs`: içerik şemasının ve benzersiz kimliklerin kontrolü.
 - `scripts/postbuild.mjs`: gönderi sayfaları, uygulama simgeleri ve service worker üretimi.
 
-İçerik havuzu tükenince akış devam eder. Görüntülenme öğrenme başarısı sayılmaz. Mevcut arşiv 339 gönderidir; 10.000 kayda yönelik test yalnızca sıra motorunun benzersizlik davranışını doğrular.
+İçerik havuzu tükenince akış devam eder. Görüntülenme öğrenme başarısı sayılmaz. Arşiv 1.500'ü aşkın gönderiden oluşur; 10.000 kayda yönelik test yalnızca sıra motorunun benzersizlik davranışını doğrular.
 
 ## Bağımlılık lisansları
 

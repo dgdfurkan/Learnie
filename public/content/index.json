@@ -1,230 +1,310 @@
 {
-  "version": 1,
-  "packs": [
-    {
-      "file": "starter-001.json",
-      "title": "İlk meraklar",
-      "count": 13
-    },
-    {
-      "file": "discoveries-002.json",
-      "title": "Oyundan gündelik hayata",
-      "count": 9
-    },
-    {
-      "file": "atlas-01-physics.json",
-      "title": "Fiziği etrafta yakala",
-      "count": 30
-    },
-    {
-      "file": "atlas-02-life.json",
-      "title": "Canlıların küçük sistemleri",
-      "count": 36
-    },
-    {
-      "file": "atlas-03-space.json",
-      "title": "Uzak dünyalar",
-      "count": 24
-    },
-    {
-      "file": "atlas-04-ocean.json",
-      "title": "Deniz kıyısından derinlere",
-      "count": 24
-    },
-    {
-      "file": "atlas-05-math.json",
-      "title": "Sayılara bir de böyle bak",
-      "count": 24
-    },
-    {
-      "file": "atlas-06-chemistry.json",
-      "title": "Gündelik kimya",
-      "count": 24
-    },
-    {
-      "file": "atlas-07-tech.json",
-      "title": "Teknolojinin içi",
-      "count": 24
-    },
-    {
-      "file": "atlas-08-history.json",
-      "title": "Geçmişin gündelik izleri",
-      "count": 24
-    },
-    {
-      "file": "atlas-09-mind.json",
-      "title": "Zihin ve düşünce",
-      "count": 24
-    },
-    {
-      "file": "atlas-10-culture.json",
-      "title": "Birlikte yaşamanın biçimleri",
-      "count": 18
-    },
-    {
-      "file": "atlas-11-art.json",
-      "title": "Atölyede ve müzede",
-      "count": 18
-    },
-    {
-      "file": "atlas-12-faith.json",
-      "title": "Metinlerin peşinde",
-      "count": 12
-    },
-    {
-      "file": "atlas-13-play-language.json",
-      "title": "Oyun, ses ve dil",
-      "count": 18
-    },
-    {
-      "file": "atlas-14-money-books.json",
-      "title": "Hesap ve hikâye",
-      "count": 9
-    },
-    {
-      "file": "field-and-screen-003.json",
-      "title": "Sahadan ve ekrandan",
-      "count": 8
-    },
-    {
-      "file": "short-videos-001.json",
-      "title": "Bir dakikada merak: bilim ve teknoloji",
-      "count": 20
-    },
-    {
-      "file": "short-videos-002.json",
-      "title": "Bir dakikada merak: gündelik sorular",
-      "count": 20
-    },
-    {
-      "file": "short-videos-003.json",
-      "title": "Bir dakikada merak: dünyadan sahneler",
-      "count": 20
-    },
-    {
-      "file": "short-videos-004.json",
-      "title": "Kısa keşifler: bilim ve gündelik merak",
-      "count": 20
-    },
-    {
-      "file": "short-videos-005.json",
-      "title": "Kısa keşifler: doğa, yaşam ve uzay",
-      "count": 20
-    },
-    {
-      "file": "short-videos-006.json",
-      "title": "Kısa keşifler: teknoloji ve kültür",
-      "count": 20
-    },
-    {
-      "file": "short-videos-007.json",
-      "title": "Kısa keşifler: sanat ve insan hikâyeleri",
-      "count": 20
-    },
-    {
-      "file": "short-videos-008.json",
-      "title": "Kısa keşifler: atölyeden arşive",
-      "count": 20
-    },
-    {
-      "file": "short-videos-009.json",
-      "title": "Kısa keşifler 9: belgeselden atölyeye",
-      "count": 20
-    },
-    {
-      "file": "short-videos-010.json",
-      "title": "Kısa keşifler 10: belgeselden atölyeye",
-      "count": 20
-    },
-    {
-      "file": "short-videos-011.json",
-      "title": "Kısa keşifler 11: belgeselden atölyeye",
-      "count": 20
-    },
-    {
-      "file": "short-videos-012.json",
-      "title": "Kısa keşifler 12: belgeselden atölyeye",
-      "count": 20
-    },
-    {
-      "file": "short-videos-013.json",
-      "title": "Kısa keşifler 13: belgeselden atölyeye",
-      "count": 20
-    },
-    {
-      "file": "short-videos-014.json",
-      "title": "Kısa keşifler 14: belgeselden atölyeye",
-      "count": 20
-    },
-    {
-      "file": "short-videos-015.json",
-      "title": "Kısa keşifler 15: belgeselden atölyeye",
-      "count": 20
-    },
-    {
-      "file": "short-videos-016.json",
-      "title": "Kısa keşifler 16: belgeselden atölyeye",
-      "count": 20
-    },
-    {
-      "file": "short-videos-017.json",
-      "title": "Kısa keşifler 17: belgeselden atölyeye",
-      "count": 20
-    },
-    {
-      "file": "short-videos-018.json",
-      "title": "Kısa keşifler 18: belgeselden atölyeye",
-      "count": 20
-    },
-    {
-      "file": "short-videos-019.json",
-      "title": "Kısa keşifler 19: yeni sesler, yeni konular",
-      "count": 20
-    },
-    {
-      "file": "short-videos-020.json",
-      "title": "Kısa keşifler 20: yeni sesler, yeni konular",
-      "count": 20
-    },
-    {
-      "file": "short-videos-021.json",
-      "title": "Kısa keşifler 21: yeni sesler, yeni konular",
-      "count": 20
-    },
-    {
-      "file": "short-videos-022.json",
-      "title": "Kısa keşifler 22: yeni sesler, yeni konular",
-      "count": 20
-    },
-    {
-      "file": "short-videos-023.json",
-      "title": "Kısa keşifler 23: yeni sesler, yeni konular",
-      "count": 20
-    },
-    {
-      "file": "short-videos-024.json",
-      "title": "Kısa keşifler 24: yeni sesler, yeni konular",
-      "count": 20
-    },
-    {
-      "file": "short-videos-025.json",
-      "title": "Kısa keşifler 25: yeni sesler, yeni konular",
-      "count": 20
-    },
-    {
-      "file": "short-videos-026.json",
-      "title": "Kısa keşifler 26: yeni sesler, yeni konular",
-      "count": 20
-    },
-    {
-      "file": "short-videos-027.json",
-      "title": "Kısa keşifler 27: yeni sesler, yeni konular",
-      "count": 20
-    },
-    {
-      "file": "short-videos-028.json",
-      "title": "Kısa keşifler 28: yeni sesler, yeni konular",
-      "count": 20
-    }
-  ]
+ "version": 1,
+ "packs": [
+  {
+   "file": "starter-001.json",
+   "title": "İlk meraklar",
+   "count": 13
+  },
+  {
+   "file": "discoveries-002.json",
+   "title": "Oyundan gündelik hayata",
+   "count": 9
+  },
+  {
+   "file": "atlas-01-physics.json",
+   "title": "Fiziği etrafta yakala",
+   "count": 30
+  },
+  {
+   "file": "atlas-02-life.json",
+   "title": "Canlıların küçük sistemleri",
+   "count": 36
+  },
+  {
+   "file": "atlas-03-space.json",
+   "title": "Uzak dünyalar",
+   "count": 24
+  },
+  {
+   "file": "atlas-04-ocean.json",
+   "title": "Deniz kıyısından derinlere",
+   "count": 24
+  },
+  {
+   "file": "atlas-05-math.json",
+   "title": "Sayılara bir de böyle bak",
+   "count": 24
+  },
+  {
+   "file": "atlas-06-chemistry.json",
+   "title": "Gündelik kimya",
+   "count": 24
+  },
+  {
+   "file": "atlas-07-tech.json",
+   "title": "Teknolojinin içi",
+   "count": 24
+  },
+  {
+   "file": "atlas-08-history.json",
+   "title": "Geçmişin gündelik izleri",
+   "count": 24
+  },
+  {
+   "file": "atlas-09-mind.json",
+   "title": "Zihin ve düşünce",
+   "count": 24
+  },
+  {
+   "file": "atlas-10-culture.json",
+   "title": "Birlikte yaşamanın biçimleri",
+   "count": 18
+  },
+  {
+   "file": "atlas-11-art.json",
+   "title": "Atölyede ve müzede",
+   "count": 18
+  },
+  {
+   "file": "atlas-12-faith.json",
+   "title": "Metinlerin peşinde",
+   "count": 12
+  },
+  {
+   "file": "atlas-13-play-language.json",
+   "title": "Oyun, ses ve dil",
+   "count": 18
+  },
+  {
+   "file": "atlas-14-money-books.json",
+   "title": "Hesap ve hikâye",
+   "count": 9
+  },
+  {
+   "file": "field-and-screen-003.json",
+   "title": "Sahadan ve ekrandan",
+   "count": 8
+  },
+  {
+   "file": "short-videos-001.json",
+   "title": "Bir dakikada merak: bilim ve teknoloji",
+   "count": 20
+  },
+  {
+   "file": "short-videos-002.json",
+   "title": "Bir dakikada merak: gündelik sorular",
+   "count": 20
+  },
+  {
+   "file": "short-videos-003.json",
+   "title": "Bir dakikada merak: dünyadan sahneler",
+   "count": 20
+  },
+  {
+   "file": "short-videos-004.json",
+   "title": "Kısa keşifler: bilim ve gündelik merak",
+   "count": 20
+  },
+  {
+   "file": "short-videos-005.json",
+   "title": "Kısa keşifler: doğa, yaşam ve uzay",
+   "count": 20
+  },
+  {
+   "file": "short-videos-006.json",
+   "title": "Kısa keşifler: teknoloji ve kültür",
+   "count": 20
+  },
+  {
+   "file": "short-videos-007.json",
+   "title": "Kısa keşifler: sanat ve insan hikâyeleri",
+   "count": 20
+  },
+  {
+   "file": "short-videos-008.json",
+   "title": "Kısa keşifler: atölyeden arşive",
+   "count": 20
+  },
+  {
+   "file": "short-videos-009.json",
+   "title": "Kısa keşifler 9: belgeselden atölyeye",
+   "count": 20
+  },
+  {
+   "file": "short-videos-010.json",
+   "title": "Kısa keşifler 10: belgeselden atölyeye",
+   "count": 20
+  },
+  {
+   "file": "short-videos-011.json",
+   "title": "Kısa keşifler 11: belgeselden atölyeye",
+   "count": 20
+  },
+  {
+   "file": "short-videos-012.json",
+   "title": "Kısa keşifler 12: belgeselden atölyeye",
+   "count": 20
+  },
+  {
+   "file": "short-videos-013.json",
+   "title": "Kısa keşifler 13: belgeselden atölyeye",
+   "count": 20
+  },
+  {
+   "file": "short-videos-014.json",
+   "title": "Kısa keşifler 14: belgeselden atölyeye",
+   "count": 20
+  },
+  {
+   "file": "short-videos-015.json",
+   "title": "Kısa keşifler 15: belgeselden atölyeye",
+   "count": 20
+  },
+  {
+   "file": "short-videos-016.json",
+   "title": "Kısa keşifler 16: belgeselden atölyeye",
+   "count": 20
+  },
+  {
+   "file": "short-videos-017.json",
+   "title": "Kısa keşifler 17: belgeselden atölyeye",
+   "count": 20
+  },
+  {
+   "file": "short-videos-018.json",
+   "title": "Kısa keşifler 18: belgeselden atölyeye",
+   "count": 20
+  },
+  {
+   "file": "short-videos-019.json",
+   "title": "Kısa keşifler 19: yeni sesler, yeni konular",
+   "count": 20
+  },
+  {
+   "file": "short-videos-020.json",
+   "title": "Kısa keşifler 20: yeni sesler, yeni konular",
+   "count": 20
+  },
+  {
+   "file": "short-videos-021.json",
+   "title": "Kısa keşifler 21: yeni sesler, yeni konular",
+   "count": 20
+  },
+  {
+   "file": "short-videos-022.json",
+   "title": "Kısa keşifler 22: yeni sesler, yeni konular",
+   "count": 20
+  },
+  {
+   "file": "short-videos-023.json",
+   "title": "Kısa keşifler 23: yeni sesler, yeni konular",
+   "count": 20
+  },
+  {
+   "file": "short-videos-024.json",
+   "title": "Kısa keşifler 24: yeni sesler, yeni konular",
+   "count": 20
+  },
+  {
+   "file": "short-videos-025.json",
+   "title": "Kısa keşifler 25: yeni sesler, yeni konular",
+   "count": 20
+  },
+  {
+   "file": "short-videos-026.json",
+   "title": "Kısa keşifler 26: yeni sesler, yeni konular",
+   "count": 20
+  },
+  {
+   "file": "short-videos-027.json",
+   "title": "Kısa keşifler 27: yeni sesler, yeni konular",
+   "count": 20
+  },
+  {
+   "file": "short-videos-028.json",
+   "title": "Kısa keşifler 28: yeni sesler, yeni konular",
+   "count": 20
+  },
+  {
+   "file": "reels-001.json",
+   "title": "Kısa videolar · 1",
+   "count": 40
+  },
+  {
+   "file": "reels-002.json",
+   "title": "Kısa videolar · 2",
+   "count": 40
+  },
+  {
+   "file": "reels-003.json",
+   "title": "Kısa videolar · 3",
+   "count": 40
+  },
+  {
+   "file": "reels-004.json",
+   "title": "Kısa videolar · 4",
+   "count": 40
+  },
+  {
+   "file": "reels-005.json",
+   "title": "Kısa videolar · 5",
+   "count": 40
+  },
+  {
+   "file": "reels-006.json",
+   "title": "Kısa videolar · 6",
+   "count": 40
+  },
+  {
+   "file": "reels-007.json",
+   "title": "Kısa videolar · 7",
+   "count": 40
+  },
+  {
+   "file": "reels-008.json",
+   "title": "Kısa videolar · 8",
+   "count": 40
+  },
+  {
+   "file": "reels-009.json",
+   "title": "Kısa videolar · 9",
+   "count": 40
+  },
+  {
+   "file": "reels-010.json",
+   "title": "Kısa videolar · 10",
+   "count": 40
+  },
+  {
+   "file": "reels-011.json",
+   "title": "Kısa videolar · 11",
+   "count": 40
+  },
+  {
+   "file": "reels-012.json",
+   "title": "Kısa videolar · 12",
+   "count": 40
+  },
+  {
+   "file": "reels-013.json",
+   "title": "Kısa videolar · 13",
+   "count": 40
+  },
+  {
+   "file": "reels-014.json",
+   "title": "Kısa videolar · 14",
+   "count": 40
+  },
+  {
+   "file": "reels-015.json",
+   "title": "Kısa videolar · 15",
+   "count": 40
+  },
+  {
+   "file": "reels-016.json",
+   "title": "Kısa videolar · 16",
+   "count": 27
+  }
+ ]
 }
